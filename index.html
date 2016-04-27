@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Retroarch Playlist Builder</title>
+	<meta http-equiv="content-Type" content="text/html; charset=UTF-8"/>
+	<meta name="description" content="This small web app allows you to generate a valid .lpl file with your favorite games for RetroArch." />
+	<meta name="keywords" content="retroarch, playlist, lpl, builder,generator" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"/>
+	<link rel="shortcut icon" href="retroarch-playlist-builder.png"/>
+	<link type="text/css" rel="stylesheet" href="../webapps.css" media="all"/>
+	<style type="text/css"><!--
+.app-icon{background-image:url(retroarch-playlist-builder.png)}
+
+#items{
+	list-style:none;
+	margin:0;
+	padding:0;
+	font-size:80%;
+	max-height:500px;
+	overflow-y:auto
+}
+#items li{border-bottom:1px solid #ddd;padding:0 10px}
+#items li:last-child{border-bottom:none}
+#items li:hover{background-color:#eee;cursor:pointer}
+#drop-message{
+	text-align:center;
+	font-size:120%;
+	font-weight:bold;
+	padding:30px;
+	border:2px dashed #ccc;
+	color:#ccc;
+	margin:10px 0
+}
+#row-items{display:none}
+
+.core{
+	background-color:#eee;
+	color:#666;
+	font-size:90%;
+	font-weight:bold;
+	text-transform:uppercase;
+	padding:2px 4px;
+	border-radius:3px;
+	margin-left:5px;
+}
+
+/* MarcDragAndDrop */
+#drop-overlay{
+	z-index:1000;
+	background-color:rgba(255, 255, 255, 0.9);color:black;
+	position:fixed;
+	top:0;left:0;
+	width:100%;height:100%;
+	box-shadow:0 0 0 4px #0b71e5 inset;
+	font:bold 35px sans-serif;
+	text-align:center;
+	text-shadow:white 0 0 4px;
+	opacity:0;
+	visibility:hidden;
+	transition:visibility .2s,opacity .2s
+}
+body.dragging-files #drop-overlay{visibility:visible;opacity:1}
+#drop-overlay span{
+	display:block;
+	position:relative;
+	top:45%;width:100%;
+	text-align:center;
+	font:bold 35px sans-serif;
+	color:black
+}
+
+/* MarcDialogs */
+.dialog-overlay,.dialog{visibility:hidden;opacity:0}
+.dialog-overlay.active,.dialog.active{visibility:visible;opacity:1;transition-delay:0s/* fixes fade-in/fade-out*/}
+
+.dialog-overlay{
+	transition:visibility 0s .35s, opacity .35s;
+
+	background-color:black;
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=75)";/* IE8 */
+	background-color:rgba(0,0,0,.75)
+}
+
+.dialog{
+	transform:translateY(-15px);
+	transition:visibility 0s .35s, opacity .35s ease-in, transform .35s ease-in;
+
+	text-align:center;
+	background-color:white;
+	padding:15px;
+	width:320px;
+	max-width:80%;
+	border-radius:4px;
+	box-shadow:black 0 0 10px;
+}
+.dialog.active{transform:translateY(0px)}
+
+
+	--></style>
+	<script type="text/javascript" src="./retroarch-playlist-builder.js"></script>
+
+	<!-- webapp -->
+	<meta name="theme-color" content="#4298c5"/>
+	<link rel="icon" sizes="128x128" href="retroarch-playlist-builder.png" />
+</head>
+
+<body>
+<div id="header">
+	<span class="app-icon"></span>
+	<h1>RetroArch Playlist Builder <small>v0.9.1</small></h1>
+	<div class="author">by <a href="/" target="_blank">Marc Robledo</a></div>
+</div>
+
+
+
+
+<div class="block block-notice center" id="block-notice">
+	This small web app allows you to generate a valid .lpl file with your favorite games for RetroArch.<br/>
+	It's still on WIP status, only a few cores are supported.<br/>
+	<input type="button" value="Close" class="button" onclick="document.body.removeChild(el('block-notice'))"/>
+</div>
+
+
+
+
+<div class="block">
+	<div class="row">
+		<div class="column column-3"><label for="select-corepath">Core path:</label></div>
+		<div class="column column-6 end">
+			<input type="radio" id="radio-corepath0" name="corepath" value=".\\cores\\%s_libretro.dll" onchange="customConfig.corePath=0;saveConfig()" checked><label for="radio-corepath0">Windows</label>
+			<input type="radio" id="radio-corepath1" name="corepath" value="/Applications/RetroArch.app/Contents/Resources/cores/%s_libretro.dylib" onchange="customConfig.corePath=1;saveConfig()"><label for="radio-corepath1">Mac</label>
+			<input type="radio" id="radio-corepath2" name="corepath" value="%s" onchange="customConfig.corePath=2;saveConfig()"><label for="radio-corepath2">Linux</label>
+
+		</div>
+	</div>
+
+	<div class="row">
+		<div class="column column-3"><label for="select-system">System:</label></div>
+		<div class="column column-3 end"><select id="select-system" class="select" onchange="changeSystem()"></select></div>
+	</div>
+
+	<div class="row">
+		<div class="column column-3"><label for="select-core">Core:</label></div>
+		<div class="column column-3 end"><select id="select-core" class="select"></select></div>
+	</div>
+
+	<div class="row">
+		<div class="column column-3"><label for="input-path">Path:</label></div>
+		<div class="column column-3 end"><input type="text" id="input-path" class="input" value="" onchange="changePath()"/></div>
+	</div>
+
+	<div id="drop-message">Drag and drop items here</div>
+	<div id="row-items" class="row">
+		<div class="column column-3">Items:</div>
+		<div class="column column-9 end"><ul id="items"></ul></div>
+	</div>
+
+
+
+	<div class="center">
+		<input type="button" class="button" value="Reset" onclick="resetItems()" />
+		<input type="button" class="button" value="Tweak" onclick="MarcDialogs.open('tweak')" />
+		<input type="button" class="button blue" value="Export playlist" onclick="exportAsFile()" />
+	</div>
+
+</div>
+
+<div id="dialog-tweak" class="dialog">
+	<input type="checkbox" id="checkbox-tweak0" /><label for="checkbox-tweak0">Clean GoodTools names</label><br/>
+	<input type="checkbox" id="checkbox-tweak1" /><label for="checkbox-tweak1">Remove dupes</label><br/>
+	<input type="checkbox" id="checkbox-tweak2" /><label for="checkbox-tweak2">Sort items</label>
+	<div class="center">
+		<input type="button" class="button" value="Cancel" onclick="MarcDialogs.close()" />
+		<input type="button" class="button" value="Accept" onclick="tweak()" />
+	</div>
+</div>
+
+<div id="dialog-info" class="dialog">
+	<b>File: </b><span id="span-info-file"></span><br/>
+	<b>Name: </b><span id="span-info-name"></span><br/>
+	<b>Core: </b><span id="span-info-core"></span><br/>
+	<b>Core name: </b><span id="span-info-corename"></span><br/>
+	<b>CRC: </b><span id="span-info-crc"></span><br/>
+	<b>Last line: </b><span id="span-info-lastline"></span>
+	<div class="center">
+		<input type="button" class="button" value="Accept" onclick="tweak()" />
+	</div>
+</div>
+<a id="contribute" href="https://www.paypal.me/marcrobledo/3" target="_blank" rel="nofollow">Feel free to contribute by making a donation! <span class="donate">Donate</a>
+
+
+
+
+</body></html>
