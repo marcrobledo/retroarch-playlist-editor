@@ -44,58 +44,6 @@
 	margin-left:5px;
 }
 
-/* MarcDragAndDrop */
-#drop-overlay{
-	z-index:1000;
-	background-color:rgba(255, 255, 255, 0.9);color:black;
-	position:fixed;
-	top:0;left:0;
-	width:100%;height:100%;
-	box-shadow:0 0 0 4px #0b71e5 inset;
-	font:bold 35px sans-serif;
-	text-align:center;
-	text-shadow:white 0 0 4px;
-	opacity:0;
-	visibility:hidden;
-	transition:visibility .2s,opacity .2s
-}
-body.dragging-files #drop-overlay{visibility:visible;opacity:1}
-#drop-overlay span{
-	display:block;
-	position:relative;
-	top:45%;width:100%;
-	text-align:center;
-	font:bold 35px sans-serif;
-	color:black
-}
-
-/* MarcDialogs */
-.dialog-overlay,.dialog{visibility:hidden;opacity:0}
-.dialog-overlay.active,.dialog.active{visibility:visible;opacity:1;transition-delay:0s/* fixes fade-in/fade-out*/}
-
-.dialog-overlay{
-	transition:visibility 0s .35s, opacity .35s;
-
-	background-color:black;
-	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=75)";/* IE8 */
-	background-color:rgba(0,0,0,.75)
-}
-
-.dialog{
-	transform:translateY(-15px);
-	transition:visibility 0s .35s, opacity .35s ease-in, transform .35s ease-in;
-
-	text-align:center;
-	background-color:white;
-	padding:15px;
-	width:320px;
-	max-width:80%;
-	border-radius:4px;
-	box-shadow:black 0 0 10px;
-}
-.dialog.active{transform:translateY(0px)}
-
-
 	--></style>
 	<script type="text/javascript" src="./retroarch-playlist-builder.js"></script>
 
@@ -107,17 +55,17 @@ body.dragging-files #drop-overlay{visibility:visible;opacity:1}
 <body>
 <div id="header">
 	<span class="app-icon"></span>
-	<h1>RetroArch Playlist Builder <small>v0.9.1</small></h1>
+	<h1>RetroArch Playlist Builder <small>v0.9.2</small></h1>
 	<div class="author">by <a href="/" target="_blank">Marc Robledo</a></div>
 </div>
 
 
 
 
-<div class="block block-notice center" id="block-notice">
+<div class="block block-notice center open" id="block-notice">
 	This small web app allows you to generate a valid .lpl file with your favorite games for RetroArch.<br/>
 	It's still on WIP status, only a few cores are supported.<br/>
-	<input type="button" value="Close" class="button" onclick="document.body.removeChild(el('block-notice'))"/>
+	<input type="button" value="Close" class="button" onclick="closeBlock('notice')"/>
 </div>
 
 
@@ -127,7 +75,7 @@ body.dragging-files #drop-overlay{visibility:visible;opacity:1}
 	<div class="row">
 		<div class="column column-3"><label for="select-corepath">Core path:</label></div>
 		<div class="column column-6 end">
-			<input type="radio" id="radio-corepath0" name="corepath" value=".\\cores\\%s_libretro.dll" onchange="customConfig.corePath=0;saveConfig()" checked><label for="radio-corepath0">Windows</label>
+			<input type="radio" id="radio-corepath0" name="corepath" value=".\cores\%s_libretro.dll" onchange="customConfig.corePath=0;saveConfig()" checked><label for="radio-corepath0">Windows</label>
 			<input type="radio" id="radio-corepath1" name="corepath" value="/Applications/RetroArch.app/Contents/Resources/cores/%s_libretro.dylib" onchange="customConfig.corePath=1;saveConfig()"><label for="radio-corepath1">Mac</label>
 			<input type="radio" id="radio-corepath2" name="corepath" value="%s" onchange="customConfig.corePath=2;saveConfig()"><label for="radio-corepath2">Linux</label>
 
@@ -175,18 +123,32 @@ body.dragging-files #drop-overlay{visibility:visible;opacity:1}
 	</div>
 </div>
 
-<div id="dialog-info" class="dialog">
-	<b>File: </b><span id="span-info-file"></span><br/>
-	<b>Name: </b><span id="span-info-name"></span><br/>
-	<b>Core: </b><span id="span-info-core"></span><br/>
-	<b>Core name: </b><span id="span-info-corename"></span><br/>
-	<b>CRC: </b><span id="span-info-crc"></span><br/>
-	<b>Last line: </b><span id="span-info-lastline"></span>
+<div id="dialog-info" style="min-width:500px;max-width:90%" class="dialog">
+	<div class="row">
+		<div class="column column-3"><b>File: </b></div>
+		<div class="column column-9 end"><span id="span-info-file" class="text-ellipsis"></span></div>
+	</div>
+	<div class="row">
+		<div class="column column-3"><b>Name: </b></div>
+		<div class="column column-9 end"><span id="span-info-name" class="text-ellipsis"></span></div>
+	</div>
+	<div class="row">
+		<div class="column column-3"><b>Core: </b></div>
+		<div class="column column-9 end"><span id="span-info-core" class="text-ellipsis"></span></div>
+	</div>
+	<div class="row">
+		<div class="column column-3"><b>Core name: </b></div>
+		<div class="column column-9 end"><span id="span-info-corename" class="text-ellipsis"></span></div>
+	</div>
+	<div class="row">
+		<div class="column column-3"><b>Core CRC: </b></div>
+		<div class="column column-9 end"><span id="span-info-crc" class="text-ellipsis"></span></div>
+	</div>
 	<div class="center">
 		<input type="button" class="button" value="Accept" onclick="tweak()" />
 	</div>
 </div>
-<a id="contribute" href="https://www.paypal.me/marcrobledo/3" target="_blank" rel="nofollow">Feel free to contribute by making a donation! <span class="donate">Donate</a>
+<a id="contribute" href="https://www.paypal.me/marcrobledo/3" target="_blank" rel="nofollow">Feel free to contribute by making a donation! <span class="donate">Donate</span></a>
 
 
 
