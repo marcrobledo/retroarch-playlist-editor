@@ -205,14 +205,12 @@ function openDialogAddContent(){
 	el('input-file').click();
 }
 function readFiles(droppedFiles){
-	el('form').reset();
 	editingContent=[];
 	var openPathDialog=false;
 	for(var i=0; i<droppedFiles.length; i++){
 		if(/\.lpl$/.test(droppedFiles[i].name)){ /* read lpl playlist */
 			el('input-playlist-name').value=droppedFiles[i].name.replace('.lpl','');
 			fr.readAsText(droppedFiles[i]);
-			console.log('lpl');
 			break;
 		}else{
 			for(var j=0; j<CORES.length; j++){
@@ -244,6 +242,7 @@ function readFiles(droppedFiles){
 		openDialogSetContentPath();
 	}
 	refreshItems();
+	el('form').reset();
 }
 
 
