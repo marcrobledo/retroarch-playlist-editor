@@ -21,8 +21,18 @@ span.icon{
 	width:16px;
 	height:16px;
 	vertical-align:middle;
-	background-color:#aaa
+	background-image:url('icons.png');
+	background-size: 160px 16px;
 }
+.icon.donate{background-position: -16px}
+.icon.new{background-position: -32px}
+.icon.add{background-position: -48px}
+.icon.save{background-position: -64px}
+.icon.tweak{background-position: -80px}
+.icon.settings{background-position: -96px}
+.icon.folder{background-position: -112px}
+.icon.trash{background-position: -128px}
+.icon.check{background-position: -144px}
 
 
 button,input{
@@ -60,7 +70,7 @@ h1{
 	padding:12px 20px;
 	font-size:135%;
 	font-weight:normal;
-	background-color:#2663d2;
+	background-color:#3165c6;
 	color:white;
 }
 h1 small{
@@ -87,15 +97,27 @@ h2 a{
 	border:none;
 	padding: 10px 20px;
 	border-radius: 3px;
-	background-color:#1a59ca;
+	background-color:#2b59ad;
+}
+.h2-button:hover{
+	background-color:#284e93;
 }
 .h2-button.donate{
-	background-color:#5891f9;
+	background-color:#31c65f;
+}
+.h2-button.donate:hover{
+	background-color:#1eba4e;
 }
 #toolbar{
-	background-color:white;
+	background-color:#fafafa;
 	color:#626569;
 	padding: 4px 20px;
+}
+#toolbar button{
+	background-color:#fafafa
+}
+#toolbar button:hover{
+	background-color:#ebebeb
 }
 
 #warning-core-path{

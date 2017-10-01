@@ -14,7 +14,7 @@
 
 <!-- HEADER -->
 <div id="topbar">
-	<h1><img src="icon.png" id="icon"/> RetroArch Playlist Editor <small>v0.9</small></h1>
+	<h1><img src="icon.png" id="icon"/> RetroArch Playlist Editor <small>v1.0</small></h1>
 	<h2>
 		by <a href="/" class="author">Marc Robledo</a>
 		<a href="https://github.com/marcrobledo/retroarch-playlist-editor/" target="_blank" class="h2-button github"><span class="icon github"></span> See on GitHub</a>
@@ -34,9 +34,9 @@
 			<div class="six columns text-right hidden" id="toolbar-right">
 				<span id="selected-elements">0</span> elements selected
 				<hr/>
-				<button onclick="editingContent=getSelectedItems();openDialogSetContentPath()">Set content path</button>
+				<button onclick="editingContent=getSelectedItems();openDialogSetContentPath()"><span class="icon folder"></span> Set content path</button>
 				<button onclick="editingContent=getSelectedItems();openDialogSetCore()">Set core</button>
-				<button onclick="editingContent=getSelectedItems();removeContent()"><span class="icon remove"></span> Remove</button>
+				<button onclick="editingContent=getSelectedItems();removeContent()"><span class="icon trash"></span> Remove</button>
 			</div>
 		</div>
 

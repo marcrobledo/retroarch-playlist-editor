@@ -1,9 +1,10 @@
 CACHE MANIFEST
-# last update 20170930a
+# last update 20171001
 #CACHE:
 index.html
 favicon.png
 icon.png
+icons.png
 retroarch-playlist-editor.css
 retroarch-playlist-editor.js
 retroarch-playlist-editor.png

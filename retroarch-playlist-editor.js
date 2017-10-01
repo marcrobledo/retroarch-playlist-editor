@@ -1,6 +1,7 @@
-/* retroarch-playlist-builder.js v20170930 - Marc Robledo 2016-2017 - http://www.marcrobledo.com/license */
+/* retroarch-playlist-builder.js v20171001 - Marc Robledo 2016-2017 - http://www.marcrobledo.com/license */
 
 /* CORES */
+/* to-do: add the rest of cores */
 var CORES=[
 	{id:'DETECT',				name:'DETECT',									extensions:/\.(zip|7z|bin|cue|iso|nds)$/i},
 	{id:'stella',				name:'Atari 2600 (Stella)',						extensions:/\.a26$/i},
@@ -10,12 +11,12 @@ var CORES=[
 	{id:'hatari',				name:'Atari ST/STE/TT/Falcon (Hatari)',			extensions:/\.(st|msa|stx|dim|ipf)$/i},
 	{id:'fceumm',				name:'Nintendo NES (FCEUmm)',					extensions:/\.(nes|fds)$/i},
 	{id:'snes9x',				name:'Nintendo SNES (Snes9x)',					extensions:/\.(smc|sfc|fig)$/i},
-	{id:'mednafen_vb',			name:'Nintendo VB (Mednafen/Beetle VB)',		extensions:/\.vb$/i},
-	{id:'mupen64plus',			name:'Nintendo 64 (Mupen64Plus)',				extensions:/\.(z64|v64|n64|rom)$/i},
+	{id:'mednafen_vb',			name:'Nintendo VB (Beetle VB)',					extensions:/\.vb$/i},
+	{id:'mupen64plus',			name:'Nintendo 64 (Mupen64Plus OpenGL)',		extensions:/\.(z64|v64|n64|rom)$/i},
 	{id:'gambatte',				name:'Nintendo GB/GBC (Gambatte)',				extensions:/\.(gb|gbc)$/i},
 	{id:'mgba',					name:'Nintendo GBA (mGBA)',						extensions:/\.gba$/i},
 	{id:'genesis_plus_gx',		name:'Sega MS/GG/MD/CD (Genesis Plus GX)',		extensions:/\.(md|smd|sms|gg)$/i},
-	{id:'mednafen_ngp',			name:'SNK NGP/NGPC (Mednafen/Beetle NeoPop)',	extensions:/\.(ngc|ngp|bgpc)$/i},
+	{id:'mednafen_ngp',			name:'SNK NGP/NGPC (Beetle NeoPop)',			extensions:/\.(ngc|ngp|bgpc)$/i},
 	{id:'mednafen_pce_fast',	name:'PC Engine (Mednafen/Beetle PCE Fast)',	extensions:/\.pce$/i},
 	{id:'bluemsx',				name:'MSX/SVI/ColecoVision/SG-1000 (blueMSX)',	extensions:/\.(ri|mx1|mx2|col|dsk|cas|sg|sc)$/i}
 ];
@@ -83,12 +84,12 @@ function getSelectedItems(){
 /* save settings */
 var appSettings={corePath:DEFAULT_COREPATHS.win};
 function saveSettings(){
-	/*if(localStorage){
+	if(localStorage){
 		if(appSettings.corePath.indexOf('%s')<0)
 			appSettings.corePath+='%s';
 
 		localStorage.setItem('appSettings',JSON.stringify(appSettings));
-	}*/
+	}
 }
 
 
@@ -218,13 +219,13 @@ function readFiles(droppedFiles){
 					var fileName=droppedFiles[i].name;
 
 					var newContent={
-						filePath:'',
+						filePath:el('input-content-path').value,
 						fileName:fileName,
 						compressed:false,
 						name:fileName.replace(/\.\w+$/i,''),
 						core:CORES[j].id,
 						coreName:CORES[j].name,
-						crc:'0'
+						crc:false
 					}
 					content.push(newContent);
 					editingContent.push(newContent);
@@ -393,8 +394,11 @@ fr.onload=function(e){
 
 		if(!guessedCorePath && lines[i+2]!=='DETECT'){
 			var newCorePath=guessCorePathFrom(lines[i+2]);
+			console.log(newCorePath);
 			if(newCorePath){
 				appSettings.corePath=newCorePath;
+				el('input-core-path').value=newCorePath;
+				saveSettings();
 				guessedCorePath=true;
 			}
 		}
@@ -412,8 +416,8 @@ fr.onload=function(e){
 /* initialize everything! */
 addEvent(window,'load',function(){
 	/* load config */
-	//if(localStorage && localStorage.appSettings)
-	//	appSettings=JSON.parse(localStorage.appSettings)
+	if(localStorage && localStorage.appSettings)
+		appSettings=JSON.parse(localStorage.appSettings)
 	el('input-core-path').value=appSettings.corePath;
 
 	if(appSettings.tweaks)
