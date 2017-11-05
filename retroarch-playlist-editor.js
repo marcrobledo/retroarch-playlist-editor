@@ -1,9 +1,12 @@
-/* retroarch-playlist-builder.js v20171001 - Marc Robledo 2016-2017 - http://www.marcrobledo.com/license */
+/* retroarch-playlist-builder.js v20171105 - Marc Robledo 2016-2017 - http://www.marcrobledo.com/license */
 
 /* CORES */
 /* to-do: add the rest of cores */
 var CORES=[
 	{id:'DETECT',				name:'DETECT',									extensions:/\.(zip|7z|bin|cue|iso|nds)$/i},
+	{id:'fbalpha2012',			name:'FB Alpha 2012',							extensions:/\.zip$/i},
+	{id:'mame2003',				name:'MAME 2003 (0.78)',						extensions:/\.zip$/i},
+	{id:'mame2010',				name:'MAME 2010 (0.139)',						extensions:/\.zip$/i},
 	{id:'stella',				name:'Atari 2600 (Stella)',						extensions:/\.a26$/i},
 	{id:'prosystem',			name:'Atari 7800 (ProSystem)',					extensions:/\.a78$/i},
 	{id:'mednafen_lynx',		name:'Atari Lynx (Mednafen/LYNX)',				extensions:/\.lnx$/i},
