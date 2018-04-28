@@ -20,6 +20,7 @@ var CORES=[
 	{id:'mgba',					name:'Nintendo GBA (mGBA)',						extensions:/\.gba$/i},
 	{id:'genesis_plus_gx',		name:'Sega MS/GG/MD/CD (Genesis Plus GX)',		extensions:/\.(md|smd|sms|gg)$/i},
 	{id:'mednafen_ngp',			name:'SNK NGP/NGPC (Beetle NeoPop)',			extensions:/\.(ngc|ngp|bgpc)$/i},
+	{id:'dolphin',			name:'Nintendo - GameCube / Wii (Dolphin)',			extensions:/\.(gcm|iso|wbfs|ciso|gcz|elf|dol|dff|tgc|wad)$/i},
 	{id:'mednafen_pce_fast',	name:'PC Engine (Mednafen/Beetle PCE Fast)',	extensions:/\.pce$/i},
 	{id:'bluemsx',				name:'MSX/SVI/ColecoVision/SG-1000 (blueMSX)',	extensions:/\.(ri|mx1|mx2|col|dsk|cas|sg|sc)$/i}
 ];
