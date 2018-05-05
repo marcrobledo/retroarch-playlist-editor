@@ -342,7 +342,7 @@ function readFiles(droppedFiles){
 		}else if(/\.rdb$/.test(droppedFiles[i].name)){ /* read rdb database */
 			parseMode='rdb';
 			fr.readAsArrayBuffer(droppedFiles[i]);
-			currentPlaylist.setName('.rdb',''));
+			currentPlaylist.setName('.rdb','');
 			break;
 		}else{
 			if(/\.(zip|gb|gbc|smd|gen|sfc|nes|3ds|nds|sms|gg|7z|iso|cue|chd)$/.test(droppedFiles[i].name)){ /* add items */
