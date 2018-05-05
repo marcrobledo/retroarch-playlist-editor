@@ -25,17 +25,15 @@ span.icon{
 	height:16px;
 	vertical-align:middle;
 	background-image:url('icons.png');
-	background-size: 160px 16px;
+	background-size: 128px 16px;
 }
 .icon.donate{background-position: -16px}
-.icon.new{background-position: -32px}
-.icon.add{background-position: -48px}
-.icon.save{background-position: -64px}
-.icon.edit{background-position: -80px}
-.icon.settings{background-position: -96px}
-.icon.folder{background-position: -112px}
-.icon.trash{background-position: -128px}
-.icon.check{background-position: -144px}
+.icon.select{background-position: -32px}
+.icon.selectall{background-position: -48px}
+.icon.add{background-position: -64px}
+.icon.save{background-position: -80px}
+.icon.edit{background-position: -96px}
+.icon.trash{background-position: -112px}
 
 
 button,input,select{
@@ -221,28 +219,27 @@ tbody small{opacity:.6}
 
 /* MarcDragAndDrop */
 #drop-overlay{
-	z-index: 1000;
-	background-color: rgba(255, 255, 255, 0.9); color: black;
+	z-index: 9000;
+	background: white; /* Old browsers */
+	background: radial-gradient(ellipse at center, #fff 0%,transparent 70%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 	position: fixed;
 	top: 0; left: 0;
 	width: 100%; height: 100%;
-	box-shadow: 0 0 0 4px #0b71e5 inset;
-	font: bold 35px sans-serif;
+	padding:50px 0;
+	font-size:22px;
 	text-align: center;
-	text-shadow: white 0 0 4px;
+	text-shadow: white 0 0 8px;
 	opacity:0;
 	visibility:hidden;
 	transition: visibility .2s,opacity .2s;
 }
-body.dragging-files #drop-overlay{visibility:visible;opacity:1;}
-#drop-overlay span{
-	display: block;
-	position: relative;
-	top:45%;width: 100%;
-	text-align: center;
-	font: bold 35px sans-serif;
-	color:black;
+#drop-overlay:before{
+	content:"";
+	display:block;
+	height:40%
 }
+body.dragging-files #drop-overlay{visibility:visible;opacity:1;}
+body.dragging-files #drop-message{visibility:hidden !important}
 
 
 /* ballons */

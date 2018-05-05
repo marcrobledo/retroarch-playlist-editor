@@ -1,4 +1,4 @@
-/* retroarch-playlist-editor.js v20180504 - Marc Robledo 2016-2018 - http://www.marcrobledo.com/license */
+/* retroarch-playlist-editor.js v20180505 - Marc Robledo 2016-2018 - http://www.marcrobledo.com/license */
 
 
 /* shortcuts */
@@ -29,10 +29,10 @@ Playlist.prototype.setName=function(newName){
 	el('input-playlist-name').value=newName;
 }
 Playlist.prototype.addContent=function(newContent){
+	/* check dupes */
 	for(var i=0;i<this.content.length;i++){
 		if(this.content[i].file==newContent.file){
-			this.content[i].crc=content[i].crc || newContent.crc;
-			this.content[i].tr.children[4].innerHTML=this.content[i] || '-';
+			this.content[i].setCrc(this.content[i].crc || newContent.crc)
 			return false;
 		}
 	}
@@ -103,8 +103,11 @@ Playlist.prototype._refreshSelectedContent=function(){
 		}
 		el('input-content-path').value=this.selectedContent[0].path;
 
+		
+		el('button-selectall').children[0].className=(this.content.length===this.selectedContent.length)?'icon selectall':'icon select';
 	}else{
 		el('toolbar-right').style.display='none'
+		el('button-selectall').children[0].className='icon select';
 	}
 	resizeWindow();
 }
@@ -241,7 +244,10 @@ function Content(name, filePath, core, crc){
 	this._refreshCrc();
 }
 Content.prototype.toString=function(){
-	var str=this.path+this.file+'\n';
+	var str=this.path+this.file;
+	if(this.compressed)
+		str+='#'+this.compressed;
+	str+=+'\n';
 	str+=this.name+'\n';
 	if(this.core && el('select-core-path').selectedIndex>0){
 		str+=el('select-core-path').value.replace('*', this.core)+'\n';
@@ -331,8 +337,9 @@ function openImportBrowser(){
 	el('input-file').click();
 }
 function readFiles(droppedFiles){
-	currentPlaylist.selectedContent=[];
+	currentPlaylist.deselectAll();
 
+	var newContent=[];
 	for(var i=0; i<droppedFiles.length; i++){
 		if(/\.lpl$/.test(droppedFiles[i].name)){ /* read lpl playlist */
 			parseMode='lpl';
@@ -344,21 +351,22 @@ function readFiles(droppedFiles){
 			fr.readAsArrayBuffer(droppedFiles[i]);
 			currentPlaylist.setName(droppedFiles[i].name.replace('.rdb',''));
 			break;
-		}else{
-			if(/\.(zip|gb|gbc|smd|gen|sfc|nes|3ds|nds|sms|gg|7z|iso|cue|chd)$/.test(droppedFiles[i].name)){ /* add items */
-				var fileName=droppedFiles[i].name;
-				currentPlaylist.addContent(new Content(fileName.replace(/\.\w+$/i,''), el('input-content-path').value+fileName, false, false));
-				//currentPlaylist.selectedContent.push(newContent);
-			}
+		}else if(!/\.(jpe?g|png|gif|srm|sav|flash|txt|html?|css|js)$/.test(droppedFiles[i].name)){ /* add items */
+			var fileName=droppedFiles[i].name;
+			newContent.push(new Content(fileName.replace(/\.\w+$/i,''), el('input-content-path').value+fileName, false, false));
+			currentPlaylist.addContent(newContent[newContent.length-1]);
 			currentPlaylist.unsavedChanges=true;
 		}
-
 	}
 
-	//if(newPlaylist){
-		//currentPlaylist.selectAll();
-		//focus content path input
-	//}
+	if(newContent.length){
+		currentPlaylist.sortContent();
+		/*for(var i=0; i<newContent.length; i++){
+			currentPlaylist.selectContent(newContent[i]);
+		}
+		openEditBalloon(true);*/
+		refreshDropMessage();
+	}
 
 	el('form').reset();
 }
@@ -532,6 +540,7 @@ function parsePlaylistFile(string){
 		}
 		currentPlaylist.addContent(new Content(tweakName(name), filePath, core, crc));
 	}
+	el('input-content-path').value=currentPlaylist.content[currentPlaylist.content.length-1].path;
 	refreshDropMessage();
 }
 
@@ -556,6 +565,9 @@ function setCorePath(corePath){
 	}
 	if(settings.selectedCorePath!==corePath)
 		settings.selectedCorePath=corePath;
+	else
+		el('select-core-path').value=corePath;
+
 	
 	if(corePath==='DETECT'){
 		el('core-path-message').innerHTML='Warning: all content will be set to DETECT core.';
@@ -638,35 +650,12 @@ addEvent(window,'load',function(){
 
 
 
-	/* add drag and drop zone */
-	MarcDragAndDrop.addGlobalZone(readFiles, 'Drop content here');
-
+	document.body.appendChild(DragAndDropZone);
 	addEvent(window, 'resize', resizeWindow);
 	resizeWindow();
 
 	addEvent(window, 'keydown', function(evt){
-		if(evt.shiftKey && lastClickedContent && currentPlaylist.selectedContent){
-			var firstIndex=currentPlaylist.content.indexOf(currentPlaylist.selectedContent[0]);
-			var oldIndex=currentPlaylist.content.indexOf(lastClickedContent);
-			if(evt.keyCode===38 && oldIndex>0){
-				if(currentPlaylist.selectedContent.length!==1 && oldIndex>firstIndex){
-					currentPlaylist.toggleSelectedContent(lastClickedContent);
-					lastClickedContent=currentPlaylist.selectedContent[currentPlaylist.selectedContent.length-1];
-				}else{
-					lastClickedContent=currentPlaylist.content[oldIndex-1];
-					currentPlaylist.toggleSelectedContent(lastClickedContent);
-				}
-			}else if(evt.keyCode===40 && oldIndex<currentPlaylist.content.length){
-				if(currentPlaylist.selectedContent.length!==1 && oldIndex<firstIndex){
-					currentPlaylist.toggleSelectedContent(lastClickedContent);
-					lastClickedContent=currentPlaylist.selectedContent[currentPlaylist.selectedContent.length-1];
-				}else{
-					lastClickedContent=currentPlaylist.content[oldIndex+1];
-					currentPlaylist.toggleSelectedContent(lastClickedContent);
-				}
-			}
-			preventDefault(evt);
-		}else if(evt.keyCode===27){
+		if(evt.keyCode===27){
 			if(isBalloonOpen('save')){
 				closeBalloon('save');
 			}else if(isBalloonOpen('edit')){
@@ -679,6 +668,27 @@ addEvent(window,'load',function(){
 				currentPlaylist.removeSelectedContent();
 			}else if(evt.keyCode===13 && currentPlaylist.selectedContent.length){
 				openEditBalloon();
+			}else if(evt.shiftKey && lastClickedContent && currentPlaylist.selectedContent.length){
+				var firstIndex=currentPlaylist.content.indexOf(currentPlaylist.selectedContent[0]);
+				var oldIndex=currentPlaylist.content.indexOf(lastClickedContent);
+				if(evt.keyCode===38 && oldIndex>0){
+					if(currentPlaylist.selectedContent.length!==1 && oldIndex>firstIndex){
+						currentPlaylist.toggleSelectedContent(lastClickedContent);
+						lastClickedContent=currentPlaylist.selectedContent[currentPlaylist.selectedContent.length-1];
+					}else{
+						lastClickedContent=currentPlaylist.content[oldIndex-1];
+						currentPlaylist.toggleSelectedContent(lastClickedContent);
+					}
+				}else if(evt.keyCode===40 && oldIndex<currentPlaylist.content.length){
+					if(currentPlaylist.selectedContent.length!==1 && oldIndex<firstIndex){
+						currentPlaylist.toggleSelectedContent(lastClickedContent);
+						lastClickedContent=currentPlaylist.selectedContent[currentPlaylist.selectedContent.length-1];
+					}else{
+						lastClickedContent=currentPlaylist.content[oldIndex+1];
+						currentPlaylist.toggleSelectedContent(lastClickedContent);
+					}
+				}
+				preventDefault(evt);
 			}
 		}
 	});
@@ -751,7 +761,7 @@ function resizeWindow(){
 	tempWin=el('button-edit').getBoundingClientRect();
 	el('balloon-edit').style.top=parseInt(tempWin.y+50)+'px';
 	el('balloon-edit').style.right=parseInt(window.innerWidth-tempWin.x-tempWin.width)+'px';
-	caca=tempWin;
+
 }
 
 
@@ -760,14 +770,9 @@ function resizeWindow(){
 var saveAs=saveAs||function(e){"use strict";if(typeof e==="undefined"||typeof navigator!=="undefined"&&/MSIE [1-9]\./.test(navigator.userAgent)){return}var t=e.document,n=function(){return e.URL||e.webkitURL||e},r=t.createElementNS("http://www.w3.org/1999/xhtml","a"),o="download"in r,a=function(e){var t=new MouseEvent("click");e.dispatchEvent(t)},i=/constructor/i.test(e.HTMLElement)||e.safari,f=/CriOS\/[\d]+/.test(navigator.userAgent),u=function(t){(e.setImmediate||e.setTimeout)(function(){throw t},0)},s="application/octet-stream",d=1e3*40,c=function(e){var t=function(){if(typeof e==="string"){n().revokeObjectURL(e)}else{e.remove()}};setTimeout(t,d)},l=function(e,t,n){t=[].concat(t);var r=t.length;while(r--){var o=e["on"+t[r]];if(typeof o==="function"){try{o.call(e,n||e)}catch(a){u(a)}}}},p=function(e){if(/^\s*(?:text\/\S*|application\/xml|\S*\/\S*\+xml)\s*;.*charset\s*=\s*utf-8/i.test(e.type)){return new Blob([String.fromCharCode(65279),e],{type:e.type})}return e},v=function(t,u,d){if(!d){t=p(t)}var v=this,w=t.type,m=w===s,y,h=function(){l(v,"writestart progress write writeend".split(" "))},S=function(){if((f||m&&i)&&e.FileReader){var r=new FileReader;r.onloadend=function(){var t=f?r.result:r.result.replace(/^data:[^;]*;/,"data:attachment/file;");var n=e.open(t,"_blank");if(!n)e.location.href=t;t=undefined;v.readyState=v.DONE;h()};r.readAsDataURL(t);v.readyState=v.INIT;return}if(!y){y=n().createObjectURL(t)}if(m){e.location.href=y}else{var o=e.open(y,"_blank");if(!o){e.location.href=y}}v.readyState=v.DONE;h();c(y)};v.readyState=v.INIT;if(o){y=n().createObjectURL(t);setTimeout(function(){r.href=y;r.download=u;a(r);h();c(y);v.readyState=v.DONE});return}S()},w=v.prototype,m=function(e,t,n){return new v(e,t||e.name||"download",n)};if(typeof navigator!=="undefined"&&navigator.msSaveOrOpenBlob){return function(e,t,n){t=t||e.name||"download";if(!n){e=p(e)}return navigator.msSaveOrOpenBlob(e,t)}}w.abort=function(){};w.readyState=w.INIT=0;w.WRITING=1;w.DONE=2;w.error=w.onwritestart=w.onprogress=w.onwrite=w.onabort=w.onerror=w.onwriteend=null;return m}(typeof self!=="undefined"&&self||typeof window!=="undefined"&&window||this.content);if(typeof module!=="undefined"&&module.exports){module.exports.saveAs=saveAs}else if(typeof define!=="undefined"&&define!==null&&define.amd!==null){define("FileSaver.js",function(){return saveAs})}
 
 
-/* MarcDragAndDrop.js v20170923 - Marc Robledo 2014-2017 - http://www.marcrobledo.com/license */
-MarcDragAndDrop=(function(){
+/* drag and drop */
+DragAndDropZone=(function(){
 	var showDrag=false, timeout=-1;
-	/* addEventListener polyfill for IE8 */
-	function addEvent(e,t,f){if(/MSIE 8/.test(navigator.userAgent))e.attachEvent('on'+t,f);else e.addEventListener(t,f,false)}
-
-	/* crossbrowser stopPropagations+preventDefault */
-	var no=function(e){if(typeof e.stopPropagation!=='undefined')e.stopPropagation();else e.cancelBubble=true;if(e.preventDefault)e.preventDefault();else e.returnValue=false}
 
 	/* check if drag items are files */
 	function checkIfDraggingFiles(e){
@@ -782,56 +787,43 @@ MarcDragAndDrop=(function(){
 	function removeClass(){document.body.className=document.body.className.replace(/ dragging-files/g,'')}
 
 
-	/* drag and drop document events */
-	addEvent(window, 'load', function(){
-		addEvent(document,'dragenter',function(e){
-			if(checkIfDraggingFiles(e)){
-				if(!/ dragging-files/.test(document.body.className))
-					document.body.className+=' dragging-files'
-				showDrag=true; 
-			}
-		});
-		addEvent(document,'dragleave',function(e){
-			showDrag=false; 
-			clearTimeout(timeout);
-			timeout=setTimeout(function(){
-				if(!showDrag)
-					removeClass();
-			}, 200);
-		});
-		addEvent(document,'dragover',function(e){
-			if(checkIfDraggingFiles(e)){
-				no(e);
-				showDrag=true; 
-			}
-		});
-	});
+	/* add drag and drop events */
 	addEvent(document,'drop',removeClass);
-
-
-	/* return MarcDragAndDrop object */
-	return{
-		add:function(z,f){
-			addEvent(document.getElementById(z),'drop',function(e){
-				no(e);
-				removeClass();
-				if(checkIfDraggingFiles(e))
-					f(e.dataTransfer.files)
-			});
-		},
-		addGlobalZone:function(f,t){
-			var div=document.createElement('div');
-			div.id='drop-overlay';
-			div.className='marc-drop-files';
-			var span=document.createElement('span');
-			if(t)
-				span.innerHTML=t;
-			else
-				span.innerHTML='Drop files here';
-			div.appendChild(span);
-			document.body.appendChild(div);
-
-			this.add('drop-overlay',f);
+	addEvent(document,'dragenter',function(e){
+		if(checkIfDraggingFiles(e)){
+			if(!/ dragging-files/.test(document.body.className))
+				document.body.className+=' dragging-files'
+			showDrag=true; 
 		}
-	}
+	});
+	addEvent(document,'dragleave',function(e){
+		showDrag=false; 
+		clearTimeout(timeout);
+		timeout=setTimeout(function(){
+			if(!showDrag)
+				removeClass();
+		}, 200);
+	});
+	addEvent(document,'dragover',function(e){
+		if(checkIfDraggingFiles(e)){
+			stopPropagation(e);
+			preventDefault(e);
+			showDrag=true; 
+		}
+	});
+
+	/* create drag and drop zone */
+	var overlay=document.createElement('div');
+	overlay.id='drop-overlay';
+	overlay.innerHTML='Drop content here';
+
+	addEvent(overlay,'drop',function(e){
+		stopPropagation(e);
+		preventDefault(e);
+		removeClass();
+		if(checkIfDraggingFiles(e))
+			readFiles(e.dataTransfer.files)
+	});
+
+	return overlay
 }());

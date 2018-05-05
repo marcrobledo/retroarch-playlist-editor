@@ -6,7 +6,8 @@
 	<meta name="description" content="This web app allows you to create and edit .lpl playlist files for RetroArch."/>
 	<meta name="keywords" content="retroarch, playlist, lpl, editor, builder, generator"/>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"/>
-	<link rel="shortcut icon" href="./favicon.png"/>
+	<link rel="shortcut icon" href="./favicon.png" type="image/png" sizes="16x16"/>
+	<link rel="shortcut icon" href="./logo192.png" type="image/png" sizes="192x192"/>
 	<link type="text/css" rel="stylesheet" href="./retroarch-playlist-editor.css" media="all"/>
 	<script type="text/javascript" src="./systems.js"></script>
 	<script type="text/javascript" src="./retroarch-playlist-editor.js"></script>
@@ -16,7 +17,7 @@
 <!-- HEADER -->
 <div id="topbar">
 	<div>
-		<h1><img src="icon.png" id="icon"/> RetroArch Playlist Editor</h1>
+		<h1><img src="logo192.png" id="icon"/> RetroArch Playlist Editor</h1>
 		<div id="topright">
 			<h2>
 				by <a href="/" class="author">Marc Robledo</a>
@@ -33,7 +34,7 @@
 			<button onclick="openEditBalloon()" id="button-edit"><span class="icon edit"></span> Edit content</button>
 			<button onclick="currentPlaylist.removeSelectedContent()" title="Remove content"><span class="icon trash"></span></button>
 		</div>
-		<button onclick="checkAll()"><span class="icon new"></span></button>
+		<button onclick="checkAll()" id="button-selectall"><span class="icon select"></span></button>
 		<button onclick="openImportBrowser()"><span class="icon add"></span> Import content</button>
 		<button onclick="openSaveBalloon()" id="button-save"><span class="icon save"></span> Save playlist</button>
 	</div>
