@@ -337,12 +337,12 @@ function readFiles(droppedFiles){
 		if(/\.lpl$/.test(droppedFiles[i].name)){ /* read lpl playlist */
 			parseMode='lpl';
 			fr.readAsText(droppedFiles[i]);
-			currentPlaylist.setName('.lpl','');
+			currentPlaylist.setName(droppedFiles[i].name.replace('.lpl',''));
 			break;
 		}else if(/\.rdb$/.test(droppedFiles[i].name)){ /* read rdb database */
 			parseMode='rdb';
 			fr.readAsArrayBuffer(droppedFiles[i]);
-			currentPlaylist.setName('.rdb','');
+			currentPlaylist.setName(droppedFiles[i].name.replace('.rdb',''));
 			break;
 		}else{
 			if(/\.(zip|gb|gbc|smd|gen|sfc|nes|3ds|nds|sms|gg|7z|iso|cue|chd)$/.test(droppedFiles[i].name)){ /* add items */
