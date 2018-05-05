@@ -337,7 +337,7 @@ function readFiles(droppedFiles){
 		if(/\.lpl$/.test(droppedFiles[i].name)){ /* read lpl playlist */
 			parseMode='lpl';
 			fr.readAsText(droppedFiles[i]);
-			currentPlaylist.setName('.lpl',''));
+			currentPlaylist.setName('.lpl','');
 			break;
 		}else if(/\.rdb$/.test(droppedFiles[i].name)){ /* read rdb database */
 			parseMode='rdb';
