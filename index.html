@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html manifest="retroarch-playlist-editor.appcache">
+<html>
 <head>
 	<title>RetroArch Playlist Editor</title>
 	<meta http-equiv="content-Type" content="text/html; charset=UTF-8"/>
@@ -8,153 +8,127 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"/>
 	<link rel="shortcut icon" href="./favicon.png"/>
 	<link type="text/css" rel="stylesheet" href="./retroarch-playlist-editor.css" media="all"/>
+	<script type="text/javascript" src="./systems.js"></script>
 	<script type="text/javascript" src="./retroarch-playlist-editor.js"></script>
 </head>
 <body>
 
 <!-- HEADER -->
 <div id="topbar">
-	<h1><img src="icon.png" id="icon"/> RetroArch Playlist Editor <small>v1.0</small></h1>
-	<h2>
-		by <a href="/" class="author">Marc Robledo</a>
-		<a href="https://github.com/marcrobledo/retroarch-playlist-editor/" target="_blank" class="h2-button github"><span class="icon github"></span> See on GitHub</a>
-		<a href="https://www.paypal.me/marcrobledo/5" target="_blank" rel="nofollow" class="h2-button donate"><span class="icon donate"></span> Donate</a>
-	</h2>
+	<div>
+		<h1><img src="icon.png" id="icon"/> RetroArch Playlist Editor</h1>
+		<div id="topright">
+			<h2>
+				by <a href="/" class="author">Marc Robledo</a>
+			</h2>
+
+			<a href="https://github.com/marcrobledo/retroarch-playlist-editor/" target="_blank" class="extlink github"><span class="icon github"></span> See on GitHub</a>
+			<a href="https://www.paypal.me/marcrobledo/5" target="_blank" rel="nofollow" class="extlink donate"><span class="icon donate"></span> Donate</a>
+		</div>
+	</div>
 
 	<div id="toolbar">
-		<div class="row">
-			<div class="six columns">
-				<button onclick="openDialogNew()"><span class="icon new"></span> New playlist</button>
-				<button onclick="openDialogAddContent()"><span class="icon add"></span> Add content</button>
-				<button onclick="openDialogSave()"><span class="icon save"></span> Save playlist</button>
-				<hr/>
-				<button onclick="openDialogTweak()"><span class="icon tweak"></span> Tweak</button>
-				<button onclick="openDialogCorePath()"><span class="icon settings"></span> Set core path</button>
-			</div>
-			<div class="six columns text-right hidden" id="toolbar-right">
-				<span id="selected-elements">0</span> elements selected
-				<hr/>
-				<button onclick="editingContent=getSelectedItems();openDialogSetContentPath()"><span class="icon folder"></span> Set content path</button>
-				<button onclick="editingContent=getSelectedItems();openDialogSetCore()">Set core</button>
-				<button onclick="editingContent=getSelectedItems();removeContent()"><span class="icon trash"></span> Remove</button>
-			</div>
+		<div id="toolbar-right">
+			<span id="selected-elements">0</span> elements selected | 
+			<button onclick="openEditBalloon()" id="button-edit"><span class="icon edit"></span> Edit content</button>
+			<button onclick="currentPlaylist.removeSelectedContent()" title="Remove content"><span class="icon trash"></span></button>
 		</div>
-
+		<button onclick="checkAll()"><span class="icon new"></span></button>
+		<button onclick="openImportBrowser()"><span class="icon add"></span> Import content</button>
+		<button onclick="openSaveBalloon()" id="button-save"><span class="icon save"></span> Save playlist</button>
 	</div>
 </div>
 
-<table>
-	<thead>
-		<tr>
-			<th width="1"><input type="checkbox" id="check-all" onchange="checkAll(this.checked)"/></th>
-			<th>Name</th>
-			<th>Filename</th>
-			<th>Core</th>
-			<th>CRC32</th>
-		</tr>
-	</thead>
+<div class="row unselectable" id="main-panel" unselectable="on" onselectstart="return false">
+	<div class="twelve columns" id="table-panel">
+		<table>
+			<thead>
+				<tr>
+					<th>Name</th>
+					<th>Filename</th>
+					<th>Core</th>
+					<th>CRC32</th>
+				</tr>
+			</thead>
 
-	<tbody id="items"></tbody>
-</table>
+			<tbody id="items"></tbody>
+		</table>
 
-<div id="drop-message" class="drop-zone">Drag and drop content/playlist here</div>
+		<div id="drop-message" class="drop-zone">Drag and drop content/playlist here<br/>or <span onclick="openImportBrowser()" class="clickable">browse content</span> in your computer</div>
+	</div>
+	<div class="zero columns" id="right-panel">
+	</div>
+</div>
+
+
 
 <form id="form">
 	<input type="file" id="input-file" multiple class="hidden" onchange="readFiles(this.files)" />
 </form>
 
 
+<!-- BALLOONS -->
+<div id="balloon-save" class="balloon">
+	<div class="row">
+		<label for="input-playlist-name">Playlist name</label><br/>
+		<input type="text" id="input-playlist-name" class="full-width" oninput="currentPlaylist.setName(this.value)" />
+	</div>
+	<div class="row">
+		<label for="select-core-path">Core path</label><br/>
+		<select id="select-core-path" class="full-width" onchange="setCorePath(this.value)"></select>
+	</div>
+	<div class="row text-right" id="core-path-message"></div>
 
-
+	<div class="buttons">
+		<button onclick="currentPlaylist.save();closeBalloon('save')" class="colored">Save</button>
+	</div>
+</div>
+<div id="balloon-edit" class="balloon">
+	<div id="row-content-name">
+		<label for="input-content-name">Name:</label><br/><input type="text" id="input-content-name" oninput="currentPlaylist.selectedContent[0].setName(this.value);currentPlaylist.sortContent();currentPlaylist.unsavedChanges=true"/>
+	</div>
+	<div>
+		<label for="input-content-path">Path:</label><br/><input type="text" id="input-content-path" value="./roms/" oninput="currentPlaylist.setSelectedContentPath(fixContentPath(this.value))"/>
+	</div>
+	<div>
+		<label for="select-core">Core:</label><br/><select id="select-core" onchange="currentPlaylist.setSelectedContentCore(this.value);"></select>
+	</div>
+	<!-- <div class="row">
+		<label for="select-crc32">CRC32:</label><br/><select id="select-crc32"></select>
+	</div> -->
+</div>
 
 <!-- DIALOGS -->
+<div id="dialog-about" class="dialog">
+	<div class="row">
+		v2.0
+	</div>
+	<div class="row">
+		<div>
+			to-do:changelog+tips
+		</div>
+	</div>
+
+	<div class="buttons">
+		<button onclick="MarcDialogs.close()">Close</button>
+	</div>
+</div>
 <div id="dialog-tweak" class="dialog">
 	<div class="row">
-		<div class="six columns"><label for="checkbox-tweak0">Clean GoodTools names</label></div>
-		<div class="six columns"><input type="checkbox" id="checkbox-tweak0" /></div>
-		<div class="clearfix"></div>
-
-		<div class="six columns"><label for="checkbox-tweak1">Remove dupes</label></div>
-		<div class="six columns"><input type="checkbox" id="checkbox-tweak1" /></div>
-		<div class="clearfix"></div>
-
-		<div class="six columns"><label for="checkbox-tweak2">Sort items</label></div>
-		<div class="six columns"><input type="checkbox" id="checkbox-tweak2" /></div>
-		<div class="clearfix"></div>
+		<div class="four columns"><label for="input-tweak-search">Search pattern</label></div>
+		<div class="eight columns"><input type="text" id="input-tweak-search" class="full-width"/></div>
+	</div>
+	<div class="row">
+		<div class="four columns"><label for="input-tweak-replace">Replace by</label></div>
+		<div class="eight columns"><input type="text" id="input-tweak-replace" class="full-width"/></div>
+	</div>
+	<div class="row">
+		<div class="four columns"><label for="checkbox-tweak-regex">Regular expression</label></div>
+		<div class="eight columns"><input type="checkbox" id="checkbox-tweak-regex" /></div>
 	</div>
 
 	<div class="buttons">
-		<button onclick="acceptTweak()" class="colored">Accept</button>
-		<button onclick="MarcDialogs.close()">Cancel</button>
-	</div>
-</div>
-
-<div id="dialog-save" class="dialog">
-	<div class="row">
-		<div class="six columns"><label for="input-playlist-name">Playlist name</label></div>
-		<div class="six columns"><input type="text" id="input-playlist-name" class="full-width" /></div>
-	</div>
-	<div class="row">
-		<div class="twelve columns" id="warning-core-path">Warning: core path is invalid or is missing. All content will be set to DETECT core.</div>
-	</div>
-
-	<div class="buttons">
-		<button onclick="acceptSave()" class="colored">Save</button>
-		<button onclick="MarcDialogs.open('corepath')">Fix core path</button>
-		<button onclick="MarcDialogs.close()">Cancel</button>
-	</div>
-</div>
-
-<div id="dialog-corepath" class="dialog">
-	<div class="row">
-		<div class="three columns"><label for="input-core-path">Core path:</label></div>
-		<div class="nine columns"><input type="text" id="input-core-path" class="full-width"/></div>
-	</div>
-	<div class="row">
-		<div class="three columns">Set to default:</div>
-		<div class="nine columns" style="font-size:80%">			
-			<span class="clickable" onclick="setDefaultCorePath('win')">Windows</span>
-			<span class="clickable" onclick="setDefaultCorePath('mac')">Mac</span>
-			</div>
-	</div>
-
-	<div class="buttons">
-		<button onclick="acceptCorePath()" class="colored">Accept</button>
-		<button onclick="MarcDialogs.close()">Cancel</button>
-	</div>
-</div>
-
-<div id="dialog-set-content-path" class="dialog">
-	<div class="row">
-		<div class="three columns"><label for="input-content-path">Content path:</label></div>
-		<div class="nine columns"><input type="text" id="input-content-path" class="full-width" value="./roms/" /></div>
-	</div>
-	<div class="buttons">
-		<button onclick="acceptSetContentPath()" class="colored">Accept</button>
-		<button onclick="MarcDialogs.close()">Cancel</button>
-	</div>
-</div>
-
-<div id="dialog-rename-content" class="dialog">
-	<div class="row">
-		<div class="three columns"><label for="input-content-name">Content name:</label></div>
-		<div class="nine columns"><input type="text" id="input-content-name" class="full-width" /></div>
-	</div>
-	<div class="buttons">
-		<button onclick="acceptRenameContent()" class="colored">Rename</button>
-		<button onclick="MarcDialogs.close()">Cancel</button>
-	</div>
-</div>
-
-<div id="dialog-set-core" class="dialog">
-	<div class="row">
-		<div class="three columns"><label for="select-core">Set core:</label></div>
-		<div class="nine columns"><select id="select-core" class="select full-width"></select></div>
-	</div>
-
-	<div class="buttons">
-		<button onclick="acceptSetCore()" class="colored">Accept</button>
-		<button onclick="MarcDialogs.open('corepath')">Set core path</button>
+		<button onclick="currentPlaylist.tweakSelectedNames(el('input-tweak-search').value, el('input-tweak-replace').value, el('checkbox-tweak-regex').checked);MarcDialogs.close();" class="colored">Tweak</button>
 		<button onclick="MarcDialogs.close()">Cancel</button>
 	</div>
 </div>

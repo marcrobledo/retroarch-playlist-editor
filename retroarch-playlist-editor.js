@@ -1,201 +1,175 @@
-/* retroarch-playlist-builder.js v20171105 - Marc Robledo 2016-2017 - http://www.marcrobledo.com/license */
-
-/* CORES */
-/* to-do: add the rest of cores */
-var CORES=[
-	{id:'DETECT',				name:'DETECT',									extensions:/\.(zip|7z|bin|cue|iso|nds)$/i},
-	{id:'fbalpha2012',			name:'FB Alpha 2012',							extensions:/\.zip$/i},
-	{id:'mame2003',				name:'MAME 2003 (0.78)',						extensions:/\.zip$/i},
-	{id:'mame2010',				name:'MAME 2010 (0.139)',						extensions:/\.zip$/i},
-	{id:'stella',				name:'Atari 2600 (Stella)',						extensions:/\.a26$/i},
-	{id:'prosystem',			name:'Atari 7800 (ProSystem)',					extensions:/\.a78$/i},
-	{id:'mednafen_lynx',		name:'Atari Lynx (Mednafen/LYNX)',				extensions:/\.lnx$/i},
-	{id:'handy',				name:'Atari Lynx (Handy)',						extensions:/\.lnx$/i},
-	{id:'hatari',				name:'Atari ST/STE/TT/Falcon (Hatari)',			extensions:/\.(st|msa|stx|dim|ipf)$/i},
-	{id:'fceumm',				name:'Nintendo NES (FCEUmm)',					extensions:/\.(nes|fds)$/i},
-	{id:'snes9x',				name:'Nintendo SNES (Snes9x)',					extensions:/\.(smc|sfc|fig)$/i},
-	{id:'mednafen_vb',			name:'Nintendo VB (Beetle VB)',					extensions:/\.vb$/i},
-	{id:'mupen64plus',			name:'Nintendo 64 (Mupen64Plus OpenGL)',		extensions:/\.(z64|v64|n64|rom)$/i},
-	{id:'gambatte',				name:'Nintendo GB/GBC (Gambatte)',				extensions:/\.(gb|gbc)$/i},
-	{id:'mgba',					name:'Nintendo GBA (mGBA)',						extensions:/\.gba$/i},
-	{id:'genesis_plus_gx',		name:'Sega MS/GG/MD/CD (Genesis Plus GX)',		extensions:/\.(md|smd|sms|gg)$/i},
-	{id:'mednafen_ngp',			name:'SNK NGP/NGPC (Beetle NeoPop)',			extensions:/\.(ngc|ngp|bgpc)$/i},
-	{id:'dolphin',			name:'Nintendo - GameCube / Wii (Dolphin)',			extensions:/\.(gcm|iso|wbfs|ciso|gcz|elf|dol|dff|tgc|wad)$/i},
-	{id:'mednafen_pce_fast',	name:'PC Engine (Mednafen/Beetle PCE Fast)',	extensions:/\.pce$/i},
-	{id:'bluemsx',				name:'MSX/SVI/ColecoVision/SG-1000 (blueMSX)',	extensions:/\.(ri|mx1|mx2|col|dsk|cas|sg|sc)$/i}
-];
-var DEFAULT_COREPATHS={
-	win:'.\\cores\\%s.dll',
-	mac:'/Applications/RetroArch.app/Contents/Resources/cores/%s.dylib'
-};
-
+/* retroarch-playlist-editor.js v20180504 - Marc Robledo 2016-2018 - http://www.marcrobledo.com/license */
 
 
 /* shortcuts */
 function show(e){el(e).style.display='block'}
 function hide(e){el(e).style.display='none'}
 function addEvent(e,ev,f){e.addEventListener(ev,f,false)}
+function stopPropagation(e){if(typeof e.stopPropagation!=='undefined')e.stopPropagation();else e.cancelBubble=true}
+function preventDefault(e){if(e.preventDefault)e.preventDefault();else e.returnValue=false}
 function el(e){return document.getElementById(e)}
 /* variables */
-var newPlaylist=true;
-var unsavedChanges=false;
-var content=[],editingContent=[];
-var counter=0;
+var currentPlaylist,contentTable,parseMode,lastClickedContent=false;
 
 
 
-/* check content */
-function check(checkbox){
-	if(checkbox.checked)
-		counter++;
-	else
-		counter--;
-
-	refreshSelectedElementsCounter();
+function Playlist(name,content){
+	this.reset();
 }
-function refreshSelectedElementsCounter(){
-	if(counter){
-		el('selected-elements').innerHTML=counter;
-		show('toolbar-right');
-	}else{
-		hide('toolbar-right');
-	}
+Playlist.prototype.reset=function(){
+	this.setName('My playlist');
+	this.content=[];
+	this.selectedContent=[];
+	this.unsavedChanges=false;
+	this._refreshTable();
+	show('drop-message');
 }
-function checkAll(status){
-	var checkboxes=el('items').querySelectorAll('input');
-	for(var i=0;i<checkboxes.length;i++)
-		checkboxes[i].checked=status;
-
-	if(status)
-		counter=checkboxes.length
-	else
-		counter=0;
-	refreshSelectedElementsCounter();
+Playlist.prototype.setName=function(newName){
+	this.name=newName;
+	el('input-playlist-name').value=newName;
 }
-function getSelectedItems(){
-	var selectedItems2=[];
-	var checkboxes=el('items').querySelectorAll('input');
-	for(var i=0; i<checkboxes.length; i++){
-		if(checkboxes[i].checked){
-			selectedItems2.push(content[i]);
+Playlist.prototype.addContent=function(newContent){
+	for(var i=0;i<this.content.length;i++){
+		if(this.content[i].file==newContent.file){
+			this.content[i].crc=content[i].crc || newContent.crc;
+			this.content[i].tr.children[4].innerHTML=this.content[i] || '-';
+			return false;
 		}
 	}
-	return selectedItems2;
+	this.content.push(newContent);
+	contentTable.appendChild(newContent.tr);
 }
-
-
-
-/* save settings */
-var appSettings={corePath:DEFAULT_COREPATHS.win};
-function saveSettings(){
-	if(localStorage){
-		if(appSettings.corePath.indexOf('%s')<0)
-			appSettings.corePath+='%s';
-
-		localStorage.setItem('appSettings',JSON.stringify(appSettings));
+Playlist.prototype.setSelectedContentCore=function(newCore){
+	for(var i=0; i<this.selectedContent.length; i++)
+		this.selectedContent[i].setCore(newCore);
+	this.unsavedChanges=true;
+}
+Playlist.prototype.setSelectedContentPath=function(newPath){
+	for(var i=0; i<this.selectedContent.length; i++)
+		this.selectedContent[i].setPath(newPath);
+	this.unsavedChanges=true;
+}
+Playlist.prototype.removeSelectedContent=function(){
+	for(var i=0; i<this.selectedContent.length; i++){
+		this.content.splice(this.content.indexOf(this.selectedContent[i]),1);
+		contentTable.removeChild(this.selectedContent[i].tr);
 	}
-}
+	this.selectedContent=[];
+	this._refreshSelectedContent();
 
-
-
-/* new playlist */
-function resetPlaylist(){
-	content=[];
-	el('input-playlist-name').value='My playlist';
-	refreshItems()
-}
-function openDialogNew(){
-	if(unsavedChanges){
-		MarcDialogs.confirm('Changes will be lost. Do you want to continue?', acceptNew);
+	if(this.content.length){
+		this.unsavedChanges=true;
 	}else{
-		resetPlaylist();
+		this.unsavedChanges=false;
 	}
+	refreshDropMessage();
 }
-function acceptNew(){
-	resetPlaylist();
-	MarcDialogs.close();
+Playlist.prototype.sortContent=function(){
+	this.content=this.content.sort(sortByLowercase);
+	this._refreshTable();
 }
+Playlist.prototype._refreshTable=function(){
+	contentTable=el('items');
+	while(contentTable.firstChild)
+		contentTable.removeChild(contentTable.firstChild);
+
+	for(var i=0;i<this.content.length;i++)
+		contentTable.appendChild(this.content[i].tr);
 
 
-
-/* set core path */
-function openDialogCorePath(){
-	MarcDialogs.open('corepath');
+	this._refreshSelectedContent();
 }
-function acceptCorePath(){
-	appSettings.corePath=el('input-core-path').value;
-	saveSettings();
-	MarcDialogs.close();
-}
-function guessCorePathFrom(p){
-	var matches=p.match(/^(.*?)\w+_libretro(\.\w+)/);
-	if(matches[1]){
-		return matches[1]+'%s'+matches[2]
-	}else{
-		return false
-	}
-}
-function setDefaultCorePath(p){el('input-core-path').value=DEFAULT_COREPATHS[p]}
-function checkValidCorePath(){return /.*?%s\..*?/.test(el('input-core-path').value)
-		
-}
+Playlist.prototype._refreshSelectedContent=function(){
+	if(this.selectedContent.length){
+		el('selected-elements').innerHTML=this.selectedContent.length;
+		el('toolbar-right').style.display='block';
 
-
-
-/* tweak */
-function openDialogTweak(){
-	MarcDialogs.open('tweak');
-}
-function acceptTweak(){	
-	if(el('checkbox-tweak0').checked)
-		tweakGoodNames();
-
-	if(el('checkbox-tweak1').checked)
-		tweakRemoveDupes();
-
-	if(el('checkbox-tweak2').checked)
-		tweakSort();
-
-	if(el('checkbox-tweak0').checked || el('checkbox-tweak1').checked || el('checkbox-tweak2').checked)
-	refreshItems();
-
-	appSettings.tweaks=[
-		el('checkbox-tweak0').checked,
-		el('checkbox-tweak1').checked,
-		el('checkbox-tweak2').checked
-	]
-	saveSettings();
-	MarcDialogs.close();
-}
-/* fix GoodNames */
-function tweakGoodNames(){
-	for(var i=0;i<content.length;i++){
-		content[i].name=content[i].name.replace(/(\[(!|C|c)\]|\(M\d\))/g,'');
-		content[i].name=content[i].name.replace(' (J)',' (Japan)');
-		content[i].name=content[i].name.replace(' (U)',' (USA)');
-		content[i].name=content[i].name.replace(' (E)',' (Europe)');
-		content[i].name=content[i].name.replace(' (W)',' (World)');
-		content[i].name=content[i].name.replace(' (JUE)',' (World)');
-		content[i].name=content[i].name.replace(' (JU)',' (Japan/USA)');
-		content[i].name=content[i].name.replace(' (UE)',' (USA/Europe)');
-		content[i].name=content[i].name.replace(/ +$/,'');
-	}
-}
-/* remove duplicates, always try to keep ones with CRC */
-function tweakRemoveDupes(){
-	for(var i=0;i<content.length;i++){
-		for(var j=i+1;j<content.length;j++){
-			if(content[i].fileName==content[j].fileName){
-				if(content[i].crc=='0|crc')
-					content[i].crc=content[j].crc;
-				content.splice(j,1);
+		if(this.selectedContent.length===1){
+			el('input-content-name').value=this.selectedContent[0].name;
+			el('select-core').value=this.selectedContent[0].core || 'DETECT';
+			show('row-content-name');
+		}else{
+			var firstCore=this.selectedContent[0].core;
+			for(var i=1; i<this.selectedContent.length; i++){
+				if(this.selectedContent[i].core!==firstCore)
+					break;
 			}
+			if(i===this.selectedContent.length){
+				el('select-core').value=firstCore || 'DETECT';
+			}else{
+				el('select-core').value=0;
+			}
+			hide('row-content-name');
 		}
+		el('input-content-path').value=this.selectedContent[0].path;
+
+	}else{
+		el('toolbar-right').style.display='none'
+	}
+	resizeWindow();
+}
+function tweakName(name){
+	return name.replace(/ (\[(!|C|c)\]|\(M\d\))/g,'')
+		.replace(' (J)',' (Japan)')
+		.replace(' (U)',' (USA)')
+		.replace(' (E)',' (Europe)')
+		.replace(' (W)',' (World)')
+		.replace(' (JUE)',' (World)')
+		.replace(' (JU)',' (Japan/USA)')
+		.replace(' (UE)',' (USA/Europe)')
+		.replace(/ +$/,'');
+}
+Playlist.prototype.save=function(){
+	var text='';
+	for(var i=0;i<this.content.length;i++)
+		text+=this.content[i].toString();
+
+
+	var blob=new Blob([text], {type: 'application/octet-stream;charset=utf-8'});
+	saveAs(blob, this.name+'.lpl');
+	this.unsavedChanges=false;
+}
+
+Playlist.prototype.toggleSelectedContent=function(content){
+	if(this.selectedContent.indexOf(content)>=0){
+		this.deselectContent(content);
+	}else{
+		this.selectContent(content);
 	}
 }
-/* sort */
-function tweakSort(){content=content.sort(sortByCleanName)}
-function sortByCleanName(a,b){
+Playlist.prototype.selectContent=function(content){
+	this.selectedContent.push(content);
+	content.tr.className='selected';
+	this._refreshSelectedContent();
+}
+Playlist.prototype.deselectContent=function(content){
+	this.selectedContent.splice(this.selectedContent.indexOf(content), 1);
+	content.tr.className='';
+	this._refreshSelectedContent();
+}
+Playlist.prototype.selectAll=function(){
+	this.selectedContent=[];
+	for(var i=0; i<this.content.length; i++){
+		this.selectedContent.push(this.content[i]);
+		this.content[i].tr.className='selected';
+	}
+	this._refreshSelectedContent();
+}
+Playlist.prototype.deselectAll=function(){
+	for(var i=0; i<this.selectedContent.length; i++){
+		this.selectedContent[i].tr.className='';
+	}
+	this.selectedContent=[];
+	this._refreshSelectedContent();
+}
+Playlist.prototype.tweakSelectedNames=function(search,replace,regex){
+	for(var i=0; i<this.selectedContent.length; i++)
+		this.selectedContent[i].setName(
+			this.selectedContent[i].name.replace(regex?(new RegExp(search)):search,replace)
+		);
+}
+
+function sortByLowercase(a,b){
 	if(a.name.toLowerCase()<b.name.toLowerCase())
 		return -1;
 	if(a.name.toLowerCase()>b.name.toLowerCase())
@@ -205,156 +179,194 @@ function sortByCleanName(a,b){
 
 
 
+
+function clickContent(evt){
+	closeBalloon('save');
+	if(evt.ctrlKey){
+		currentPlaylist.toggleSelectedContent(this.content);
+		lastClickedContent=this.content;
+	}else if(evt.shiftKey){
+		var oldIndex=currentPlaylist.content.indexOf(lastClickedContent);
+		var newIndex=currentPlaylist.content.indexOf(this.content);
+		currentPlaylist.deselectAll();
+		if(oldIndex<newIndex){
+			for(var i=oldIndex;i<=newIndex;i++){
+				currentPlaylist.selectContent(currentPlaylist.content[i]);
+			}
+		}else{
+			for(var i=oldIndex;i>=newIndex;i--){
+				currentPlaylist.selectContent(currentPlaylist.content[i]);
+			}
+		}
+		lastClickedContent=this.content;
+	}else if(currentPlaylist.selectedContent.length===1 && this.content===currentPlaylist.selectedContent[0]){
+		currentPlaylist.deselectContent(this.content);
+		closeBalloon('edit');
+	}else{
+		currentPlaylist.deselectAll();
+		currentPlaylist.selectContent(this.content);
+		lastClickedContent=this.content;
+	}
+	stopPropagation(evt);
+}
+
+
+
+function Content(name, filePath, core, crc){
+	this.name=name;
+	var pathMatch=filePath.match(/^(.*?)([^\/\\]+)$/);
+	this.path=pathMatch[1];
+	this.file=pathMatch[2];
+	this.compressed=false;
+	var isCompressed=this.file.indexOf('#');
+	if(isCompressed>4){
+		this.compressed=this.file.substr(isCompressed+1);
+		this.file=this.file.substr(0,isCompressed);
+	}
+	this.core=core;
+	this.crc=crc;
+
+	this.tr=document.createElement('tr');
+	this.tr.content=this;
+	addEvent(this.tr, 'click', clickContent);
+
+	this.tr.appendChild(document.createElement('td'));
+	this.tr.appendChild(document.createElement('td'));
+	this.tr.appendChild(document.createElement('td'));
+	this.tr.appendChild(document.createElement('td'));
+	this.tr.children[1].className='text-ellipsis';
+	this._refreshName();
+	this._refreshCore();
+	this._refreshPath();
+	this._refreshCrc();
+}
+Content.prototype.toString=function(){
+	var str=this.path+this.file+'\n';
+	str+=this.name+'\n';
+	if(this.core && el('select-core-path').selectedIndex>0){
+		str+=el('select-core-path').value.replace('*', this.core)+'\n';
+		str+=(KNOWN_CORES[this.core] || this.core)+'\n';
+	}else{
+		str+='DETECT\n';
+		str+='DETECT\n';
+	}
+	if(this.crc){
+		str+=this.crc+'|crc\n';
+	}else{
+		str+='DETECT\n';
+	}
+	str+=currentPlaylist.name+'.lpl\n';
+	return str;
+}
+Content.prototype.setName=function(name){this.name=name;this._refreshName()}
+Content.prototype.setPath=function(path){this.path=path;this._refreshPath()}
+Content.prototype.setCore=function(core){this.core=core;this._refreshCore()}
+Content.prototype.setCrc=function(crc){this.crc=crc;this._refreshCrc()}
+Content.prototype._refreshName=function(){this.tr.children[0].innerHTML=this.name}
+Content.prototype._refreshPath=function(){
+	if(this.compressed){
+		this.tr.children[1].title=this.path+this.file+'#'+this.compressed;
+		this.tr.children[1].innerHTML=this.path+this.file+'<span style="opacity:.3"> &#9656; '+this.compressed+'</span>';
+	}else{
+		this.tr.children[1].title=this.path+this.file;
+		this.tr.children[1].innerHTML=this.tr.children[1].title;
+	}
+	
+}
+Content.prototype._refreshCore=function(){this.tr.children[2].innerHTML=KNOWN_CORES[this.core] || this.core || '-'}
+Content.prototype._refreshCrc=function(){this.tr.children[3].innerHTML=this.crc || '-'}
+
+
+
+
+
+
+function refreshDropMessage(){
+	if(currentPlaylist.content.length>5){
+		hide('drop-message');
+	}else{
+		show('drop-message');
+	}
+}
+
+function fixContentPath(path){
+	var newPath=path;
+
+	var separator='\\';
+	if(/\//.test(newPath))
+		separator='/';
+
+	newPath+=separator;
+	newPath=newPath.replace(/[\/\\]+/g,separator);
+	return newPath;
+}
+
+
+
+
+
+/* save settings */
+var LOCALSTORAGE_ID='retroarchPlaylistEditorSettings';
+var settings={
+	settingsVersion:1,
+	corePaths:[
+		'c:\\retroarch\\cores\\*_libretro.dll', //Windows
+		'/Applications/RetroArch.app/Contents/Resources/cores/*_libretro.dylib', //Mac
+		'/data/data/com.retroarch/cores/*_libretro_android.so', //Android
+		'app0:/*_libretro.self', //Vita
+		'sd:/retroarch/cores/*_libretro.rpx' //Wii U
+	],
+	selectedCorePath:'c:\\retroarch\\cores\\*_libretro.dll'
+};
+function deleteSettings(){localStorage.removeItem(LOCALSTORAGE_ID)}
+
+
+
+
+
+
+
 /* add content */
-function openDialogAddContent(){
+function openImportBrowser(){
 	el('input-file').click();
 }
 function readFiles(droppedFiles){
-	editingContent=[];
-	var openPathDialog=false;
+	currentPlaylist.selectedContent=[];
+
 	for(var i=0; i<droppedFiles.length; i++){
 		if(/\.lpl$/.test(droppedFiles[i].name)){ /* read lpl playlist */
-			el('input-playlist-name').value=droppedFiles[i].name.replace('.lpl','');
+			parseMode='lpl';
 			fr.readAsText(droppedFiles[i]);
+			currentPlaylist.setName('.lpl',''));
+			break;
+		}else if(/\.rdb$/.test(droppedFiles[i].name)){ /* read rdb database */
+			parseMode='rdb';
+			fr.readAsArrayBuffer(droppedFiles[i]);
+			currentPlaylist.setName('.rdb',''));
 			break;
 		}else{
-			for(var j=0; j<CORES.length; j++){
-				if(CORES[j].extensions.test(droppedFiles[i].name)){ /* add items */
-					var fileName=droppedFiles[i].name;
-
-					var newContent={
-						filePath:el('input-content-path').value,
-						fileName:fileName,
-						compressed:false,
-						name:fileName.replace(/\.\w+$/i,''),
-						core:CORES[j].id,
-						coreName:CORES[j].name,
-						crc:false
-					}
-					content.push(newContent);
-					editingContent.push(newContent);
-
-					openPathDialog=true;
-					break;
-				}
+			if(/\.(zip|gb|gbc|smd|gen|sfc|nes|3ds|nds|sms|gg|7z|iso|cue|chd)$/.test(droppedFiles[i].name)){ /* add items */
+				var fileName=droppedFiles[i].name;
+				currentPlaylist.addContent(new Content(fileName.replace(/\.\w+$/i,''), el('input-content-path').value+fileName, false, false));
+				//currentPlaylist.selectedContent.push(newContent);
 			}
-			unsavedChanges=true;
+			currentPlaylist.unsavedChanges=true;
 		}
 
 	}
 
-	if(openPathDialog){
-		openDialogSetContentPath();
-	}
-	refreshItems();
+	//if(newPlaylist){
+		//currentPlaylist.selectAll();
+		//focus content path input
+	//}
+
 	el('form').reset();
 }
 
 
 
-/* save playlist */
-function openDialogSave(){
-	if(content.length===0)
-		MarcDialogs.alert('The playlist is empty.')
-	else{
-		if(checkValidCorePath())
-			hide('warning-core-path');
-		else
-			show('warning-core-path');
-		MarcDialogs.open('save');
-	}
-}
-function acceptSave(){
-	var items=content;
-	var validCorePath=checkValidCorePath();
-	var text='';
-	for(var i=0;i<items.length;i++){
-		if(items[i].compressed)
-			text+=items[i].filePath+items[i].fileName+'#'+items[i].compressed+'\n';
-		else
-			text+=items[i].filePath+items[i].fileName+'\n';
-		text+=items[i].name+'\n';
-		if(validCorePath && items[i].core!=='DETECT'){
-			text+=el('input-core-path').value.replace('%s', items[i].core+'_libretro')+'\n';
-			text+=items[i].coreName+'\n';
-		}else{
-			text+='DETECT\n';
-			text+='DETECT\n';
-		}
-		if(items[i].crc)
-			text+=items[i].crc+'|crc\n';
-		else
-			text+='0|crc\n';
-		text+=el('input-playlist-name').value+'.lpl\n';
-	}
-
-	//console.log(text);
-	var blob=new Blob([text], {type: 'application/octet-stream;charset=utf-8'});
-	saveAs(blob, el('input-playlist-name').value+'.lpl');
-	unsavedChanges=false;
-}
 
 
-
-/* set core */
-function openDialogSetCore(){
-	el('select-core').value=editingContent[0].core;
-	MarcDialogs.open('set-core');
-}
-function acceptSetCore(){
-	var selectedCore=CORES[el('select-core').selectedIndex];
-	var tbody=el('items');
-	for(var i=0; i<editingContent.length; i++){
-		editingContent[i].core=selectedCore.id;
-		editingContent[i].coreName=selectedCore.name;
-		
-		refreshTr(editingContent[i].tr.n);
-	}
-	MarcDialogs.close();
-}
-
-
-
-/* rename content */
-function openDialogRenameContent(){
-	el('input-content-name').value=editingContent[0].name;
-	MarcDialogs.open('rename-content');
-}
-function acceptRenameContent(){
-	var newName=el('input-content-name').value
-	editingContent[0].name=newName;
-	unsavedChanges=true;
-	refreshTr(editingContent[0].tr.n);
-	MarcDialogs.close();
-}
-
-
-
-/* set content path */
-function openDialogSetContentPath(){
-	el('input-content-path').value=editingContent[0].filePath;
-	MarcDialogs.open('set-content-path');
-}
-function acceptSetContentPath(){
-	var newPath=el('input-content-path').value;
-	for(var i=0; i<editingContent.length; i++){
-		editingContent[i].filePath=newPath;
-		refreshTr(i);
-	}
-	unsavedChanges=true;
-	MarcDialogs.close();
-}
-
-
-
-/* remove content */
-function removeContent(){
-	var selectedItems=getSelectedItems();
-	for(var i=0; i<selectedItems.length; i++){
-		content.splice(content.indexOf(selectedItems[i]),1);
-	}
-	refreshItems();
-}
 
 
 
@@ -366,174 +378,383 @@ function removeContent(){
 /* event for reading text from .lpl files */
 var fr=new FileReader();
 fr.onload=function(e){
-	var lines=e.target.result.replace(/\r\n?/g,'\n').split('\n');
-	var guessedCorePath=false;
+	if(parseMode==='lpl')
+		parsePlaylistFile(e.target.result);
+	else if(parseMode==='rdb')
+		parseDatabaseFile(new Uint8Array(e.target.result));
+}
+
+function readStringFromArray(arr, seek,len){
+	return String.fromCharCode.apply(null, arr.slice(seek,seek+len));
+}
+
+function parseDatabaseFile(arr){
+	var header=readStringFromArray(arr, 0,7);
+	if(header!=='RARCHDB')
+		return false;
+
+	var db={};
+	var lastObj={};
+
+	var seek=17;
+	while(true){
+		if((arr[seek]>=0x82 && arr[seek]<=0x8f) || arr[seek]===0xdf || arr[seek]===0xc0){ //block start
+			if(lastObj.rom_name){
+				db[lastObj.rom_name]=lastObj;
+			}else if(lastObj.name){
+				db[lastObj.name]=lastObj;
+			}else{
+				console.log('rom_name not found:'+lastObj);
+			}
+			lastObj={};
+
+			if(arr[seek]===0xdf)//unknown
+				seek+=4;
+			else if(arr[seek]===0xc0)//count block, ignore and stop
+				break;
+			seek++;
+		}else if(arr[seek] & 0x80){ //pair key+value
+			var keyNameSize=arr[seek] & 0x0f;
+			var key=readStringFromArray(arr, seek+1, keyNameSize);
+
+			seek+=1+keyNameSize;
+
+			if(arr[seek] >= 0xa0 && arr[seek] <= 0xbf){ //short string
+				if(key==='name' || key==='rom_name')
+					lastObj[key]=readStringFromArray(arr, seek+1, arr[seek] & 0x1f);
+				seek+=1+(arr[seek] & 0x1f);
+			}else if(arr[seek] === 0xd9){ //string
+				if(key==='name' || key==='rom_name')
+					lastObj[key]=readStringFromArray(arr, seek+2, arr[seek+1]);
+				seek+=2+arr[seek+1];
+			}else if(arr[seek] === 0xda){ //long string
+				var strLen=arr[seek+1]*256+arr[seek+2];
+				seek+=3;
+				//lastObj[key]=readStringFromArray(arr, seek, strLen);
+				seek+=strLen;
+			}else if(arr[seek] === 0xcc){ //u8
+				//lastObj[key]=arr[seek+1];
+				seek+=1+1;
+			}else if(arr[seek] === 0xcd){ //u16
+				//lastObj[key]=(arr[seek+1]<8)+arr[seek+2];
+				seek+=1+2;
+			}else if(arr[seek] === 0xce){ //u32
+				seek+=1+4;
+			}else if(arr[seek] === 0xce){ //u64
+				seek+=1+8;
+			}else if(arr[seek] === 0xc4){ //byte array
+				if(key==='crc')
+					lastObj[key]=arr.slice(seek+2, seek+2+arr[seek+1]);
+				seek+=2 + arr[seek+1];
+			}else{
+				console.log('invalid control byte: 0x'+arr[seek].toString(16));
+				console.log('previousObj: '+lastObj.name);
+				break;
+			}
+					
+		}else{
+			break;
+		}
+	}
+
+	var resortContent=false;
+	for(var i=0; i<currentPlaylist.content.length; i++){
+		var foundGame=db[currentPlaylist.content[i].file];
+		if(foundGame){
+			if(currentPlaylist.content[i].name!==foundGame.name){
+				resortContent=true;
+				currentPlaylist.unsavedChanges=true;
+				currentPlaylist.content[i].setName(foundGame.name);
+			}
+			if(foundGame.crc){
+				var newCrc='';
+				for(var j=0; j<4; j++){
+					if(foundGame.crc[j]<16)
+						newCrc+='0'+foundGame.crc[j].toString(16);
+					else
+						newCrc+=foundGame.crc[j].toString(16);
+				}
+				if(newCrc!==currentPlaylist.content[i].crc){
+					currentPlaylist.content[i].setCrc(newCrc);
+					currentPlaylist.unsavedChanges=true;
+				}
+			}
+		}
+	}
+	if(resortContent)
+		currentPlaylist.sortContent();
+
+	//readDb=db;
+
+	/*var gameTitles=[]
+	for(gameTitle in db){
+		gameTitles.push(gameTitle);
+	}
+	gameTitles.sort();
+	for(var i=0; i<gameTitles.length; i++){
+		var gameTitle=gameTitles[i];
+		if(db[gameTitle].crc){
+			var crc='';
+			for(var j=0; j<4; j++){
+				if(db[gameTitle].crc[j]<16)
+					crc+='0'+db[gameTitle].crc[j].toString(16);
+				else
+					crc+=db[gameTitle].crc[j].toString(16);
+			}
+		
+			var option=document.createElement('option');
+			option.value=crc;
+			option.innerHTML=crc+'='+gameTitle;
+			el('select-crc32').appendChild(option);
+		}
+	}*/
+}
+function parsePlaylistFile(string){
+	var lines=string.replace(/\r\n?/g,'\n').split('\n');
+
 	for(var i=0;i<lines.length;i+=6){
 		if(!lines[i])
 			continue;
 
-		var compressed=false;
-		if(lines[i].indexOf('#')>0){
-			var c=lines[i].indexOf('#')+1;
-			compressed=lines[i].substr(c);
-			lines[i]=lines[i].substr(0,c-1);
+		var filePath=lines[i];
+		var name=lines[i+1];
+		var core=false;
+		var matches=lines[i+2].match(/[\/\\](\w+)_libretro/);
+		if(matches){
+			core=matches[1];
+
+			setCorePath(lines[i+2].replace(/\w+_libretro/,'*_libretro'));
 		}
-		var filePath,fileName;
-		filePath=lines[i].replace(/[^\/\\]+$/,'');
-		fileName=lines[i].replace(filePath,'');
 
 		var crc=false;
-		if(/^[0-9a-fA-F]{8}\|crc$/.test(lines[i+4])){
+		if(/^[0-9a-fA-F]{8}\|crc$/.test(lines[i+4]) && lines[i+4]!=='00000000|crc'){
 			crc=lines[i+4].substr(0,8);
 		}
-		content.push({
-			filePath:filePath,
-			fileName:fileName,
-			compressed:compressed,
-			name:lines[i+1],
-			core:lines[i+2],
-			coreName:lines[i+3],
-			crc:crc
-		});
+		currentPlaylist.addContent(new Content(tweakName(name), filePath, core, crc));
+	}
+	refreshDropMessage();
+}
 
-		if(!guessedCorePath && lines[i+2]!=='DETECT'){
-			var newCorePath=guessCorePathFrom(lines[i+2]);
-			console.log(newCorePath);
-			if(newCorePath){
-				appSettings.corePath=newCorePath;
-				el('input-core-path').value=newCorePath;
-				saveSettings();
-				guessedCorePath=true;
-			}
-		}
 
-		if(i===0){
-			el('input-content-path').value=filePath;
+
+
+
+
+
+
+
+function setCorePath(corePath){
+	/* new core path */
+	if(settings.corePaths.indexOf(corePath)===-1 && corePath!=='DETECT'){
+		var option=document.createElement('option');
+		option.value=corePath;
+		option.innerHTML=corePath;
+		el('select-core-path').appendChild(option);
+		el('select-core-path').value=corePath;
+
+		settings.corePaths.push(corePath);
+	}
+	if(settings.selectedCorePath!==corePath)
+		settings.selectedCorePath=corePath;
+	
+	if(corePath==='DETECT'){
+		el('core-path-message').innerHTML='Warning: all content will be set to DETECT core.';
+		el('core-path-message').style.color='#ff9000';
+	}else{
+		el('core-path-message').style.color='inherit';
+
+		if(/^[a-z]:\\/i.test(corePath)){
+			el('core-path-message').innerHTML='Windows';
+		}else if(/\.dylib$/.test(corePath)){
+			el('core-path-message').innerHTML='Mac';
+		}else if(/_android\.so$/.test(corePath)){
+			el('core-path-message').innerHTML='Android';
+		}else if(/^app0:\/.*?\.self$/.test(corePath)){
+			el('core-path-message').innerHTML='Vita';
+		}else if(/\.rpx$/.test(corePath)){
+			el('core-path-message').innerHTML='Wii U';
+		}else{
+			el('core-path-message').innerHTML='';
 		}
 	}
 
-	refreshItems();
+	/* save settings */
+	if(typeof localStorage !== 'undefined')
+		localStorage.setItem(LOCALSTORAGE_ID,JSON.stringify(settings))
 }
+
 
 
 
 /* initialize everything! */
 addEvent(window,'load',function(){
-	/* load config */
-	if(localStorage && localStorage.appSettings)
-		appSettings=JSON.parse(localStorage.appSettings)
-	el('input-core-path').value=appSettings.corePath;
+	/* service worker */
+	if(location.protocol==='http:')
+		location.href=window.location.href.replace('http:','https:');
+	if('serviceWorker' in navigator)
+		navigator.serviceWorker.register('_cache_service_worker.js');
 
-	if(appSettings.tweaks)
-		for(var i=0;i<3;i++)
-			if(appSettings.tweaks[i])
-				el('checkbox-tweak'+i).checked=true;
+	/* load config */
+	if(typeof localStorage !== 'undefined' && LOCALSTORAGE_ID in localStorage){
+		var loadedSettings=JSON.parse(localStorage.getItem(LOCALSTORAGE_ID));
+		if(('settingsVersion' in loadedSettings) && loadedSettings.settingsVersion>0)
+			settings=loadedSettings
+	}
+
 
 	/* initialize */
-	resetPlaylist();
+	contentTable=el('items');
+	currentPlaylist=new Playlist();
+
+
+	/* core path <select> */
+	var optionNull=document.createElement('option');
+	optionNull.value='DETECT';
+	optionNull.innerHTML='- none -';
+	el('select-core-path').appendChild(optionNull);
+
+	for(var i=0; i<settings.corePaths.length; i++){
+		var option=document.createElement('option');
+		option.value=settings.corePaths[i];
+		option.innerHTML=settings.corePaths[i];
+		el('select-core-path').appendChild(option);
+	}
+	setCorePath(settings.selectedCorePath);
+
 
 	
 	/* build systems <select> */
-	for(var i=0;i<CORES.length;i++){
-		var option=document.createElement('option');
-		option.value=CORES[i].id;
-		if(CORES[i].id==='DETECT')
-			option.innerHTML='- Automatic -';
-		else
-			option.innerHTML=CORES[i].name;
-		el('select-core').appendChild(option);
+	for(var i=0;i<KNOWN_SYSTEMS.length;i++){
+		for(var j=1;j<KNOWN_SYSTEMS[i].length;j++){
+			var option=document.createElement('option');
+			option.value=KNOWN_SYSTEMS[i][j];
+			if(KNOWN_SYSTEMS[i][0]==='DETECT')
+				option.innerHTML='- Detect -';
+			else
+				option.innerHTML=KNOWN_SYSTEMS[i][0]+' ('+(KNOWN_CORES[KNOWN_SYSTEMS[i][j]] || KNOWN_SYSTEMS[i][j])+')';
+			el('select-core').appendChild(option);
+		}
 	}
 
 
 
 	/* add drag and drop zone */
 	MarcDragAndDrop.addGlobalZone(readFiles, 'Drop content here');
+
+	addEvent(window, 'resize', resizeWindow);
+	resizeWindow();
+
+	addEvent(window, 'keydown', function(evt){
+		if(evt.shiftKey && lastClickedContent && currentPlaylist.selectedContent){
+			var firstIndex=currentPlaylist.content.indexOf(currentPlaylist.selectedContent[0]);
+			var oldIndex=currentPlaylist.content.indexOf(lastClickedContent);
+			if(evt.keyCode===38 && oldIndex>0){
+				if(currentPlaylist.selectedContent.length!==1 && oldIndex>firstIndex){
+					currentPlaylist.toggleSelectedContent(lastClickedContent);
+					lastClickedContent=currentPlaylist.selectedContent[currentPlaylist.selectedContent.length-1];
+				}else{
+					lastClickedContent=currentPlaylist.content[oldIndex-1];
+					currentPlaylist.toggleSelectedContent(lastClickedContent);
+				}
+			}else if(evt.keyCode===40 && oldIndex<currentPlaylist.content.length){
+				if(currentPlaylist.selectedContent.length!==1 && oldIndex<firstIndex){
+					currentPlaylist.toggleSelectedContent(lastClickedContent);
+					lastClickedContent=currentPlaylist.selectedContent[currentPlaylist.selectedContent.length-1];
+				}else{
+					lastClickedContent=currentPlaylist.content[oldIndex+1];
+					currentPlaylist.toggleSelectedContent(lastClickedContent);
+				}
+			}
+			preventDefault(evt);
+		}else if(evt.keyCode===27){
+			if(isBalloonOpen('save')){
+				closeBalloon('save');
+			}else if(isBalloonOpen('edit')){
+				closeBalloon('edit');
+			}else if(currentPlaylist.selectedContent.length){
+				currentPlaylist.deselectAll();
+			}
+		}else if(!isBalloonOpen('save') && !isBalloonOpen('edit')){
+			if(evt.keyCode===46){
+				currentPlaylist.removeSelectedContent();
+			}else if(evt.keyCode===13 && currentPlaylist.selectedContent.length){
+				openEditBalloon();
+			}
+		}
+	});
+
+	enableBalloon('save');
+	enableBalloon('edit');
 });
 
-
-
-
-
-
-
-
-
-
-function clickContentTitle(){
-	editingContent=[content[this.parentElement.n]];
-	openDialogRenameContent();
+function enableBalloon(balloon){
+	addEvent(window, 'click', function(){closeBalloon(balloon)});
+	addEvent(el('balloon-'+balloon), 'click', stopPropagation);
+	addEvent(el('button-'+balloon), 'click', stopPropagation);
 }
-function clickContentCore(){
-	editingContent=[content[this.parentElement.n]];
-	openDialogSetCore();
+function openBalloon(balloon){
+	el('balloon-'+balloon).className='balloon open';
+	el('button-'+balloon).className='active';
+}
+function closeBalloon(balloon){
+	el('balloon-'+balloon).className='balloon';
+	el('button-'+balloon).className='';
+}
+function isBalloonOpen(balloon){
+	return /open/.test(el('balloon-'+balloon).className)
 }
 
-
-function refreshTr(i){
-	var tr=el('items').children[i];
-	tr.children[1].innerHTML=content[i].name;
-	tr.children[2].innerHTML=content[i].filePath+content[i].fileName;
-	tr.children[2].title=content[i].filePath+content[i].fileName;
-	if(content[i].compressed){
-		tr.children[2].innerHTML+='<span style="opacity:.3"> &#9656; '+content[i].compressed+'</span>';
-		tr.children[2].title+='#'+content[i].compressed;
-	}
-	tr.children[3].innerHTML=content[i].coreName;
-	tr.children[4].innerHTML=content[i].crc || '-';
-}
-function refreshItems(){
-	var tbody=el('items');
-
-	while(tbody.firstChild)
-		tbody.removeChild(tbody.firstChild);
-
-	for(var i=0;i<content.length;i++){
-		content[i].tr=document.createElement('tr');
-		content[i].tr.n=i;
-
-		var td0=document.createElement('td');
-		td0.innerHTML='<input type="checkbox" onchange="check(this)" value="'+i+'" id="item'+i+'"/>';
-
-		var td1=document.createElement('td');
-		td1.className='clickable';
-		addEvent(td1,'click', clickContentTitle);
-
-		var td2=document.createElement('td');
-		td2.className='text-ellipsis';
-
-		var td3=document.createElement('td');
-		td3.className='clickable';
-		addEvent(td3,'click', clickContentCore);
-
-		var td4=document.createElement('td');
-
-		content[i].tr.appendChild(td0);
-		content[i].tr.appendChild(td1);
-		content[i].tr.appendChild(td2);
-		content[i].tr.appendChild(td3);
-		content[i].tr.appendChild(td4);
-
-		tbody.appendChild(content[i].tr);
-		refreshTr(i);
-	}
-
-	el('check-all').checked=false;
-	counter=0;
-	refreshSelectedElementsCounter();
-	if(content.length){
-		hide('drop-message');
+function checkAll(){
+	if(currentPlaylist.selectedContent.length){
+		currentPlaylist.deselectAll();
 	}else{
-		show('drop-message');
+		currentPlaylist.selectAll();
+	}
+}
+
+function openSaveBalloon(){
+	if(currentPlaylist.content.length){
+		if(isBalloonOpen('save')){
+			currentPlaylist.save();
+			closeBalloon('save');
+		}else{
+			openBalloon('save');
+			el('input-playlist-name').focus();
+		}
 	}
 }
 
 
-/* MarcStringCleaner.js */
-var _STR_CLEAN=['a',/[\xc0\xc1\xc2\xc4\xe0\xe1\xe2\xe4]/g,'e',/[\xc8\xc9\xca\xcb\xe8\xe9\xea\xeb]/g,'i',/[\xcc\xcd\xce\xcf\xec\xed\xee\xef]/g,'o',/[\xd2\xd3\xd4\xd6\xf2\xf3\xf4\xf6]/g,'u',/[\xd9\xda\xdb\xdc\xf9\xfa\xfb\xfc]/g,'n',/[\xd1\xf1]/g,'c',/[\xc7\xe7]/g,'ae',/[\xc6\xe6]/g,'and',/\x26/g,'euro',/\u20ac/g,'',/[^\w- ]/g,'_',/( |-)/g,'_',/_+/g,'',/^_|_$/g];
-if(!String.prototype.clean)String.prototype.clean=function(){var s=this.toLowerCase();for(var i=0;i<_STR_CLEAN.length;i+=2)s=s.replace(_STR_CLEAN[i+1],_STR_CLEAN[i]);return s}
 
-/* MarcDialogs.js v20170405 - Marc Robledo 2014-2017 - http://www.marcrobledo.com/license */
-MarcDialogs=function(){function c(b,c,d){a?b.attachEvent("on"+c,d):b.addEventListener(c,d,!1)}function l(){j--,s()}function m(){j++,s()}function n(){j>=0&&(b?history.go(-1):l())}function o(a){for(var b=0;b<a.dialogElements.length;b++){var c=a.dialogElements[b];if("INPUT"===c.nodeName&&"hidden"!==c.type||"INPUT"!==c.nodeName)return c.focus(),!0}return!1}function p(a,b){a.style.marginLeft="-"+parseInt(a.offsetWidth/2)+"px",a.style.marginTop="-"+parseInt(a.offsetHeight/2)-30+"px",b||p(a,!0)}function r(){for(var a=0;document.getElementById("dialog-quick"+a);)-1===k.indexOf(document.getElementById("dialog-quick"+a))&&document.body.removeChild(document.getElementById("dialog-quick"+a)),a++}function s(){if(-1===j){g.className="dialog-overlay";for(var a=0;a<k.length;a++)k[a].className=k[a].className.replace(" active","");window.setTimeout(r,2500)}else{g.className="dialog-overlay active";for(var a=0;a<j;a++)k[a].style.zIndex=d-(j+a);-1==k[j].className.indexOf(" active")&&(k[j].className+=" active"),k[j].style.zIndex=d+1;for(var a=j+1;a<k.length;a++)k[a].className=k[a].className.replace(/ active/g,"");p(k[j])}}var a=/MSIE 8/.test(navigator.userAgent),b="function"==typeof history.pushState,d=9e3,e=["Cancel","Accept"];(navigator.language||navigator.userLanguage).startsWith("es")&&(e=["Cancelar","Aceptar"]);var g=document.createElement("div");g.className="dialog-overlay",g.style.position="fixed",g.style.top="0",g.style.left="0",g.style.width="100%",g.style.height="100%",g.style.zIndex=d,c(g,"click",n),c(window,"load",function(){document.body.appendChild(g)});var i=((new Date).getTime(),!1),j=-1,k=[];return c(window,"resize",function(){for(var a=0;a<k.length;a++)p(k[a])}),b&&c(window,"popstate",function(a){if(i)if(a.state&&"number"==typeof a.state.marcDialog)a.state.marcDialog<j?l():m();else for(;j>=0;)l()}),c(document,"keydown",function(a){if(k.length&&j>=0)if(27==a.keyCode)a.preventDefault?a.preventDefault():a.returnValue=!1,n();else if(9==a.keyCode){var b=k[j];b.dialogElements[b.dialogElements.length-1]===document.activeElement&&(a.preventDefault?a.preventDefault():a.returnValue=!1,o(b))}}),{currentDialogs:function(){return k},currentDialog:function(){return j},open:function(a){var c=document.getElementById("dialog-"+a.replace(/^dialog-/,""));c.style.position="fixed",c.style.top="50%",c.style.left="50%",c.style.zIndex=parseInt(g.style.zIndex)+1,c.dialogElements||(c.dialogElements=c.querySelectorAll("input,textarea,select")),o(c),j++,k[j]=c,s(),i=!0,b&&history.pushState({marcDialog:j},null,null)},replace:function(){},close:n,closeAll:function(){j=-1,s()},alert:function(a){var b=document.createElement("div");b.className="dialog";for(var d=0;document.getElementById("dialog-quick"+d);)d++;b.id="dialog-quick"+d,document.body.appendChild(b);var f=document.createElement("div");f.style.textAlign="center",f.innerHTML=a;var g=document.createElement("div");g.className="buttons";var h=document.createElement("button");h.className="colored accept",h.innerHTML=e[1],c(h,"click",this.close),g.appendChild(h),b.appendChild(f),b.appendChild(g),MarcDialogs.open("quick"+d)},confirm:function(a,b){var d=document.createElement("div");d.className="dialog";for(var f=0;document.getElementById("dialog-quick"+f);)f++;d.id="dialog-quick"+f,document.body.appendChild(d);var g=document.createElement("div");g.style.textAlign="center",g.innerHTML=a;var h=document.createElement("div");h.className="buttons";var i=document.createElement("button");i.className="colored accept",i.innerHTML=e[1],c(i,"click",b);var j=document.createElement("button");j.innerHTML=e[0],c(j,"click",this.close),h.appendChild(i),h.appendChild(j),d.appendChild(g),d.appendChild(h),MarcDialogs.open("quick"+f)}}}();
+function openEditBalloon(force){
+	if(!isBalloonOpen('edit') || force){
+		openBalloon('edit');
+		if(currentPlaylist.selectedContent.length===1){
+			el('input-content-name').focus();
+		}else{
+			el('input-content-path').focus();
+		}
+	}else{
+		closeBalloon('edit');
+	}
+}
+
+var tempWin;
+function resizeWindow(){
+	tempWin=parseInt(window.innerHeight-el('topbar').getBoundingClientRect().height);
+	el('main-panel').style.height=tempWin+'px';
+
+	tempWin=el('button-save').getBoundingClientRect();
+	el('balloon-save').style.top=parseInt(tempWin.y+50)+'px';
+	el('balloon-save').style.left=parseInt(tempWin.x)+'px';
+
+	tempWin=el('button-edit').getBoundingClientRect();
+	el('balloon-edit').style.top=parseInt(tempWin.y+50)+'px';
+	el('balloon-edit').style.right=parseInt(window.innerWidth-tempWin.x-tempWin.width)+'px';
+	caca=tempWin;
+}
+
+
 
 /*! @source http://purl.eligrey.com/github/FileSaver.js/blob/master/FileSaver.js */
 var saveAs=saveAs||function(e){"use strict";if(typeof e==="undefined"||typeof navigator!=="undefined"&&/MSIE [1-9]\./.test(navigator.userAgent)){return}var t=e.document,n=function(){return e.URL||e.webkitURL||e},r=t.createElementNS("http://www.w3.org/1999/xhtml","a"),o="download"in r,a=function(e){var t=new MouseEvent("click");e.dispatchEvent(t)},i=/constructor/i.test(e.HTMLElement)||e.safari,f=/CriOS\/[\d]+/.test(navigator.userAgent),u=function(t){(e.setImmediate||e.setTimeout)(function(){throw t},0)},s="application/octet-stream",d=1e3*40,c=function(e){var t=function(){if(typeof e==="string"){n().revokeObjectURL(e)}else{e.remove()}};setTimeout(t,d)},l=function(e,t,n){t=[].concat(t);var r=t.length;while(r--){var o=e["on"+t[r]];if(typeof o==="function"){try{o.call(e,n||e)}catch(a){u(a)}}}},p=function(e){if(/^\s*(?:text\/\S*|application\/xml|\S*\/\S*\+xml)\s*;.*charset\s*=\s*utf-8/i.test(e.type)){return new Blob([String.fromCharCode(65279),e],{type:e.type})}return e},v=function(t,u,d){if(!d){t=p(t)}var v=this,w=t.type,m=w===s,y,h=function(){l(v,"writestart progress write writeend".split(" "))},S=function(){if((f||m&&i)&&e.FileReader){var r=new FileReader;r.onloadend=function(){var t=f?r.result:r.result.replace(/^data:[^;]*;/,"data:attachment/file;");var n=e.open(t,"_blank");if(!n)e.location.href=t;t=undefined;v.readyState=v.DONE;h()};r.readAsDataURL(t);v.readyState=v.INIT;return}if(!y){y=n().createObjectURL(t)}if(m){e.location.href=y}else{var o=e.open(y,"_blank");if(!o){e.location.href=y}}v.readyState=v.DONE;h();c(y)};v.readyState=v.INIT;if(o){y=n().createObjectURL(t);setTimeout(function(){r.href=y;r.download=u;a(r);h();c(y);v.readyState=v.DONE});return}S()},w=v.prototype,m=function(e,t,n){return new v(e,t||e.name||"download",n)};if(typeof navigator!=="undefined"&&navigator.msSaveOrOpenBlob){return function(e,t,n){t=t||e.name||"download";if(!n){e=p(e)}return navigator.msSaveOrOpenBlob(e,t)}}w.abort=function(){};w.readyState=w.INIT=0;w.WRITING=1;w.DONE=2;w.error=w.onwritestart=w.onprogress=w.onwrite=w.onabort=w.onerror=w.onwriteend=null;return m}(typeof self!=="undefined"&&self||typeof window!=="undefined"&&window||this.content);if(typeof module!=="undefined"&&module.exports){module.exports.saveAs=saveAs}else if(typeof define!=="undefined"&&define!==null&&define.amd!==null){define("FileSaver.js",function(){return saveAs})}
