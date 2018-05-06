@@ -1,4 +1,4 @@
-/* retroarch-playlist-editor.js v20180505 - Marc Robledo 2016-2018 - http://www.marcrobledo.com/license */
+/* retroarch-playlist-editor.js v20180506 - Marc Robledo 2016-2018 - http://www.marcrobledo.com/license */
 
 
 /* shortcuts */
@@ -247,7 +247,7 @@ Content.prototype.toString=function(){
 	var str=this.path+this.file;
 	if(this.compressed)
 		str+='#'+this.compressed;
-	str+=+'\n';
+	str+='\n';
 	str+=this.name+'\n';
 	if(this.core && el('select-core-path').selectedIndex>0){
 		str+=el('select-core-path').value.replace('*', this.core)+'\n';

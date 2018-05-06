@@ -12,7 +12,7 @@ limitations under the License.
 mod by marcrobledo, original from: https://github.com/GoogleChrome/samples/blob/gh-pages/service-worker/basic/service-worker.js
 */
 
-const PRECACHE_ID='v20180505b';
+const PRECACHE_ID='v20180506';
 const PRECACHE_FILES=[
 'index.html','./',
 'retroarch-playlist-editor.css',
