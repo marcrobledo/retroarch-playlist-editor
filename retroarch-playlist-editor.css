@@ -143,7 +143,7 @@ h2 a{
 
 
 #toolbar-right{
-	display:none;
+	visibility:hidden;
 	float:right;
 }
 
@@ -184,6 +184,7 @@ tbody tr:nth-child(odd){background-color:#fff}
 tbody tr:nth-child(even){background-color:#fafafa}
 tbody tr.selected{background-color:#de8c33;color:white}
 tbody tr.selected:nth-child(even){background-color:#d58329}
+/*tbody tr.selected{background-color:#ffebd6;color:#b66d1e}*/
 td:nth-child(2){
 	font-size:80%;
 	max-width:300px;

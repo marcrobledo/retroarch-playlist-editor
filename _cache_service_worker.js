@@ -12,14 +12,14 @@ limitations under the License.
 mod by marcrobledo, original from: https://github.com/GoogleChrome/samples/blob/gh-pages/service-worker/basic/service-worker.js
 */
 
-const PRECACHE_ID='v20190208';
+const PRECACHE_ID='v20190208b';
 const PRECACHE_FILES=[
 'index.html','./',
 'retroarch-playlist-editor.css',
 'retroarch-playlist-editor.js',
 'systems.js',
 'favicon.png',
-'favicon192.png',
+'logo192.png',
 'icons.png'
 ];
 
