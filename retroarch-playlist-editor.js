@@ -1,4 +1,4 @@
-/* retroarch-playlist-editor.js v20180506 - Marc Robledo 2016-2018 - http://www.marcrobledo.com/license */
+/* retroarch-playlist-editor.js v20190208 - Marc Robledo 2016-2019 - http://www.marcrobledo.com/license */
 
 
 /* shortcuts */
@@ -82,7 +82,7 @@ Playlist.prototype._refreshTable=function(){
 Playlist.prototype._refreshSelectedContent=function(){
 	if(this.selectedContent.length){
 		el('selected-elements').innerHTML=this.selectedContent.length;
-		el('toolbar-right').style.display='block';
+		el('toolbar-right').style.visibility='visible';
 
 		if(this.selectedContent.length===1){
 			el('input-content-name').value=this.selectedContent[0].name;
@@ -101,34 +101,41 @@ Playlist.prototype._refreshSelectedContent=function(){
 			}
 			hide('row-content-name');
 		}
-		el('input-content-path').value=this.selectedContent[0].path;
+		el('input-content-path').value=fixContentPath(this.selectedContent[0].path);
 
 		
 		el('button-selectall').children[0].className=(this.content.length===this.selectedContent.length)?'icon selectall':'icon select';
 	}else{
-		el('toolbar-right').style.display='none'
+		el('toolbar-right').style.visibility='hidden'
 		el('button-selectall').children[0].className='icon select';
 	}
-	resizeWindow();
 }
-function tweakName(name){
-	return name.replace(/ (\[(!|C|c)\]|\(M\d\))/g,'')
-		.replace(' (J)',' (Japan)')
-		.replace(' (U)',' (USA)')
-		.replace(' (E)',' (Europe)')
-		.replace(' (W)',' (World)')
-		.replace(' (JUE)',' (World)')
-		.replace(' (JU)',' (Japan/USA)')
-		.replace(' (UE)',' (USA/Europe)')
-		.replace(/ +$/,'');
-}
-Playlist.prototype.save=function(){
+Playlist.prototype.export=function(oldFormat){
 	var text='';
-	for(var i=0;i<this.content.length;i++)
-		text+=this.content[i].toString();
+	var mime;
+	if(oldFormat){
+		mime='application/octet-stream';
+
+		for(var i=0;i<this.content.length;i++)
+			text+=this.content[i].toStringLPL();
+	}else{
+		mime='application/json';
+		
+		text+='{\n';
+		text+='  "version": "1.0",\n';
+		text+='  "items": [\n';
+		for(var i=0;i<this.content.length;i++){
+			text+=this.content[i].toStringJSON();
+			if(i<(this.content.length-1)){
+				text=text.replace(/\}\n$/,'},\n');
+			}
+		}
+		text+='  ]\n';
+		text+='}\n';
+	}
 
 
-	var blob=new Blob([text], {type: 'application/octet-stream;charset=utf-8'});
+	var blob=new Blob([text], {type: mime+';charset=utf-8'});
 	saveAs(blob, this.name+'.lpl');
 	this.unsavedChanges=false;
 }
@@ -243,7 +250,7 @@ function Content(name, filePath, core, crc){
 	this._refreshPath();
 	this._refreshCrc();
 }
-Content.prototype.toString=function(){
+Content.prototype.toStringLPL=function(){
 	var str=this.path+this.file;
 	if(this.compressed)
 		str+='#'+this.compressed;
@@ -264,8 +271,31 @@ Content.prototype.toString=function(){
 	str+=currentPlaylist.name+'.lpl\n';
 	return str;
 }
+Content.prototype.toStringJSON=function(){
+	var str='    {\n';
+	str+='      "path": "'+escapeJSON(this.path+this.file);
+	if(this.compressed)
+		str+='#'+this.compressed;
+	str+='",\n';
+	str+='      "label": "'+escapeJSON(this.name)+'",\n';
+	if(this.core && el('select-core-path').selectedIndex>0){
+		str+='      "core_path": "'+escapeJSON(el('select-core-path').value.replace('*', this.core))+'",\n';
+		str+='      "core_name": "'+(KNOWN_CORES[this.core] || this.core)+'",\n';
+	}else{
+		str+='      "core_path": "DETECT",\n';
+		str+='      "core_name": "DETECT",\n';
+	}
+	if(this.crc){
+		str+='      "crc32": "'+this.crc+'|crc",\n';
+	}else{
+		str+='      "crc32": "DETECT",\n';
+	}
+	str+='      "db_name": "'+currentPlaylist.name+'.lpl"\n';
+	str+='    }\n';
+	return str;
+}
 Content.prototype.setName=function(name){this.name=name;this._refreshName()}
-Content.prototype.setPath=function(path){this.path=path;this._refreshPath()}
+Content.prototype.setPath=function(path){this.path=addSlashContentPath(path);this._refreshPath()}
 Content.prototype.setCore=function(core){this.core=core;this._refreshCore()}
 Content.prototype.setCrc=function(crc){this.crc=crc;this._refreshCrc()}
 Content.prototype._refreshName=function(){this.tr.children[0].innerHTML=this.name}
@@ -283,7 +313,9 @@ Content.prototype._refreshCore=function(){this.tr.children[2].innerHTML=KNOWN_CO
 Content.prototype._refreshCrc=function(){this.tr.children[3].innerHTML=this.crc || '-'}
 
 
-
+function escapeJSON(str){
+	return str.replace(/"/g,'\\"').replace(/\\/g,'\\\\');
+}
 
 
 
@@ -298,15 +330,19 @@ function refreshDropMessage(){
 function fixContentPath(path){
 	var newPath=path;
 
-	var separator='\\';
-	if(/\//.test(newPath))
+	var separator='/';
+	if((newPath.match(/\//g) || []).length===1)
 		separator='/';
+	else if((newPath.match(/\\/g) || []).length>=1)
+		separator='\\';
 
-	newPath+=separator;
 	newPath=newPath.replace(/[\/\\]+/g,separator);
 	return newPath;
 }
-
+function addSlashContentPath(path){
+	var separator=/\\/.test(path)?'\\':'/';
+	return path.endsWith(separator)?path:(path+separator);
+}
 
 
 
@@ -339,6 +375,8 @@ function openImportBrowser(){
 function readFiles(droppedFiles){
 	currentPlaylist.deselectAll();
 
+	var filePath=addSlashContentPath(el('input-content-path').value);
+
 	var newContent=[];
 	for(var i=0; i<droppedFiles.length; i++){
 		if(/\.lpl$/.test(droppedFiles[i].name)){ /* read lpl playlist */
@@ -353,7 +391,7 @@ function readFiles(droppedFiles){
 			break;
 		}else if(!/\.(jpe?g|png|gif|srm|sav|flash|txt|html?|css|js)$/.test(droppedFiles[i].name)){ /* add items */
 			var fileName=droppedFiles[i].name;
-			newContent.push(new Content(fileName.replace(/\.\w+$/i,''), el('input-content-path').value+fileName, false, false));
+			newContent.push(new Content(fileName.replace(/\.\w+$/i,''), filePath+fileName, false, false));
 			currentPlaylist.addContent(newContent[newContent.length-1]);
 			currentPlaylist.unsavedChanges=true;
 		}
@@ -386,10 +424,18 @@ function readFiles(droppedFiles){
 /* event for reading text from .lpl files */
 var fr=new FileReader();
 fr.onload=function(e){
-	if(parseMode==='lpl')
-		parsePlaylistFile(e.target.result);
-	else if(parseMode==='rdb')
+	if(parseMode==='lpl'){
+		try{
+			parsePlaylistJSON(JSON.parse(e.target.result));
+			el('checkbox-json').checked=true;
+		}catch(ex){
+			el('checkbox-json').checked=false;
+			//could not parse json playlist, trying to parse the old format
+			parsePlaylistLPLFile(e.target.result);
+		}
+	}else if(parseMode==='rdb'){
 		parseDatabaseFile(new Uint8Array(e.target.result));
+	}
 }
 
 function readStringFromArray(arr, seek,len){
@@ -517,7 +563,26 @@ function parseDatabaseFile(arr){
 		}
 	}*/
 }
-function parsePlaylistFile(string){
+function parsePlaylistJSON(jsonPlaylist){
+	for(var i=0; i<jsonPlaylist.items.length; i++){
+		var item=jsonPlaylist.items[i];
+	
+		var core=false;
+		var matches=item.core_path.match(/[\/\\](\w+)_libretro/);
+		if(matches){
+			core=matches[1];
+
+			setCorePath(item.core_path.replace(/\w+_libretro/,'*_libretro'));
+		}
+
+		var crc=false;
+		if(/^[0-9a-fA-F]{8}\|crc$/.test(item.crc32) && item.crc32!=='00000000|crc'){
+			crc=item.crc32.substr(0,8);
+		}
+		currentPlaylist.addContent(new Content(item.label, item.path, core, crc));
+	}
+}
+function parsePlaylistLPLFile(string){
 	var lines=string.replace(/\r\n?/g,'\n').split('\n');
 
 	for(var i=0;i<lines.length;i+=6){
@@ -538,7 +603,7 @@ function parsePlaylistFile(string){
 		if(/^[0-9a-fA-F]{8}\|crc$/.test(lines[i+4]) && lines[i+4]!=='00000000|crc'){
 			crc=lines[i+4].substr(0,8);
 		}
-		currentPlaylist.addContent(new Content(tweakName(name), filePath, core, crc));
+		currentPlaylist.addContent(new Content(name, filePath, core, crc));
 	}
 	el('input-content-path').value=currentPlaylist.content[currentPlaylist.content.length-1].path;
 	refreshDropMessage();
@@ -725,7 +790,7 @@ function checkAll(){
 function openSaveBalloon(){
 	if(currentPlaylist.content.length){
 		if(isBalloonOpen('save')){
-			currentPlaylist.save();
+			currentPlaylist.export(!el('checkbox-json').checked);
 			closeBalloon('save');
 		}else{
 			openBalloon('save');

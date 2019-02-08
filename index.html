@@ -81,7 +81,7 @@
 	<div class="row text-right" id="core-path-message"></div>
 
 	<div class="buttons">
-		<button onclick="currentPlaylist.save();closeBalloon('save')" class="colored">Save</button>
+		<label for="checkbox-json">JSON format</label><input type="checkbox" id="checkbox-json" style="width:auto;vertical-align:middle"/> <button onclick="currentPlaylist.export(!el('checkbox-json').checked);closeBalloon('save')" class="colored">Save</button>
 	</div>
 </div>
 <div id="balloon-edit" class="balloon">
@@ -89,7 +89,7 @@
 		<label for="input-content-name">Name:</label><br/><input type="text" id="input-content-name" oninput="currentPlaylist.selectedContent[0].setName(this.value);currentPlaylist.sortContent();currentPlaylist.unsavedChanges=true"/>
 	</div>
 	<div>
-		<label for="input-content-path">Path:</label><br/><input type="text" id="input-content-path" value="./roms/" oninput="currentPlaylist.setSelectedContentPath(fixContentPath(this.value))"/>
+		<label for="input-content-path">Path:</label><br/><input type="text" id="input-content-path" value="./roms/" oninput="this.value=fixContentPath(this.value);currentPlaylist.setSelectedContentPath(this.value)"/>
 	</div>
 	<div>
 		<label for="select-core">Core:</label><br/><select id="select-core" onchange="currentPlaylist.setSelectedContentCore(this.value);"></select>
