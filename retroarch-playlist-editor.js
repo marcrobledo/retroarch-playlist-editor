@@ -354,7 +354,7 @@ var settings={
 	corePaths:[
 		'c:\\retroarch\\cores\\*_libretro.dll', //Windows
 		'/Applications/RetroArch.app/Contents/Resources/cores/*_libretro.dylib', //Mac
-		'/home/rob/.config/retroarch/cores/*_libretro.so', //Linux
+		'~/.config/retroarch/cores/*_libretro.so', //Linux
 		'/data/data/com.retroarch/cores/*_libretro_android.so', //Android
 		'app0:/*_libretro.self', //Vita
 		'sd:/retroarch/cores/*_libretro.rpx' //Wii U
