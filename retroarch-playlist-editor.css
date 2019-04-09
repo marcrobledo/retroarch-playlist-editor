@@ -25,7 +25,7 @@ span.icon{
 	height:16px;
 	vertical-align:middle;
 	background-image:url('icons.png');
-	background-size: 128px 16px;
+	background-size: 144px 16px;
 }
 .icon.donate{background-position: -16px}
 .icon.select{background-position: -32px}
@@ -34,6 +34,7 @@ span.icon{
 .icon.save{background-position: -80px}
 .icon.edit{background-position: -96px}
 .icon.trash{background-position: -112px}
+.icon.tweak{background-position: -128px}
 
 
 button,input,select{
@@ -55,17 +56,6 @@ button:hover{
 button:disabled{opacity:.35}
 button.colored{background-color:#2663d2;color:white}
 button.colored:hover{background-color:#3673e2}
-.balloon button{min-width:120px}
-input.full-width,select.full-width{
-	width:100%;
-}
-input.transparent{
-	padding:0;
-	margin:-1px 0;
-	background-color:inherit;
-	color:inherit;
-	border: 1px solid #e2e3de;
-}
 
 #main-panel{
 	overflow:hidden
@@ -82,6 +72,8 @@ h1{
 	font-weight:normal;
 	color:white;
 }
+h1 small{font-size:70%;color:#777;display:none}
+h1:hover small{display:inline}
 h1 img{
 	max-width:32px;
 	vertical-align: middle;
@@ -182,8 +174,24 @@ th{
 }
 tbody tr:nth-child(odd){background-color:#fff}
 tbody tr:nth-child(even){background-color:#fafafa}
-tbody tr.selected{background-color:#de8c33;color:white}
-tbody tr.selected:nth-child(even){background-color:#d58329}
+
+
+tbody>*.row-selected:nth-child(odd){background-color:#de8c33;color:white}
+tbody>*.row-selected:nth-child(even){background-color:#d58329;color:white}
+tbody>*.row-focused{box-shadow: #ab6100 0 0 0 1px inset}
+
+tr.row-over{
+	background-color:#f3f3f3 !important;
+}
+tr.row-over-top{box-shadow: inset 0 2px 0px orange}
+tr.row-over-bottom{box-shadow: inset 0 -2px 0px orange}
+
+body.moving-rows{cursor:grabbing}
+tbody.moving-rows .row-selected{background-color:#e1b889}
+
+
+
+
 /*tbody tr.selected{background-color:#ffebd6;color:#b66d1e}*/
 td:nth-child(2){
 	font-size:80%;
@@ -283,7 +291,9 @@ top:-8px;border-bottom:8px solid #454545;border-left:8px solid transparent;borde
 
 
 
-
+.row-tweak-toggled{
+	padding-left:30px;
+}
 .balloon label{
 	font-weight:bold;
 	font-size:80%;
@@ -293,7 +303,6 @@ top:-8px;border-bottom:8px solid #454545;border-left:8px solid transparent;borde
 	border:0;
 	color:#9a9a9a;
 	padding: 6px 8px;
-	width:100%;
 }
 .balloon input:hover, .balloon select:hover{
 	background-color:#282828;
@@ -302,47 +311,20 @@ top:-8px;border-bottom:8px solid #454545;border-left:8px solid transparent;borde
 	background-color:#232323;
 	color:#fff;
 }
+.balloon button{min-width:120px}
 
+.balloon input.full-width,.balloon select.full-width{width:100%}
 
+/*input.transparent{
+	padding:0;
+	margin:-1px 0;
+	background-color:inherit;
+	color:inherit;
+	border: 1px solid #e2e3de;
+}*/
 
-/* MarcDialogs */
-.dialog-overlay,.dialog{visibility:hidden;opacity:0}
-.dialog-overlay.active,.dialog.active{visibility:visible;opacity:1;transition-delay:0s/* fixes fade-in/fade-out*/}
-
-.dialog-overlay{
-	transition:visibility 0s .20s, opacity .20s;
-
-	background-color:black;
-	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=75)";/* IE8 */
-	background-color:rgba(0,0,0,.75)
-}
-
-.dialog{
-	position:absolute;top:0;left:0; /* fix for reserved space */
-
-	transform:translateY(-15px);
-	transition:visibility 0s .20s, opacity .20s ease-in, transform .20s ease-in;
-
-	background-color:white;
-	padding:25px;
-	min-width:440px;
-	max-width:90%;
-	border-radius:2px;
-	line-height:1.8;
-	box-shadow: black 0 0 64px;
-	-moz-box-sizing:border-box;
-	-webkit-box-sizing:border-box;
-	box-sizing:border-box;
-	color:#444;
-}
-@media only screen and (max-width:480px){
-	.dialog{width:auto}
-}
-.dialog.active{transform:translateY(0px)}
 
 .buttons{
 	margin-top:20px;
 	text-align:right
 }
-
-

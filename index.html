@@ -9,6 +9,7 @@
 	<link rel="shortcut icon" href="./favicon.png" type="image/png" sizes="16x16"/>
 	<link rel="shortcut icon" href="./logo192.png" type="image/png" sizes="192x192"/>
 	<link type="text/css" rel="stylesheet" href="./retroarch-playlist-editor.css" media="all"/>
+	<script type="text/javascript" src="./MarcTableSelect.min.js"></script>
 	<script type="text/javascript" src="./systems.js"></script>
 	<script type="text/javascript" src="./retroarch-playlist-editor.js"></script>
 </head>
@@ -17,7 +18,7 @@
 <!-- HEADER -->
 <div id="topbar">
 	<div>
-		<h1><img src="logo192.png" id="icon"/> RetroArch Playlist Editor</h1>
+		<h1><img src="logo192.png" id="icon"/> RetroArch Playlist Editor <small>(beta 1.0)</small></h1>
 		<div id="topright">
 			<h2>
 				by <a href="/" class="author">Marc Robledo</a>
@@ -36,24 +37,14 @@
 		</div>
 		<button onclick="checkAll()" id="button-selectall"><span class="icon select"></span></button>
 		<button onclick="openImportBrowser()"><span class="icon add"></span> Import content</button>
+		<button onclick="openTweakBalloon()" id="button-tweak"><span class="icon tweak"></span> Tweak playlist</button>
 		<button onclick="openSaveBalloon()" id="button-save"><span class="icon save"></span> Save playlist</button>
 	</div>
 </div>
 
 <div class="row unselectable" id="main-panel" unselectable="on" onselectstart="return false">
 	<div class="twelve columns" id="table-panel">
-		<table>
-			<thead>
-				<tr>
-					<th>Name</th>
-					<th>Filename</th>
-					<th>Core</th>
-					<th>CRC32</th>
-				</tr>
-			</thead>
-
-			<tbody id="items"></tbody>
-		</table>
+		<div id="playlist-table-container"></div>
 
 		<div id="drop-message" class="drop-zone">Drag and drop content/playlist here<br/>or <span onclick="openImportBrowser()" class="clickable">browse content</span> in your computer</div>
 	</div>
@@ -84,9 +75,52 @@
 		<label for="checkbox-json">JSON format</label><input type="checkbox" id="checkbox-json" style="width:auto;vertical-align:middle"/> <button onclick="currentPlaylist.export(!el('checkbox-json').checked);closeBalloon('save')" class="colored">Save</button>
 	</div>
 </div>
+<div id="balloon-tweak" class="balloon">
+	<div class="row">
+		<div class="twelve columns"><input type="checkbox" id="checkbox-tweak-sort" checked /> <label for="checkbox-tweak-sort">Sort content by name</label></div>
+	</div>
+	<div class="row">
+		<div class="twelve columns"><input type="checkbox" id="checkbox-tweak-filter" onchange="toggleTweakFilter()" /> <label for="checkbox-tweak-filter">Filter content</label></div>
+	</div>
+	<div class="row row-tweak-toggled" id="tweak-filter">
+		<div class="row">
+			<label for="input-tweak-filter">Select content that contains</label>
+		</div>
+		<div class="row">
+			<input type="text" id="input-tweak-filter" class="full-width"/>
+		</div>
+		<div class="row">
+			<input type="checkbox" id="checkbox-tweak-filter-regex" /> <label for="checkbox-tweak-filter-regex">Regular expression</label>
+		</div>
+	</div>
+	<div class="row">
+		<input type="checkbox" id="checkbox-tweak-replace" onchange="toggleTweakReplace()" /> <label for="checkbox-tweak-replace">Replace content name</label>
+	</div>
+	<div class="row row-tweak-toggled" id="tweak-replace">
+		<div class="row">
+			<label for="input-tweak-replace-search">Search pattern</label>
+		</div>
+		<div class="row">
+			<input type="text" id="input-tweak-replace-search" class="full-width"/>
+		</div>
+		<div class="row">
+			<input type="checkbox" id="checkbox-tweak-replace-regex" /> <label for="checkbox-tweak-replace-regex">Regular expression</label>
+		</div>
+		<div class="row">
+			<label for="input-tweak-replace-replace">Replace by</label>
+		</div>
+		<div class="row">
+			<input type="text" id="input-tweak-replace-replace" class="full-width"/>
+		</div>
+	</div>
+
+	<div class="buttons">
+		<button onclick="tweakCurrentPlaylist();closeBalloon('tweak');" class="colored">Tweak playlist</button>
+	</div>
+</div>
 <div id="balloon-edit" class="balloon">
 	<div id="row-content-name">
-		<label for="input-content-name">Name:</label><br/><input type="text" id="input-content-name" oninput="currentPlaylist.selectedContent[0].setName(this.value);currentPlaylist.sortContent();currentPlaylist.unsavedChanges=true"/>
+		<label for="input-content-name">Name:</label><br/><input type="text" id="input-content-name" oninput="currentPlaylist.selectedContent[0].setName(this.value);currentPlaylist.unsavedChanges=true"/>
 	</div>
 	<div>
 		<label for="input-content-path">Path:</label><br/><input type="text" id="input-content-path" value="./roms/" oninput="this.value=fixContentPath(this.value);currentPlaylist.setSelectedContentPath(this.value)"/>
@@ -97,41 +131,6 @@
 	<!-- <div class="row">
 		<label for="select-crc32">CRC32:</label><br/><select id="select-crc32"></select>
 	</div> -->
-</div>
-
-<!-- DIALOGS -->
-<div id="dialog-about" class="dialog">
-	<div class="row">
-		v2.0
-	</div>
-	<div class="row">
-		<div>
-			to-do:changelog+tips
-		</div>
-	</div>
-
-	<div class="buttons">
-		<button onclick="MarcDialogs.close()">Close</button>
-	</div>
-</div>
-<div id="dialog-tweak" class="dialog">
-	<div class="row">
-		<div class="four columns"><label for="input-tweak-search">Search pattern</label></div>
-		<div class="eight columns"><input type="text" id="input-tweak-search" class="full-width"/></div>
-	</div>
-	<div class="row">
-		<div class="four columns"><label for="input-tweak-replace">Replace by</label></div>
-		<div class="eight columns"><input type="text" id="input-tweak-replace" class="full-width"/></div>
-	</div>
-	<div class="row">
-		<div class="four columns"><label for="checkbox-tweak-regex">Regular expression</label></div>
-		<div class="eight columns"><input type="checkbox" id="checkbox-tweak-regex" /></div>
-	</div>
-
-	<div class="buttons">
-		<button onclick="currentPlaylist.tweakSelectedNames(el('input-tweak-search').value, el('input-tweak-replace').value, el('checkbox-tweak-regex').checked);MarcDialogs.close();" class="colored">Tweak</button>
-		<button onclick="MarcDialogs.close()">Cancel</button>
-	</div>
 </div>
 
 

@@ -3,7 +3,9 @@ This web app allows you to create and edit .lpl playlist files for RetroArch.
 
 **Features:**
 * drag and drop existing playlists and/or content
-* sorts content automatically
+* sort scontent manually or automatically
+* filters content
+* massive replace content name
 * massive edits content path and core
 * renames unknown content automatically by opening a .rdb database, useful when creating playlists for MAME or FB Alpha (see below)
 * compatible with old LPL (<1.7.5) and new JSON (>1.7.6) formats
