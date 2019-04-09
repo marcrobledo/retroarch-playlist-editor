@@ -298,16 +298,17 @@ top:-8px;border-bottom:8px solid #454545;border-left:8px solid transparent;borde
 	font-weight:bold;
 	font-size:80%;
 }
-.balloon input, .balloon select{
+.balloon input[type=text], .balloon select{
 	background-color:#303030;
 	border:0;
 	color:#9a9a9a;
 	padding: 6px 8px;
+	width:100%;
 }
-.balloon input:hover, .balloon select:hover{
+.balloon input[type=text]:hover, .balloon select:hover{
 	background-color:#282828;
 }
-.balloon input:focus, .balloon select:focus{
+.balloon input[type=text]:focus, .balloon select:focus{
 	background-color:#232323;
 	color:#fff;
 }

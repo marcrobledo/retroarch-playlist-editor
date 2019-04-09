@@ -1,4 +1,4 @@
-/* retroarch-playlist-editor.js v20190208 - Marc Robledo 2016-2019 - http://www.marcrobledo.com/license */
+/* retroarch-playlist-editor.js v20190409 - Marc Robledo 2016-2019 - http://www.marcrobledo.com/license */
 var FORCE_HTTPS=true;
 
 /* shortcuts */
@@ -79,11 +79,21 @@ Playlist.prototype.setSelectedContentPath=function(newPath){
 
 	this.unsavedChanges=true;
 }
-Playlist.prototype.removeSelectedContent=function(){
-	var selectedRows=this.selectableTable.getSelectedRows();
+Playlist.prototype.getSelectedContent=function(){
+	var selectedRows=this.selectableTable.getSelectedIndexes();
+	
+	var selectedContent=new Array(selectedRows.length);
 	for(var i=0; i<selectedRows.length; i++){
-		this.content.splice(this.content.indexOf(selectedRows.content),1);
+		selectedContent[i]=this.content[selectedRows[i]];
 	}
+	return selectedContent;
+}
+Playlist.prototype.removeSelectedContent=function(){
+	var selectedContent=this.getSelectedContent();
+	for(var i=0; i<selectedContent.length; i++){
+		this.content.splice(this.content.indexOf(selectedContent[i]),1);
+	}
+
 	this.selectableTable.removeSelected();
 	this._refreshSelectedContent();
 
@@ -798,8 +808,12 @@ function tweakCurrentPlaylist(){
 		if(el('checkbox-tweak-filter-regex').checked){
 			try{
 				var searchPattern=new RegExp(el('input-tweak-filter').value);
+
 				for(var i=0; i<currentPlaylist.content.length; i++){
-					if(searchPattern.test(currentPlaylist.content[i].name))
+					if(
+						(!el('checkbox-tweak-filter-inverse').checked && searchPattern.test(currentPlaylist.content[i].name)) ||
+						(el('checkbox-tweak-filter-inverse').checked && !searchPattern.test(currentPlaylist.content[i].name))
+					)
 						currentPlaylist.selectableTable.select(i);
 				}
 			}catch(ex){
@@ -807,7 +821,10 @@ function tweakCurrentPlaylist(){
 		}else{
 			var searchPattern=el('input-tweak-filter').value;
 			for(var i=0; i<currentPlaylist.content.length; i++){
-				if(currentPlaylist.content[i].name.indexOf(searchPattern)!==-1)
+				if(
+					(!el('checkbox-tweak-filter-inverse').checked && currentPlaylist.content[i].name.indexOf(searchPattern)!==-1) ||
+					(el('checkbox-tweak-filter-inverse').checked && currentPlaylist.content[i].name.indexOf(searchPattern)===-1)
+				)
 					currentPlaylist.selectableTable.select(i);
 			}
 		}
