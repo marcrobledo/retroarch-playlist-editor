@@ -755,6 +755,12 @@ function enableBalloon(balloon){
 function openBalloon(balloon){
 	el('balloon-'+balloon).className='balloon open';
 	el('button-'+balloon).className='active';
+
+	var BALLOONS=['save', 'tweak', 'edit'];
+	for(var i=0; i<BALLOONS.length; i++){
+		if(balloon!==BALLOONS[i])
+			closeBalloon(BALLOONS[i]);
+	}
 }
 function closeBalloon(balloon){
 	el('balloon-'+balloon).className='balloon';
