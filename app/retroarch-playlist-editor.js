@@ -349,7 +349,7 @@ function rebuildSelectContentPaths(playlist){
 		contentPaths=['c:\\roms\\', '/home/roms/'];
 
 	empty('path-suggestions');
-	for(var i=0; i<contentPaths.length && i<10; i++){
+	for(var i=0; i<contentPaths.length && i<20; i++){
 		var option=document.createElement('option');
 		option.innerHTML=contentPaths[i];
 		el('path-suggestions').appendChild(option);
@@ -629,15 +629,10 @@ var Settings=(function(){
 
 		load:function(){
 			if(typeof localStorage !== 'undefined'){
-				var item=localStorage.getItem(LOCALSTORAGE_ID);
-				if(item){
-					try{
+				try{
+					var item=localStorage.getItem(LOCALSTORAGE_ID);
+					if(item){
 						var parsedSettings=JSON.parse(item);
-
-						if(typeof parsedSettings.version==='number'){
-							if(parsedSettings.version<=1)
-								this.version=parsedSettings.version;
-						}
 
 						if(typeof parsedSettings.myCorePaths==='object' && typeof parsedSettings.myCorePaths.length==='number'){
 							for(var i=0; i<parsedSettings.myCorePaths.length; i++){
@@ -646,14 +641,14 @@ var Settings=(function(){
 							}
 						}
 
-						if(typeof parsedSettings.myCorePathIndex==='number' && parsedSettings.myCorePathIndex>0 && parsedSettings.myCorePathIndex<=this.myCorePaths.length){
+						if(typeof parsedSettings.myCorePathIndex==='number' && parsedSettings.myCorePathIndex>=0 && parsedSettings.myCorePathIndex<=this.myCorePaths.length){
 							this.myCorePathIndex=parsedSettings.myCorePathIndex;
 						}
-	
+
 						return true;
-					}catch(err){
-						console.error('error while parsing JSON settings');
 					}
+				}catch(err){
+					console.error('error while parsing JSON settings');
 				}
 			}
 			return false;
@@ -783,7 +778,7 @@ function readFiles(playlist, droppedFiles){
 	if(contentPaths.length)
 		filePath=contentPaths[0];
 	else
-		filePath='/path/to/file/';
+		filePath='';
 
 	var newContent=[];
 	var mergingPlaylists=[];
@@ -1041,9 +1036,30 @@ function getPathSystem(path){
 function checkIfWindowsSystem(path){
 	return getPathSystem(path)==='Windows'
 }
-
+function refreshCorePathMessage(playlist){
+	var corePath=el('select-core-path').value;
+	
+	var invalidContentPath=false;
+	for(var i=0; i<playlist.content.length && !invalidContentPath; i++){
+		if(!playlist.content[i].path || playlist.content[i].path==='/' || playlist.content[i].path==='\\')
+			invalidContentPath=true;
+	}
+	if(invalidContentPath){
+		el('core-path-message').className='warning';
+		el('core-path-message').innerHTML='<img class="icon" src="app/assets/icon_alert.svg" /> Warning: one or more content has no defined content path.';
+	}else if(corePath){
+		el('core-path-message').className='';
+		el('core-path-message').innerHTML=getPathSystem(corePath);
+	}else if(Settings.myCorePaths.length){
+		el('core-path-message').className='warning';
+		el('core-path-message').innerHTML='<img class="icon" src="app/assets/icon_alert.svg" /> Warning: all content will be set to DETECT core.';
+	}else{
+		el('core-path-message').className='warning';
+		el('core-path-message').innerHTML='<img class="icon" src="app/assets/icon_alert.svg" /> Advice: import any of your existing playlists to detect your device core path.';
+	}
+}
 function setCorePath(corePath){
-	var save=false;
+	var saveSettings=false;
 	var oldCorePath=el('select-core-path').value;
 
 	/* new core path */
@@ -1057,7 +1073,7 @@ function setCorePath(corePath){
 
 		rebuildSelectCorePath();
 
-		save=true;
+		saveSettings=true;
 	}
 	if(corePath && oldCorePath!==corePath){
 		Settings.myCorePathIndex=Settings.myCorePaths.indexOf(corePath)+1;
@@ -1066,19 +1082,10 @@ function setCorePath(corePath){
 	el('select-core-path').value=corePath || '';
 
 	
-	if(corePath){
-		el('core-path-message').className='';
-		el('core-path-message').innerHTML=getPathSystem(corePath);
-	}else if(Settings.myCorePaths.length){
-		el('core-path-message').className='warning';
-		el('core-path-message').innerHTML='Warning: all content will be set to DETECT core.';
-	}else{
-		el('core-path-message').className='warning';
-		el('core-path-message').innerHTML='Advice: import any of your existing playlists to detect your device core path.';
-	}
+	refreshCorePathMessage(currentPlaylist);
 
 	/* save settings */
-	if(save)
+	if(saveSettings)
 		Settings.save();
 }
 
@@ -1096,6 +1103,7 @@ addEvent(window,'load',function(){
 
 	/* core path <select> */
 	rebuildSelectCorePath();
+	refreshCorePathMessage(currentPlaylist);
 
 	/* build database <select> */
 	rebuildSelects();
@@ -1115,6 +1123,7 @@ addEvent(window,'load',function(){
 	});
 	addEvent(el('button-toolbar-import'), 'click', openImportBrowser);
 	addEvent(el('button-toolbar-save'), 'click', function(evt){
+		refreshCorePathMessage(currentPlaylist);
 		UI.showBalloon('save');
 		el('input-playlist-name').value=currentPlaylist.name;
 		el('input-playlist-name').focus();
@@ -1162,6 +1171,10 @@ addEvent(window,'load',function(){
 	});
 	addEvent(el('select-core-path'), 'change', function(evt){
 		setCorePath(this.value);
+		if(this.value){
+			Settings.myCorePathIndex=Settings.myCorePaths.indexOf(this.valu)+1;
+			Settings.save();
+		}
 	});
 	addEvent(el('button-save'), 'click', function(evt){
 		currentPlaylist.export(el('checkbox-legacy').checked);

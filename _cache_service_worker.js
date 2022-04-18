@@ -29,7 +29,7 @@ caches.keys().then(function(cacheNames){
 });
 
 var PRECACHE_ID='retroarch-playlist-editor';
-var PRECACHE_VERSION='beta2b';
+var PRECACHE_VERSION='2beta1';
 var PRECACHE_URLS=[
 	'/retroarch-playlist-editor/','/retroarch-playlist-editor/index.html',
 
@@ -47,6 +47,7 @@ var PRECACHE_URLS=[
 	'/retroarch-playlist-editor/app/assets/icon_select_none.svg',
 	'/retroarch-playlist-editor/app/assets/icon_select_mixed.svg',
 	'/retroarch-playlist-editor/app/assets/icon_select_all.svg',
+	'/retroarch-playlist-editor/app/assets/icon_alert.svg',
 	'/retroarch-playlist-editor/app/assets/icon_pencil.svg',
 	'/retroarch-playlist-editor/app/assets/icon_trash.svg'
 ];
