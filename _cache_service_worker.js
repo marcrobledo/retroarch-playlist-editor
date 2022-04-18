@@ -29,7 +29,7 @@ caches.keys().then(function(cacheNames){
 });
 
 var PRECACHE_ID='retroarch-playlist-editor';
-var PRECACHE_VERSION='beta2';
+var PRECACHE_VERSION='beta2b';
 var PRECACHE_URLS=[
 	'/retroarch-playlist-editor/','/retroarch-playlist-editor/index.html',
 

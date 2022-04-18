@@ -1,6 +1,4 @@
 /* Retroarch Playlist Editor v20220418 - Marc Robledo 2016-2022 - http://www.marcrobledo.com/license */
-var FORCE_HTTPS=true;
-
 /* shortcuts */
 function show(e){el(e).style.display='block'}
 function hide(e){el(e).style.display='none'}
