@@ -568,16 +568,28 @@ Content.prototype._guessFromDatabase=function(){
 	var guessedItem=loadedDatabases[this.databaseName][cleanName];
 
 	if(!guessedItem)
-		guessedItem=loadedDatabases[this.databaseName][cleanName+' (Disc 1)'];
+		guessedItem=loadedDatabases[this.databaseName][cleanName.replace(/( \(.*?\))/, '$1 (Disc 1)')];
 
 	if(!guessedItem)
-		guessedItem=loadedDatabases[this.databaseName][cleanName+' (Disc 1 of 2)'];
+		guessedItem=loadedDatabases[this.databaseName][cleanName.replace(/( \(.*?\))/, '$1 (Disc 1 of 2)')];
 
 	if(!guessedItem)
-		guessedItem=loadedDatabases[this.databaseName][cleanName+' (Disc 1 of 3)'];
+		guessedItem=loadedDatabases[this.databaseName][cleanName.replace(/( \(.*?\))/, '$1 (Disc 1 of 3)')];
 
 	if(!guessedItem)
-		guessedItem=loadedDatabases[this.databaseName][cleanName+' (Disc 1 of 4)'];
+		guessedItem=loadedDatabases[this.databaseName][cleanName.replace(/( \(.*?\))/, '$1 (Disc 1 of 4)')];
+
+	if(!guessedItem)
+		guessedItem=loadedDatabases[this.databaseName][cleanName.replace(/( \([A-Z][a-z](,[A-Z][a-z])*\))/, '$1 (Disc 1)')];
+
+	if(!guessedItem)
+		guessedItem=loadedDatabases[this.databaseName][cleanName.replace(/( \([A-Z][a-z](,[A-Z][a-z])*\))/, '$1 (Disc 1 of 2)')];
+
+	if(!guessedItem)
+		guessedItem=loadedDatabases[this.databaseName][cleanName.replace(/( \([A-Z][a-z](,[A-Z][a-z])*\))/, '$1 (Disc 1 of 3)')];
+
+	if(!guessedItem)
+		guessedItem=loadedDatabases[this.databaseName][cleanName.replace(/( \([A-Z][a-z](,[A-Z][a-z])*\))/, '$1 (Disc 1 of 4)')];
 
 	if(!guessedItem && this.crc){
 		guessedItem=loadedDatabases[this.databaseName]['crc_'+this.crc.toUpperCase()];
@@ -1342,6 +1354,20 @@ function buildExample(path){
 					"label": "Donkey Kong",
 					"core_path": "c:\\retroarch\\cores\\gambatte_libretro.dll",
 					"core_name": "Nintendo - Game Boy / Color (Gambatte)",
+					"crc32": "DETECT",
+					"db_name": "DETECT"
+				},{
+					"path": "C:\\roms\\psx\\Atlantis - The Lost Tales (Europe) (En,Es,Nl,Sv).m3u",
+					"label": "Atlantis - The Lost Tales (Europe) (En,Es,Nl,Sv)",
+					"core_path": "DETECT",
+					"core_name": "DETECT",
+					"crc32": "DETECT",
+					"db_name": "DETECT"
+				},{
+					"path": "C:\\roms\\psx\\Final Fantasy VII (Spain) (Rev 1).m3u",
+					"label": "Final Fantasy VII (Spain) (Rev 1)",
+					"core_path": "DETECT",
+					"core_name": "DETECT",
 					"crc32": "DETECT",
 					"db_name": "DETECT"
 				}
