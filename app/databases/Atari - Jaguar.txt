@@ -1,0 +1,106 @@
+j64,rom
+Aircars (USA)|40E1A1D0,9938A06C
+Aircars (USA) (Beta) (1994-11-14)|53E35744,CFDB57C6
+Alien vs Predator (World)|DC187F82,3EAECB25,J9008E
+Alien vs Predator (World) (Beta) (1993-08-18)|3153D470,C9E144CC
+Alien vs Predator (World) (Beta) (1993-10-13)|B4E7BC59,DFC07ABD
+Alien vs Predator (World) (Beta) (1994-04-08)|E65DA590,1EEF352C
+Arena Football '95 (World)|199B9D83,61EE6B62
+Atari Karts (World)|E28756DE,F816C3E6,J9091E
+Atari Karts (World) (Beta)|52C996E0,2ABC6001
+Attack of the Mutant Penguins (World)|CD5BF827,66A1567C,J9072E
+Barkley Shut Up and Jam (World)|AEA9D831,93ECEF15
+Barkley Shut Up and Jam (World) (Beta)|3A3B1FD2,C2898F6E
+Battle Sphere (World)|5F2C2774,AD6FE9B5
+Battle Sphere Gold (World)|67F9AB3A,D5727F02,J9807E
+Breakout 2000 (USA, Europe)|B5604D40,4DD5C5DE
+Breakout 2000 (USA, Europe) (Beta)|20DBFF9F,D8696F23
+Brett Hull Hockey (World)|91095DD3,DCCDEF05
+Brutal Sports Football (World)|BCB1A4BF,9C655C37,JA100
+Bubsy in Fractured Furry Tales (World)|2E17D5DA,278C40BE,J9020E
+Cannon Fodder (World)|BDA405C6,31EBF18B,02763-00162
+Checkered Flag (World)|FA7775AE,6BF22DD1,J9007E
+Checkered Flag (World) (Beta) (CES 1993)|CE94C0D5,A5B30631
+Club Drive (World)|EEE8D61D,8FBDF685,J9003E
+Club Drive (World) (Beta)|0E320385,6CB78512
+Cybermorph (World) (Beta) (1993-08-23)|9EB389F9,F5944F1D
+Cybermorph (World) (Rev A)|BDE67498,2E31ACA5,J9000
+Cybermorph (World) (Rev B)|ECF854E7,C7C21726,J9000
+Defender 2000 (World)|27594C6A,9CD0650D,J9041E
+Defender 2000 (World) (Beta)|952D07F0,ED58F111
+Doom (World)|5E2CDBC0,4CA68830,J9029E
+Double Dragon V - The Shadow Falls (World)|A3AB2F69,21941,348E6449
+Dragon - The Bruce Lee Story (World)|8FEA5AB0,86DDD8E2,J9036E
+Dragon - The Bruce Lee Story (World) (Beta) (1994-09-26)|A14F94AB,59FD0417
+Dragon - The Bruce Lee Story (World) (Beta) (1994-10-06)|83C6ACC0,7B743C7C
+Evolution - Dino Dudes (World)|0EC5369D,A86C3324,J9006
+Fever Pitch Soccer (World) (En,Fr,De,Es,It)|3615AF6A,2DED9193,J9106E
+Fight for Life (USA, Europe)|B14C4753,521C17EF,J9037E
+Fight for Life (USA, Europe) (Beta) (1995-03-22)|59458199,21307778
+Fight for Life (USA, Europe) (Beta) (1995-09-07)|036A25E6,7B1FD307
+Flashback - The Quest for Identity (World) (En,Fr)|DE55DCC7,62C2F43B,43175-79126
+Flip Out! (World)|892BC67C,76BB7D03
+Frog Feast (World)|6038E95F,0B1F2FBB
+High Voltage C Maze (USA) (Demo)|25F79B1F,6987009C
+Hover Strike (World)|4899628F,097F874A,J9009E
+Hyper Force (World)|08849D0F,CF3003,F0360DB3
+I-War (USA, Europe)|97EB4651,705FA772,J9043E
+International Sensible Soccer (World)|5A101212,886DDCBF
+Iron Soldier (World)|08F15576,35E538A0,J9026E
+Iron Soldier 2 (USA, Europe)|D6C19E34,1E874721,JA910
+Jack Nicklaus Cyber Golf (USA) (Demo) (1995-01-13)|E20F0EEF,8928C80B
+Jack Nicklaus Cyber Golf (USA) (Demo) (1995-01-16)|BE5E9EF1,D5795815
+Jack Nicklaus Cyber Golf (USA) (Proto) (1994-07-04)|7733F701,8F8167BD
+Kasumi Ninja (World)|0957A072,38CC27D8,J9012E
+Kasumi Ninja (World) (Demo)|EE9529EE,098CB9AF
+Missile Command 3D (World)|DA9C4162,51152B71,J9097E
+Missile Command VR (World) (Beta) (1995-07-05)|5810CADB,A0A25A67
+Native (USA) (Proto)|D8D60DD5,20649D69
+NBA Jam - Tournament Edition (USA, Europe)|0AC83D77,154827B0,J9089E
+Phase Zero (World)|7168B143,89DA21FF
+Pinball Fantasies (World)|5CFF14AB,4A9FB36B,J0144E
+Pitfall - The Mayan Adventure (USA, Europe)|817A2273,4D23F07C,J9101E
+Plucky Duck in Hollywood Hijinks (USA) (Proto) (1994-10-28)|4E77A83C,B6C53880
+Power Drive Rally (World)|1660F070,C544EB43,31763-11153
+Protector (World)|1A20C5C4,0FD06CD1
+Protector - Special Edition (World)|5DDF9724,CF3004,A56D0798
+Raiden (World)|0509C85E,62049D39,J9005
+Raiden (World) (Rev A)|31812799,2667F38D
+Rayman (World)|A9F8A00E,BD551765,C3669T
+Rayman (World) (Beta 1)|92743C49,6AC6ACF5
+Rayman (World) (Beta 2)|254DD949,DDFF49F5
+Ruiner Pinball (USA, Europe)|5B6BB205,5C637BEC,J9061E
+Skyhammer (World)|4471BFA0,CF3001,3C044941
+Slam Racer (USA) (Proto)|E25FEC7C,F0E2E569
+Soccer Kid (World)|732FFAB6,6694CAD2
+Soccer Kid (World) (Beta)|BA13AE79,CF3002,42A13EC5
+Space War 2000 (World)|D821F5EB,20936557
+Speedster II (USA) (Proto)|F7CFE6E6,68BF2395
+Super Burnout (World)|6F8B2547,537457D3,J9052E
+Super Burnout (World) (Demo) (WCES 1995)|0F698FB3,359A602E
+Supercross 3D (USA, Europe)|EC22F572,E97F8282,J9044E
+Syndicate (World)|58272540,E55C67AB,8002-SYNJAG
+Tempest 2000 (World)|6B2B95AD,F5221FCA,J9010E
+Thea Realm Fighters (USA) (Proto 1)|85BE7E07,6C391146
+Thea Realm Fighters (USA) (Proto 2)|BB06D3C6,C3732527
+Theme Park (World)|47EBC158,76C37FC8,8001-TPKJAG
+Tiny Toon Adventures (USA) (Proto)|F4ACBB04,F528DC3D
+Total Carnage (World)|E21C7950,CF3006,C654681B
+Total Carnage (World) (Beta)|8F80EDCF,F7F51B2E
+Towers II - Plight of the Stargazer (USA, Europe)|83A3FB5D,3241AB6A
+Trevor McFur in the Crescent Galaxy (World)|95143668,62D32C32
+Trevor McFur in the Crescent Galaxy (World) (Beta)|0A055EE0,7270A801
+Trevor McFur in the Crescent Galaxy (World) (Rev A)|1E451446,97B9F885,J9001
+Troy Aikman NFL Football (World)|33328474,21942,38A130ED
+Ultra Vortek (World)|0F6A1C2C,E7B4F5B9,J9082E
+Ultra Vortex (World) (Beta) (1995-03-20)|A27823D8,C00C85D1
+Val d'Isere Skiing and Snowboarding (World)|C9608717,194AE39E,J9060E
+Virtual VCS (USA) (Proto)|59A8863F,328F40DB
+White Men Can't Jump (USA, Europe)|14915F20,72C77077,J9070E
+Wolfenstein 3D (World)|E91BD644,7B52ECD8,J9028
+Worms (USA, Europe)|6EB774EB,A2EBED11,JA103
+Zero 5 (USA, Europe)|61C7EEC0,0795ED13,J4011
+Zero 5 (USA, Europe) (Beta)|E8334B93,9046BD72
+Zool 2 (World)|8975F48B,F5B867AC,J9042E
+Zoop (USA, Europe)|C5562581,75679275,J9109E
+Zzyorxx II (USA) (Demo)|27A31F72,4C84D996

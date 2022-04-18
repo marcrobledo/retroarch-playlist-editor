@@ -1,0 +1,100 @@
+lnx
+A.P.B. (USA, Europe)|68A0ACAB,F6FB48FB
+Alien vs Predator (USA) (Proto) (1993-12-17)|D6843E8E,540E9BB7
+Awesome Golf (USA, Europe)|2B90E818,0483CD2A
+Baseball Heroes (USA, Europe)|BB5DE237,3943C116
+Basketbrawl (USA, Europe)|CF67513A,4161BB4A
+Batman Returns (USA, Europe)|68CD6DCB,277F82C2
+Battle Wheels (USA, Europe)|57EFFF37,779FAECE
+Battlezone 2000 (USA, Europe)|E3AF09CE,30FEE726
+Bill & Ted's Excellent Adventure (USA, Europe)|C91AFF8A,143A313E
+Block Out (USA, Europe)|C96E5BC6,3CD75DF3
+Blue Lightning (USA, Europe)|35AF173C,DAF587B1
+Blue Lightning (USA, Europe) (Demo)|8543CC15,BFE36525
+Bubble Trouble (USA, Europe)|F85D0806,333DAECE
+California Games (USA, Europe)|DA7D96FD,A08F0B59
+Centipede (USA) (Proto)|97501709,071A2E46
+Checkered Flag (USA, Europe)|6687F846,19C5A7A5
+Chip's Challenge (USA, Europe)|F45F784A,6A5F53ED
+Crystal Mines II (USA, Europe)|0535E6C9,AEC474C8
+Daemonsgate (USA) (Proto)|9E6B7645,99729395
+Desert Strike - Return to the Gulf (USA, Europe)|2EAAE973,B9AC1FE5
+Dinolympics (USA, Europe)|0ED9EB06,50386CFA
+Dirty Larry - Renegade Cop (USA, Europe)|C6017733,D565FBB7
+Double Dragon (USA, Europe)|BCB2E75A,FBFC0F05
+Dracula the Undead (USA, Europe)|0F4B4071,33BB74C7
+Electrocop (USA, Europe)|765D742D,BD97116B
+European Soccer Challenge (USA, Europe)|8EC43452,F83397F9
+Eye of the Beholder (USA) (Proto)|A0010717,6BCEAA9C
+Eye of the Beholder (USA) (Unl)|F1B307CB
+Fat Bobby (USA, Europe)|03F4E2A7,9034EE27
+Fidelity Ultimate Chess Challenge, The (USA, Europe)|BD77D5F2,7E4B5945
+Gates of Zendocon (USA, Europe)|D852DBA7,494CC568
+Gauntlet - The Third Encounter (USA, Europe)|8E0908E5,7F0EC7AD
+Gauntlet - The Third Encounter (USA, Europe) (Beta) (1990-06-04)|DCD723E3
+Gordo 106 (USA, Europe)|0671ACEA,D20A85FC
+Hard Drivin' (USA, Europe)|9ADD0861,6DF63834
+Hockey (USA, Europe)|0904A4D9,E8B45707
+Hydra (USA, Europe)|8980A322,E3041C6C
+Ishido - The Way of Stones (USA, Europe)|4AA0E0B9,5CF8BBF0
+Jimmy Connors' Tennis (USA, Europe)|FDD6536D,2455B6CF
+Joust (USA, Europe)|85A2A177,5DBA792A
+Klax (USA, Europe)|EC53A878,A53649F1
+Klax (USA, Europe) (Beta)|4D5D94F4
+Krazy Ace - Miniature Golf (USA, Europe)|96C5D9B9,BED5BA2B
+Kung Food (USA, Europe)|3529D2D7,CD1BD405
+Lemmings (USA, Europe)|A77B6B64,39B9B8CC
+Lexis (USA)|E89999BC,0271B6E9
+Lode Runner (USA) (Proto 1)|8B4D5ED6
+Lode Runner (USA) (Proto 2)|AE5AC8A9
+Loopz (USA) (Proto)|B6DBBB21
+Loopz (USA) (Proto) (1992-11-05)|B1C25EF1
+Lynx Casino (USA, Europe)|5539BAF4,1091A268
+Lynx II Production Test Program (USA)|28ADA019
+Lynx II Production Test Program (USA) (v0.02) (Proto)|93ACF1DC
+Malibu Bikini Volleyball (USA, Europe)|ABA3E776,ABA6DA3D
+Malibu Bikini Volleyball (USA, Europe) (Beta) (1993-05-11)|4329084A
+Marlboro Go! (Europe) (Proto)|C3FA0D4D,C4E3E89D
+Ms. Pac-Man (USA, Europe)|A4D77DE9,7DE3783A
+NFL Football (USA, Europe)|C398359E,006FD398
+Ninja Gaiden (USA, Europe)|5ADF25F0,22D47D51
+Ninja Gaiden III - The Ancient Ship of Doom (USA, Europe)|CD2FFBCC,F3E3F811
+Pac-Land (USA, Europe)|5B57126A,AA50DD22
+Paperboy (USA, Europe)|D6A4C70B,4CDFBD57
+Pinball Jam (USA, Europe)|8863C28D,14D38CA7
+Pit-Fighter (USA, Europe)|CBAF54F3,2393135F
+Pit-Fighter (USA, Europe) (Beta) (1992-10-13)|E7A5A4D0
+Power Factor (USA, Europe)|5DB41679,99C42034
+QIX (USA, Europe)|5651E1A8,B9881423
+Raiden (USA) (Proto)|BCD10C3A,PA2078
+Raiden (USA) (v3.0) (Beta)|2702BA4F
+Rampage (USA, Europe)|490033C9,B10B7C8E
+Rampart (USA, Europe)|ADAB7883,139F301D
+Road Riot 4WD (USA) (Proto 1)|ECCEA0D5
+Road Riot 4WD (USA) (Proto 2)|82555EEB
+Road Riot 4WD (USA) (Proto 3)|3BEBB6D1,69959A3B
+RoadBlasters (USA, Europe)|47F69051,6867E80C
+Robo-Squash (USA, Europe)|AEED3E7E,D1DFF2B2
+Robotron 2084 (USA, Europe)|7117E9F7,7A6049B5
+Rygar (USA, Europe)|1DFCA564,67E5BDBA
+S.T.U.N. Runner (USA, Europe)|4B3BF84F,8595C40B
+Scrapyard Dog (USA, Europe)|CA0D1BDA,BE166F3B
+Shadow of the Beast (USA, Europe)|D43A8430,EB78BAA3
+Shanghai (USA, Europe)|0928CB18,192BCD04
+Steel Talons (USA, Europe)|AB814832,5B2308ED
+Super Asteroids, Missile Command (USA, Europe)|7D8A25D1,2DA7E2A8
+Super Off-Road (USA, Europe)|C51B7A2F,690CAEB0
+Super Skweek (USA, Europe)|11B712F6,DFA61571
+Switchblade II (USA, Europe)|63144491,13657705
+Todd's Adventures in Slime World (USA, Europe)|39BF3C25,AE267E29
+Toki (USA, Europe)|52B94A6C,156A4A4C
+Tournament Cyberball (USA, Europe)|70D0C9BF,0590A9E3
+Turbo Sub (USA, Europe)|5247B5F3,A4B924D6
+Viking Child (USA, Europe)|45969EB0,8D56828B
+Warbirds (USA, Europe)|A6AE2301,B946BA49
+World Class Soccer (USA, Europe)|9D929F2C,91233794
+Xenophobe (USA, Europe)|922A9DD0,9BED736D
+Xybots (USA, Europe)|CAC9A246,89E2A595
+Zaku (USA) (Beta) (Unl)|B3747C71
+Zaku (USA) (Unl)|4EA845DA
+Zarlor Mercenary (USA, Europe)|35BC4FF9,CB27199D

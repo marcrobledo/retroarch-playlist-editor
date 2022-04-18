@@ -1,0 +1,3343 @@
+gba
+007 - Everything or Nothing (Japan)|CAF2E99F,BJBJ
+007 - Everything or Nothing (USA, Europe) (En,Fr,De)|9D4F1E18,BJBE
+007 - NightFire (USA, Europe) (En,Fr,De)|56C83C16,A7OE
+2 Disney Games - Disney Sports - Football + Disney Sports - Skateboarding (Europe) (En,Fr,De,Es,It)|C8CDB4ED,BFBP
+2 Disney Games - Lilo & Stitch 2 + Peter Pan - Return to Neverland (Europe) (En,Fr,De,Es+En,Fr,De,Es,It,Nl)|75703943,BLQP
+2 Game Pack! - Hot Wheels - Stunt Track Challenge + Hot Wheels - World Race (USA, Europe)|20929EC1,BQJE
+2 Game Pack! - Matchbox Missions - Emergency Response & Air, Land and Sea Rescue (Europe) (En,Fr,De,Es,It)|0A907F58,BB4P
+2 Game Pack! - Matchbox Missions - Emergency Response + Air, Land and Sea Rescue (USA)|4080AAC1,BB4E
+2 Game Pack! - Uno & Skip-Bo (Europe) (En,Fr,De,Es,It)|E2018633,BUQP
+2 Game Pack! - Uno + Skip-Bo (USA)|0E2AF604,BUQE
+2 Games in 1 - Alla Ricerca di Nemo + Gli Incredibili - Una 'Normale' Famiglia di Supereroi (Italy) (Es,It+It)|9EA46982,BINY
+2 Games in 1 - Bionicle + Knights' Kingdom (Europe) (En,Fr,De,Da+En,De)|D720BDCA,BL5P
+2 Games in 1 - Brother Bear + The Lion King (Europe) (En,Fr,De,Es,It,Nl,Sv,Da)|9E5F961B,BLBX
+2 Games in 1 - Buscando a Nemo + Los Increibles (Spain) (Es,It+Es)|D7AC0697,BINZ
+2 Games in 1 - Cartoon Network Block Party + Cartoon Network Speedway (USA)|B3D323E4,BW2E
+2 Games in 1 - Columns Crown + ChuChu Rocket! (Europe) (En+En,Ja,Fr,De,Es)|0BEAA2F4,BW9P
+2 Games in 1 - Die Monster AG + Findet Nemo (Germany)|4FD20E32,BDZD
+2 Games in 1 - Disney Princesas + El Rey Leon (Spain) (Es+En,Fr,De,Es,It,Nl,Sv,Da)|6472AC25,BLPS
+2 Games in 1 - Disney Princesas + Hermano Oso (Spain) (Es+En,Fr,De,Es,It,Nl,Sv,Da)|01B143A9,BWBS
+2 Games in 1 - Disney Princesas + Lizzie McGuire (Spain)|57F886B0,BLDS
+2 Games in 1 - Disney Princess + Brother Bear (Europe) (En+En,Fr,De,Es,It,Nl,Sv,Da)|34355326,BWBP
+2 Games in 1 - Disney Princess + Lizzie McGuire (Europe)|99C96067,BLDP
+2 Games in 1 - Disney Princesse + Frere des Ours (France) (Fr+En,Fr,De,Es,It,Nl,Sv,Da)|22C54AE1,BWBF
+2 Games in 1 - Disney Princesse + Le Roi Lion (France) (Fr+En,Fr,De,Es,It,Nl,Sv,Da)|CCE9C2E2,BLPF
+2 Games in 1 - Disney Principesse + Il Re Leone (Italy) (It+En,Fr,De,Es,It,Nl,Sv,Da)|A4ACBA4A,BLPI
+2 Games in 1 - Disney Principesse + Koda, Fratello Orso (Italy) (It+En,Fr,De,Es,It,Nl,Sv,Da)|458DEDB1,BWBI
+2 Games in 1 - Disneys Prinzessinnen + Baerenbrueder (Germany) (De+En,Fr,De,Es,It,Nl,Sv,Da)|52C8A11F,BWBD
+2 Games in 1 - Disneys Prinzessinnen + Der Koenig der Loewen (Germany) (De+En,Fr,De,Es,It,Nl,Sv,Da)|AD82CB84,BLPD
+2 Games in 1 - Dr. Mario + Puzzle League (Europe) (En,Fr,De,Es,It)|FB7A7567,BZPP
+2 Games in 1 - Dragon Ball Z - The Legacy of Goku I & II (USA)|ACE78C4F,BLFE
+2 Games in 1 - Findet Nemo + Die Unglaublichen (Germany)|5DB86E1C,BIND
+2 Games in 1 - Findet Nemo + Findet Nemo - Das Abenteuer Geht Weiter (Germany) (De+Fr,De,Nl)|60A35C6E,BFWY
+2 Games in 1 - Finding Nemo + Finding Nemo - The Continuing Adventures (Europe) (En+En,Es,It,Sv,Da)|72D5F428,BFWP
+2 Games in 1 - Finding Nemo + Finding Nemo - The Continuing Adventures (Europe) (Es,It+En,Es,It,Sv,Da)|73444273,BFWZ
+2 Games in 1 - Finding Nemo + Finding Nemo - The Continuing Adventures (Europe) (Fr,Nl+Fr,De,Nl)|2E5EDA0D,BFWX
+2 Games in 1 - Finding Nemo + The Incredibles (Europe)|9702ABCE,BINP
+2 Games in 1 - Finding Nemo + The Incredibles (Europe) (Fr,Nl)|2D4D69FA,BINX
+2 Games in 1 - Finding Nemo - The Continuing Adventures + The Incredibles (USA)|D5A37AA8,BNEE
+2 Games in 1 - Golden Nugget Casino + Texas Hold 'em Poker (USA)|6F88E088,BWCE
+2 Games in 1 - Hot Wheels - Velocity X + Hot Wheels - World Race (Europe)|B3C2CF9F,BHZP
+2 Games in 1 - Hot Wheels - Velocity X + Hot Wheels - World Race (USA)|A440A760,BHZE
+2 Games in 1 - Les Razmoket Rencontrent les Delajungle + SpongeBob SquarePants - SuperSponge (France) (Fr+En)|B3BB9A45,BRSF
+2 Games in 1 - Monsters & Co. + Alla Ricerca di Nemo (Italy) (En,Fr,It+Es,It)|06715995,BDZI
+2 Games in 1 - Monsters en Co. + Finding Nemo (Netherlands) (En,Es,Nl+Fr,Nl)|8F66CAD4,BDZH
+2 Games in 1 - Monsters, Inc. + Finding Nemo (Europe)|6CB47552,BDZP
+2 Games in 1 - Monsters, Inc. + Finding Nemo (USA)|AD1C5818,BDZE
+2 Games in 1 - Monstres & Cie + Le Monde de Nemo (France) (En,Fr,It+Fr,Nl)|20298A03,BDZF
+2 Games in 1 - Monstruos, S.A. + Buscando a Nemo (Spain) (En,Es,Nl+Es,It)|9FF018F9,BDZS
+2 Games in 1 - Moto GP + GT Advance 3 - Pro Concept Racing (Europe) (En,Fr,De,Es,It+En)|51D6CEB0,BARP
+2 Games in 1 - Power Rangers - Ninja Storm + Power Rangers - La Force du Temps (France) (En,Fr,De+Fr)|14AA2642,BRZF
+2 Games in 1 - Power Rangers - Ninja Storm + Power Rangers - Time Force (Europe) (En,Fr,De+En)|1B6956D0,BRZP
+2 Games in 1 - Power Rangers - Ninja Storm + Power Rangers - Time Force (Germany) (En,Fr,De+De)|A5E872D7,BRZD
+2 Games in 1 - Power Rangers - Ninja Storm + Power Rangers - Time Force (USA) (En,Fr,De+En)|994E7629,BRZE
+2 Games in 1 - Quad Desert Fury + Monster Trucks (USA)|F9EC06A9,BWQE
+2 Games in 1 - Rugrats - Go Wild + SpongeBob SquarePants - SuperSponge (Europe)|E5AC73BB,BRSP
+2 Games in 1 - Scooby-Doo + Scooby-Doo 2 - Desatado (Spain) (Es+En,Fr,De,Es,It)|D21582D0,BPUS
+2 Games in 1 - Scooby-Doo + Scooby-Doo 2 - Les Monstres Se Dechainent (France) (Fr+En,Fr,De,Es,It)|802C9234,BPUF
+2 Games in 1 - Scooby-Doo + Scooby-Doo 2 - Monsters Unleashed (Europe)|BFCD892E,BPUP
+2 Games in 1 - Scooby-Doo + Scooby-Doo 2 - Monsters Unleashed (USA)|1F023DBE,BPUE
+2 Games in 1 - Scooby-Doo! - Mystery Mayhem + Scooby-Doo and the Cyber Chase (Europe) (En,Fr,De+En)|99566698,BCVP
+2 Games in 1 - Scooby-Doo! - Mystery Mayhem + Scooby-Doo and the Cyber Chase (USA) (En,Fr,De+En)|5318DF13,BCVE
+2 Games in 1 - Sonic Advance + ChuChu Rocket! (Europe) (En,Ja,Fr,De,Es)|22489C7C,BW3P
+2 Games in 1 - Sonic Advance + Sonic Battle (Europe) (En,Ja,Fr,De,Es+En,Ja,Fr,De,Es,It)|94CF5B2B,BW4P
+2 Games in 1 - Sonic Advance + Sonic Pinball Party (Europe) (En,Ja,Fr,De,Es+En,Ja,Fr,De,Es,It)|1127DC09,BW5P
+2 Games in 1 - Sonic Battle + ChuChu Rocket! (Europe) (En,Ja,Fr,De,Es,It+En,Ja,Fr,De,Es)|2C57E588,BW7P
+2 Games in 1 - Sonic Battle + Sonic Pinball Party (Europe) (En,Ja,Fr,De,Es,It)|A50DE233,BW6P
+2 Games in 1 - Sonic Pinball Party + Columns Crown (Europe) (En,Ja,Fr,De,Es,It+En)|8577A000,BW8P
+2 Games in 1 - SpongeBob SquarePants - Battle for Bikini Bottom + Jimmy Neutron Boy Genius (Europe) (En,Fr,De+En,Fr,De,Es)|4BA7F7CB,BBJP
+2 Games in 1 - SpongeBob SquarePants - Battle for Bikini Bottom + Nicktoons - Freeze Frame Frenzy (USA)|5802CAFD,BU2E
+2 Games in 1 - SpongeBob SquarePants - Battle for Bikini Bottom + The Fairly OddParents! - Breakin' da Rules (USA)|82C21322,BX6E
+2 Games in 1 - SpongeBob SquarePants - Revenge of the Flying Dutchman + SpongeBob SquarePants - SuperSponge (Europe)|111D6997,BDFP
+2 Games in 1 - SpongeBob SquarePants - Revenge of the Flying Dutchman + SpongeBob SquarePants - SuperSponge (USA)|D515C0E4,BDFE
+2 Games in 1 - SpongeBob SquarePants - SuperSponge + SpongeBob SquarePants - Battle for Bikini Bottom (Europe)|06F0F43C,BSZP
+2 Games in 1 - SpongeBob SquarePants - SuperSponge + SpongeBob SquarePants - Battle for Bikini Bottom (Europe) (En+En,Fr,De)|71D52C61,BSZX
+2 Games in 1 - The Lion King + Disney Princess (Europe) (En,Fr,De,Es,It,Nl,Sv,Da+En)|3B1CF966,BLPP
+2 Games in 1 - The SpongeBob SquarePants Movie + SpongeBob SquarePants and Friends in Freeze Frame Frenzy (Europe) (En,Fr,De,Es,It,Nl+En,Fr,De,Es,Nl)|A04CEBFE,B2BP
+2 Games in 1! - Dragon Ball Z - Buu's Fury + Dragon Ball GT - Transformation (USA)|280587F2,BUFE
+2 Games in One! - Dr. Mario + Puzzle League (USA)|4C2B7349,BZPE
+2 Games in One! - Gauntlet + Rampart (Europe) (En,Fr,De,Es,It)|36717B52,B69P
+2 Games in One! - Gauntlet + Rampart (USA)|5F255362,B69E
+2 Games in One! - Marble Madness + Klax (Europe) (En,Fr,De,Es,It)|40DA6C26,B68P
+2 Games in One! - Marble Madness + Klax (USA)|5DA05880,B68E
+2 Games in One! - Paperboy + Rampage (Europe) (En,Fr,De,Es,It)|44E1761A,B6BP
+2 Games in One! - Paperboy + Rampage (USA)|79FE9284,B6BE
+2 Games in One! - Spy Hunter + Super Sprint (Europe) (En,Fr,De,Es,It)|BBF32EE3,B6AP
+2 Games in One! - Spy Hunter + Super Sprint (USA)|AD2F5353,B6AE
+2 Great Games! - Pac-Man World + Ms. Pac-Man - Maze Madness (USA)|851127D4,B6PE
+2 in 1 - Asterix & Obelix - Bash Them All! + Asterix & Obelix XXL (Europe) (En,Fr,De,Es,It,Nl)|183A2207,B2AP
+2 in 1 - V-Rally 3 + Stuntman (Europe) (En,Fr,De,Es,It)|5813810F,BCSP
+2 in 1 Game Pack - Shrek 2 & Shark Tale (Europe) (En,Fr,De,Es,It,Sv+En,Fr,De,Es,It)|1802C624,BS7P
+2 in 1 Game Pack - Shrek 2 + Shark Tale (USA)|5CB036C7,BS7E
+2 in 1 Game Pack - Spider-Man & Spider-Man 2 (Europe) (En,Fr,De+En,Fr,De,Es,It)|D732E52D,BX3P
+2 in 1 Game Pack - Spider-Man + Spider-Man 2 (USA) (En,Fr,De+En,Fr,De,Es)|0AE3637F,BX3E
+2 in 1 Game Pack - Spider-Man - Mysterio's Menace + X2 - Wolverine's Revenge (USA, Europe)|E7BAA5B9,BX2E
+2 in 1 Game Pack - Tony Hawk's Underground + Kelly Slater's Pro Surfer (USA, Europe)|6D8EF48A,BX4E
+2 Jeux en 1 - Titeuf - Ze Gag Machine + Titeuf - Mega Compet (France)|0A5965F4,BT5F
+2-in-1 Fun Pack - Shrek 2 + Madagascar (Europe)|63BB643F,BXGP
+2-in-1 Fun Pack - Shrek 2 + Madagascar (USA)|39D68733,BXGE
+2-in-1 Fun Pack - Shrek 2 + Madagascar - Operation Penguin (Europe)|3535B2BF,BXHP
+2-in-1 Fun Pack - Shrek 2 + Madagascar - Operation Penguin (USA)|18670538,BXHE
+2006 FIFA World Cup - Germany 2006 (USA, Europe) (En,Fr,De,Es,It)|50AB4544,B6WE
+2K Sports - Major League Baseball 2K7 (USA)|8F3FF0E4,B2YE
+2K Sports - Major League Baseball 2K7 (USA) (Beta)|EA51532D,BYMP
+3 Game Pack! - Candy Land + Chutes and Ladders + Original Memory Game (USA)|628A8E32,BC4E
+3 Game Pack! - Ker Plunk! + Toss Across + Tip It (USA)|8B523FF7,BXCE
+3 Game Pack! - Mouse Trap + Simon + Operation (USA)|20287753,B3OE
+3 Game Pack! - The Game of Life + Payday + Yahtzee (USA)|E6DC35A9,B3UE
+3 Games in 1 - Rugrats - I Gotta Go Party + SpongeBob SquarePants - SuperSponge + Tak and the Power of Juju (Europe) (En+En+En,Fr,De)|6721794B,B44P
+3 Games in One - Darts + Roll-a-Ball + Shuffle Bowl (Europe)|4FBC3F62,BRQP
+3 Games in One - Darts + Roll-a-Ball + Shuffle Bowl (USA)|AAFC9AFA,BRQE
+3 Games in One! - Breakout + Centipede + Warlords (Europe) (En,Fr,De,Es,It)|2AF65E94,B6ZP
+3 Games in One! - Breakout + Centipede + Warlords (USA)|02E0CCA4,B6ZE
+3 Games in One! - Super Breakout + Millipede + Lunar Lander (Europe) (En,Fr,De,Es,It)|B6EF1ED0,B62P
+3 Games in One! - Super Breakout + Millipede + Lunar Lander (USA)|D191B56F,B62E
+3 Games in One! - Yars' Revenge + Asteroids + Pong (Europe) (En,Fr,De,Es,It)|F42B4E70,B64P
+3 Games in One! - Yars' Revenge + Asteroids + Pong (USA)|DBD04637,B64E
+4 Games on One Game Pak (Nickelodeon Movies) (USA)|E2F8A189,BI6E
+4 Games on One Game Pak (Nicktoons) (USA)|CAC0C0D8,BI7E
+4 Games on One Game Pak (Racing) (USA) (En,Fr,De,Es,It)|04A40017,BI4E
+4x4 Off-Roaders (Europe) (Proto)|08A7EC46
+Ab durch die Hecke (Germany)|31E57A19,BH5D
+Ace Combat Advance (Europe) (En,Fr,De,Es,It) (Beta)|2FA2C076
+Ace Combat Advance (USA, Europe)|43F5E157,BAEE
+Ace Lightning (Europe)|E94AAFC9,ALXP
+Acrobat Kid (Japan)|71720E98,AAOJ
+Action Man - Robot Atak (Europe) (En,Fr,De,Es,It)|D07214A2,BACP
+Action Replay (Europe) (En,Fr,De,It) (v3.3) (Unl)|4304BD2D
+Action Replay GBX (Europe) (En,Fr,De,It) (Unl)|18CE5322
+Action Replay GBX (Europe) (En,Fr,De,It) (Unl) (Alt)|45BB6F4E
+Action Replay GBX (Europe) (En,Fr,De,It) (v3.1) (Unl)|3DB7A213
+Action Replay GBX (Europe) (Unl)|5AD72359
+Action Replay MAX (Europe) (Unl)|3FC75439
+Activision Anthology (USA)|14A28D68,BAVE
+Advance GT2 (Japan) (En)|EDCB7D46,A2GJ
+Advance GTA (Japan) (En)|FDC82E98,AG7J
+Advance GTA (Japan) (En) (Rev 1)|FCA59484,AG7J
+Advance Guardian Heroes (Europe) (En,Fr)|2487B85B,BGCP
+Advance Guardian Heroes (Japan)|1527CA8C,BAGJ
+Advance Guardian Heroes (USA)|C501917F,BGCE
+Advance Rally (Japan) (En)|86ED2599,AR7J
+Advance Wars (Europe) (En,Fr,De,Es)|66FB29E9,AWRP
+Advance Wars (Europe) (En,Fr,De,Es) (Virtual Console)|8400759C,AWRP
+Advance Wars (USA)|DBEF116C,AWRE
+Advance Wars (USA) (Rev 1)|26FD0FC9,AWRE
+Advance Wars (USA) (Virtual Console)|BDE36F98,AWRE
+Advance Wars 2 - Black Hole Rising (Europe) (En,Fr,De,Es,It)|5A09AAE6,AW2P
+Advance Wars 2 - Black Hole Rising (Europe) (En,Fr,De,Es,It) (Virtual Console)|BF33782F,AW2P
+Advance Wars 2 - Black Hole Rising (USA)|5AD0E571,AW2E
+Advance Wars 2 - Black Hole Rising (USA) (Virtual Console)|B6FFDDE0,AW2E
+Adventure of Tokyo Disney Sea (Japan)|5781ACAF,ADEJ
+Adventures of Jimmy Neutron Boy Genius vs. Jimmy Negatron, The (Germany)|3690C0FD,AJXD
+Adventures of Jimmy Neutron Boy Genius vs. Jimmy Negatron, The (USA, Europe)|D2CED674,AJXE
+Adventures of Jimmy Neutron Boy Genius, The - Attack of the Twonkies (USA, Europe)|D59D753B,BJYE
+Adventures of Jimmy Neutron Boy Genius, The - Jet Fusion (USA, Europe)|67756000,BJNE
+Aero the Acro-Bat (USA) (Beta)|BEED50F0,AEJE
+Aero the Acro-Bat - Rascal Rival Revenge (Europe)|A7E98EBE,AAOP
+Aero the Acro-Bat - Rascal Rival Revenge (Europe) (Beta)|6F3EA564,XXXX
+Aero the Acro-Bat - Rascal Rival Revenge (USA)|B47AC020,AAOE
+Agassi Tennis Generation (Europe) (En,Fr,De,Es,It)|90D759E2,ACEP
+Agassi Tennis Generation (USA)|8BA179B8,ACEE
+Agent Hugo - Roborumble (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)|83BC2D2C,BHQP
+Aggressive Inline (Europe) (En,Fr,De)|A2F6BCDE,AILP
+Aggressive Inline (USA)|3A44FCD5,AILE
+AGS Aging Cartridge (World) (v7.0)|BBB6A960,TCHK
+AGS Aging Cartridge (World) (v7.1)|D047FFDF,TCHK
+Aigle de Guerre, L' (France)|A9BA0A11,36A0E152,ANPF
+AirForce Delta II (Japan) (En,Ja,Fr,De)|58A972DF,AAKJ
+AirForce Delta Storm (USA) (En,Ja,Fr,De)|EBF757B8,AAKE
+Aka-chan Doubutsuen (Japan)|B50CD166,BAZJ
+Aka-chan Doubutsuen (Japan) (Rev 1)|C1072E26,BAZJ
+Akumajou Dracula - Circle of the Moon (Japan)|F3E41D73,AAMJ
+Akumajou Dracula - Circle of the Moon (Japan) (Castlevania Advance Collection)|1E60EC88,AAMJ
+Akumajou Dracula - Circle of the Moon (Japan) (Virtual Console)|2C56982D,AAMJ
+Aladdin (Europe) (En,Fr,De,Es)|594FBB7C,BADP
+Aladdin (Japan)|587F1AEF,AJ6J
+Aladdin (USA) (En,Fr,De,Es)|40B383F6,BADE
+Aleck Bordon Adventure - Tower & Shaft Advance (Japan)|E068728F,BABJ
+Alex Ferguson's Player Manager 2002 ~ Total Soccer Manager (Europe) (En,Fr,De,Es,It,Nl)|92F99295,ATFP
+Alex Rider - Stormbreaker (Europe) (En,Fr,De,Es)|25E8E2CD,BAWX
+Alex Rider - Stormbreaker (USA)|CCA55DFD,BAWE
+Alien Hominid (Europe) (En,Fr,De,Es,It)|DFF47236,BAHP
+Alienators - Evolution Continues (USA, Europe)|0D694CA4,AEVE
+All Grown Up! - Express Yourself (USA, Europe)|E9C9DD2B,BALE
+All-Star Baseball 2003 (USA)|E30691FE,AA3E
+All-Star Baseball 2004 (USA) (Beta 1)|D6106C26,ASNB
+All-Star Baseball 2004 (USA) (Beta 2)|6AA9B41E,AA3E
+All-Star Baseball 2004 Featuring Derek Jeter (USA)|60E2DB03,AA7E
+Altered Beast - Guardian of the Realms (Europe) (En,Fr,De,Es,It)|654F7916,AARP
+Altered Beast - Guardian of the Realms (USA)|C4955F69,AARE
+Amazing Virtual Sea-Monkeys, The (USA)|3484F139,A7ME
+American Bass Challenge (USA)|D76AD62D,AABE
+American Dragon - Jake Long - Rise of the Huntsclan (USA, Europe) (En,Fr,De,Es,It)|698377D2,BAPE
+American Idol (USA)|F053FFBF,BIDE
+American Tail, An - Fievel's Gold Rush (Europe) (En,Fr,De,Es,It)|C8EA6D9E,AFGP
+American Tail, An - Fievel's Gold Rush (USA) (En,Es)|2A882EA6,AFGE
+Angel Collection - Mezase! Gakuen no Fashion Leader (Japan)|DA6555D8,AFNJ
+Angel Collection 2 - Pichimo ni Narou (Japan)|7B46D462,BECJ
+Angelique (Japan)|C9D41F35,AAGJ
+Animal Mania - Dokidoki Aishou Check (Japan)|89E6CD89,AANJ
+Animal Snap - Rescue Them 2 by 2 (Europe)|25015475,AAQP
+Animal Snap - Rescue Them 2 by 2 (USA)|7304DCA4,AAQE
+Animal Yokochou - Doki Doki Kyuushutsu Daisakusen! no Maki (Japan)|D53C9438,BAYJ
+Animal Yokochou - Doki Doki Shinkyuu Shiken! no Maki (Japan)|41B39214,BAXJ
+Animaniacs - Lights, Camera, Action! (Europe) (En,Fr,De,Es,It)|840D11C1,ANIP
+Another World (World) (En,Fr) (Unl)|86C4F772
+Ant Bully, The (Europe) (En,Fr,De,Es,It)|52DC386B,BUYP
+Ant Bully, The (USA) (En,Fr)|8D51A101,BUYE
+Antz - Extreme Racing (Europe) (En,Fr,De,Es,It,Nl)|367927ED,ANZP
+Antz - Extreme Racing (USA)|F4EFC5ED,ANUE
+Ao-Zora to Nakama-tachi - Yume no Bouken (Japan)|AD9AF125,AAZJ
+Archer Maclean's 3D Pool (USA)|4202A9CD,BPLE
+Arctic Tale (USA)|81397AC0,BB5E
+Army Men - Operation Green (USA) (En,Fr,De,Es,It)|6D174E28,AMEE
+Army Men - Turf Wars (USA)|65AC74CC,AY3E
+Army Men Advance (USA, Europe) (En,Fr,De,Es,It)|9A4A509F,ASAE
+Around the World in 80 Days (Europe) (En,Fr,De,Es,It,Nl)|2DD8CBD7,B8DP
+Around the World in 80 Days (USA)|C2C22AF2,B8DE
+Arthur and the Invisibles (USA) (En,Fr,Es)|87C25055,B2NE
+Arthur and the Minimoys (Europe) (En,Fr,De,Es,It,Nl)|A4DAE90B,B2NP
+Ashita no Joe - Makka ni Moeagare! (Japan)|69CDE456,BAMJ
+Asterix & Obelix - Bash Them All! (Europe) (En,Fr,De,Es,It,Nl)|92360109,AOBP
+Asterix & Obelix XXL (Europe) (En,Fr,De,Es,It,Nl)|A9B1ECE5,BLXP
+Asterix & Obelix XXL (Europe) (En,Fr,De,Es,It,Nl) (Beta 2)|A3F66D2C
+Asterix & Obelix XXL (Europe) (Fr) (Beta 1)|F6A977A5
+Astro Boy - Omega Factor (Europe) (En,Ja,Fr,De,Es,It)|1E2E8937,BTAP
+Astro Boy - Omega Factor (USA) (En,Ja,Fr,De,Es,It)|E8619031,BTAE
+Astro Boy - Tetsuwan Atom - Atom Heart no Himitsu (Japan)|E2D94B0D,BTAJ
+Atari Anniversary Advance (Europe)|B9B89FDF,AAVP
+Atari Anniversary Advance (USA)|4505A638,AAVE
+Atlantis - The Lost Empire (Europe) (En,Fr,De,Es,It,Nl)|B3948DBC,ATLX
+Atlantis - The Lost Empire (USA, Europe)|8BD224C5,ATLE
+Atomic Betty (USA, Europe)|8919D82C,BETE
+Atomic Betty (USA, Europe) (Beta)|622DBECC
+ATV - Quad Power Racing (Europe) (En,Fr,De,Es,It) (Rev 1)|4B4E8BC7,AQRP
+ATV - Quad Power Racing (USA, Europe)|9C1A7DCB,AQRE
+ATV - Thunder Ridge Riders (Europe) (En,Fr,De,Es,It)|B1D2896F,B3BP
+ATV - Thunder Ridge Riders (USA)|773E73C7,B3BE
+Avatar - The Last Airbender (USA)|946787C0,BQZE
+Avatar - The Last Airbender - The Burning Earth (USA)|52D8D101,BBWE
+Avatar - The Legend of Aang (Europe) (En,Fr,De,Nl)|52FE8A62,BQZP
+Avatar - The Legend of Aang - The Burning Earth (Europe) (En,De)|EC5D6AFD,BBWP
+Aventures de Jackie Chan, Les - La Legende de la Main Noire (France)|D5FB19A0,AJCF
+Azumanga Daiou Advance (Japan)|216704F6,AZAJ
+B-Densetsu! Battle B-Daman - Fire Spirits! (Japan)|EE41C0EB,BBMJ
+B-Densetsu! Battle B-Daman - Moero! B-Damashii!! (Japan)|D6E4064F,BDXJ
+Babar to the Rescue (Europe) (En,Fr,De,Da)|AB7D6C17,BBVP
+Babar to the Rescue (USA) (En,Fr,Es)|D4073E33,BBVE
+Back to Stone (Europe) (En,Fr)|5730C85A,BBCP
+Back to Stone (Europe) (En,Fr,De) (Beta)|EF365600
+Back to Stone (USA) (En,Fr)|4C29C9C8,BBCE
+Back Track (USA, Europe)|48539B4B,ABKE
+Backyard Baseball (USA)|9F36B4E5,ACKE
+Backyard Baseball 2006 (USA)|92BCD192,BCYE
+Backyard Basketball (USA)|CBDA1D31,AYBE
+Backyard Football (USA)|7CCC79B4,AYFE
+Backyard Football 2006 (USA)|DB0723E3,BYFE
+Backyard Hockey (USA)|3A8E31AF,BYHE
+Backyard Skateboarding (USA)|4EB19B87,BS6E
+Backyard Sports - Baseball 2007 (USA)|0EE82569,BC7E
+Backyard Sports - Basketball 2007 (USA)|28724CA5,BB7E
+Backyard Sports - Football 2007 (USA)|E9FDC229,BF7E
+Bakunetsu Dodge Ball Fighters (Japan)|9030515D,ADFJ
+Bakuten Shoot Beyblade - Gekitou! Saikyou Blader (Japan)|7F2E0320,AHEJ
+Bakuten Shoot Beyblade 2002 - Gekisen! Team Battle!! Kouryuu no Shou - Daichi Hen (Japan)|F01EE06C,A3EJ
+Bakuten Shoot Beyblade 2002 - Gekisen! Team Battle!! Seiryuu no Shou - Takao Hen (Japan)|8778B36A,A3WJ
+Bakuten Shoot Beyblade 2002 - Ikuze! Bakutou! Chou Jiryoku Battle!! (Japan)|1D1BB02B,AB8J
+Baldur's Gate - Dark Alliance (Europe) (En,Fr,De,Es,It)|494492DC,BGDP
+Baldur's Gate - Dark Alliance (USA)|DEEDD7D9,BGDE
+Ballistic - Ecks vs. Sever (USA)|0477F153,AEEE
+Banjo-Kazooie - Grunty's Revenge (Europe) (En,Fr,De)|FB4F38E2,BKZX
+Banjo-Kazooie - Grunty's Revenge (Europe) (En,Fr,De,Es,It) (Beta 1)|4E0F10FA
+Banjo-Kazooie - Grunty's Revenge (Europe) (En,Fr,De,Es,It) (Beta 2)|106ED779
+Banjo-Kazooie - Grunty's Revenge (USA, Europe)|DFB5ABA3,BKZE
+Banjo-Kazooie - La Vendetta di Grunty (Italy)|67AD698F,BKZI
+Banjo-Kazooie - La Venganza de Grunty (Spain)|32544634,BKZS
+Banjo-Pilot (Europe) (En,Fr,De,Es,It)|B98DE3A4,BAJP
+Banjo-Pilot (Europe) (En,Fr,De,Es,It) (Beta) (2004-09-29)|DA65CA49
+Banjo-Pilot (Unknown) (Beta)|817FD31D,XXXX
+Banjo-Pilot (USA)|6E4030A1,BAJE
+Barbie - The Princess and the Pauper (Europe) (En,Fr,De,Es,It,Nl)|116194F2,BAUP
+Barbie - The Princess and the Pauper (USA)|F508A7B7,BAUE
+Barbie and the Magic of Pegasus (Europe) (En,Fr,De,Es,It,Nl)|5661E71A,BE5P
+Barbie and the Magic of Pegasus (USA)|29D23835,BE5E
+Barbie as the Island Princess (USA)|DB6160EB,BBNE
+Barbie Diaries, The - High School Mystery (Europe)|4E8A650C,BBIP
+Barbie Diaries, The - High School Mystery (USA)|5C704CBE,BBIE
+Barbie Groovy Games (Europe) (En,Fr,De,Es,It)|749339B2,AVBP
+Barbie Groovy Games (USA)|AA017567,AVBE
+Barbie Horse Adventures (Europe) (En,Fr,De,Es,It,Nl)|7C6D9EF3,AI8P
+Barbie Horse Adventures - Blue Ribbon Race (USA)|BA184025,AI8E
+Barbie in the 12 Dancing Princesses (Europe) (En,Fr,De,Es,It)|7CA7AA12,BB3P
+Barbie in the 12 Dancing Princesses (USA)|9C0ABDDB,BB3E
+Barbie Superpack - Secret Agent + Groovy Games (Europe) (En,Fr,De,Es,It)|2C3862C3,BBEP
+Barbie Superpack - Secret Agent + Groovy Games (USA)|C99DB2A1,BBEE
+Barnyard (Europe) (En,Fr,De,Es,It,Nl)|F2B06467,BBYX
+Barnyard (USA)|FF7987DA,BBYE
+Baseball Advance (USA)|339F35B8,ABPE
+Bass Tsuri Shiyouze! - Tournament wa Senryaku da! (Japan)|1326E683,AZBJ
+Batman - Rise of Sin Tzu (USA) (En,Fr,Es)|EF3790D1,BATE
+Batman - Vengeance (Europe) (En,Fr,De,Es,It,Nl)|783AC0C7,ABTP
+Batman - Vengeance (USA) (En,Fr,Es)|9FA17935,ABTE
+Batman Begins (USA, Europe) (En,Fr,De,Es,It,Nl)|83C90106,BBGE
+Battle B-Daman (USA)|6DCE8A26,BDXE
+Battle B-Daman - Fire Spirits! (USA)|5789F441,BBME
+Battle Network Rockman EXE (Japan)|D9516E50,AREJ
+Battle Network Rockman EXE (Japan) (Virtual Console)|109F133B,AREJ
+Battle Network Rockman EXE 2 (Japan)|98E4F096,AE2J
+Battle Network Rockman EXE 2 (Japan) (Rev 1)|41576087,AE2J
+Battle Network Rockman EXE 2 (Japan) (Rev 1) (Virtual Console)|44D44721,AE2J
+Battle Network Rockman EXE 3 (Japan)|1C57724E,A6BJ
+Battle Network Rockman EXE 3 (Japan) (Rev 1)|E48E6BC9,A6BJ
+Battle Network Rockman EXE 3 (Japan) (Rev 1) (Virtual Console)|47CCB9B8,A6BJ
+Battle Network Rockman EXE 3 - Black (Japan) (Promo)|1F13C41F,A3XJ
+Battle Network Rockman EXE 3 - Black (Japan) (Rev 1)|FD57493B,A3XJ
+Battle Network Rockman EXE 3 - Black (Japan) (Rev 1) (Virtual Console)|93E89735,A3XJ
+Battle X Battle - Kyodai Gyo Densetsu (Japan)|0C01F3B8,BBFJ
+BattleBots - Beyond the BattleBox (Europe) (En,Fr,De)|60BFCC8E,ABEP
+BattleBots - Beyond the BattleBox (USA)|985B3704,ABEE
+BattleBots - Design & Destroy (USA)|8D5FFBCA,BBDE
+Battletoads (USA) (Proto)|31480D89,RARE
+BB Ball (Japan)|F6989FBF,A8LJ
+Beast Shooter - Mezase Beast King! (Japan)|A13760BC,AH5J
+Bee Game, The (USA)|DA747C99,BKFE
+Berenstain Bears and the Spooky Old Tree, The (USA)|F87B787B,BBOE
+Best Friends - Hunde & Katzen (Germany) (En,De)|F71761BA,BHBP
+Best Play Pro Yakyuu (Japan)|61709D3D,A8YJ
+Beyblade G-Revolution (Europe) (En,De,Es,It)|5111DF55,BB2P
+Beyblade G-Revolution (USA)|33AFDBE8,BB2E
+Beyblade V-Force - Ultimate Blader Jam (Europe) (En,Fr,De,Es,It)|02CF5E5C,BEYP
+Beyblade V-Force - Ultimate Blader Jam (Europe) (En,Fr,De,Es,It) (Beta)|94D00A1E
+Beyblade V-Force - Ultimate Blader Jam (USA)|4A49272B,BEYE
+Bibi Blocksberg - Der Magische Hexenkreis (Germany)|516CEAC6,BBXD
+Bibi und Tina - Ferien auf dem Martinshof (Germany)|95A19C3C,BUXD
+Bibi und Tina - Ferien auf dem Martinshof (Germany) (Rev 1)|FD8C06EE,BUXD
+Bible Game, The (USA)|CEE6904E,BIBE
+Biene Maja, Die - Klatschmohnwiese in Gefahr (Germany)|0363C23F,BKFX
+Big Mutha Truckers (Europe) (En,Fr,De,Es,It)|C54C02D0,B63P
+Big Mutha Truckers (USA)|574907F4,B63E
+Bionicle (Europe) (En,Fr,De,Da)|5412A24D,BIOP
+Bionicle (USA)|C38F3530,BIOE
+Bionicle - Matoran Adventures (USA, Europe) (En,Fr,De,Es,It,Nl,Sv,Da)|DAEC2264,A5AE
+Bionicle - Maze of Shadows (Europe) (En,De)|BCE2D68E,BILP
+Bionicle - Maze of Shadows (Europe) (En,De) (Rev 1)|9D66EC5E,BILP
+Bionicle - Maze of Shadows (USA)|3FE09C34,BILE
+Bionicle Heroes (Europe) (En,Fr,De,Es,It,Da)|B8DC715B,BIHP
+Bionicle Heroes (USA) (En,Fr,De,Es,It,Da)|F4FAFCCF,BIHE
+bit Generations - Boundish (Japan) (En)|904B55D4,BVDJ
+bit Generations - Coloris (Japan) (En)|A04BE1ED,BVAJ
+bit Generations - Dialhex (Japan) (En)|812EF3A9,BVBJ
+bit Generations - Digidrive (Japan) (En)|0867DC29,BVHJ
+bit Generations - Dotstream (Japan) (En)|F0760400,BVCJ
+bit Generations - Orbital (Japan) (En)|D5D43B4B,BVEJ
+bit Generations - Soundvoyager (Japan) (En)|B32E0839,BVGJ
+Black Belt Challenge (Europe)|72A55741,AB6P
+Black Black - Bura Bura (Japan)|05A4303E,AWEJ
+Black Matrix Zero (Japan)|2B2AFA2E,AXBJ
+Blackthorne (Europe)|E1D36A8C,AQXP
+Blackthorne (USA)|8E6DCD53,AQXE
+Blades of Thunder (USA)|2CCD4915,BBHE
+Bleach Advance - Kurenai ni Somaru Soul Society (Japan)|9DE5CD08,BLEJ
+Blender Bros. (USA)|9A91D7F1,ABRE
+Blue Angelo - Angels from the Shrine (Europe) (Proto 1)|0CEC865B
+Blue Angelo - Angels from the Shrine (Europe) (Proto 2)|F1B924DC
+BMX Trick Racer (USA)|B6D79476,AT9E
+Board Game Classics (USA)|69D760BB,B6EE
+Board Game Classics - Backgammon & Chess & Draughts (Europe) (En,Fr,De,Es,It)|E5C745D8,B6EP
+Boboboubo Boubobo - 9 Kyoku Senshi Gag Yuugou (Japan)|0BD9700B,BB9J
+Boboboubo Boubobo - Bakutou Hajike Taisen (Japan)|166FEECB,BOSJ
+Boboboubo Boubobo - Maji de!! Shinken Battle (Japan)|37938CA4,BOBJ
+Boboboubo Boubobo - Ougi 87.5 Bakuretsu Hanage Shinken (Japan)|58105F89,A8VJ
+Boktai - The Sun Is in Your Hand (Europe) (En,Fr,De,Es,It)|9686C36B,U3IP
+Boktai - The Sun Is in Your Hand (USA)|E715AC45,U3IE
+Boktai - The Sun Is in Your Hand (USA) (Sample)|CF692572,A3IJ
+Boktai 2 - Solar Boy Django (Europe) (En,Fr,De,Es,It)|748189B5,U32P
+Boktai 2 - Solar Boy Django (USA)|E1FFB2D1,U32E
+Boku wa Koukuu Kanseikan (Japan) (Rev 1)|5E3B163E,ABCJ
+Bokujou Monogatari - Mineral Town no Nakama-tachi (Japan)|09185657,A4NJ
+Bokujou Monogatari - Mineral Town no Nakama-tachi for Girl (Japan)|7C26672F,BFGJ
+Bokura no Taiyou - Taiyou Action RPG (Japan)|A09C0807,U3IJ
+Bomberman Jetters - Densetsu no Bomberman (Japan)|70C423B8,AJZJ
+Bomberman Jetters - Game Collection (Japan)|B9DEA90D,BOMJ
+Bomberman Max 2 - Blue Advance (Europe) (En,Fr,De)|09FC4D53,AMHP
+Bomberman Max 2 - Blue Advance (USA)|94C620F3,AMHE
+Bomberman Max 2 - Bomberman Version (Japan)|656CF22E,AMHJ
+Bomberman Max 2 - Max Version (Japan)|290D8810,AMYJ
+Bomberman Max 2 - Red Advance (Europe) (En,Fr,De)|67D2E5B8,AMYP
+Bomberman Max 2 - Red Advance (USA)|4DB517C1,AMYE
+Bomberman Story (Japan)|F7F40189,ABSJ
+Bomberman Tournament (USA, Europe)|240282E6,ABSE
+Bookworm (USA)|4D540384,BKWE
+Bouken Yuuki Pluster World - Densetsu no Plust Gate (Japan)|57438E39,APJJ
+Bouken Yuuki Pluster World - Densetsu no Plust Gate EX (Japan)|3F60BF6A,BPDJ
+Bouken Yuuki Pluster World - Pluston GP (Japan)|CE7A07F0,A2PJ
+Bouken-ou Beet - Busters Road (Japan)|1CC42EBC,BOVJ
+Boukyaku no Senritsu (Japan)|128EDC4F,BBSJ
+Boulder Dash EX (Europe) (En,Fr,De)|D41866A9,ABDP
+Boulder Dash EX (Japan)|E77D5F9B,ABDJ
+Boulder Dash EX (USA)|B355365A,ABDE
+Bounty Hunter X (Europe) (Unl)|91344285
+Boxing Fever (USA, Europe)|08A4FDC4,ABOE
+Bratz (Europe) (En,Fr,De,Es,It)|B30241E2,A2RP
+Bratz (USA) (En,Fr,Es)|21E5A010,A2RE
+Bratz - Babyz (Europe) (En,Es,It)|08B89540,BBZP
+Bratz - Babyz (USA)|23E8A494,BBZE
+Bratz - Forever Diamondz (Europe) (En,Fr,Es,It)|DB179296,BXFP
+Bratz - Forever Diamondz (Germany)|F39CADEB,BXFD
+Bratz - Forever Diamondz (USA)|9E389908,BXFE
+Bratz - Rock Angelz (France)|8FC8D6D2,BRRF
+Bratz - Rock Angelz (Germany)|649588CB,BRRD
+Bratz - Rock Angelz (Spain)|CFFF9119,BRRS
+Bratz - Rock Angelz (USA, Europe)|AA245D0C,BRRE
+Bratz - The Movie (Europe)|CD485F79,BBUP
+Bratz - The Movie (Europe) (Es,It)|4386E26C,BBUX
+Bratz - The Movie (Germany)|04F21321,BBUD
+Bratz - The Movie (USA)|2EF801C0,BBUE
+Breath of Fire (Europe)|ECB2E2AE,A1C3165D,ABFP
+Breath of Fire (Europe) (En,Fr,De)|D3660549,ABFX
+Breath of Fire (USA)|F06422A8,ABFE
+Breath of Fire - Ryuu no Senshi (Japan)|66E96B35,ABFJ
+Breath of Fire II (Europe)|3D868BBF,FF5E8E39,AB2P
+Breath of Fire II (USA)|6F098DA3,AB2E
+Breath of Fire II - Shimei no Ko (Japan)|8A824A70,AB2J
+Britney's Dance Beat (Europe)|886121A8,ABYP
+Britney's Dance Beat (Europe) (En,De)|CFE69825,ABYY
+Britney's Dance Beat (Europe) (En,Fr)|021CDA8E,ABYX
+Britney's Dance Beat (USA)|443198D8,ABYE
+Broken Circle (Europe) (En,It) (Proto)|1E8F8AE0
+Broken Circle (World) (En,It) (Aftermarket) (Unl)|3212C09B
+Broken Sword - The Shadow of the Templars (Europe) (En,Fr,De,Es,It)|3A23EFD7,ABJP
+Broken Sword - The Shadow of the Templars (USA) (En,Fr,De,Es,It)|3278CE51,ABJE
+Brother Bear (Europe)|6220A4B8,BBRP
+Brother Bear (Europe) (Fr,De,Es,It,Nl,Sv,Da)|FD814097,BBRX
+Brother Bear (USA)|342DE1D6,BBRE
+Bruce Lee - Return of the Legend (Europe) (En,Fr,De,Es,It)|B5FF39DC,ALEP
+Bruce Lee - Return of the Legend (USA)|B2A45A4C,ALEE
+Bubble Bobble - Old & New (Europe) (En,Fr,De,Es,It)|DFA1A201,AONP
+Bubble Bobble - Old & New (Japan)|BE9FD5E7,A2BJ
+Bubble Bobble - Old & New (USA)|FEEC503C,AONE
+Buffy - Im Bann der Daemonen - Koenig Darkhuls Zorn (Germany)|4D2A1D88,AVYD
+Buffy contre les Vampires - La Colere de Darkhul (France)|339C7586,AVYF
+Buffy the Vampire Slayer - Wrath of the Darkhul King (USA, Europe)|F5C85BEB,AVYE
+Bura Bura Donkey (Japan)|89B09753,BBKJ
+Butt-Ugly Martians - B.K.M. Battles (Europe) (En,Fr,De,Es,It)|7CFF011A,AUQP
+Butt-Ugly Martians - B.K.M. Battles (USA)|74BE9148,ABWE
+Cabbage Patch Kids - The Patch Puppy Rescue (Europe)|ED2EB57D,BCGP
+Cabbage Patch Kids - The Patch Puppy Rescue (USA)|C812A494,BCGE
+Cabela's Big Game Hunter (USA)|70A8A141,A8HE
+Cabela's Big Game Hunter - 2005 Adventures (USA, Europe)|BD054567,BG5E
+Caesars Palace Advance - Millennium Gold Edition (USA) (Beta)|13DC0731
+Caesars Palace Advance - Millennium Gold Edition (USA, Europe)|5D54ECE5,ACPE
+Calciobit (Japan)|498443DA,BIXJ
+Camp Lazlo - Leaky Lake Games (Europe)|37DE9A3D,BLCP
+Camp Lazlo - Leaky Lake Games (USA)|40C2894E,BLCE
+Capcom Classics Mini Mix (USA)|0BB2D391,BC6E
+Captain Tsubasa - Eikou no Kiseki (Japan)|5341B274,AKYJ
+Car Battler Joe (USA)|EA0A1B94,ACBE
+Card e-Reader (Japan)|A4EF4E95,PEAJ
+Card e-Reader+ (Japan)|4139E7C3,PSAJ
+Card Party (Japan)|3D5A2C07,A8CJ
+Cardcaptor Sakura - Sakura Card de Mini Game (Japan)|DBC9CD2E,BK3J
+Cardcaptor Sakura - Sakura Card Hen - Sakura to Card to Otomodachi (Japan)|D5BB189C,BKSJ
+Cardcaptor Sakura - Sakura Card Hen - Sakura to Card to Otomodachi (Japan) (Rev 1)|2C8488B2,BKSJ
+Care Bears - The Care Quests (Europe) (En,Fr,De,Es,It,Nl,Pt,Da)|6111ED1E,BEAP
+Care Bears - The Care Quests (USA) (En,Fr,Es)|F848C327,BEAE
+Carrera Power Slide (Europe) (En,Fr,De,Es,It,Nl)|98D72420,AEDP
+Cars (Europe) (Es,Pt)|0B058DB2,BCAY
+Cars (Europe) (Fr,Nl)|BD1BFC39,BCAX
+Cars (Europe) (Sv,No,Da,Fi)|4F21FD49,BCAZ
+Cars (Germany)|EBD92F43,BCAD
+Cars (Japan)|6D4DE0EE,BCAJ
+Cars (USA, Europe)|107639A8,BCAE
+Cars - Mater-National Championship (Europe) (En,Fr,De,Es,It,Nl)|D3DB9787,BCPP
+Cars - Mater-National Championship (USA) (En,Fr)|189DA289,BCPE
+Cars - Motori Ruggenti (Italy)|23CB1A36,BCAI
+Cartoon Network Block Party (USA)|EDC0CCEE,AC9E
+Cartoon Network Speedway (USA)|066A2705,ANRE
+Casper (Europe) (En,Fr,De,Es,It,Nl,Pt)|DDAF8BAC,ACSP
+Casper (USA) (En,Fr,Es)|9F905E60,ACSE
+Castlevania (Europe)|611535DC,AAMP
+Castlevania (Europe) (Castlevania Advance Collection)|050E2164,AAMP
+Castlevania (Europe) (Virtual Console)|DBA05255,AAMP
+Castlevania - Akatsuki no Minuet (Japan)|284E3092,A2CJ
+Castlevania - Akatsuki no Minuet (Japan) (Castlevania Advance Collection)|F5C8D8E8,A2CJ
+Castlevania - Akatsuki no Minuet (Japan) (Virtual Console)|93B6599E,A2CJ
+Castlevania - Aria of Sorrow (Europe) (En,Fr,De)|D0C91F74,A2CP
+Castlevania - Aria of Sorrow (Europe) (En,Fr,De) (Castlevania Advance Collection)|E8156354,A2CP
+Castlevania - Aria of Sorrow (Europe) (En,Fr,De) (Virtual Console)|D97DBFEC,A2CP
+Castlevania - Aria of Sorrow (USA)|0E62B112,9F88961F,027D4B31,317F5C4F,A2CE,35536183
+Castlevania - Aria of Sorrow (USA) (Castlevania Advance Collection)|CA9B82DD,A2CE
+Castlevania - Aria of Sorrow (USA) (Virtual Console)|28BAA30E,A2CE
+Castlevania - Byakuya no Concerto (Japan)|379B3248,ACHJ
+Castlevania - Byakuya no Concerto (Japan) (Castlevania Advance Collection)|247EEB20,ACHJ
+Castlevania - Circle of the Moon (USA)|1CC059A4,AAME
+Castlevania - Circle of the Moon (USA) (Castlevania Advance Collection)|14C1AB7C,AAME
+Castlevania - Circle of the Moon (USA) (Virtual Console)|D5412E91,AAME
+Castlevania - Harmony of Dissonance (Europe)|521B3091,ACHP
+Castlevania - Harmony of Dissonance (Europe) (Castlevania Advance Collection)|E0C4FD69,ACHP
+Castlevania - Harmony of Dissonance (USA)|88C1B562,ACHE
+Castlevania - Harmony of Dissonance (USA) (Castlevania Advance Collection)|3A1E789A,ACHE
+Castlevania Double Pack (Europe) (En,Fr,De)|EE495897,BXKP
+Castlevania Double Pack (USA)|DBCECC7D,BXKE
+Castleween (Europe) (En,Fr,De,Es,It)|11A9B76E,AWNP
+Cat in the Hat, The (Europe) (En,Fr,De,Es,It)|A5DBE5AE,AQTP
+Cat in the Hat, The (USA)|13C2249E,BCTE
+Catwoman (USA, Europe) (En,Fr,De,Es,It,Nl)|1ADB373D,BCWE
+Catz (Europe) (En,Fr,De,It)|C3AA382D,AN3X
+Catz (USA, Europe)|CE418ED1,AN3E
+Celeste Classic (v1.0)|F79B0D53
+Chaoji Maliou 2 (China)|14A87B75,AMAC
+Chaoji Maliou Shijie (China)|D97D4156,AA2C
+Charlie and the Chocolate Factory (Europe) (En,Fr,Es,Nl)|2B3FCC74,BCFP
+Charlie and the Chocolate Factory (USA) (En,Fr,Es,Nl)|4E90884D,BCFE
+Charlotte's Web (Europe) (En,Fr,De,Es,It)|8658BB4F,BCJP
+Charlotte's Web (USA) (En,Fr,De,Es,It)|BA511FB2,BCJE
+Cheetah Girls, The (USA)|E2EFC2AA,BCQE
+Chessmaster (Europe)|27E7FD09,ACYP
+Chessmaster (France)|55EF8392,ACYF
+Chessmaster (Germany)|06ABACC5,ACYD
+Chessmaster (USA)|25B0E933,ACYE
+Chi Vuol Essere Milionario (Italy)|B6F8527E,A55I
+Chicken Little (Japan)|DCBD4991,BCHJ
+Chicken Little (USA, Europe) (En,Fr,De,Es,It,Nl)|1E86F5B0,BCHE
+Chicken Shoot (Europe) (En,Fr,De,Es,It)|5749FDC9,B6FP
+Chicken Shoot (USA)|4B22E081,B6FE
+Chicken Shoot 2 (Europe) (En,Fr,De,Es,It)|02D12544,B6GP
+Chicken Shoot 2 (USA)|1DFE38C2,B6GE
+Chinmoku no Iseki - Estpolis Gaiden (Japan)|2C00B4E6,AGDJ
+Chinmoku no Iseki - Estpolis Gaiden (Japan) (Virtual Console)|36CC41BF,AGDJ
+Chobits for Game Boy Advance - Atashi Dake no Hito (Japan)|DDC4B118,AOCJ
+Chocobo Land - A Game of Dice (Japan)|D4F8152E,A5BJ
+Chopper 2 The Return (Europe) (Unl)|F33AAC43
+Choro Q Advance (Japan)|93FE0E34,AQAJ
+Choro Q Advance (Japan) (Rev 1)|872BC075,AQAJ
+Choro Q Advance 2 (Japan)|F5ED5F14,AQ2J
+Chou Makaimura R (Japan)|A4F8B4B4,ACJJ
+Chou Makaimura R (Japan) (Virtual Console)|24840E7C,ACJJ
+Chronicles of Narnia, The - The Lion, the Witch and the Wardrobe (USA, Europe) (En,Fr,De,Es,It,Nl,Sv,Da)|7E198522,B2WE
+ChuChu Rocket! (Europe) (En,Ja,Fr,De,Es)|8AB607C0,ACRP
+ChuChu Rocket! (Japan) (En,Ja,Fr,De,Es)|2C8C1B5A,ACRJ
+ChuChu Rocket! (Japan) (En,Ja,Fr,De,Es) (Virtual Console)|04836C4D,ACRJ
+ChuChu Rocket! (USA) (En,Ja,Fr,De,Es)|057FB1B6,ACRE
+CIMA - The Enemy (USA)|EBD928ED,BCME
+Cinderella - Magical Dreams (Europe) (En,Fr,De,Es,It)|E8BF28E2,BCDP
+Cinderella - Magical Dreams (USA) (En,Fr,De,Es,It)|22F19169,BCDE
+Cinnamon Game Series 2 - Yume no Daibouken (Japan)|5A2CADA1,B2SJ
+Cinnamon Game Series 3 - Fuwafuwa Daisakusen (Japan)|A1CBA145,B43J
+Cinnamoroll - Koko ni Iru yo (Japan)|8376D53B,BPSJ
+Classic NES Series - Bomberman (USA, Europe)|C9EBC17D,FBME
+Classic NES Series - Castlevania (USA)|23E4082C,FADE
+Classic NES Series - Donkey Kong (USA, Europe)|F53D8B56,FDKE
+Classic NES Series - Dr. Mario (USA, Europe)|934E1F1D,FDME
+Classic NES Series - Excitebike (USA, Europe)|67D9A2A6,FEBE
+Classic NES Series - Ice Climber (USA, Europe)|B265538D,FICE
+Classic NES Series - Metroid (USA, Europe)|9A243B9B,FMRE
+Classic NES Series - Pac-Man (USA, Europe)|C28DF82F,FP7E
+Classic NES Series - Super Mario Bros. (USA, Europe)|F7129225,FSME
+Classic NES Series - The Legend of Zelda (USA, Europe)|6D49CABF,FZLE
+Classic NES Series - Xevious (USA, Europe)|9CD2D5DD,FXVE
+Classic NES Series - Zelda II - The Adventure of Link (USA, Europe)|0B6CA48A,FLBE
+Cocoto - Kart Racer (Europe) (En,Fr,De,Es,It)|DAB7C402,BC5P
+Cocoto - Platform Jumper (Europe) (En,Fr,De,Es,It)|27411EF5,BC8P
+CodeBreaker (USA) (Unl)|F5B2F65E
+Codename - Kids Next Door - Operation S.O.D.A. (USA)|420A81B7,BNDE
+Colin McRae Rally 2.0 (Europe) (En,Fr,De)|70520C5C,ACMP
+Colin McRae Rally 2.0 (USA) (En,Fr,De)|A2E19014,ACME
+Columns Crown (Europe)|330A0975,ACGP
+Columns Crown (Japan)|A592F7DF,ACGJ
+Columns Crown (USA)|6242FFB2,ACGE
+Combat Choro Q - Advance Daisakusen (Japan)|4E5BFA90,AQCJ
+Combo Pack - Sonic Advance + Sonic Pinball Party (USA) (En,Ja,Fr,De,Es+En,Ja,Fr,De,Es,It)|FBAFB638,BW5E
+Comix Zone (Europe) (En,Fr,De,Es,It)|9F30002F,ACZP
+Commandos 2 (Japan) (Proto) (2002-11-28)|DD58AECD
+Contra Advance (USA) (Beta)|511D7556
+Contra Advance - The Alien Wars EX (Europe)|5F443B14,AAWP
+Contra Advance - The Alien Wars EX (Europe) (Virtual Console)|6657DA99,AAWP
+Contra Advance - The Alien Wars EX (USA)|59781C54,AAWE
+Contra Advance - The Alien Wars EX (USA) (Virtual Console)|606BFDD9,AAWE
+Contra Hard Spirits (Japan) (En)|A817AA47,AAWJ
+Contra Hard Spirits (Japan) (En) (Virtual Console)|D4552386,AAWJ
+Corvette (USA) (En,Fr,De,Es,It)|A4C6DB01,AVCE
+Cosmo & Wanda - Wenn Elfen Helfen! - Das Schattenduell (Germany)|65E88703,BF2D
+Crash & Spyro Super Pack Volume 1 (Europe) (En,Fr,De,Es,It,Nl)|D8382427,B5AP
+Crash & Spyro Super Pack Volume 2 (Europe) (En,Fr,De,Es,It,Nl)|7B3C4F90,B52P
+Crash & Spyro Super Pack Volume 3 (Europe) (En,Fr,De,Es,It)|0510B70F,B53P
+Crash & Spyro Superpack - Spyro - Season of Ice + Crash Bandicoot - The Huge Adventure (USA)|CDBE00E3,B54E
+Crash & Spyro Superpack - Spyro Orange - The Cortex Conspiracy + Crash Bandicoot Purple - Ripto's Rampage (USA)|5940906E,B53E
+Crash Bandicoot - The Huge Adventure (USA)|034D2D4B,ACQE
+Crash Bandicoot 2 - N-Tranced (Europe) (En,Fr,De,Es,It,Nl)|0F1D06A0,AC8P
+Crash Bandicoot 2 - N-Tranced (USA)|2E16184A,AC8E
+Crash Bandicoot Advance (Japan)|64767B34,ACUJ
+Crash Bandicoot Advance - Wakuwaku Tomodachi Daisakusen! (Japan)|0E6A4FEE,BKDJ
+Crash Bandicoot Advance 2 - Guruguru Saimin Dai-panic! (Japan)|04FBA7CF,AC8J
+Crash Bandicoot Bakusou! Nitro Cart (Japan)|70F8291F,BCNJ
+Crash Bandicoot Fusion (Europe) (En,Fr,De,Es,It)|F24C8E77,BD4P
+Crash Bandicoot Purple - Ripto's Rampage (USA)|FC284E05,BD4E
+Crash Bandicoot Purple - Ripto's Rampage (USA) (Rev 1)|3DDF07A1,BD4E
+Crash Bandicoot XS (Europe) (En,Fr,De,Es,It,Nl)|CCFD654F,ACQP
+Crash Nitro Kart (Europe) (En,Fr,De,Es,It,Nl)|03925772,BCNP
+Crash Nitro Kart (USA)|E6D58AA0,BCNE
+Crash of the Titans (Europe) (En,Fr,De,Es,It,Nl)|D1D07FA6,BQCP
+Crash of the Titans (USA) (En,Fr)|6F28B009,BQCE
+Crash Superpack - Crash Bandicoot 2 - N-Tranced + Crash Nitro Kart (USA)|2C38BAE2,B8AE
+Crayon Shin-chan - Arashi o Yobu Cinemaland no Daibouken! (Japan)|6E936A54,BKCJ
+Crayon Shin-chan - Densetsu o Yobu Omake no Miyako Shockgaan! (Japan)|45C84466,BC2J
+Crazy Chase (Europe) (Beta)|FF7E2E9B,APXJ
+Crazy Chase (Europe) (En,Fr,De)|313F4FFC,ACCP
+Crazy Chase (Europe) (En,Fr,De) (Beta)|5F331132,APXJ
+Crazy Chase (USA)|CABA1DB9,ACCE
+Crazy Frog Racer (Europe) (En,Fr,De,Nl)|2723236B,BCRP
+Crazy Taxi - Catch a Ride (Europe) (En,Fr,De,Es) (Beta)|FE0D0B86
+Crazy Taxi - Catch a Ride (Europe) (En,Fr,De,Es,It)|4AEBD704,A3CP
+Crazy Taxi - Catch a Ride (USA)|8EC709D6,A3CE
+Creatures (Europe) (En,Es,It)|4F18F57E,ACTY
+Creatures (Europe) (En,Fr,De)|68206301,ACTX
+Croket! - Yume no Banker Survival! (Japan)|A2AAD079,A6CJ
+Croket! 2 - Yami no Bank to Banqueen (Japan)|8D5E08D5,BK2J
+Croket! 3 - Granu Oukoku no Nazo (Japan)|AEC6D07B,B3KJ
+Croket! 4 - Bank no Mori no Mamorigami (Japan)|C86BF751,BK4J
+Croket! Great - Toki no Boukensha (Japan)|F0E81971,BK5J
+Crouching Tiger, Hidden Dragon (Europe) (En,Fr,De,Es,It)|B9A75AC4,AQDP
+Crouching Tiger, Hidden Dragon (USA) (Beta)|204FF8D5
+Crouching Tiger, Hidden Dragon (USA) (En,Fr,Es)|579BA507,AQDE
+Cruis'n Velocity (USA) (Beta)|5436D5DA
+Cruis'n Velocity (USA, Europe)|ADF14DB5,ACFE
+Crushed Baseball (USA)|55FE8579,BCBE
+CT Special Forces (Europe) (En,Fr,De,Es,It,Nl)|A20D9ADB,AC7P
+CT Special Forces (Europe) (En,Fr,De,Es,It,Nl) (Beta)|40A0E1C9,AC7P
+CT Special Forces (USA) (En,Fr,De,Es,It,Nl)|AEA22AE0,AC7E
+CT Special Forces - Back to Hell (Europe) (En,Fr,De,Es,It,Nl)|863CBF31,A9CP
+CT Special Forces - Bioterror (Europe) (En,Fr,De,Es,It,Nl)|7DC40EDA,BC3P
+CT Special Forces 2 - Back in the Trenches (USA) (En,Fr,De,Es,It,Nl)|D2B58A33,A9CE
+Cubix - Robots for Everyone - Clash 'N Bash (USA)|4171C811,ACXE
+Curious George (Europe) (En,Fr,De,Es,It,Sv,Da)|EEF104B0,B3JP
+Curious George (USA)|F6B549DD,B3JE
+Custom Robo GX (Japan)|F533DC13,ARJJ
+Cyberdrive Zoids - Kijuu no Senshi Hyuu (Japan)|0020A2ED,AZ3J
+Dai-mahjong. (Japan)|C6CCCA05,AHMJ
+Daisenryaku for Game Boy Advance (Japan)|3D644946,ADSJ
+Daisuki Teddy (Japan)|CBB8CDB8,ATDJ
+Dan Doh!! Tobase Shouri no Smile Shot (Japan)|0F4B50AE,BDNJ
+Dan Doh!! Xi (Japan)|E1D5CFF1,AXHJ
+Dancing Sword - Senkou (Japan)|E2316D47,A9SJ
+Danny Phantom - Dschungelstadt (Germany)|2D59C1D5,BQYD
+Danny Phantom - The Ultimate Enemy (Europe) (En,De,Es)|506780D1,BUEX
+Danny Phantom - The Ultimate Enemy (Europe) (En,Fr,Nl)|E1DE905F,BUEP
+Danny Phantom - The Ultimate Enemy (USA)|1384ECEA,BUEE
+Danny Phantom - Urban Jungle (USA)|C22E7A2F,BQYE
+Daredevil (Europe) (En,Fr,Es,It)|41A9B849,AVLX
+Daredevil (Germany)|4BB9420E,AVLD
+Daredevil (USA, Europe)|D438347E,AVLE
+Darius R (Japan) (En)|51BEEED7,A2DJ
+Dark Arena (USA, Europe)|DE5DCDEE,ADAE
+Dark Empire (Japan) (Proto)|DD393A80,ALHJ
+Dave Mirra Freestyle BMX 2 (Europe) (En,Fr,De,Es,It)|69E89581,AX2P
+Dave Mirra Freestyle BMX 2 (Europe) (En,Fr,De,Es,It) (Rev 1)|8E39FEE9,AX2P
+Dave Mirra Freestyle BMX 2 (USA)|64B1E921,AX2E
+Dave Mirra Freestyle BMX 3 (USA, Europe)|8D8F26A5,AB3E
+David Beckham Soccer (Europe) (En,Fr,De,Es,It)|E9A34F49,ABQP
+David Beckham Soccer (USA) (En,Es)|7E4DB1CC,ABQE
+Davis Cup (Europe) (En,Fr,De,Es,It)|4C7375F4,AD6P
+Davis Cup (USA) (En,Fr,De,Es,It)|82B4D89C,AD6E
+Dead to Rights (Europe) (En,Fr,De,Es,It)|2994DE1D,BDEP
+Dead to Rights (USA)|52C1826C,BDEE
+Deadly Skies (Europe) (En,Ja,Fr,De)|FE7C8402,AAKP
+Deal or No Deal (USA)|B6C00EDB,BZNE
+Defender (USA)|2E271C13,A2FE
+Defender - For All Mankind (Europe) (En,Fr,De,Es,It)|3B86FDC4,A2FP
+Defender of the Crown (Europe)|6968959A,ADHP
+Defender of the Crown (USA)|DE6698FE,ADHE
+DemiKids - Dark Version (USA)|1BAB58BD,AC5E
+DemiKids - Light Version (USA)|DC4357C4,AL4E
+Demon Driver - Time to Burn Rubber! (Europe)|1CC36766,A9AP
+Demon Driver - Time to Burn Rubber! (USA)|9374AF5E,A9AE
+Denki Blocks! (Europe) (En,Fr,De,Es,It)|6144EC15,ADBP
+Denki Blocks! (Japan)|0053FD6A,ADBJ
+Denki Blocks! (USA) (En,Es)|E064107F,ADBE
+Densetsu no Stafy (Japan)|FAE94C8B,ASTJ
+Densetsu no Stafy 2 (Japan)|EA73EB54,AVFJ
+Densetsu no Stafy 2 (Japan) (Virtual Console)|BB1370F1,AVFJ
+Densetsu no Stafy 3 (Japan)|FCAF1AA8,B3DJ
+Densetsu no Stafy 3 (Japan) (Rev 1)|2D6E4C3B,B3DJ
+Densetsu no Stafy 3 (Japan) (Rev 1) (Virtual Console)|59CA95C6,B3DJ
+Derby Stallion Advance (Japan)|9746EF12,A8PJ
+Desert Strike Advance (USA)|CC1C1405,ADIE
+Deutschland Sucht den Superstar (Germany)|51F50F7D,BIDD
+Dexter's Laboratory - Chess Challenge (Europe) (En,Fr,De,Es)|F5436F5D,ADXP
+Dexter's Laboratory - Chess Challenge (USA)|AE61322E,ADXE
+Dexter's Laboratory - Deesaster Strikes! (Europe) (En,Fr,De,Es,It)|3E8012BF,ADLP
+Dexter's Laboratory - Deesaster Strikes! (USA) (En,Fr,De,Es,It)|E948D412,ADLE
+Dexter's Laboratory - Deesaster Strikes! (USA) (En,Fr,De,Es,It) (Rev 1)|6BF168E6,ADLE
+Di Gi Charat - DigiCommunication (Japan)|A1288427,A3OJ
+Diadroids World - Evil Teikoku no Yabou (Japan)|A2D6CEA6,ADDJ
+Diddy Kong Pilot (Unknown) (Proto) (2001)|8903CC5F
+Diddy Kong Pilot (Unknown) (Proto) (2003)|057DC388,RARE
+DigiCommunication Nyo - Datou! Black Gemagema Dan (Japan)|1372E829,BDKJ
+Digimon - Battle Spirit (Europe) (En,Fr,De,Es,It)|EA5FC3DA,A8SP
+Digimon - Battle Spirit (Europe) (En,Fr,De,Es,It) (Beta)|DA8677AD
+Digimon - Battle Spirit (USA)|CEEF2008,A8SE
+Digimon - Battle Spirit 2 (Europe) (En,Fr,De,Es,It)|00C906A3,BDSP
+Digimon - Battle Spirit 2 (USA) (En,Fr,De,Es,It)|C4C246EF,BDSE
+Digimon Racing (Europe) (En,Fr,De,Es,It)|4F1B0157,BDGP
+Digimon Racing (Japan)|C50468A8,BDJJ
+Digimon Racing (USA) (En,Fr,De,Es,It)|DADD4C10,BDGE
+Dinotopia - The Timestone Pirates (USA, Europe) (En,Fr,De,Es,It,Nl)|7BD01B31,AD3E
+Disney Princesas (Spain)|425785C8,AQDS
+Disney Princess (USA, Europe)|4A2B9E0B,AQPE
+Disney Princess - Royal Adventure (Europe) (En,Fr,De)|92C695CC,BQNP
+Disney Princess - Royal Adventure (USA)|C6AD2251,BQNE
+Disney Princesse (France)|3944BD7E,AQPF
+Disney Principesse (Italy)|481E668E,AQPI
+Disney Sports - American Football (Japan)|B92E9057,A3DJ
+Disney Sports - Basketball (Europe) (En,Fr,De,Es,It)|D6D89F81,A2AP
+Disney Sports - Basketball (Japan)|3911B4B6,A2AJ
+Disney Sports - Basketball (USA)|80EC6CF0,A2AE
+Disney Sports - Football (Soccer) (Europe) (En,Fr,De,Es,It)|33F73199,A6DP
+Disney Sports - Football (USA)|01413DB1,A3DE
+Disney Sports - Motocross (Europe) (En,Fr,De,Es,It)|72DCB4F4,AOMP
+Disney Sports - Motocross (Japan)|1A62D76F,AOMJ
+Disney Sports - Motocross (USA)|A771AD79,AOME
+Disney Sports - Skateboarding (Europe) (En,Fr,De,Es,It)|10C05C7B,A4DP
+Disney Sports - Skateboarding (Japan)|5DF4A476,A4DJ
+Disney Sports - Skateboarding (USA)|37FFD837,A4DE
+Disney Sports - Snowboarding (Europe) (En,Fr,De,Es,It)|77B7FCCE,A5DP
+Disney Sports - Snowboarding (Japan)|BDC23A47,A5DJ
+Disney Sports - Snowboarding (USA)|4733693C,A5DE
+Disney Sports - Soccer (Japan)|680957E7,A6DJ
+Disney Sports - Soccer (USA)|2F1316D2,A6DE
+Disney's Game + TV Episode - Lizzie McGuire 2 - Lizzie Diaries (USA) (En,Fr)|2706B300,BL4E
+Disney's Party (USA, Europe) (En,Fr,De,Es,It)|6BB63774,BD8E
+Disneys Prinzessinnen (Germany)|E21B4285,AQPD
+DK - King of Swing (Europe) (En,Fr,De,Es,It)|F93B73D9,BBKP
+DK - King of Swing (USA)|D610B239,BBKE
+DK - King of Swing (USA) (Demo) (Kiosk)|049626D1,BWGE
+Dogz (Europe)|AA8DEA30,B82P
+Dogz (Europe) (En,Fr,De,It)|2216FBD6,B82Y
+Dogz (France)|10AC14F9,B82X
+Dogz (USA)|124F27C0,B82E
+Dogz - Fashion (Europe)|5236473D,BFEP
+Dogz - Fashion (USA)|63BD3463,BFEE
+Dogz 2 (Europe)|28163523,BIMP
+Dogz 2 (Europe) (En,Fr,De,It)|41CE1EED,BIMX
+Dogz 2 (USA)|0E2ACA9E,BIME
+Dogz 2 (USA) (Rev 1)|A0EBB191,BIME
+Dokapon - Monster Hunter (USA)|5617E407,ADQE
+Dokapon - Monster Hunter! (Europe) (En,Fr,De)|654DF50E,ADQP
+Dokapon Q - Monster Hunter! (Japan)|45B3EDC4,ADQJ
+Dokidoki Cooking Series 1 - Komugi-chan no Happy Cake (Japan)|FE198026,A56J
+Dokidoki Cooking Series 2 - Gourmet Kitchen - Suteki na Obentou (Japan)|08DFC956,A8OJ
+Dokodemo Taikyoku - Yakuman Advance (Japan)|C2424EDD,AYAJ
+Dokodemo Taikyoku - Yakuman Advance (Japan) (Rev 1)|A7279ED5,AYAJ
+Domo-kun no Fushigi Television (Japan)|E743C611,ADOJ
+Donald Duck Advance (Europe) (En,Fr,De,Es,It)|4C086A5E,ADKP
+Donald Duck Advance (Japan)|0195DE8F,AADJ
+Donald Duck Advance (USA)|936DAAB2,ADKE
+Donchan Puzzle - Hanabi de Dohn! Advance (Japan)|500922E8,BDAJ
+Donkey Kong Country (Europe) (En,Fr,De,Es,It)|41D277FE,A5NP
+Donkey Kong Country (USA)|12F7A968,A5NE
+Donkey Kong Country 2 (Europe) (En,Fr,De,Es,It)|AEF11223,B2DP
+Donkey Kong Country 2 (USA)|11417FC1,B2DE
+Donkey Kong Country 3 (Europe) (En,Fr,De,Es,It)|708A6168,BDQP
+Donkey Kong Country 3 (USA)|FE03E5AF,BDQE
+Donkey Kong Country 3 (USA) (Beta)|8DD750EF,A5NE
+Doom (USA, Europe)|58C641B3,ADME
+Doom II (Europe)|60CD3207,A9DP
+Doom II (USA)|C885D9E9,A9DE
+Dora the Explorer - Dora's World Adventure! (USA)|7B311C5C,BXPE
+Dora the Explorer - Super Spies (USA)|650FDFDB,BERE
+Dora the Explorer - Super Star Adventures! (Europe) (En,Fr,Nl)|528BCA02,BDOP
+Dora the Explorer - Super Star Adventures! (USA)|2CEE050F,BDOE
+Dora the Explorer - The Search for the Pirate Pig's Treasure (USA)|9439541C,AERE
+Dora the Explorer Double Pack (USA)|1F9D002E,B2EE
+Doraemon - Dokodemo Walker (Japan)|E28AFEBC,ADPJ
+Doraemon - Midori no Wakusei Dokidoki Daikyuushutsu! (Japan)|95565762,ADRJ
+Double Dragon Advance (Japan)|A3330E8F,BDDJ
+Double Dragon Advance (USA)|764FAFB5,BDDE
+Double Game! - Cartoon Network Block Party & Cartoon Network Speedway (Europe)|3A4F8E4D,BW2P
+Double Game! - Golden Nugget Casino & Texas Hold 'em Poker (Europe)|CFF20829,BWCP
+Double Game! - Quad Desert Fury & Monster Trucks (Europe)|0DB22E8C,BWQP
+Double Pack - Sonic Advance & ChuChu Rocket! (Japan) (En,Ja,Fr,De,Es)|21EF5165,BW3J
+Double Pack - Sonic Battle & Sonic Advance (Japan) (En,Ja,Fr,De,Es+En,Ja)|31D712D3,BW4J
+Double Pack - Sonic Pinball Party & Sonic Battle (Japan) (En,Ja+En,Ja,Fr,De,Es,It)|0DFAA3F2,BW6J
+Doubutsu-jima no Chobigurumi (Japan)|C764CC7E,A8DJ
+Doubutsu-jima no Chobigurumi (Japan) (Rev 1)|B9C15F87,A8DJ
+Doubutsu-jima no Chobigurumi 2 - Tama-chan Monogatari (Japan)|16347E33,BDCJ
+Downforce (Europe) (En,Fr,De,Es,It)|EB326294,ADWE
+Downtown - Nekketsu Monogatari EX (Japan)|32E9A0BD,BDTJ
+Dr. Mario & Panel de Pon (Japan)|129BF78F,BZPJ
+Dr. Muto (Europe) (En,Fr,De,Es,It)|46736F58,A6TP
+Dr. Seuss' The Cat in the Hat (USA)|13ADBF3B,AQTE
+Dr. Sudoku (Europe)|E9848D13,BUOP
+Dr. Sudoku (USA)|FC003E2B,BUOE
+Dragon Ball - Advance Adventure (Japan)|8A06337A,BDVJ
+Dragon Ball - Advance Adventure (Korea)|4E2CC84D,BDVK
+Dragon Ball - Advanced Adventure (Europe) (En,Fr,De,Es,It)|6C135820,BDVP
+Dragon Ball - Advanced Adventure (Europe) (En,Fr,De,Es,It) (Beta) (2005-02-25)|2B136906
+Dragon Ball - Advanced Adventure (USA)|7D7306DF,BDVE
+Dragon Ball GT - Transformation (USA)|AD964A91,BT4E
+Dragon Ball Z - Bukuu Tougeki (Japan)|6C0F0B86,AZJJ
+Dragon Ball Z - Buu's Fury (USA)|01C1707F,BG3E
+Dragon Ball Z - Collectible Card Game (USA)|F6124D7F,ADZE
+Dragon Ball Z - Moogongtoogeuk (Korea)|E4893DD7,AZJK
+Dragon Ball Z - Supersonic Warriors (Europe) (En,Fr,De,Es,It)|B4D9572C,AZJP
+Dragon Ball Z - Supersonic Warriors (Europe) (En,Fr,De,Es,It) (Beta 1)|F20C38D0
+Dragon Ball Z - Supersonic Warriors (Europe) (En,Fr,De,Es,It) (Beta 2)|73C132FE
+Dragon Ball Z - Supersonic Warriors (USA)|9A857A70,AZJE
+Dragon Ball Z - Taiketsu (Europe) (En,Fr,De,Es,It)|D0E79665,BDBP
+Dragon Ball Z - Taiketsu (USA)|64EC07E7,BDBE
+Dragon Ball Z - Taiketsu (USA) (Beta)|B4F57E66
+Dragon Ball Z - The Legacy of Goku (Europe) (En,Fr,De,Es,It)|CA6E149C,ALGP
+Dragon Ball Z - The Legacy of Goku (USA)|D47CCFF4,ALGE
+Dragon Ball Z - The Legacy of Goku II (Europe) (En,Fr,De,Es,It)|20684433,ALFP
+Dragon Ball Z - The Legacy of Goku II (USA)|204142E1,ALFE
+Dragon Ball Z - The Legacy of Goku II International (Japan)|B3297D59,ALFJ
+Dragon Drive - World D Break (Japan)|E5A571AD,A5GJ
+Dragon Quest Characters - Torneko no Daibouken 2 Advance - Fushigi no Dungeon (Japan)|2B077791,AT2J
+Dragon Quest Characters - Torneko no Daibouken 3 Advance - Fushigi no Dungeon (Japan)|C891B2A0,BD3J
+Dragon Quest Monsters - Caravan Heart (Japan)|5B925FC9,3C24ABCC,A9HJ
+Dragon Tales - Dragon Adventures (USA)|8AF23450,BD9E
+Dragon's Rock (Europe) (En,Fr,De,Es,It)|F0CA6D70,BJDP
+Drake & Josh (USA) (En,Fr)|63A4422E,AJYE
+Drill Dozer (Europe) (En,Fr,De,Es,It) (Virtual Console)|4C09614E,V49P
+Drill Dozer (USA)|E60EC183,V49E
+Driv3r (Europe) (Beta 1)|0A483C43
+Driv3r (Europe) (Beta 3)|A4243F3F
+Driv3r (Europe) (En,Fr,De,Es,It)|B617B354,B3RP
+Driv3r (Europe) (Es) (Beta 2)|BA2DCFED
+Driv3r (USA)|6C66CFBE,B3RE
+Driven (Europe) (En,Fr,De,Es,It)|95F2C572,ADVP
+Driven (USA) (En,Fr,De,Es,It)|F2068738,ADVE
+Driver 2 Advance (Europe) (En,Fr,De,Es,It)|69EE551C,ADUP
+Driver 2 Advance (Europe) (En,Fr,De,Es,It) (Beta)|B24FA448,ADUP
+Driver 2 Advance (Europe) (En,Fr,De,Es,It) (Beta) (2002-06-06)|2A18850C
+Driver 2 Advance (USA)|BBE2A163,ADUE
+Drome Racers (Europe) (En,Fr,De,Da)|D6101BC0,AOEX
+Drome Racers (USA)|AD356FB9,AOEE
+Droopy's Tennis Open (Europe) (En,Fr,De,Es,It,Nl)|F14B65EF,AD7P
+Droopy's Tennis Open (Europe) (En,Fr,De,Es,It,Nl) (Beta)|484E7D56,AD7P
+Dual Blades (Japan)|522F1F51,AB9J
+Dual Blades (USA)|AFF3A0C6,AB9E
+Duel Masters (Japan)|0D32851A,AA9J
+Duel Masters - Kaijudo Showdown (Europe) (En,Fr,De,Es,It)|52E0AA95,BD6P
+Duel Masters - Kaijudo Showdown (Europe) (En,Fr,De,Es,It) (Beta)|84C579DD
+Duel Masters - Kaijudo Showdown (USA)|804E5DE2,BD6E
+Duel Masters - Sempai Legends (Europe) (En,Fr,De,Es,It)|2FFF9BA9,AA9P
+Duel Masters - Sempai Legends (Europe) (En,Fr,De,Es,It) (Beta)|C3827890
+Duel Masters - Sempai Legends (USA)|1CE344CA,AA9E
+Duel Masters - Shadow of the Code (Europe) (En,Fr,De,Es,It)|9D429F3E,BDUP
+Duel Masters - Shadow of the Code (USA)|94D9053D,BDUE
+Duel Masters 2 - Invincible Advance (Japan)|4A7DE98E,BD2J
+Duel Masters 2 - Kirifuda Shoubu Ver. (Japan)|4D6A5E1D,BD5J
+Duel Masters 3 (Japan)|D65E3E03,BDUJ
+Duel Masters 3 (Japan) (Rev 1)|D2B9CFB6,BDUJ
+Duke Nukem Advance (Europe) (En,Fr,De,It)|DC7DAB56,AD9P
+Duke Nukem Advance (USA)|06570282,AD9E
+Dungeons & Dragons - Eye of the Beholder (Europe) (En,Fr,De,Es,It)|26351555,AD4P
+Dungeons & Dragons - Eye of the Beholder (Europe) (En,Fr,De,Es,It) (Beta)|C3A6ADA9
+Dungeons & Dragons - Eye of the Beholder (USA)|91B16892,AD4E
+Dynasty Warriors Advance (Europe) (En,Fr,De,Es,It)|74CDB37A,B36P
+Dynasty Warriors Advance (USA)|AD5A2A4E,B36E
+e-Reader (USA)|8B27CD67,PSAE
+E.T. - The Extra-Terrestrial (Europe) (En,Fr,De,Es,It,Nl)|10ECE4CB,AETP
+E.T. - The Extra-Terrestrial (USA)|8B082CCE,AETE
+Earthworm Jim (USA, Europe)|C4991D13,AEJE
+Earthworm Jim 2 (Europe) (En,Fr,De,Es,It)|D211E8DA,AJ4P
+Earthworm Jim 2 (USA)|7496555C,AJ4E
+Ecks V Sever (Europe) (En,Fr,De,Es,It)|AF726026,AESP
+Ecks vs Sever (USA) (En,Fr,De,Es,It)|86A861F1,AESE
+Ecks vs. Sever II - Ballistic (Europe) (En,Fr,De,Es,It)|83297D13,AEEP
+Ed, Edd n Eddy - Jawbreakers! (Europe) (En,Fr,De,Es,It)|E7F6E42F,AE3P
+Ed, Edd n Eddy - Jawbreakers! (USA)|48E5A70E,AE3E
+Ed, Edd n Eddy - Jawbreakers! (USA) (Rev 1)|315A9114,AE3E
+Ed, Edd n Eddy - The Mis-Edventures (Europe) (En,Fr)|BAA13BC4,BEDP
+Ed, Edd n Eddy - The Mis-Edventures (USA) (En,Fr)|64EDB487,BEDE
+Egg Mania (USA) (En,Fr,Es)|E8B15678,AEME
+Egg Mania - Tsukande! Mawashite! Dossun Puzzle!! (Japan)|4BEAB3AC,AEMJ
+Eggo Mania (Europe) (En,Fr,De,Es,It,Nl)|0B2961CE,AEMP
+Eggo Mania (Europe) (En,Fr,De,Es,It,Nl) (Beta)|F4C9A628,AEMP
+Elemix! (Japan)|FA28BED8,AEKJ
+Elevator Action - Old & New (Japan)|2D88526A,ANWJ
+Elf - The Movie (Europe) (En,Fr,De,Es,It)|1E107999,BELP
+Elf - The Movie (USA) (En,Fr,De,Es,It)|9A1F8165,BELE
+Elf Bowling 1 & 2 (USA)|68FEFF40,BEBE
+Enchanted - Once Upon Andalasia (USA) (En,Fr)|AF23FFFF,BZRE
+Eragon (Europe) (En,Fr,De,Es,It)|BB05A63F,BENP
+Eragon (USA)|AF8AF2E8,BENE
+Erementar Gerad - Tozasareshi Uta (Japan)|8C1AFCA4,BEJJ
+ESPN Final Round Golf (Europe)|4878BBEA,AGRP
+ESPN Final Round Golf 2002 (USA)|C9BC75A5,AGRE
+ESPN Great Outdoor Games - Bass 2002 (USA)|DA9D815F,AMGE
+ESPN Great Outdoor Games - Bass Tournament (Europe)|28F0A921,AMGP
+ESPN International Winter Sports (Europe)|A56AFBB7,AWIP
+ESPN International Winter Sports 2002 (USA)|FF51A9A9,AWIE
+ESPN Winter X-Games Snowboarding 2 (Europe)|CE62F1F4,AWXP
+ESPN Winter X-Games Snowboarding 2002 (Japan) (En)|3C5AC0C5,AWXJ
+ESPN Winter X-Games Snowboarding 2002 (USA)|DE9E85BF,AWXE
+ESPN X-Games Skateboarding (Europe) (En,Fr,De,Es,It)|2C79E3D1,AXSP
+ESPN X-Games Skateboarding (Japan) (En)|7ABD7E9A,AXSJ
+ESPN X-Games Skateboarding (USA)|9766B309,AXSE
+Essence of War, The - Glory Days (Europe) (En,Fr,De,Es,It)|84ADB2C3,BG6P
+European Super League (Europe) (En,Fr,De,Es,It)|748AD738,AELP
+everGirl (USA)|AFBB1D35,BEVE
+EX Monopoly (Japan)|916EFD5B,AMOJ
+EX Monopoly (Japan) (Rev 1)|D45ABF21,AMOJ
+Exciting Bass (Japan)|AB27E52A,AMGJ
+Expedition der Stachelbeeren - Zoff im Zoo (Germany)|9D60610D,AWTD
+Extreme Ghostbusters - Code Ecto-1 (Europe) (En,Fr,De,Es,It,Pt)|88CC876C,AEGP
+Extreme Ghostbusters - Code Ecto-1 (USA)|E434FA06,AEGE
+Extreme Skate Adventure (Europe) (Fr,De)|58594AE9,BESX
+Extreme Skate Adventure (USA) (Rev 1)|7A3EF446,BESE
+Extreme Skate Adventure (USA, Europe)|AD7BB7C8,BESE
+Eyeshield 21 - DevilBats DevilDays (Japan)|620784AF,BE4J
+EZ-Talk - Shokyuu Hen 1 (Japan)|D256F6F7,A22J
+EZ-Talk - Shokyuu Hen 2 (Japan)|38D91A54,A23J
+EZ-Talk - Shokyuu Hen 3 (Japan)|5FA07E85,A24J
+EZ-Talk - Shokyuu Hen 4 (Japan)|0CA6DCF1,A25J
+EZ-Talk - Shokyuu Hen 5 (Japan)|A0E8EB88,A26J
+EZ-Talk - Shokyuu Hen 6 (Japan)|A8AB645D,A27J
+F-14 Tomcat (USA, Europe)|1428FE1C,AFTE
+F-Zero - Climax (Japan)|DBDC71E3,BFTJ
+F-Zero - Climax (Japan) (Virtual Console)|13E65EB4,BFTJ
+F-Zero - Falcon Densetsu (Japan)|2446B920,BFZJ
+F-Zero - Falcon Densetsu (Japan) (Virtual Console)|7978B706,BFZJ
+F-Zero - GP Legend (Europe) (En,Fr,De,Es,It)|F1D5601B,BFZP
+F-Zero - GP Legend (Europe) (En,Fr,De,Es,It) (Virtual Console)|D9B2D53D,BFZP
+F-Zero - GP Legend (USA)|781AAB58,BFZE
+F-Zero - GP Legend (USA) (Virtual Console)|9075C6FD,BFZE
+F-Zero - Maximum Velocity (USA, Europe)|BD5E9798,AFZE
+F-Zero - Maximum Velocity (USA, Europe) (Virtual Console)|4B5F1CDD,AFZE
+F-Zero for Game Boy Advance (Japan)|25E3FC9A,AFZJ
+F-Zero for Game Boy Advance (Japan) (Virtual Console)|D3CC19CC,AFZJ
+F1 2002 (Europe) (En,Fr,De,Es,It)|AAC551FD,AF8X
+F1 2002 (USA, Europe)|7DD20F33,AF8E
+F24 Stealth Fighter (USA)|9387EA7C,BYAE
+Fairly OddParents!, The - Breakin' da Rules (USA)|9BF9CA2F,AF6E
+Fairly OddParents!, The - Clash with the Anti-World (Europe) (En,De,Es,Nl)|91E7BA6C,BFOP
+Fairly OddParents!, The - Clash with the Anti-World (USA)|6FD773CD,BFOE
+Fairly OddParents!, The - Enter the Cleft (USA)|B0533F41,AFVE
+Fairly OddParents!, The - Shadow Showdown (Europe)|23188CB3,BF2P
+Fairly OddParents!, The - Shadow Showdown (USA)|BA72E185,BF2E
+Famicom Mini - Dai-2-ji Super Robot Taisen (Japan) (Promo)|CC4FDA84,3EBB082A,FSRJ
+Famicom Mini - Kidou Senshi Z Gundam - Hot Scramble (Japan) (Promo)|07A73D0A,FGZJ
+Famicom Mini 01 - Super Mario Bros. (Japan) (En) (Rev 1)|CD2604DD,FSMJ
+Famicom Mini 02 - Donkey Kong (Japan) (En)|071C3F2B,FDKJ
+Famicom Mini 03 - Ice Climber (Japan) (En)|D0AEF472,FICJ
+Famicom Mini 04 - Excitebike (Japan) (En)|32604C95
+Famicom Mini 05 - Zelda no Densetsu 1 - The Hyrule Fantasy (Japan)|712D76E8
+Famicom Mini 06 - Pac-Man (Japan) (En)|91ACF642
+Famicom Mini 07 - Xevious (Japan) (En)|F54EEB0E,FXVJ
+Famicom Mini 08 - Mappy (Japan) (En)|C29E4A08
+Famicom Mini 09 - Bomberman (Japan) (En)|C1116E40
+Famicom Mini 10 - Star Soldier (Japan) (En)|1E23BAD4
+Famicom Mini 11 - Mario Bros. (Japan)|42A027AB,FMBJ
+Famicom Mini 12 - Clu Clu Land (Japan)|8B3219FE,FCLJ
+Famicom Mini 13 - Balloon Fight (Japan)|A01F014A,FBFJ
+Famicom Mini 14 - Wrecking Crew (Japan)|ADAC99BD,FWCJ
+Famicom Mini 15 - Dr. Mario (Japan)|C836F2E2
+Famicom Mini 16 - Dig Dug (Japan)|EE4C3504,FDDJ
+Famicom Mini 17 - Takahashi Meijin no Bouken-jima (Japan)|53286F51,FTBJ
+Famicom Mini 18 - Makaimura (Japan)|8A7964CA,FMKJ
+Famicom Mini 19 - Twin Bee (Japan)|2F390212,FTWJ
+Famicom Mini 20 - Ganbare Goemon! - Karakuri Douchuu (Japan)|33196B58,FGGJ
+Famicom Mini 21 - Super Mario Bros. 2 (Japan)|EF18F7B2,FM2J
+Famicom Mini 22 - Nazo no Murasame Jou (Japan)|8233349C,FNMJ
+Famicom Mini 23 - Metroid (Japan)|ABECCDAB,FMRJ
+Famicom Mini 24 - Hikari Shinwa - Palthena no Kagami (Japan)|F311EDAC,FPTJ
+Famicom Mini 25 - The Legend of Zelda 2 - Link no Bouken (Japan)|1CBE712A,FLBJ
+Famicom Mini 26 - Famicom Mukashibanashi - Shin Onigashima - Zen, Kouhen (Japan)|63B51337,FFMJ
+Famicom Mini 27 - Famicom Tantei Club - Kieta Koukeisha - Zen, Kouhen (Japan)|3CF43405,FTKJ
+Famicom Mini 28 - Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Zen, Kouhen (Japan)|75E1B220,FTUJ
+Famicom Mini 29 - Akumajou Dracula (Japan)|11419D8B
+Famicom Mini 30 - SD Gundam World - Gachapon Senshi Scramble Wars (Japan)|BA78D1EE,FSDJ
+Famicom Mini Collection (China) (En) (Proto)|B9283B7C,FICC
+Famille Delajungle, La - A la Poursuite de Darwin (France)|F344D661,AWTF
+Famille Delajungle, La - Le Film (France)|AFA71C84,AWLF
+Family Feud (USA)|EC36A3DF,B2FE
+Family Tennis Advance (Japan)|BB43C681,AATJ
+Famista Advance (Japan)|F7A58AE8,AN7J
+Fancy Pocket (Japan)|A29A50E7,AJEJ
+Fanqiejiang Wangguo Da Maoxian (China) (Proto)|5116A665,AGLC
+Fantastic 4 (Europe)|B30AE33D,BF4P
+Fantastic 4 (Europe) (Fr,De,Es,Nl)|88643DE0,BF4X
+Fantastic 4 (USA)|FF2C6EA9,BF4E
+Fantastic 4 - Flame On (Europe) (En,Fr,Es,It)|671957AF,BH4P
+Fantastic 4 - Flame On (USA)|DDDE4295,BH4E
+Fantastic Children (Japan)|FEFE25BE,BFCJ
+Fantastic Maerchen - Cake-ya-san Monogatari (Japan)|EC60D573,AAXJ
+Fantastici 4, I (Italy)|5D4645E1,BF4I
+Farbe (Germany) (En) (Proto) (Test Program)|8CC3C550
+Fear Factor Unleashed (USA)|1289639C,BFUE
+Field of Nine - Digital Edition 2001 (Japan)|4FD9C349,AF9J
+FIFA Soccer 06 (USA, Europe) (En,Fr,De,Es,It,Nl)|BE4C3CB1,BF6E
+FIFA Soccer 07 (USA, Europe) (En,Fr,De,Es)|D8C7553B,B7FE
+FIFA Soccer 2003 (USA, Europe) (En,Fr,De,Es,It)|81F58837,AFJE
+FIFA Soccer 2004 (USA, Europe) (En,Fr,De,Es,It)|1ABBC24F,BFIE
+FIFA Soccer 2005 (USA, Europe) (En,Fr,De,Es,It,Nl)|DA90F396,BF5E
+FightBox (Europe)|928B4E05,BOXP
+FILA Decathlon (Europe) (Beta)|07434E3A
+FILA Decathlon (Europe) (En,Fr,De,Es,It,Sv)|628355B5,AFLP
+Final Fantasy I & II - Dawn of Souls (Europe) (En,Fr,De,Es,It)|7C9854C6,BFFP
+Final Fantasy I & II - Dawn of Souls (USA)|1B39CDAB,BFFE
+Final Fantasy I, II Advance (Japan) (Rev 1)|0F3BD723,BFFJ
+Final Fantasy I, II Advance (Japan) (Rev 1) (Virtual Console)|2C58C9C1,BFFJ
+Final Fantasy IV Advance (Europe) (En,Fr,De,Es,It)|B963708B,27F2BC67,BZ4P
+Final Fantasy IV Advance (Japan)|17036E02,BZ4J
+Final Fantasy IV Advance (Japan) (Rev 1)|80F1133B,BZ4J
+Final Fantasy IV Advance (Japan) (Rev 1) (Virtual Console)|A68DE435,BZ4J
+Final Fantasy IV Advance (USA)|FEEEBDE4,BZ4E
+Final Fantasy Tactics Advance (Europe) (En,Fr,De,Es,It)|BA5DE047,AFXP
+Final Fantasy Tactics Advance (Europe) (En,Fr,De,Es,It) (Virtual Console)|4A8D2C39,AFXP
+Final Fantasy Tactics Advance (Japan)|A57B0034,AFXJ
+Final Fantasy Tactics Advance (Japan) (Virtual Console)|EE31422A,AFXJ
+Final Fantasy Tactics Advance (USA)|5645E56C,AFXE
+Final Fantasy Tactics Advance (USA) (Virtual Console)|5964DF89,AFXE
+Final Fantasy V Advance (Europe) (En,Fr,De,Es,It)|D7DFC429,7197117E,BZ5P
+Final Fantasy V Advance (Japan)|FC7909A7,BZ5J
+Final Fantasy V Advance (Japan) (Virtual Console)|BB4A2DE0,BZ5J
+Final Fantasy V Advance (USA)|7A24AB0C,BZ5E
+Final Fantasy VI Advance (Europe) (En,Fr,De,Es,It)|762F894D,D15DEBA5,BZ6P
+Final Fantasy VI Advance (Japan)|D67478FE,BZ6J
+Final Fantasy VI Advance (Japan) (Virtual Console)|C8D9AACB,BZ6J
+Final Fantasy VI Advance (USA)|D708F5AB,BZ6E
+Final Fight One (Europe)|9DD5E6FA,AFFP
+Final Fight One (Europe) (Virtual Console)|7FF0A5CF,AFFP
+Final Fight One (Japan)|C9E5E223,AFFJ
+Final Fight One (Japan) (Virtual Console)|EC930569,AFFJ
+Final Fight One (USA)|052C9997,AFFE
+Final Fight One (USA) (Virtual Console)|DF77DAD2,AFFE
+Final Fire Pro Wrestling - Yume no Dantai Unei! (Japan)|A0093822,AFWJ
+Findet Nemo (Germany)|6B6B0908,AZID
+Findet Nemo (Germany) (Beta)|92197FBB,AZID
+Finding Nemo (Europe) (Es,It)|3E6F4F03,AZIY
+Finding Nemo (Europe) (Fr,Nl)|269AF7DD,AZIX
+Finding Nemo (Japan)|F895BA2D,BFNJ
+Finding Nemo (USA, Europe)|3B098667,AZIE
+Finding Nemo - Aratanaru Bouken (Japan)|4C77EDA6,BZIJ
+Finding Nemo - The Continuing Adventures (Europe) (En,Es,It,Sv,Da)|45BC9C37,BZIX
+Finding Nemo - The Continuing Adventures (Europe) (Fr,De,Nl)|1E8CEFE9,BZIY
+Finding Nemo - The Continuing Adventures (USA, Europe)|4F9ACA4F,BZIE
+Fire Eaters - Zero Bandits (Europe) (Demo)|8698F50A
+Fire Emblem (Europe) (En,Es,It)|9DECC754,AE7Y
+Fire Emblem (Europe) (En,Es,It) (Virtual Console)|93D3B218,AE7Y
+Fire Emblem (Europe) (En,Fr,De)|4A805ED1,AE7X
+Fire Emblem (Europe) (En,Fr,De) (Virtual Console)|335C5855,AE7X
+Fire Emblem (USA) (Virtual Console)|1B8713C7,AE7E
+Fire Emblem (USA, Australia)|D1C6E5D5,2144DF1C,AE7E,2A524221
+Fire Emblem - Fuuin no Tsurugi (Japan)|99B8B6D7,D38763E1,AFEJ
+Fire Emblem - Fuuin no Tsurugi (Japan) (Virtual Console)|F8AF3359,AFEJ
+Fire Emblem - Rekka no Ken (Japan)|F0C10E72,AE7J
+Fire Emblem - Rekka no Ken (Japan) (Beta) (2003-02-06)|B40D6854,AFEJ
+Fire Emblem - Rekka no Ken (Japan) (Beta) (2003-02-19)|8146A270,AFEJ
+Fire Emblem - Rekka no Ken (Japan) (Virtual Console)|0BA2FD1F,AE7J
+Fire Emblem - Seima no Kouseki (Japan)|9D76826F,BE8J
+Fire Emblem - Seima no Kouseki (Japan) (Beta)|CD9D8972,AE7J
+Fire Emblem - Seima no Kouseki (Japan) (Virtual Console)|D2B431F8,BE8J
+Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It)|B3005195,BE8P
+Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It) (Virtual Console)|2653401A,BE8P
+Fire Emblem - The Sacred Stones (USA) (Virtual Console)|DEA3B767,BE8E
+Fire Emblem - The Sacred Stones (USA, Australia)|9D22107C,BE8E,A47246AE
+Fire Pro Wrestling (USA, Europe)|12AA524C,AFPE
+Fire Pro Wrestling 2 (USA)|B9CFC1D3,AFYE
+Fire Pro Wrestling A (Japan)|0BB47E83,AFPJ
+Flashback Legends (France) (Proto)|EB33477D
+Flintstones, The - Big Trouble in Bedrock (Europe) (En,Fr,De,Es,It)|39782C26,AFSP
+Flintstones, The - Big Trouble in Bedrock (USA)|3B09694B,AFSE
+Flushed Away (Europe) (En,Fr,De,Es,It)|62E435DE,BLHP
+Flushed Away (USA)|0ED5DF4B,BLHE
+Ford Racing 3 (Europe) (En,Fr,De,Es,It)|94E3D277,BF3P
+Ford Racing 3 (USA)|56D38756,BF3E
+Formation Soccer 2002 (Japan)|47F663A0,AFMJ
+Fortress (USA, Europe)|BEE67855,AFOE
+Foster's Home for Imaginary Friends (Europe)|DEE47A85,BFYP
+Foster's Home for Imaginary Friends (USA)|D7C80592,BFYE
+Frank Herbert's Dune - Ornithopter Assault (Europe) (En,Fr,De,Es,It) (Proto)|298D627B
+Franklin the Turtle (Europe) (En,Fr,De,Es,It,Sv,No,Da,Fi) (Rev 2)|A0952CD0,BFKP
+Franklin the Turtle (Europe) (En,Fr,De,It,Sv,No,Da,Fi)|17C48263,BFKP
+Franklin the Turtle (Europe) (En,Fr,De,It,Sv,No,Da,Fi) (Rev 1)|1A2F7EE6,BFKP
+Franklin the Turtle (USA) (En,Fr,De,Es,It,Sv,No,Da,Fi)|9BB561A8,BFKE
+Franklin's Great Adventures (Europe) (En,Fr,De,Es,It,Nl,Pt,Da)|22E65767,BFLP
+Franklin's Great Adventures (USA) (En,Fr,Es)|7FBF8E98,BFLE
+Freekstyle (Europe) (En,Fr,De,Es,It)|96871A23,BFSP
+Freekstyle (USA)|72434345,BFSE
+Freestyle Scooter (Europe)|0187988F,ARFP
+Frogger - Kodaibunmei no Nazo (Japan)|6853109B,BFJJ
+Frogger - Mahou no Kuni no Daibouken (Japan)|B1EF7532,AFBJ
+Frogger Advance - The Great Quest (Europe) (En,Fr,De,Es,It)|8873BD29,AFQP
+Frogger Advance - The Great Quest (USA)|B75782C9,AFQE
+Frogger's Adventures - Temple of the Frog (Europe) (En,Fr,De,Es,It)|9F8D58AA,AFRP
+Frogger's Adventures - Temple of the Frog (USA) (En,Fr,De,Es,It)|2EB9EEE6,AFRE
+Frogger's Adventures 2 - The Lost Wand (Europe) (En,Fr,De,Es,It)|8ACD3AFC,AFBP
+Frogger's Adventures 2 - The Lost Wand (USA) (En,Es)|27B95C01,AFBE
+Frogger's Journey - The Forgotten Relic (USA)|6F8BFDBC,BFJE
+From TV Animation One Piece - Mezase! King of Berry (Japan)|E6F5BDD5,AUSJ
+From TV Animation One Piece - Mezase! King of Berry (Japan) (Beta)|4E63DCE0
+From TV Animation One Piece - Nanatsu-jima no Daihihou (Japan)|FD4CE9C8,AO7J
+Frontier Stories (Japan)|4D6BF573,BCMJ
+Fruits Mura no Doubutsu-tachi (Japan)|EBF89B0D,BFDJ
+Fruits Mura no Doubutsu-tachi (Japan) (Rev 1)|AA14B198,BFDJ
+Fruits Mura no Doubutsu-tachi (Japan) (Rev 2)|195D7EA7,BFDJ
+Fushigi no Kuni no Alice (Japan)|2CDA40E1,AF4J
+Fushigi no Kuni no Angelique (Japan)|803FC474,AFAJ
+Futari wa Pretty Cure - Arienaai! Yume no Sono wa Daimeikyuu (Japan)|6026EECD,BFPJ
+Futari wa Pretty Cure Max Heart - Maji Maji! Fight de IN Janai (Japan)|541C18F9,BFMJ
+Gachasute! Dino Device - Blue (Japan)|EB9F6F11,ABIJ
+Gachasute! Dino Device - Red (Japan)|DDA5EC5E,AAIJ
+Gachasute! Dino Device 2 - Dragon (Japan)|A63DFD2C,A4XJ
+Gachasute! Dino Device 2 - Phoenix (Japan)|67E21BFE,A4WJ
+Gachinko Pro Yakyuu (Japan)|81DE0C16,ANYJ
+Gadget Racers (Europe) (En,Fr,De)|D2BC5027,AQ2P
+Gadget Racers (USA)|95DD156A,AQAE
+Gakkou no Kaidan - Hyakuyoubako no Fuuin (Japan)|5847A906,BGHJ
+Gakkou o Tsukurou!! Advance (Japan)|6EB70422,AYSJ
+Gakuen Alice - Dokidoki Fushigi Taiken (Japan)|AAB51F8C,BASJ
+Gakuen Alice - Dokidoki Fushigi Taiken (Japan) (Rev 1)|8CB61158,BASJ
+Gakuen Senki Muryou (Japan)|82983321,BGSJ
+Galaxy Angel Game Boy Advance - Moridakusan Tenshi no Full-Course - Okawari Jiyuu (Japan)|B99E2333,AGZJ
+Galidor - Defenders of the Outer Dimension (USA) (En,Fr,De,Es,It,Nl,Sv,Da)|4D8F49F9,AG8E
+Gambler Densetsu Tetsuya - Yomigaeru Densetsu (Japan)|8A879018,ATYJ
+Game & Watch Gallery 4 (USA)|7E90CEA2,AQWE
+Game & Watch Gallery 4 (USA) (Virtual Console)|0A517352,AQWE
+Game & Watch Gallery Advance (Europe)|85C837AF,AQWP
+Game & Watch Gallery Advance (Europe) (Virtual Console)|F1098A5F,AQWP
+Game Boy Advance Video - All Grown Up! - Volume 1 (USA)|FFBD4DA9,MGUE
+Game Boy Advance Video - Cartoon Network Collection - Edition Platinum (France)|FC042F18,MCNF
+Game Boy Advance Video - Cartoon Network Collection - Edition Premium (France)|58F1CDE8,MCPF
+Game Boy Advance Video - Cartoon Network Collection - Edition Speciale (France)|71154D42,MCSF
+Game Boy Advance Video - Cartoon Network Collection - Limited Edition (USA)|5D918B2D,MCME
+Game Boy Advance Video - Cartoon Network Collection - Platinum Edition (USA, Europe)|6443554B,MCNE
+Game Boy Advance Video - Cartoon Network Collection - Premium Edition (USA, Europe)|F2825729,MCPE
+Game Boy Advance Video - Cartoon Network Collection - Special Edition (USA, Europe)|E9B7B8A4,MCSE
+Game Boy Advance Video - Cartoon Network Collection - Volume 1 (USA, Europe)|91F39447,MCTE
+Game Boy Advance Video - Cartoon Network Collection - Volume 2 (USA, Europe)|4BFAA8DE,MC2E
+Game Boy Advance Video - Codename - Kids Next Door - Volume 1 (USA, Europe)|4463F345,MKDE
+Game Boy Advance Video - Disney Channel Collection - Volume 1 (USA)|7CC985CB,MDCE
+Game Boy Advance Video - Disney Channel Collection - Volume 2 (USA) (Rev 5)|60DFD79C,MDSE
+Game Boy Advance Video - Dora the Explorer - Volume 1 (USA)|DD6A7FCC,MDRE
+Game Boy Advance Video - Dragon Ball GT - Volume 1 (USA)|DA559199,MDBE
+Game Boy Advance Video - Nicktoons - Volume 3 (USA)|6FBF5CEB,MN3E
+Game Boy Advance Video - Nicktoons Collection - Volume 1 (USA)|5D47676F,MNCE
+Game Boy Advance Video - Nicktoons Collection - Volume 2 (USA)|65DEEEB6,MN2E
+Game Boy Advance Video - Pokemon - Volume 1 (USA)|A59EF954,MPAE
+Game Boy Advance Video - Pokemon - Volume 2 (USA)|0DA1A383,MPBE
+Game Boy Advance Video - Pokemon - Volume 3 (USA)|A36AA9C5,MPCE
+Game Boy Advance Video - Pokemon - Volume 4 (USA)|BE468496,MPDE
+Game Boy Advance Video - Shark Tale (USA) (Rev 5)|01468820,MSAE
+Game Boy Advance Video - Shark Tale (USA) (Rev 6)|D2CF417A,MSAE
+Game Boy Advance Video - Shrek (USA) (Rev 5)|690176E5,MSKE
+Game Boy Advance Video - Shrek (USA) (Rev 6)|4010E9FA,MSKE
+Game Boy Advance Video - Shrek + Shark Tale (USA) (Rev 5)|AADB3E3D,MSTE
+Game Boy Advance Video - Shrek 2 (USA) (Rev 5)|0D353654,M2SE
+Game Boy Advance Video - Shrek 2 (USA) (Rev 6)|925B6C02,M2SE
+Game Boy Advance Video - Sonic X - Volume 1 (USA)|363C3EB8,MSHE
+Game Boy Advance Video - SpongeBob SquarePants - Volume 1 (USA) (Rev 1)|D47BF1D4,MSSE
+Game Boy Advance Video - SpongeBob SquarePants - Volume 2 (USA) (Rev 1)|7074364A,MS2E
+Game Boy Advance Video - SpongeBob SquarePants - Volume 3 (USA)|9772CA45,MS3E
+Game Boy Advance Video - Strawberry Shortcake - Volume 1 (USA)|FF7582EF,MSBE
+Game Boy Advance Video - Super Robot Monkey Team - Hyper Force Go! - Volume 1 (USA)|D743A070,MSRE
+Game Boy Advance Video - Teenage Mutant Ninja Turtles - Le Demenagement (France)|1EE78166,MTMF
+Game Boy Advance Video - Teenage Mutant Ninja Turtles - Things Change (USA, Europe)|046589C8,MTME
+Game Boy Advance Video - The Adventures of Jimmy Neutron Boy Genius - Volume 1 (USA)|0E556EDF,MJME
+Game Boy Advance Video - The Fairly OddParents! - Volume 1 (USA)|7958DF20,MFOE
+Game Boy Advance Video - The Fairly OddParents! - Volume 2 (USA) (Rev 1)|BBCBC6FD,MF2E
+Game Boy Advance Video - The Proud Family - Volume 1 (USA)|C6A91365,MFPE
+Game Boy Advance Video - Yu-Gi-Oh! - Yugi vs. Joey (France)|C9B6CCF1,MYGF
+Game Boy Advance Video - Yu-Gi-Oh! - Yugi vs. Joey (USA, Europe)|8D631F4E,MYGE
+Game Boy Gallery 4 (Japan) (Virtual Console)|11CFC797,AQWJ
+Game Boy Wars Advance 1+2 (Japan)|49EE1FDD,BGWJ
+Game Boy Wars Advance 1+2 (Japan) (Virtual Console)|F8D3B3C6,BGWJ
+Games Explosion! (USA)|68D63D5F,BG7E
+GameShark GBA (USA) (Unl)|D71DBCA6
+GameShark GBA (USA) (Unl) (Alt)|9AD94C62
+Ganbare! Dodge Fighters (Japan)|276E5814,BG8J
+Gang del Bosco, La (Italy)|52A5B59D,BH5I
+Garfield - The Search for Pooky (Europe) (En,Fr,De,Es,It) (Rev 2)|0C3AA538,BGOP
+Garfield - The Search for Pooky (Europe) (En,Fr,De,It)|CE9291F1,BGOP
+Garfield - The Search for Pooky (Europe) (En,Fr,De,It) (Rev 1)|387EB638,BGOP
+Garfield - The Search for Pooky (USA) (En,Fr,De,Es,It)|76035741,BGOE
+Garfield and His Nine Lives (Europe) (En,Fr,De,Es,It,Nl)|F0BA1A8E,BG9P
+Garfield and His Nine Lives (USA) (En,Fr,Es)|D442F13D,BG9E
+Gauntlet - Dark Legacy (USA)|E99DE964,AYGE
+GBA AV Adapter (China) (Unl)|A1B64F16,AGBJ
+GBA Jukebox (USA)|F34B25F2
+GBA Movie Player 2 CF (Spain) (Unl)|C879B340,PASS
+GBA Personal Organizer (USA) (Unl)|424F71E5,PDA1
+GBA TV Tuner PAL (China) (v1.3) (Unl)|AF124F8C,tvap
+GBA TV Tuner PAL (China) (v2.0) (Unl)|B511DF64,tvap
+Gegege no Kitarou - Kikiippatsu! Youkai Rettou (Japan)|7F2B2657,BGKJ
+Gekido Advance - Kintaro's Revenge (Europe) (En,Fr,De,Es,It)|2FB5B819,AGEP
+Gekido Advance - Kintaro's Revenge (USA)|6BBC5F4D,AGEE
+Gekitou Densetsu Noah - Dream Management (Japan)|3E04FDC7,ANNJ
+Gekitou! Car Battler Go!! (Japan)|321B19B6,ACBJ
+Gem Smashers (USA)|2EB60177,AZSE
+Genseishin Justirisers - Souchaku! Hoshi no Senshi-tachi (Japan)|580A00A5,BGJJ
+Gensou Maden Saiyuuki - Hangyaku no Toushin-taishi (Japan)|1DFBD741,BGMJ
+Gensou Suikoden - Card Stories (Japan)|DAFAC900,5E67AAB4,AGKJ
+Get Ride! Amdriver - Senkou no Hero Tanjou! (Japan)|9CF6887C,BGIJ
+Get Ride! Amdriver - Shutsugeki! Battle Party (Japan)|66D6E299,BGPJ
+Get! - Boku no Mushi Tsukamaete (Japan)|41EA70A3,BGBJ
+GetBackers Dakkanya - Jagan Fuuin! (Japan)|205C9F56,BGFJ
+GetBackers Dakkanya - Jigoku no Scaramouche (Japan)|C0A0A979,AGBJ
+GetBackers Dakkanya - Metropolis Dakkan Sakusen! (Japan)|91DAD468,A8GJ
+Ghost Rider (USA, Europe) (En,Fr,De,Es,It,Nl)|CF190F2E,BR8E
+Ghost Trap (Japan)|81EA54E2,AGVJ
+Global Star - Sudoku Fever (Europe) (En,Fr,De,Es,It)|383CF600,B3ZP
+Global Star - Sudoku Fever (USA)|51A42F19,B3ZE
+Go! Go! Beckham! - Adventure on Soccer Island (Europe) (En,Fr,De,Es,It)|DFF3E861,AGQP
+Godzilla - Domination! (Europe) (En,Fr,De,Es,It)|7C43545E,AG4P
+Godzilla - Domination! (USA)|EADE083F,AG4E
+Goemon - New Age Shutsudou! (Japan)|86D6C574,AGNJ
+Gojira - Kaijuu Dairantou Advance (Japan)|3157A4FC,AG4J
+Golden Nugget Casino (USA, Europe)|56B9E9E1,BGGE
+Golden Sun (France)|F6521161,AGSF
+Golden Sun (Germany)|1053DCE4,AGSD
+Golden Sun (Italy)|F3128812,AGSI
+Golden Sun (Spain)|C63008D6,AGSS
+Golden Sun (USA, Europe)|E1FB68E8,AGSE
+Golden Sun - Die Vergessene Epoche (Germany)|D981D889,AGFD
+Golden Sun - L'Age Perdu (France)|1090BD33,AGFF
+Golden Sun - L'Era Perduta (Italy)|A3E49743,AGFI
+Golden Sun - La Edad Perdida (Spain)|EE38BA94,AGFS
+Golden Sun - The Lost Age (USA, Europe)|606A1C4D,AGFE
+Golden Sun - The Lost Age (USA, Europe) (Virtual Console)|726BB764,AGFE
+Goodboy Galaxy (World) (Ar) (Demo) (Aftermarket) (Unl)|A4054C2B,2G0P
+Goodboy Galaxy (World) (En) (Demo) (Aftermarket) (Unl)|19BA7D80,2G0P
+Goodboy Galaxy (World) (Es) (Demo) (Aftermarket) (Unl)|C1811C9B,2G0P
+Goodboy Galaxy (World) (Fr) (Demo) (Aftermarket) (Unl)|21512022,2G0P
+Goodboy Galaxy (World) (Ja) (Demo) (Aftermarket) (Unl)|D4621E3E,2G0P
+Goodboy Galaxy (World) (Pt) (Demo) (Aftermarket) (Unl)|3477EF15,2G0P
+Goodboy Galaxy (World) (Zh) (Demo) (Aftermarket) (Unl)|3360E114,2G0P
+goodboy-demo-ar|1614286F,23CAC079
+goodboy-demo-en|960F10BD,8207414A,83A0C5A7,F0AD0365,D2F7C7BD,C2503B3A
+goodboy-demo-es|C7C21D3D,1A259F4B,332EAB59,741A5086,2A239A71,38FFEA0F
+goodboy-demo-fr|66A4967A,E6952F81,43FF0540,FAB46336,EDD62480,383F827C
+goodboy-demo-ja|9E72C50C,67C1075D,98D13C7E,77AB6612,6D272DB1,FDF93820
+goodboy-demo-pt|7A55496D,7E05233E,9D6A4DF7
+goodboy-demo-zh|797C15CF,84203678,A3C23F31,DA63B419,96CDF3D8,7D8F0FBA
+GP-1 Racing (USA) (Proto)|4851B490,ARCE
+Gradius Advance (Europe)|3722BDFA,AGAP
+Gradius Galaxies (USA)|8103428D,AGAE
+Gradius Generation (Japan)|6C20EA42,AGAJ
+Grand Theft Auto Advance (Europe) (En,Fr,De,Es,It)|4189E07F,BGTP
+Grand Theft Auto Advance (USA)|1FA131E8,BGTE
+Greatest Nine (Japan)|379E64D7,AG9J
+Green Eggs and Ham by Dr. Seuss (USA)|E4AE2CD1,BUSE
+Greg Hastings' Tournament Paintball Max'd (USA)|649F7BB2,BGQE
+Gremlins - Stripe vs Gizmo (Europe) (En,Fr,De,Es,It,Pt)|B6225186,AGGP
+Gremlins - Stripe vs Gizmo (Europe) (En,Fr,De,Es,It,Pt) (Beta)|68AE6BBB,AGGP
+Gremlins - Stripe vs Gizmo (USA)|5E72899A,AGGE
+Grim Adventures of Billy & Mandy, The (USA)|155587BC,BIEE
+Groove Adventure Rave - Hikari to Yami no Daikessen (Japan)|E7421B14,ARVJ
+Groove Adventure Rave - Hikari to Yami no Daikessen 2 (Japan)|006F9150,ARIJ
+GT Advance - Championship Racing (USA, Europe)|8C411ACC,ACAE
+GT Advance 2 - Rally Racing (Europe)|73411578,AGWP
+GT Advance 2 - Rally Racing (USA)|F335DB88,AGWE
+GT Advance 3 - Pro Concept Racing (Europe)|03898E7F,A2GP
+GT Advance 3 - Pro Concept Racing (USA)|0A331E11,A2GE
+GT Championship (Europe)|E92EC7AA,ATCX
+GT Racers (Europe) (Beta) (2005-07-13)|E027657A,AGBJ
+GT Racers (Europe) (Beta) (2005-10-14)|A0F745A0,AGBJ
+GT Racers (Europe) (En,Fr,De,Es,It)|362D9F86,BJAP
+Guilty Gear X - Advance Edition (Europe)|BA95861D,AGXP
+Guilty Gear X - Advance Edition (Japan)|160903EE,AGXJ
+Guilty Gear X - Advance Edition (Japan) (Beta)|4506ADA8
+Guilty Gear X - Advance Edition (USA)|70DB3F96,AGXE
+Gumby vs. the Astrobots (USA)|2B7E3CCB,BGVE
+Gunstar Future Heroes (Europe) (En,Ja,Fr,De,Es,It)|8C541D13,BHGP
+Gunstar Super Heroes (Japan)|6D4307F7,BGXJ
+Gunstar Super Heroes (USA)|7CD86B02,BHGE
+Guranbo (Japan)|CDD2E273,AIBJ
+Guranbo (Japan) (Virtual Console)|8DDC4CDA,AIBJ
+Guru Logic Champ (Japan)|30D04AD9,AGCJ
+Gyakuten Saiban (Japan)|C88F0952,ASBJ
+Gyakuten Saiban (Japan) (Rev 1)|A0F4801F,ASBJ
+Gyakuten Saiban (Japan) (Rev 1) (Virtual Console)|257E49F9,ASBJ
+Gyakuten Saiban 2 (Japan)|191AD26A,A3GJ
+Gyakuten Saiban 2 (Japan) (Virtual Console)|153F73D1,A3GJ
+Gyakuten Saiban 3 (Japan)|51B6CF22,A3JJ
+Gyakuten Saiban 3 (Japan) (Demo) (Kiosk, GameCube)|299A054B,A3GJ
+Gyakuten Saiban 3 (Japan) (Virtual Console)|2C88386A,A3JJ
+Hachiemon (Japan)|47C45B41,A8EJ
+Hagane no Renkinjutsushi - Meisou no Rondo (Japan)|BC3F79B5,A8CDA373,BHRJ
+Hagane no Renkinjutsushi - Omoide no Sonata (Japan)|C6144316,BH2J
+Hajime no Ippo - The Fighting! (Japan)|5130A355,782DC7EB,A2HJ
+Hamepane - Tokyo Mew Mew (Japan)|5875C07A,AM7J
+Hamster Club 3 (Japan)|8173F699,AJHJ
+Hamster Club 4 - Shigetchi Daidassou (Japan)|69CF5AFB,A4KJ
+Hamster Monogatari 2 GBA (Japan)|617724C5,AHBJ
+Hamster Monogatari 3 GBA (Japan)|C99D3787,A83J
+Hamster Monogatari 3EX 4 Special (Japan)|5DCBCC79,BHSJ
+Hamster Monogatari Collection (Japan)|35584EA6,BHCJ
+Hamster Paradise - Pure Heart (Japan)|0E9D0144,A82J
+Hamster Paradise Advanchu (Japan)|902BEFB0,AHAJ
+Hamtaro - Ham-Ham Games (Europe) (En,Fr,De,Es,It)|D9341D9C,B85P
+Hamtaro - Ham-Ham Games (Japan, USA) (En,Ja)|CC1CF806,B85A
+Hamtaro - Ham-Ham Heartbreak (Europe) (En,Fr,De,Es,It)|ECBD80EA,AH3P
+Hamtaro - Ham-Ham Heartbreak (USA)|CD48B673,AH3E
+Hamtaro - Rainbow Rescue (Europe) (En,Fr,De,Es,It)|5D051081,A84P
+Hanabi Hyakkei Advance (Japan)|173A6C4A,BHAJ
+Hanafuda Trump Mahjong - Depachika Wayouchuu (Japan)|DE7B8DCD,ADYJ
+Happy Feet (Europe) (En,Fr,De,Es,It)|7A53173C,BH3P
+Happy Feet (USA) (En,Fr)|682617CF,BH3E
+Hardcore Pinball (USA, Europe)|5466C757,AH6E
+Hardcore Pool (Europe) (En,De,Es,It)|2BE4F2BC,BHOP
+Hardcore Pool (France)|44779175,BHOF
+Harlem Globetrotters - World Tour (Europe) (En,Fr,De,Es,It)|37B20866,BHNP
+Harlem Globetrotters - World Tour (USA)|737C286F,BHNE
+Harobots - Robo Hero Battling!! (Japan)|F54976C8,AHQJ
+Harry Potter - Quidditch World Cup (Japan)|C1F26F37,BHPJ
+Harry Potter - Quidditch World Cup (USA, Europe) (En,Fr,De,Es,It,Nl,Da)|486041A4,BHPE
+Harry Potter and the Chamber of Secrets (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)|342816DB,A7HE
+Harry Potter and the Goblet of Fire (USA, Europe) (En,Fr,De,Es,It,Nl,Da)|052708D7,BH8E
+Harry Potter and the Order of the Phoenix (USA, Europe) (En,Fr,De,Es,It,Nl,Da)|302B8B3D,BJXE
+Harry Potter and the Prisoner of Azkaban (USA, Europe) (En,Fr,De,Es,It,Nl,Da)|C0BCCAAD,BHTE
+Harry Potter and the Sorcerer's Stone (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)|F755065C,AHRE
+Harry Potter Collection (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)|FFA9F4FB,BJPP
+Harry Potter to Azkaban no Shuujin (Japan)|42E590D6,BHTJ
+Harry Potter to Himitsu no Heya (Japan)|B485DABF,A7HJ
+Harry Potter to Kenja no Ishi (Japan)|A069750D,AHRJ
+Harvest Moon - Friends of Mineral Town (Europe)|F50F82AD,A4NP
+Harvest Moon - Friends of Mineral Town (Germany)|C11757D7,A4ND
+Harvest Moon - Friends of Mineral Town (USA)|8E923168,A4NE
+Harvest Moon - More Friends of Mineral Town (USA)|1736B957,BFGE
+Hatena Satena (Japan)|6139E34D,AHSJ
+Haunted Mansion, The (USA) (Proto)|DEBC5439,ALIE
+Heidi - The Game (Europe) (En,Fr,De,Es,It)|E8C44FB8,BHJP
+Hello Kitty - Happy Party Pals (Europe)|9C45920E,B86P
+Hello Kitty - Happy Party Pals (Europe) (En,Fr,De,Es)|1A080C10,B86X
+Hello Kitty - Happy Party Pals (USA)|E49C45A0,B86E
+Hello Kitty Collection - Miracle Fashion Maker (Japan)|C8F4D874,AKTJ
+Hello! Idol Debut - Kids Idol Ikusei Game (Japan)|304BDFC3,BHDJ
+Hello! Idol Debut - Kids Idol Ikusei Game (Japan) (Rev 1)|40958C2C,BHDJ
+Herbie - Fully Loaded (Europe) (En,Fr,De)|2521A98C,B8FP
+Herbie - Fully Loaded (USA)|9C6A3DD1,B8FE
+Hey Arnold! - The Movie (Europe) (En,Fr,De)|2B666FED,AAEP
+Hey Arnold! - The Movie (Europe) (En,Fr,De) (Beta)|9E4773BA,AAEE
+Hey Arnold! - The Movie (USA)|59DFAB9E,AAEE
+Hi Hi Puffy AmiYumi (Japan)|90239C3D,BHHJ
+Hi Hi Puffy AmiYumi - Kaznapped! (Europe) (En,De)|E5531D04,BHHP
+Hi Hi Puffy AmiYumi - Kaznapped! (USA)|E613AA43,BHHE
+Higanbana (Japan) (Rev 1)|C23AC287,AHZJ
+High Heat Major League Baseball 2002 (USA, Europe)|6EA3F4E4,ASSE
+High Heat Major League Baseball 2003 (Japan) (En)|0D9043A4,AHXJ
+High Heat Major League Baseball 2003 (USA)|59D72CB9,AHHE
+High School Musical - Livin' the Dream (USA)|7B31D4DA,BJ2E
+High School Musical - Livin' the Dream (USA) (Beta)|C340D5F7,BJ2E
+Hikaru no Go (Japan)|5A6C7537,AHKJ
+Hikaru no Go (Japan) (Demo) (Promo)|4955FA1B,AHTJ
+Hikaru no Go (Japan) (Rev 1)|53116FD7,AHKJ
+Hikaru no Go 2 (Japan)|04129A22,AKEJ
+Himawari Doubutsu Byouin - Pet no Oishasan Ikusei Game (Japan)|8EA9AFCC,BNBJ
+Himawari Doubutsu Byouin - Pet no Oishasan Ikusei Game (Japan) (Rev 1)|526FDFFF,BNBJ
+Hime Kishi Monogatari - Princess Blue (Japan)|46810F68,A3HJ
+Hitsuji no Kimochi. (Japan)|D4EAC9B1,AHIJ
+Hobbit no Bouken - Lord of the Rings - Hajimari no Monogatari (Japan)|65FB830A,AH9J
+Hobbit, The - The Prelude to the Lord of the Rings (Europe) (En,Fr,De,Es,It)|EACDFE0F,AH9P
+Hobbit, The - The Prelude to the Lord of the Rings (USA)|D3F654B3,AH9E
+Home on the Range (Europe) (En,Fr,De,Es)|D88FEB4E,BHMP
+Home on the Range (USA) (En,Fr)|DBD4A6CB,BHME
+Horsez (USA)|5B2B4452,BHUE
+Hoshi no Kirby - Kagami no Daimeikyuu (Japan) (Demo) (Kiosk, GameCube)|BF80F1A1,MAKO
+Hoshi no Kirby - Kagami no Daimeikyuu (Japan) (Rev 1)|683D772C,B8KJ
+Hoshi no Kirby - Kagami no Daimeikyuu (Japan) (Virtual Console)|3DA3603B,B8KJ
+Hoshi no Kirby - Yume no Izumi Deluxe (Japan)|C55A3C2C,A7KJ
+Hoshi no Kirby - Yume no Izumi Deluxe (Japan) (Virtual Console)|15235965,A7KJ
+Hot Potato! (Europe)|99175C62,AHPP
+Hot Potato! (Europe) (En,Fr,De)|2EB72B95,AHPX
+Hot Potato! (USA)|5ACB7A95,AHPE
+Hot Wheels - All Out (Europe) (En,Fr,De,Es,It)|74E787DC,BHXP
+Hot Wheels - All Out (USA)|C73658F9,BHXE
+Hot Wheels - Burnin' Rubber (Europe) (En,Fr)|4764D029,AHWP
+Hot Wheels - Burnin' Rubber (USA)|37DCBB0D,AHWE
+Hot Wheels - Stunt Track Challenge (USA, Europe)|D0AB6A37,BHEE
+Hot Wheels - Velocity X (Europe)|A7DDBCA3,AH8P
+Hot Wheels - Velocity X (USA)|9592F553,AH8E
+Hot Wheels - World Race (Europe)|B9F17F8F,BHWP
+Hot Wheels - World Race (USA)|CB313505,BHWE
+Hot Wheels Advance (Japan) (En)|F79FFEDF,AHWJ
+Hudson Best Collection Vol. 1 - Bomberman Collection (Japan)|9D22604D,B7IJ
+Hudson Best Collection Vol. 2 - Lode Runner Collection (Japan)|87390220,B72J
+Hudson Best Collection Vol. 3 - Action Collection (Japan)|C207A245,B73J
+Hudson Best Collection Vol. 4 - Nazotoki Collection (Japan)|6472067A,B74J
+Hudson Best Collection Vol. 5 - Shooting Collection (Japan)|39D88481,B75J
+Hudson Best Collection Vol. 6 - Bouken-jima Collection (Japan)|C51CD05F,B76J
+Hugo - Bukkazoom! (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl)|B34A2071,AZHP
+Hugo - The Evil Mirror Advance (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl)|9E9D5AD7,AHJP
+Hugo - The Evil Mirror Advance (USA) (En,Fr,Es)|ED5CA311,AHJE
+Hugo 2 in 1 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl)|8EAE8860,B2HP
+Hunter X Hunter - Minna Tomodachi Daisakusen!! (Japan)|AF22A5EA,A8NJ
+Hunter X Hunter - Minna Tomodachi Daisakusen!! (Japan) (Rev 1)|86C21AEB,A8NJ
+Huo-Wen Zhanji - Fengyin Zhi Jian (China) (Proto)|8CEBEF1E,AFEC
+Hyper Sports 2002 Winter (Japan)|1A8B6863,AWIJ
+I Spy Challenger! (USA)|946D2CBB,A4CE
+Ice Age (Europe) (En,Fr,De,Es,It)|10179D72,AIAP
+Ice Age (Japan)|6D457F4C,AIAJ
+Ice Age (USA) (En,Fr,Es)|3FC99714,AIAE
+Ice Age 2 - The Meltdown (Europe) (En,Fr,De,Es,It,Nl)|58043308,BIAP
+Ice Age 2 - The Meltdown (USA)|000206C0,BIAE
+Ice Nine (USA, Europe) (En,Fr,De,Es,It)|14C23257,AR3E
+Ignition Collection - Volume 1 (Europe)|164A75AC,BIVP
+Incredibili, Gli - Una 'Normale' Famiglia di Supereroi (Italy)|615839EF,BICI
+Incredible Hulk, The (Europe) (En,Fr,De,Es,It)|7E00422C,AHLP
+Incredible Hulk, The (USA)|0B978DFA,AHLE
+Incredibles, The (Europe) (Fr,Nl)|77CBDC3B,BICX
+Incredibles, The (USA, Europe)|194D5F6C,BICE
+Incredibles, The - Rise of the Underminer (Europe) (En,Fr,De,Es,It,Nl,Pt)|096F98B6,BIQX
+Incredibles, The - Rise of the Underminer (USA, Europe)|2D806290,BIQE
+Increibles, Los (Spain)|FC6CCADB,BICS
+Initial D - Another Stage (Japan)|23110A94,AINJ
+Inspector Gadget - Advance Mission (Europe) (En,Fr,De,Es,It,Nl)|406AA0C6,AIGP
+Inspector Gadget - Advance Mission (USA)|EF131209,AIGE
+Inspector Gadget Racing (Europe) (En,Fr,De,Es,It,Nl)|B0D1C070,AIRP
+International Karate Advanced (Europe)|D33A14AF,AIKP
+International Karate Plus (Europe)|1052A0EA,A3KP
+International Karate Plus (USA)|31C4F03B,A3KE
+International Superstar Soccer (Europe)|9989CE55,AISP
+International Superstar Soccer Advance (Europe)|7EB2F6D6,AY2P
+Inukko Club (Japan)|D473B3C1,AI9J
+Inuyasha - Naraku no Wana! Mayoi no Mori no Shoutaijou (Japan)|8FCDF69C,AIYJ
+Invader (Europe)|A94D6058,AIVP
+Invincible Iron Man, The (USA, Europe)|39A31B68,AIOE
+iQue Reader (China)|8724750B
+iQue Video & Audio (China)|92852A72
+Iridion 3D (USA, Europe)|34189E74,AI3E
+Iridion 3D (World) (Aftermarket) (Unl)|4C7EBE42,AI3E
+Iridion II (Europe) (En,Fr,De)|57930C6A,AI2P
+Iridion II (USA)|DD8A7104,AI2E
+Iridion II (USA) (Beta)|9C63D17C,1234
+Iridion II (World) (Aftermarket) (Unl)|B371F070,AI2E
+Iron Kid (Korea)|326E7A8E,BIRK
+Island Xtreme Stunts (USA, Europe) (En,Fr,De,Es,It,Nl,Sv,Da)|3BEB5446,AXTE
+Isseki Hatchou - Kore 1ppon de 8shurui! (Japan)|CB5EFF64,AIEJ
+It's Mr. Pants (USA, Europe)|757A4EFB,BPIE
+J.League Pocket (Japan)|51BE73B8,AJPJ
+J.League Pocket (Japan) (Rev 1)|0524E9EF,AJPJ
+J.League Pocket 2 (Japan)|DC7D2E4A,AJ2J
+J.League Pro Soccer Club o Tsukurou! Advance (Japan)|8BC59927,AC2J
+J.League Winning Eleven Advance 2002 (Japan)|AEE73FE7,A2JJ
+Jackie Chan Adventures - Legend of the Dark Hand (USA, Europe)|13247954,AJCE
+Jajamaru Jr. Denshouki - Jalecolle mo Arisourou (Japan)|8CE6BCE8,BNJJ
+James Pond - Codename Robocod (Europe) (En,Fr,De,Es,It,Nl,Pt)|31081996,AJDP
+James Pond - Codename Robocod (USA) (En,Fr,Es,Pt)|EB25BB5B,AJDE
+Jazz Jackrabbit (USA, Europe)|948531D4,AJJE
+Jet Grind Radio (USA)|AE4142B5,AJRE
+Jet Set Radio (Europe)|716DC010,AJRP
+JGTO Kounin Golf Master - Japan Golf Tour Game (Japan)|0BA5809F,AGRJ
+JGTO Kounin Golf Master Mobile - Japan Golf Tour Game (Japan)|B863DAE1,AGMJ
+Jikkyou World Soccer Pocket (Japan)|8BD96DB9,AJWJ
+Jikkyou World Soccer Pocket 2 (Japan)|B80AA966,AJKJ
+Jimmy Neutron Boy Genius (Europe) (En,Fr,De,Es)|A9423234,AJNX
+Jimmy Neutron Boy Genius (USA)|D3EE0C51,AJNE
+Jimmy Neutron un Garcon Genial - L'Attaque des Twonkies (France)|33816E51,BJYF
+Jimmy Neutron vs. Jimmy Negatron (Germany) (Beta)|220CCF25,AGBJ
+Jinsei Game Advance (Japan)|84A4A304,AZGJ
+Jissen Pachi-Slot Hisshouhou! - Juuou Advance (Japan)|07195201,AJUJ
+Jisu F-Zero Weilai Saiche (China)|0E5C38B7,AFZC
+Jonny Moseley Mad Trix (USA, Europe) (En,Fr,De,Es,It)|96488632,AJME
+Juka and the Monophonic Menace (Europe) (En,Fr,De,Es,It)|E62BFFEB,BJKP
+Juka and the Monophonic Menace (USA) (En,Fr,Es)|0C04A2F9,BJKE
+Jungle Book 2, The (Europe) (En,Fr,De,Es,It,Nl)|9898258B,AJFP
+Jungle Book, The (USA) (En,Fr,De,Es,It,Nl)|E9A21637,AJFE
+Jurassic Park III - Advanced Action (Japan)|D18F75E5,AJQJ
+Jurassic Park III - Dino Attack (Europe) (En,Fr,De,Es,It)|DDCEB011,AJQP
+Jurassic Park III - Island Attack (USA)|1E7048D2,AJQE
+Jurassic Park III - Kyouryuu ni Ainiikou! (Japan)|F2BF8990,AJ3J
+Jurassic Park III - Park Builder (Europe) (En,Fr,De,Es,It)|51061EFF,AJ3P
+Jurassic Park III - Park Builder (USA)|EDDDCF19,AJ3E
+Jurassic Park III - The DNA Factor (Europe) (En,Fr,De,Es,It)|FE89C986,ADNP
+Jurassic Park III - The DNA Factor (USA)|F93DCC2E,ADNE
+Jurassic Park III - Ushinawareta Idenshi (Japan)|AB6786DD,ADNJ
+Jurassic Park Institute Tour - Dinosaur Rescue (Japan)|7C75555E,AJ8J
+Justice League - Chronicles (USA)|07090F67,BJLE
+Justice League - Injustice for All (Europe) (En,Fr,De,Es,It)|D71C4382,AJLP
+Justice League - Injustice for All (USA)|B2477B72,AJLE
+Justice League - Injustice for All (USA) (Beta)|C41081CF,AJLE
+Justice League Heroes - The Flash (Europe) (En,Fr,De,Es,It)|ACB22FFF,BJHP
+Justice League Heroes - The Flash (USA)|87A4D12C,BJHE
+K-1 Pocket Grand Prix (Japan)|FBDD4384,AKVJ
+K-1 Pocket Grand Prix 2 (Japan)|19FDE4C8,A2OJ
+Kaeru B Back (Japan)|DE5987BD,AKDJ
+Kaiketsu Zorori to Mahou no Yuuenchi - Ohimesama o Sukue! (Japan)|259CDD6F,BKOJ
+Kaisertal - Fight the Necronis War (Europe) (Demo)|62992510
+Kamaitachi no Yoru Advance (Japan)|82B4F3FA,AKZJ
+Kami no Kijutsu - Illusion of the Evil Eyes (Japan)|906C73AD,AG2J
+Kao the Kangaroo (Europe) (En,Fr,De,Es,It,Nl)|51E7522C,AKKP
+Kao the Kangaroo (USA) (En,Fr,De,Es,It,Nl)|F6667B3E,AKKE
+Kappa no Kai-kata - Kaatan Daibouken! (Japan)|BF5F326E,BK8J
+Karnaaj Rally (USA, Europe)|63FE3DFE,AYKE
+Kawa no Nushi Tsuri 3 & 4 (Japan)|4F09CA00,BN4J
+Kawa no Nushi Tsuri 3 & 4 (Japan) (Virtual Console)|23D97A37,BN4J
+Kawa no Nushi Tsuri 5 - Fushigi no Mori kara (Japan)|4A8F2F62,AN5J
+Kawaii Koinu Wonderful (Japan)|2E23C8F5,B82J
+Kawaii Pet Game Gallery (Japan)|BC5ABD75,BKGJ
+Kawaii Pet Game Gallery 2 (Japan)|C8C8C4C1,BKPJ
+Kawaii Pet Shop Monogatari 3 (Japan)|39AEFB7B,A63J
+Kaze no Klonoa - Yumemiru Teikoku (Japan)|B51D97DE,AKLJ
+Kaze no Klonoa G2 - Dream Champ Tournament (Japan)|8D98DC2C,AN6J
+Kaze no Klonoa G2 - Dream Champ Tournament (Japan) (Virtual Console)|B5C65079,AN6J
+Keitai Denjuu Telefang 2 - Power (Japan)|44DB280E,ATPJ
+Keitai Denjuu Telefang 2 - Speed (Japan)|8F95CA53,ATSJ
+Kelly Slater's Pro Surfer (USA, Europe)|31F85DBE,AS3E
+Keroro Gunsou - Taiketsu! Gekisou Keronprix Daisakusen de Arimasu!! (Japan)|C026CBBB,BKJJ
+Kessaku Sen! - Ganbare Goemon 1, 2 - Yuki Hime to Magginesu (Japan)|3E7D9694,BG2J
+Kid Paddle (Europe) (Fr,Nl)|69951AA9,BYLP
+Kid Paddle (Europe) (Fr,Nl) (Beta)|5AB5A26A
+Kid Paddle (Europe) (Fr,Nl) (Beta) (2005-06-28)|46648F66
+Kid Paddle (Europe) (Fr,Nl) (Beta) (2005-07-08)|44AAD1CB
+Kid's Cards (USA)|6F931445,BCXE
+Kidou Gekidan Haro Ichiza - Haro no Puyo Puyo (Japan)|A7825224,BH6J
+Kidou Senshi Gundam - Seed Destiny (Japan)|AA250CCA,B42J
+Kidou Senshi Gundam Seed - Tomo to Kimi to Koko de. (Japan)|73BF384B,BGNJ
+Kidou Tenshi Angelic Layer - Misaki to Yume no Tenshi-tachi (Japan)|B21EE600,AALJ
+Kien (USA) (Proto)|185C2ECA,XXXE
+Kikaika Guntai - Mech Platoon (Japan)|A2FA4248,AKGJ
+Kiki Kaikai Advance (Japan)|1C61225B,AKIJ
+Kill Switch (Europe) (En,Fr,De,Es,It)|4F468670,BKHP
+Kill Switch (USA)|2B207D1F,BKHE
+Killer 3D Pool (Europe) (En,Fr,De,Es,It)|E6FDA065,B3LP
+Killer 3D Pool (USA)|1F12D048,B3LE
+Kim Possible (Europe) (En,Fr,De,Es)|0C35D0FC,AEYP
+Kim Possible (Europe) (En,Fr,De,Es) (Rev 1)|48428C2A,AEYP
+Kim Possible (Japan)|69843F73,BKMJ
+Kim Possible - Revenge of Monkey Fist (USA)|1A56EFBD,AEYE
+Kim Possible 2 - Drakken's Demise (Europe) (En,Fr,De,Es)|71C505C8,BKMP
+Kim Possible 2 - Drakken's Demise (USA) (En,Fr)|FA946FC6,BKME
+Kim Possible 3 - Team Possible (USA) (En,Fr)|FDEC60EC,BQPE
+King Kong - The Official Game of the Movie (Europe) (En,Fr,De,Es,It,Nl)|37387B19,BKQP
+King Kong - The Official Game of the Movie (Europe) (En,Sv,No,Da,Fi)|439A92EB,BKQX
+King of Fighters EX 2, The - Howling Blood (Europe)|9E8BAA87,AEXE
+King of Fighters EX 2, The - Howling Blood (Japan) (Rev 1)|DC5BEACD,AEXJ
+King of Fighters EX 2, The - Howling Blood (USA)|15F8F9D5,AEXE
+King of Fighters EX 2, The - Howling Blood (USA) (Beta) (2003-04-03)|7704FF39,AEXE
+King of Fighters EX, The - NeoBlood (Europe)|17E66B52,AKOP
+King of Fighters EX, The - NeoBlood (Japan)|0814C78D,AKOJ
+King of Fighters EX, The - NeoBlood (Japan) (Beta)|811FFCFA
+King of Fighters EX, The - NeoBlood (USA)|2B92EB8E,AKOE
+King of Fighters EX, The - NeoBlood (USA) (Rev 1)|0F960E70,AKOE
+Kingdom Hearts - Chain of Memories (Europe) (En,Fr,De,Es,It)|772D97FB,B8CP
+Kingdom Hearts - Chain of Memories (Japan)|8D5A0D84,B8CJ
+Kingdom Hearts - Chain of Memories (USA)|D031CE67,B8CE
+Kinniku Banzuke - Kimero! Kiseki no Kanzen Seiha (Japan)|C81B9701,AK5J
+Kinniku Banzuke - Kongou-kun no Daibouken! (Japan)|94519D2A,AK4J
+Kinnikuman II-Sei - Seigi Choujin e no Michi (Japan)|3FE9C701,AK2J
+Kirby & The Amazing Mirror (Europe) (En,Fr,De,Es,It)|4F07C618,B8KP
+Kirby & The Amazing Mirror (Europe) (En,Fr,De,Es,It) (Virtual Console)|7C74487C,B8KP
+Kirby & The Amazing Mirror (USA)|9F2A3048,B8KE
+Kirby & The Amazing Mirror (USA) (Virtual Console)|F70EBB99,B8KE
+Kirby - Nightmare in Dream Land (Europe) (En,Fr,De,Es,It)|3B7A7477,A7KP
+Kirby - Nightmare in Dream Land (Europe) (En,Fr,De,Es,It) (Virtual Console)|7336B1FA,A7KP
+Kirby - Nightmare in Dream Land (USA)|20EF3F64,A7KE
+Kirby - Nightmare in Dream Land (USA) (Virtual Console)|1AF07AC8,A7KE
+Kisekko Gurumii - Chesty to Nuigurumi-tachi no Mahou no Bouken (Japan)|34D65C0B,A2VJ
+Kiss x Kiss - Seirei Gakuen (Japan)|0C368530,B2KJ
+Kiwame Mahjong Deluxe - Mirai Senshi 21 (Japan)|66F7614B,AKMJ
+Klonoa - Empire of Dreams (Europe)|69492530,AKLP
+Klonoa - Empire of Dreams (USA)|F74E1036,AKLE
+Klonoa 2 - Dream Champ Tournament (USA)|8BD23A7F,AN6E
+Klonoa 2 - Dream Champ Tournament (USA) (Virtual Console)|766C7F9A,AN6E
+Klonoa Heroes - Densetsu no Star Medal (Japan)|E7EADDCC,AK7J
+Knights' Kingdom (Europe) (En,De)|F027E89F,BKNP
+Knights' Kingdom (USA)|88FE3F31,BKNE
+Koala Brothers - Outback Adventures (Europe) (En,Fr,De,Es,It,Nl,Pt,Da)|ABD866EA,BAKP
+Koala Brothers - Outback Adventures (USA) (En,Fr,De,Es,It,Nl,Pt,Da)|6EC76BCE,BAKE
+Koinu to Issho - Aijou Monogatari (Japan)|30E209AA,BDIJ
+Koinu to Issho 2 (Japan)|2D2AC33B,BI2J
+Koinu-chan no Hajimete no Osanpo - Koinu no Kokoro Ikusei Game (Japan)|1D27165A,BISJ
+Konami Arcade Game Collection (Japan)|285F652F,AKCJ
+Konami Collector's Series - Arcade Advanced (USA)|2DB31825,AKCE
+Konami Collector's Series - Arcade Classics (Europe) (En,Fr,De,Es,It)|6A8BE56F,AKCP
+Konami Krazy Racers (Europe)|CFEC0650,AKWP
+Konami Krazy Racers (Europe) (Virtual Console)|922D805A,AKWP
+Konami Krazy Racers (USA)|C80D4F5C,AKWE
+Konami Krazy Racers (USA) (Beta)|5F2AE8FE,AKWE
+Konami Krazy Racers (USA) (Virtual Console)|95CCC956,AKWE
+Konami Wai Wai Racing Advance (Japan)|AA039A8A,AKWJ
+Konami Wai Wai Racing Advance (Japan) (Virtual Console)|F424858F,AKWJ
+Konchuu Monster - Battle Master (Japan)|3AA0CE79,BQBJ
+Konchuu Monster - Battle Stadium (Japan)|5ADB68EF,BQSJ
+Konchuu no Mori no Daibouken - Fushigi na Sekai no Juunin-tachi (Japan)|88C56D65,BQKJ
+Kong - King of Atlantis (Europe)|9C12CD31,BK7P
+Kong - King of Atlantis (USA)|5E8B2644,BK7E
+Kong - The 8th Wonder of the World (USA) (En,Fr,Es)|06079C42,BKQE
+Kong - The Animated Series (Europe) (En,Fr,De,Es,It,Nl)|7A7B060F,AKQP
+Kong - The Animated Series (USA) (En,Fr,De,Es,It,Nl)|150BDD9E,AKQE
+Konjiki no Gashbell!! - Makai no Bookmark (Japan)|D66379E1,BKBJ
+Konjiki no Gashbell!! - Unare! Yuujou no Zakeru (Japan)|64FAB050,A4GJ
+Konjiki no Gashbell!! - Unare! Yuujou no Zakeru 2 (Japan)|B7827F20,BGYJ
+Konjiki no Gashbell!! The Card Battle for GBA (Japan)|E1E26F2A,BKEJ
+Konjiki no Gashbell!! Yuujou no Zakeru - Dream Tag Tournament (Japan)|FB5516AD,BUDJ
+Koro Koro Puzzle - Happy Panechu! (Japan)|0BFE46E9,KHPJ
+Kotoba no Puzzle - Mojipittan Advance (Japan)|FB67EFBC,A8MJ
+Kotoba no Puzzle - Mojipittan Advance (Japan) (Virtual Console)|B99D538B,A8MJ
+Kouchuu Ouja Mushiking - Greatest Champion e no Michi (Japan)|7AC9FFBF,BK6J
+Koukou Juken Advance Series Eigo Koubun Hen - 26 Units Shuuroku (Japan)|576DA6F6,A54J
+Koukou Juken Advance Series Eijukugo Hen - 650 Phrases Shuuroku (Japan)|7F2F5017,A53J
+Koukou Juken Advance Series Eitango Hen - 2000 Words Shuuroku (Japan)|D38F6A8E,A52J
+Koutetsu Teikoku from HOT-B (Japan)|CDFAC4EE,BKTJ
+Kunio-kun Nekketsu Collection 1 (Japan)|4B96B600,B9AJ
+Kunio-kun Nekketsu Collection 2 (Japan)|61F9A9F4,B9BJ
+Kunio-kun Nekketsu Collection 3 (Japan)|093054FC,B9CJ
+Kurohige no Golf Shiyouyo (Japan)|ABFD7AC7,AGOJ
+Kurohige no Kurutto Jintori (Japan)|99C917E9,AKUJ
+Kurukuru Kururin (Europe)|C4DAB956,AKRP
+Kurukuru Kururin (Japan)|8A6A900B,AKRJ
+Kururin Paradise (Japan)|93D036F5,A9QJ
+Lady Sia (Europe) (En,Fr,De,Es,It,Nl)|958097D2,ALDP
+Lady Sia (USA) (En,Fr,De,Es,It,Nl)|139E95BD,ALDE
+Land Before Time, The (Europe) (En,Fr,De,Es,It)|CF0FA4D9,ALAP
+Land Before Time, The (USA) (En,Es)|CFD8A52C,ALAE
+Land Before Time, The - Into the Mysterious Beyond (Europe) (En,Fr,De,Es,It,Nl,Pt,Da)|5485EEFA,BLOP
+Land Before Time, The - Into the Mysterious Beyond (USA) (En,Fr,Es)|CFF03DF3,BLOE
+Lara Croft Tomb Raider - Legend (Europe) (En,Fr,De,Es,It)|E2FF36C7,BL8P
+Lara Croft Tomb Raider - Legend (USA) (En,Fr,De,Es,It)|5A3DFB37,BL8E
+Lara Croft Tomb Raider - The Prophecy (Europe) (En,Fr,De,Es,It)|4235FAC3,AL9P
+Lara Croft Tomb Raider - The Prophecy (Japan)|7799E1DA,AUTJ
+Lara Croft Tomb Raider - The Prophecy (USA) (En,Fr,De,Es,It)|556F40FA,AL9E
+Lea - Passion Veterinaire (France) (En,Fr)|6A808027,BQTF
+Legend of Dynamic Goushouden - Houkai no Rondo (Japan)|67F18F8E,AVDJ
+Legend of Spyro, The - A New Beginning (Europe) (En,Fr,De,Es,It,Nl)|63DF4D36,B3YP
+Legend of Spyro, The - A New Beginning (USA)|1B81CC00,B3YE
+Legend of Spyro, The - The Eternal Night (Europe) (En,Fr,De,Es,It,Nl)|93B18353,BU7P
+Legend of Spyro, The - The Eternal Night (USA) (En,Fr)|BD2751E6,BU7E
+Legend of Zelda, The - A Link to the Past & Four Swords (Europe) (En,Fr,De,Es,It)|5A164321,AZLP
+Legend of Zelda, The - A Link to the Past & Four Swords (USA)|8E91CD13,AZLE
+Legend of Zelda, The - The Minish Cap (Europe) (En,Fr,De,Es,It)|E8637292,BZMP
+Legend of Zelda, The - The Minish Cap (USA)|ABCEBBB1,BZME
+Legend of Zelda, The - The Minish Cap (USA) (Demo) (Kiosk)|023DA338,BZHE
+Legends of Wrestling II (USA, Europe)|84440066,A2LE
+Legendz - Buhwarhaneun Siryeonyi Seom (Korea)|8DF9759D,BLJK
+Legendz - Sign of Nekuromu (Japan)|98432A11,BLVJ
+Legendz - Yomigaeru Shiren no Shima (Japan)|33950228,BLJJ
+LEGO Bionicle (Europe) (En,Fr,De,Es,It,Nl,Sv,Da)|121AB9C3,ALBP
+LEGO Bionicle (USA) (En,Fr)|3E5EC871,ALBE
+LEGO Island 2 - The Brickster's Revenge (Europe) (En,Fr,De,Es,It,Nl,Sv,Da)|C7B5D987,AL2P
+LEGO Island 2 - The Brickster's Revenge (USA) (En,Fr)|3F513CBF,AL2E
+LEGO Racers 2 (Europe) (Beta)|7D05AE2C
+LEGO Racers 2 (Europe) (En,Fr,De,Es,It,Nl,Sv,Da)|7A1DC458,ALRP
+LEGO Racers 2 (USA) (En,Fr)|E13B63AD,ALRE
+LEGO Soccer Mania (USA, Europe) (En,Fr,De,Es,It,Nl,Sv,Da)|73EF3A35,ALSE
+LEGO Star Wars - The Video Game (Japan)|55A5AAF2,BLWJ
+LEGO Star Wars - The Video Game (USA, Europe) (En,Fr,De,Es,It,Nl,Da)|AEABFA5F,BLWE
+LEGO Star Wars II - The Original Trilogy (Europe) (En,Fr,De,Es,It,Da)|BBA91C3B,BL7P
+LEGO Star Wars II - The Original Trilogy (USA)|DA1E9444,BL7E
+Lemony Snicket - Raetselhafte Ereignisse (Germany)|F7AC3D9E,BLYD
+Lemony Snicket - Una Serie di Sfortunati Eventi (Italy)|AA6E22D7,BLYI
+Lemony Snicket's A Series of Unfortunate Events (Europe) (Fr,Es)|63E02A0D,BLYX
+Lemony Snicket's A Series of Unfortunate Events (USA, Europe)|72BA6B8C,BLYE
+Let's Ride! - Dreamer (USA)|1D96366C,BL9E
+Let's Ride! - Friends Forever (USA)|8BDD13AD,BEFE
+Let's Ride! - Sunshine Stables (USA)|684EB887,B34E
+Licca-chan no Oshare Nikki (Japan)|E9F62FE0,BRNJ
+Lilliput Oukoku - Lillimoni to Issho Puni! (Japan)|1AFAB451,BRPJ
+Lilo & Stitch (Europe) (En,Fr,De,Es,It,Nl)|2A10F7E4,ALTP
+Lilo & Stitch (Europe) (En,Fr,De,Es,It,Nl) (Rev 1)|E7BC4EF1,ALTP
+Lilo & Stitch (Japan)|DB1E7311,BLSJ
+Lilo & Stitch (USA)|542AA4AC,ALTE
+Lilo & Stitch 2 (Europe) (En,Fr,De,Es)|A88587A6,BLSP
+Lilo & Stitch 2 - Haemsterviel Havoc (USA)|021A5755,BLSE
+Lion King 1 1-2, The (USA)|EA5ED4C0,BLKE
+Lion King, The (Europe) (En,Fr,De,Es,It,Nl,Sv,Da)|63592451,BLKP
+Little Buster Q (Japan)|D26E49F8,ALQJ
+Little Einsteins (USA)|C8340B37,BEIE
+Little League Baseball 2002 (USA) (En,Es)|B550F8CB,ALCE
+Little Mermaid, The - Magic in Two Kingdoms (USA, Europe) (En,Fr,De,Es,It)|02E35663,BN9E
+Little Patissier - Cake no Oshiro (Japan)|8FEA41C4,BLIJ
+Lizzie McGuire (Europe) (En,Fr,De,Es)|7E9283F2,BLMP
+Lizzie McGuire - On the Go! (USA)|70DED768,BLME
+Lizzie McGuire 2 - Lizzie Diaries (USA) (En,Fr)|F11009F9,BL2E
+Lizzie McGuire 3 - Homecoming Havoc (USA)|A2843980,BL3E
+Lode Runner (Japan)|3E2CF3FF,A39J
+Looney Tunes - Back in Action (USA, Europe) (En,Fr,De,Es,It)|2B8B3964,BLTE
+Looney Tunes Double Pack (Europe)|DCA23B31,BLNP
+Looney Tunes Double Pack (USA)|ECADD047,BLNE
+Lord of the Rings, The - Futatsu no Tou (Japan)|DC8D4667,ALPJ
+Lord of the Rings, The - Nakatsukuni Daisanki (Japan)|CF0534F8,B3AJ
+Lord of the Rings, The - Ou no Kikan (Japan)|465F2753,BLRJ
+Lord of the Rings, The - The Fellowship of the Ring (Europe) (En,Fr,De,Es,It)|2380B93A,ALOP
+Lord of the Rings, The - The Fellowship of the Ring (USA)|EE0C58BC,ALOE
+Lord of the Rings, The - The Fellowship of the Ring (USA) (Rev 1)|5A2B01F1,ALOE
+Lord of the Rings, The - The Return of the King (USA, Europe) (En,Fr,De,Es,It)|7590EBFA,BLRE
+Lord of the Rings, The - The Third Age (USA, Europe) (En,Fr,De,Es,It)|2DEF3656,B3AE
+Lord of the Rings, The - The Two Towers (USA, Europe) (En,Fr,De,Es,It,Nl)|A1E3BF33,ALPE
+Lost Vikings, The (Europe) (En,Fr,De,Es)|1C008D32,ALVP
+Lost Vikings, The (USA)|8CB58997,ALVE
+Love Hina Advance - Shukufuku no Kane wa Naru Kana (Japan)|B8E67449,ALHJ
+Lu-Hai-Kong Dazhan (China) (Proto)|E166E6ED,AWRC
+Lucky Luke - Wanted! (Europe) (En,Fr,De,Es,It,Nl)|F12F29A9,ALLP
+Lufia - The Ruins of Lore (USA)|DE5FFCBC,AGDE
+Lunar Legend (Japan)|4E044191,ALNJ
+Lunar Legend (USA)|885266A2,ALNE
+M&M's - Blast! (USA)|AD38C301,AMLE
+M&M's - Break' Em (USA) (Rev 1)|A4EA65C0,BEME
+Madagascar (Europe)|394F2126,BGZP
+Madagascar (Europe) (Fr,De,Pt)|274C9135,BGZX
+Madagascar (Italy)|9467225B,BGZI
+Madagascar (Japan)|2D6D478C,BGZJ
+Madagascar (Netherlands)|EBFAB740,BGZH
+Madagascar (Spain)|0C6070B5,BGZS
+Madagascar (USA)|7503F71B,BGZE
+Madagascar - Operacion Pinguino (Spain)|5B519E47,BM7S
+Madagascar - Operation Penguin (Europe)|15BB7278,BM7P
+Madagascar - Operation Penguin (Europe) (Fr,De)|6B5B70C5,BM7X
+Madagascar - Operation Penguin (Europe) (It,Nl)|8D8B5808,BM7Y
+Madagascar - Operation Penguin (USA)|DA3FA501,BM7E
+Madden NFL 06 (USA)|374FD6F9,B6ME
+Madden NFL 07 (USA)|C5805B1D,B7ME
+Madden NFL 2002 (USA)|8E797ECD,A2ME
+Madden NFL 2003 (USA)|64B93824,ANJE
+Madden NFL 2004 (USA)|170BB11A,BMDE
+Madden NFL 2005 (USA)|0B79A67B,BMFE
+Made in Wario (Japan)|87A0EEA0,AZWJ
+Made in Wario (Japan) (Demo) (Kiosk, GameCube)|11FF7A67,AZWJ01
+Made in Wario (Japan) (Virtual Console)|EE98906F,AZWJ
+MAER Heaven - Knockin' on Heaven's Door (Japan)|EF6807CA,BM9J
+Magi Nation (Japan)|6A94531B,A2IJ
+Magical Houshin (Japan)|70123550,AJOJ
+Magical Quest 2 Starring Mickey & Minnie (Europe) (En,Fr,De)|F9498038,AQMP
+Magical Quest 2 Starring Mickey & Minnie (USA) (En,Fr,De)|69F1117D,AQME
+Magical Quest 3 Starring Mickey & Donald (Europe) (En,Fr,De)|AAD912F9,BMQP
+Magical Quest 3 Starring Mickey & Donald (USA) (En,Fr,De)|5A23094D,BMQE
+Magical Quest Starring Mickey & Minnie (Europe) (En,Fr,De,Es,It)|94F3B7C0,A3MP
+Magical Quest Starring Mickey & Minnie (USA)|B4294FA7,A3ME
+Magical Vacation (Japan)|98FBBD9A,59CBE914,AMVJ
+Magical Vacation (Japan) (Virtual Console)|B51B710E,AMVJ
+Mahjong Keiji (Japan)|AD32A2D3,AMPJ
+Mahou no Pumpkin - Ann to Greg no Daibouken (Japan)|F9652B4D,AWNJ
+Mahou Sensei Negima! - Private Lesson - Damedesuu Toshokan-jima (Japan)|79D04DAD,BNGJ
+Mahou Sensei Negima! - Private Lesson 2 - Ojamashimasuu Parasite de Chuu (Japan)|6357C53B,BNMJ
+Mail de Cute (Japan)|3B984291,AMCJ
+Majesco's Sports Pack (Europe)|99140705,B3NP
+Majesco's Sports Pack (USA)|A91BEC73,B3NE
+Majokko Cream-chan no Gokko Series 1 - Wannyan Idol Gakuen (Japan)|91BEBBEE,BWAJ
+Majokko Cream-chan no Gokko Series 2 - Kisekae Angel (Japan)|2ED6C55F,BE2J
+Maliou Kadingche - Chaoji Saidao (China) (Proto)|36201D7C,AMKC
+Maliou Yu Luyiji RPG (China) (Proto)|5574B73E,A88C
+Mandrake the Magician (Italy) (Proto)|7CFE1889,0000
+Manga-ka Debut Monogatari (Japan)|61A602D7,ACOJ
+Manga-ka Debut Monogatari (Japan) (Rev 1)|F0C22C62,ACOJ
+Maniac Racers Advance (Europe) (En,Fr,De,Es,It)|2412C5EB,AMRP
+Manic Miner (Europe) (En,Fr,De,Es,It)|138439F4,A4MP
+March of the Penguins (Europe) (En,Fr,De,Es,It)|F680B0F3,BQLP
+March of the Penguins (USA)|5195429F,BQLE
+Marie, Elie & Anis no Atelier - Soyokaze kara no Dengon (Japan)|1B70A454,ANSJ
+Mario & Luigi - Superstar Saga (Europe) (En,Fr,De,Es,It)|170CC574,A88P
+Mario & Luigi - Superstar Saga (Europe) (En,Fr,De,Es,It) (Virtual Console)|6A5BD4F0,A88P
+Mario & Luigi - Superstar Saga (USA)|E718D850,A88E
+Mario & Luigi - Superstar Saga (USA) (Demo) (Kiosk)|A94B04B2,B88E
+Mario & Luigi - Superstar Saga (USA) (Virtual Console)|F87EA3C3,A88E
+Mario & Luigi RPG (Japan)|4EF93D41,A88J
+Mario & Luigi RPG (Japan) (Virtual Console)|BEE3055A,A88J
+Mario Golf - Advance Tour (Australia)|D6AD422F,BMGU
+Mario Golf - Advance Tour (Europe)|B483127C,BMGP
+Mario Golf - Advance Tour (Europe) (Virtual Console)|41A4729F,BMGP
+Mario Golf - Advance Tour (France)|BD5BE463,BMGF
+Mario Golf - Advance Tour (Germany)|3E19E279,BMGD
+Mario Golf - Advance Tour (Italy)|05B0454A,BMGI
+Mario Golf - Advance Tour (Spain)|C35DD9F8,BMGS
+Mario Golf - Advance Tour (USA)|D56C2E54,BMGE
+Mario Golf - Advance Tour (USA) (Virtual Console)|204B4EB7,BMGE
+Mario Golf - GBA Tour (Japan)|A8342A16,BMGJ
+Mario Golf - GBA Tour (Japan) (Virtual Console)|78C8140F,BMGJ
+Mario Kart - Super Circuit (Europe)|20025842,AMKP
+Mario Kart - Super Circuit (Europe) (Virtual Console)|0DD2F94D,AMKP
+Mario Kart - Super Circuit (USA)|ED316E37,AMKE
+Mario Kart - Super Circuit (USA) (Virtual Console)|C0E1CF38,AMKE
+Mario Kart Advance (Japan)|30E99FCD,AMKJ
+Mario Kart Advance (Japan) (3DS Virtual Console)|85493F2C,AMKJ
+Mario Kart Advance (Japan) (Virtual Console)|3BD8A4F0,AMKJ
+Mario Party Advance (Europe) (En,Fr,De,Es,It)|C8C889E2,B8MP
+Mario Party Advance (Europe) (En,Fr,De,Es,It) (Virtual Console)|46C66F40,B8MP
+Mario Party Advance (Japan)|BAA4A82B,B8MJ
+Mario Party Advance (Japan) (Virtual Console)|9CD07025,B8MJ
+Mario Party Advance (USA)|F094A4CB,B8ME
+Mario Party Advance (USA) (Virtual Console)|1D910A62,B8ME
+Mario Pinball Land (USA) (Kiosk, GameCube)|799A1E40,BMVE01
+Mario Pinball Land (USA) (Virtual Console)|A0D418A4,BMVE
+Mario Pinball Land (USA, Australia)|70A6D2C1,BMVE
+Mario Power Tennis (Europe) (En,Fr,De,Es,It)|C8DB4F60,BTMP
+Mario Power Tennis (Europe) (En,Fr,De,Es,It) (Virtual Console)|851A44CB,BTMP
+Mario Tennis - Power Tour (USA) (En,Fr,De,Es,It) (Virtual Console)|F763EECC,BTME
+Mario Tennis - Power Tour (USA, Australia) (En,Fr,De,Es,It)|DA192D29,BTME
+Mario Tennis Advance (Japan)|975E8D98,BTMJ
+Mario Tennis Advance (Japan) (Virtual Console)|7244B105,BTMJ
+Mario vs. Donkey Kong (Europe) (En,Fr,De,Es,It)|CA030D61,BM5P
+Mario vs. Donkey Kong (Japan)|7C2B5269,BM5J
+Mario vs. Donkey Kong (Japan) (Demo) (Kiosk, GameCube)|B3642431,BM5J
+Mario vs. Donkey Kong (USA) (Demo) (Kiosk, GameCube)|25505164,MRDK01
+Mario vs. Donkey Kong (USA, Australia)|25C394D1,BM5E
+Marvel - Ultimate Alliance (Europe) (En,It)|C150790F,B4MP
+Marvel - Ultimate Alliance (USA)|A74294DB,B4ME
+Mary-Kate and Ashley - Girls Night Out (USA, Europe)|8AF3F3AD,AKSE
+Mary-Kate and Ashley - Sweet 16 - Licensed to Drive (USA, Europe)|5FE092C6,AAYE
+Masters of the Universe - He-Man - Power of Grayskull (USA)|75491E30,AGUE
+Mat Hoffman's Pro BMX (Europe) (Fr,De)|78D22AE9,AHOX
+Mat Hoffman's Pro BMX (USA, Europe)|A333FA51,AHOE
+Mat Hoffman's Pro BMX 2 (USA, Europe)|E7FA71C6,AH2E
+Matantei Loki Ragnarok - Gensou no Labyrinth (Japan)|4EBDAD86,BMRJ
+Matantei Loki Ragnarok - Gensou no Labyrinth (Japan) (Rev 1)|D647AB18,BMRJ
+Matchbox Cross Town Heroes (Europe)|C9EA02F5,ARQP
+Matchbox Cross Town Heroes (USA)|0FFFB458,ARQE
+Math Patrol - The Kleptoid Threat (USA)|AECD1301,BIYE
+Mawaru - Made in Wario (Japan)|E69964F1,RZWJ
+Max Payne (USA)|296E1092,BMEE
+Max Payne Advance (Europe) (En,Fr,De)|7D902B62,BMEP
+Maya the Bee - Sweet Gold (Europe) (En,Fr,De,Es,It)|A75778C7,BEEP
+Maya the Bee - The Great Adventure (Europe) (En,Fr,De,Es,It)|A1764F3C,ABVP
+Mazes of Fate (USA) (En,Fr,De,Es,It)|0B725A08,BFQE
+Mech Platoon (Europe) (En,Fr,De,Es,It)|4B3E0531,AKGP
+Mech Platoon (USA)|769FDE96,AKGE
+Mechanic Mechanica (Japan) (Proto)|64251E43,ABYE
+Medabots - Metabee (Europe)|50927F3E,A8BP
+Medabots - Metabee (Europe) (Virtual Console)|3524F206,A8BP
+Medabots - Metabee (Spain)|7E907EC8,A8BS
+Medabots - Metabee (USA)|59F208FC,A8BE
+Medabots - Metabee (USA) (Virtual Console)|DFF9A0B1,A8BE
+Medabots - Rokusho (Europe)|A519FEB5,A9BP
+Medabots - Rokusho (Europe) (Virtual Console)|E37A0705,A9BP
+Medabots - Rokusho (Spain)|046D86C4,A9BS
+Medabots - Rokusho (USA)|E144DED2,A9BE
+Medabots - Rokusho (USA) (Virtual Console)|C90732D5,A9BE
+Medabots AX - Metabee Ver. (Europe) (En,Fr,De,Es,It)|5F1E5A48,AK8P
+Medabots AX - Metabee Ver. (Europe) (En,Fr,De,Es,It) (Virtual Console)|9AF01F01,AK8P
+Medabots AX - Metabee Ver. (USA)|03294511,AK8E
+Medabots AX - Metabee Ver. (USA) (Virtual Console)|709B5289,AK8E
+Medabots AX - Rokusho Ver. (Europe) (En,Fr,De,Es,It)|F5801BD8,AK9P
+Medabots AX - Rokusho Ver. (Europe) (En,Fr,De,Es,It) (Virtual Console)|FBFF3F04,AK9P
+Medabots AX - Rokusho Ver. (USA)|92FDB8D6,AK9E
+Medabots AX - Rokusho Ver. (USA) (Virtual Console)|6CD93829,AK9E
+Medal of Honor - Infiltrator (USA, Europe) (En,Fr,De)|F23150A4,BMHE
+Medal of Honor - Underground (Europe) (En,Fr,Es,It) (Ubi Soft)|9DB145B8,AUGX
+Medal of Honor - Underground (Europe) (En,Fr,Es,It) (Zoo Digital)|72B4CF20,AUGP
+Medal of Honor - Underground (USA)|6DFA0F50,AUGE
+Medal of Honor Advance (Japan)|A054A4D0,BMHJ
+Medarot G - Kabuto (Japan)|B107C73D,AGHJ
+Medarot G - Kabuto (Japan) (Virtual Console)|A7A84C31,AGHJ
+Medarot G - Kuwagata (Japan)|14E3EBCC,AGIJ
+Medarot G - Kuwagata (Japan) (Virtual Console)|BA829EAC,AGIJ
+Medarot Navi - Kabuto (Japan)|15450B63,ANAJ
+Medarot Navi - Kabuto (Japan) (Virtual Console)|A3D573BB,ANAJ
+Medarot Navi - Kuwagata (Japan)|E83D07D6,AVIJ
+Medarot Navi - Kuwagata (Japan) (Virtual Console)|FE264A12,AVIJ
+Medarot Ni Core - Kabuto (Japan)|3FCAF2D0,A5KJ
+Medarot Ni Core - Kabuto (Japan) (Rev 1)|3F15FEAA,A5KJ
+Medarot Ni Core - Kabuto (Japan) (Rev 1) (Virtual Console)|F74C1FA3,A5KJ
+Medarot Ni Core - Kuwagata (Japan)|285FE485,A5QJ
+Medarot Ni Core - Kuwagata (Japan) (Virtual Console)|2C613DEF,A5QJ
+Meet the Robinsons (Europe) (En,Fr,De,Es,It,Nl)|DF3E58D3,BRHP
+Meet the Robinsons (USA)|3787C93C,BRHE
+Mega Man & Bass (Europe)|01B4D95E,A6MP
+Mega Man & Bass (Europe) (Virtual Console)|6E140BFA,A6MP
+Mega Man & Bass (USA)|EEA68C2E,A6ME
+Mega Man & Bass (USA) (Virtual Console)|B61F99D4,A6ME
+Mega Man Battle Chip Challenge (Europe)|5B4631F9,A89P
+Mega Man Battle Chip Challenge (Europe) (Virtual Console)|24046BF2,A89P
+Mega Man Battle Chip Challenge (USA)|26BE44FD,A89E
+Mega Man Battle Chip Challenge (USA) (Virtual Console)|59FC1EF6,A89E
+Mega Man Battle Network (Europe)|1A7FB4FA,AREP
+Mega Man Battle Network (Europe) (Virtual Console)|1A16C13D,AREP
+Mega Man Battle Network (USA)|1D347971,AREE
+Mega Man Battle Network (USA) (Virtual Console)|1D5D0CB6,AREE
+Mega Man Battle Network 2 (Europe)|66341F3B,AM2P
+Mega Man Battle Network 2 (USA)|6D961F82,AE2E
+Mega Man Battle Network 2 (USA) (Debug Version)|FBDADAA7,AE2E
+Mega Man Battle Network 2 (USA, Europe) (Virtual Console)|5E88C34B,AE2E
+Mega Man Battle Network 3 - Blue (Europe)|1F036CBA,A3XP
+Mega Man Battle Network 3 - Blue (Europe) (Virtual Console)|3213FC2D,A3XP
+Mega Man Battle Network 3 - Blue Version (USA)|C0C780F9,A3XE
+Mega Man Battle Network 3 - Blue Version (USA) (Virtual Console)|EDD7106E,A3XE
+Mega Man Battle Network 3 - White (Europe)|23D0A981,A6BP
+Mega Man Battle Network 3 - White (Europe) (Virtual Console)|D9F1440B,A6BP
+Mega Man Battle Network 3 - White Version (USA)|0BE4410A,A6BE
+Mega Man Battle Network 3 - White Version (USA) (Virtual Console)|F1C5AC80,A6BE
+Mega Man Battle Network 4 - Blue Moon (Europe)|48758316,B4BP
+Mega Man Battle Network 4 - Blue Moon (Europe) (Virtual Console)|AD89F27D,B4BP
+Mega Man Battle Network 4 - Blue Moon (USA)|758A46E9,B4BE
+Mega Man Battle Network 4 - Blue Moon (USA) (Virtual Console)|739B7EC4,B4BE
+Mega Man Battle Network 4 - Red Sun (Europe)|0CB136C2,B4WP
+Mega Man Battle Network 4 - Red Sun (Europe) (Virtual Console)|CB3BBF74,B4WP
+Mega Man Battle Network 4 - Red Sun (USA)|2120695C,B4WE
+Mega Man Battle Network 4 - Red Sun (USA) (Virtual Console)|12E7AB52,B4WE
+Mega Man Battle Network 5 - Team Colonel (Europe)|8FC8CF73,BRKP
+Mega Man Battle Network 5 - Team Colonel (Europe) (Virtual Console)|5247772C
+Mega Man Battle Network 5 - Team Colonel (USA)|A552F683,BRKE
+Mega Man Battle Network 5 - Team Colonel (USA) (Virtual Console)|78DD4EDC
+Mega Man Battle Network 5 - Team Proto Man (Europe) (Virtual Console)|7E5BC83D
+Mega Man Battle Network 5 - Team Proto Man (USA) (Virtual Console)|A0911541
+Mega Man Battle Network 5 - Team Protoman (Europe)|79F45ED8,BRBP
+Mega Man Battle Network 5 - Team Protoman (USA)|A73E83A4,BRBE
+Mega Man Battle Network 6 - Cybeast Falzar (Europe)|13183967,BR6P
+Mega Man Battle Network 6 - Cybeast Falzar (Europe) (Virtual Console)|8104E85A,BR6P
+Mega Man Battle Network 6 - Cybeast Falzar (USA)|DEE6F2A9,BR6E
+Mega Man Battle Network 6 - Cybeast Falzar (USA) (Virtual Console)|C2A21BE3,BR6E
+Mega Man Battle Network 6 - Cybeast Gregar (Europe)|25C29EFB,BR5P
+Mega Man Battle Network 6 - Cybeast Gregar (Europe) (Virtual Console)|BB62F987,BR5P
+Mega Man Battle Network 6 - Cybeast Gregar (USA)|79452182,BR5E
+Mega Man Battle Network 6 - Cybeast Gregar (USA) (Virtual Console)|E7E546FE,BR5E
+Mega Man Zero (USA) (Virtual Console)|9C77209C,AZCE
+Mega Man Zero (USA, Europe)|9707D2A1,AZCE
+Mega Man Zero 2 (Europe)|29A14B59,A62P
+Mega Man Zero 2 (Europe) (Virtual Console)|D76F2D1C,A62P
+Mega Man Zero 2 (USA)|CE1E37BB,A62E
+Mega Man Zero 2 (USA) (Virtual Console)|30D051FE,A62E
+Mega Man Zero 3 (Europe)|B099577F,BZ3P
+Mega Man Zero 3 (Europe) (Virtual Console)|87E8656E,BZ3P
+Mega Man Zero 3 (USA)|2784F3F2,BZ3E
+Mega Man Zero 3 (USA) (Virtual Console)|CBD24AC4,BZ3E
+Mega Man Zero 4 (Europe)|B7F022B9,B4ZP
+Mega Man Zero 4 (Europe) (Virtual Console)|FFDA95BE,B4ZP
+Mega Man Zero 4 (USA)|7EE24793,B4ZE
+Mega Man Zero 4 (USA) (Virtual Console)|C4838CFA,B4ZE
+Meine Tierarztpraxis (Germany) (En,De)|13CE32E8,BQVP
+Meine Tierpension (Germany) (En,De)|78AD82FF,BQTP
+Meitantei Conan - Akatsuki no Monument (Japan)|C048B723,BQAJ
+Meitantei Conan - Nerawareta Tantei (Japan)|5F9C7A4A,AC4J
+Men in Black - The Series (Europe)|56BA6858,AMIP
+Men in Black - The Series (USA)|589810A5,AMIE
+Mermaid Melody - Pichi Pichi Pitch (Japan)|63F72589,BMAJ
+Mermaid Melody - Pichi Pichi Pitch - Pichi Pichi Party (Japan)|F786FFA7,BM8J
+Mermaid Melody - Pichi Pichi Pitch - Pichi Pichitto Live Start! (Japan)|7A4FDEC3,B3MJ
+Metal Max 2 Kai (Japan)|BC1FEAF0,A9TJ
+Metal Max 2 Kai (Japan) (Rev 1)|66725A09,A9TJ
+Metal Slug - Super Vehicle-001 (Japan) (En) (Proto)|6ABF352D
+Metal Slug Advance (Europe)|3806F4AE,BSMP
+Metal Slug Advance (Japan)|0CABA589,BSMJ
+Metal Slug Advance (Japan) (Beta)|3F746AC1
+Metal Slug Advance (USA)|09980880,BSME
+Metalgun Slinger (Japan)|8DFB7A2F,AAPJ
+Metroid - Zero Mission (Europe) (En,Fr,De,Es,It)|F1D92E63,BMXP
+Metroid - Zero Mission (Europe) (En,Fr,De,Es,It) (Beta)|B6438226,BMXP
+Metroid - Zero Mission (Europe) (En,Fr,De,Es,It) (Virtual Console)|3AB66D36,BMXP
+Metroid - Zero Mission (Japan)|44B79E2B,BMXJ
+Metroid - Zero Mission (Japan) (Virtual Console)|220B68F5,BMXJ
+Metroid - Zero Mission (USA)|FDE1AA44,FC850CC5,5C61A844,BMXE
+Metroid - Zero Mission (USA) (Beta)|922C4A10,BMXE
+Metroid - Zero Mission (USA) (Virtual Console)|8825294A,BMXE
+Metroid Fusion (Europe) (En,Fr,De,Es,It)|974E46AB,AMTP
+Metroid Fusion (Europe) (En,Fr,De,Es,It) (Beta) (2002-09-11)|3ACBD239,METJ
+Metroid Fusion (Europe) (En,Fr,De,Es,It) (Beta) (2002-09-16)|1605E4F7,METJ
+Metroid Fusion (Europe) (En,Fr,De,Es,It) (Virtual Console)|EEE01B78,AMTP
+Metroid Fusion (Japan)|817A7E9E,AMTJ
+Metroid Fusion (Japan) (Virtual Console)|6E06BED9,AMTJ
+Metroid Fusion (USA)|6C75479C,AMTE
+Metroid Fusion (USA) (Virtual Console)|162A46B8,AMTE
+Mezase! Koushien (Japan)|50E473A8,BMKJ
+Mickey no Pocket Resort (Japan)|EDB264B8,BM4J
+Mickey to Donald no Magical Quest 3 (Japan)|32D851F7,BM3J
+Mickey to Minnie no Magical Quest (Japan)|BBAE85C8,A3MJ
+Mickey to Minnie no Magical Quest 2 (Japan)|092A7D0A,A29J
+Micro Machines (Europe) (En,Fr,De,Es,It)|9D102C82,AXZP
+Midnight Club - Street Racing (Europe) (En,Fr,De,Es,It)|091230C6,AMQP
+Midnight Club - Street Racing (USA)|911BE520,AMQE
+Midway's Greatest Arcade Hits (USA, Europe)|C01C4D0A,AM3E
+Mighty Beanz - Pocket Puzzles (USA)|54DF36DA,BMBE
+Mijn Dierenpension (Netherlands) (En,Nl)|310EB2FE,BQTX
+Mijn Dierenpraktijk (Netherlands) (En,Nl)|227A5430,BQVX
+Mike Tyson Boxing (Europe) (En,Fr,De,Es,It)|B9566812,AM9P
+Mike Tyson Boxing (USA) (En,Fr,De,Es,It)|48109F8D,AM6E
+Minami no Umi no Odyssey (Japan)|6E53115B,AODJ
+Mini Moni. - Mika no Happy Morning Chatty (Japan)|492CF823,AHCJ
+Mini Moni. - Onegai Ohoshi-sama! (Japan)|F11C35CC,AOHJ
+Minna de Puyo Puyo (Japan) (En,Ja)|857FB1EF,APYJ
+Minna no Ouji-sama (Japan)|19DC05E6,BMOJ
+Minna no Shiiku Series - Boku no Kabuto, Kuwagata (Japan)|20E296A6,BKKJ
+Minna no Shiiku Series 1 - Boku no Kabutomushi (Japan)|F83FE589,AB7J
+Minna no Shiiku Series 2 - Boku no Kuwagata (Japan)|C0BA281D,AW7J
+Minna no Soft Series - Happy Trump 20 (Japan)|D0EF2BC4,BTLJ
+Minna no Soft Series - Hyokkori Hyoutan-jima - Don Gabacho Daikatsuyaku no Maki (Japan)|481D1D5F,BHYJ
+Minna no Soft Series - Minna no Mahjong (Japan)|66B779B0,BMJJ
+Minna no Soft Series - Minna no Shougi (Japan)|08B62391,BSGJ
+Minna no Soft Series - Minna no Shougi (Japan) (Rev 1)|C62C15C6,BSGJ
+Minna no Soft Series - Numpla Advance (Japan)|044C6F68,BUOJ
+Minna no Soft Series - Shanghai (Japan)|FEEFEDDC,BSHJ
+Minna no Soft Series - Shanghai (Japan) (Rev 1)|28A8DC30,BSHJ
+Minna no Soft Series - Tetris Advance (Japan)|67C92883,BTTJ
+Minna no Soft Series - Tetris Advance (Japan) (Rev 1)|524D0749,BTTJ
+Minna no Soft Series - Zooo (Japan)|72EB35E3,BMZJ
+Minority Report - Everybody Runs (USA, Europe)|3D56EAD6,ARME
+Mirakuru! Panzou - 7-tsu no Hoshi no Uchuu Kaizoku (Japan)|3A87F78B,B3IJ
+Mission Impossible - Operation Surma (Europe) (En,Fr,De,Es,It)|45DE1669,AIHP
+Mission Impossible - Operation Surma (USA) (En,Fr,Es)|F3DC4E3E,AIHE
+Miteluode - Lingdian Renwu (China)|E951865C,BMXC
+Miteluode Ronghe (China)|042E5B07,AMTC
+MLB SlugFest 20-04 (USA)|A4E12D4B,A5ME
+Mobile Pro Yakyuu - Kantoku no Saihai (Japan)|8DF8A0C0,AMBJ
+Mobile Suit Gundam Seed - Battle Assault (USA)|180D1491,BGNE
+Moero!! Jaleco Collection (Japan)|6DA36E82,BJCJ
+Momotarou Dentetsu G - Gold Deck o Tsukure! (Japan)|5F3E184E,BM2J
+Momotarou Matsuri (Japan) (Rev 1)|BF0523D1,AMMJ
+Monopoly (Europe) (En,Fr,De,Es)|7B113397,BUMP
+Monopoly (USA)|B01CBC07,BUME
+Monster AG, Die (Germany)|A23CB45F,AMXD
+Monster Farm Advance (Japan)|C140FF7A,AMFJ
+Monster Farm Advance 2 (Japan)|1B14CF53,A2QJ
+Monster Force (Europe) (En,Fr,De,Es,It)|137B0F9A,AM8P
+Monster Force (USA)|AD4691D9,AM8E
+Monster Gate (Japan)|5B8AAA03,ANFJ
+Monster Gate (Japan) (Rev 1)|7960926C,ANFJ
+Monster Gate - Ooinaru Dungeon - Fuuin no Orb (Japan)|05AC7685,A6GJ
+Monster Guardians (Japan)|93815CDE,AMNJ
+Monster House (Europe)|AA2C1837,BQ7P
+Monster House (Europe) (En,Fr,De,Es)|21C84334,BQ7X
+Monster House (USA) (En,Fr)|148B5072,BQ7E
+Monster Jam - Maximum Destruction (Europe)|C3AD7701,AJAP
+Monster Jam - Maximum Destruction (USA)|43D9B9F1,AJAE
+Monster Maker 4 - Flash Card (Japan)|5E2C90AE,AA4J
+Monster Maker 4 - Killer Dice (Japan)|F77E6ECF,AA5J
+Monster Rancher Advance (USA)|42CFA4B5,AMFE
+Monster Rancher Advance 2 (USA)|1D695B1B,A2QE
+Monster Summoner (Japan)|F8A085E2,A3NJ
+Monster Truck Madness (USA, Europe)|DD872538,BMTE
+Monster Trucks (USA, Europe)|4A72170A,BMCE
+Monster Trucks Mayhem (Europe) (En,Fr,De,Es,It)|31500381,BYMP
+Monster Trucks Mayhem (USA)|F47C5CF9,BYME
+Monster! Bass Fishing (Europe)|14DB186B,A4BP
+Monster! Bass Fishing (USA)|3EDBA390,A4BE
+Monsters, Inc. (Europe) (En,Es,Nl)|D13177E0,AMXX
+Monsters, Inc. (Europe) (En,Fr,It)|D2C53AB8,AMXY
+Monsters, Inc. (Japan)|0DFFF34F,AMXJ
+Monsters, Inc. (USA, Europe)|327834C9,AMXE
+Moorhen 3 - The Chicken Chase! (Europe) (En,Fr,De,Es,It)|A16C10A8,AU3P
+Morita Shougi Advance (Japan)|149E01B7,AMSJ
+Morning Adventure, The (Spain) (Promo)|B734EB4E,BMNS
+Mortal Kombat - Deadly Alliance (Europe) (En,Fr,De,Es,It)|FB291CCA,AXDP
+Mortal Kombat - Deadly Alliance (USA) (En,Fr,De,Es,It)|A29BA64F,AXDE
+Mortal Kombat - Tournament Edition (USA) (En,Fr,De,Es,It)|968BE7BC,AW4E
+Mortal Kombat Advance (Europe)|78B4B5C7,AM5P
+Mortal Kombat Advance (USA)|BCDABB47,AM5E
+Mother 1+2 (Japan)|7B1FF152,0A44569C,A2UJ
+Mother 3 (Japan)|8A3BC5A8,42AC9CB9,A3UJ
+Mother 3 (Japan) (Virtual Console)|C704A567,A3UJ
+Motocross Challenge (USA) (Proto)|E5A7DE43,0000
+Motocross Maniacs Advance (Japan)|043A3554,AMRJ
+Motocross Maniacs Advance (USA) (En,Es)|0A0FAEF4,AMRE
+MotoGP (Europe) (Beta)|508BF8DC
+MotoGP (Europe) (En,Fr,De,Es,It)|C6D17D0D,AM4P
+MotoGP (Japan) (En)|4F6D7E49,AM4J
+MotoGP (USA) (En,Fr,De,Es,It)|8EE93EB8,AM4E
+Motoracer Advance (Europe) (En,Fr,De,Es,It)|8CB19DA0,A9MP
+Motoracer Advance (USA) (En,Fr,De,Es,It)|2FDBE7A8,A9ME
+Mr Nutz (Europe) (En,Fr,De,Es,It)|7F21D693,AZRP
+Mr. Driller 2 (Europe)|C0E9EEBE,AD2P
+Mr. Driller 2 (Europe) (Virtual Console)|B789DAC5,AD2P
+Mr. Driller 2 (Japan)|5264C730,AD2J
+Mr. Driller 2 (Japan) (Virtual Console)|125C2E01,AD2J
+Mr. Driller 2 (USA)|02F51696,BR2E
+Mr. Driller 2 (USA) (Virtual Console)|EC7869AE,BR2E
+Mr. Driller A - Fushigi na Pacteria (Japan)|529F06A4,AD5J
+Mr. Driller A - Fushigi na Pacteria (Japan) (Virtual Console)|5F595157,AD5J
+Mr. Incredible (Japan)|73FA8B2A,BICJ
+Mr. Incredible - Kyouteki Underminer Toujou (Japan)|667F54CA,BIQJ
+Ms. Pac-Man - Maze Madness (Europe) (En,Fr,De,Es,It)|6E03FD6A,BPCP
+Ms. Pac-Man - Maze Madness (USA)|DDE5DF02,BPCE
+Mucha Lucha! - Mascaritas of the Lost Code (USA) (En,Fr,Es)|03BBC0C9,BMLE
+Mugenborg (Japan)|1C31BBEC,AG6J
+Mummy, The (Europe) (En,Fr,De,Es,It)|B0F3799F,AUMP
+Mummy, The (USA) (En,Fr,De,Es,It)|55BF350B,AUME
+Muppet Pinball Mayhem (Europe)|8D5034D7,AMWP
+Muppet Pinball Mayhem (USA)|58575F65,AMWE
+Muppets, The - On with the Show! (USA, Europe) (En,Fr,De,Es,It,Nl)|17CD149A,AZME
+Music Recorder MP3 (Japan)|35D154A3,ZMPJ
+Mutsu - Water Looper Mutsu (Japan)|3A45A6D9,AMUJ
+MX 2002 Featuring Ricky Carmichael (USA, Europe)|0BF1DC56,A2XE
+My Animal Centre in Africa (Europe) (En,Fr,De,Es,It)|16C0E028,BFRP
+My Little Pony - Crystal Princess - The Runaway Rainbow (USA)|90DBD5EB,BL6E
+Nakayoshi Mahjong - KabuReach (Japan)|D0C608F6,AKPJ
+Nakayoshi Pet Advance Series 1 - Kawaii Hamster (Japan)|74930B16,AH7J
+Nakayoshi Pet Advance Series 2 - Kawaii Koinu (Japan)|954DA3E6,AI7J
+Nakayoshi Pet Advance Series 3 - Kawaii Koneko (Japan)|0290DFB5,AN3J
+Nakayoshi Pet Advance Series 3 - Kawaii Koneko (Japan) (Rev 1)|89FBEB55,AN3J
+Nakayoshi Pet Advance Series 4 - Kawaii Koinu Mini - Wanko to Asobou!! Kogata-ken (Japan)|AE2A69F3,BKIJ
+Nakayoshi Youchien - Sukoyaka Enji Ikusei Game (Japan)|1276A95C,AHVJ
+Nakayoshi Youchien - Sukoyaka Enji Ikusei Game (Japan) (Rev 1)|B46DACA0,AHVJ
+Namco Museum (Europe)|BB82460A,ANMP
+Namco Museum (Japan) (En)|818F4E4B,ANMJ
+Namco Museum (USA)|C58A04C1,ANME
+Namco Museum - 50th Anniversary (Europe) (En,Fr,De,Es,It)|2F098A42,B5NP
+Namco Museum - 50th Anniversary (USA)|38DA81FE,B5NE
+Nancy Drew - Message in a Haunted Mansion (USA)|7652CD25,ANDE
+Napoleon (Japan)|FA016764,ANPJ
+Napoleon (Japan) (Virtual Console)|E830450A,ANPJ
+Narikiri Jockey Game - Yuushun Rhapsody (Japan)|0FF11189,AYRJ
+Naruto - Konoha Senki (Japan)|11829AFA,AUEJ
+Naruto - Konoha Senki (Japan) (Rev 1)|69CF0418,AUEJ
+Naruto - Ninja Council (USA)|C402878C,A7AE
+Naruto - Ninja Council 2 (USA)|94699FCA,BN2E
+Naruto - Ninjutsu Zenkai! Saikyou Ninja Daikesshuu (Japan)|E15875FC,A7AJ
+Naruto - Ninjutsu Zenkai! Saikyou Ninja Daikesshuu (Japan) (Rev 1)|F5F8ECB4,A7AJ
+Naruto - Saikyou Ninja Daikesshuu 2 (Japan)|B3D75CE1,BN2J
+Naruto - Saikyou Ninja Daikesshuu 2 (Japan) (Demo) (Kiosk, GameCube)|BA1F514A
+Naruto RPG - Uketsugareshi Hi no Ishi (Japan)|C036D0F0,BNRJ
+Naruto RPG - Uketsugareshi Hi no Ishi (Japan) (Demo) (Kiosk, GameCube)|502E4A7D,BNRJ
+Naruto RPG - Uketsugareshi Hi no Ishi (Japan) (Rev 1)|2BF6555A,BNRJ
+NASCAR Heat 2002 (USA)|87E15F5B,ANHE
+Natural 2 - Duo (Japan)|0DE8B4B4,AN2J
+NBA Jam 2002 (USA, Europe)|CA428A7A,ABNE
+Need for Speed - Most Wanted (USA, Europe) (En,Fr,De,It)|EA15A16E,BNWE
+Need for Speed - Porsche Unleashed (Europe) (En,Fr,De,Es,It)|1B6B8F88,AZFP
+Need for Speed - Porsche Unleashed (USA)|99078AF4,AZFE
+Need for Speed - Underground (USA, Europe) (En,Fr,De,It)|828020E9,BNSE
+Need for Speed - Underground 2 (USA, Europe) (En,Fr,De,It)|9A0C5090,BNFE
+Need for Speed Carbon - Own the City (USA, Europe) (En,Fr,De,Es,It)|F4C0D140,BN7E
+Neoromance Game - Harukanaru Toki no Naka de (Japan)|BF12B590,ARNJ
+Neoromance Game - Harukanaru Toki no Naka de (Japan) (Rev 1)|E4FE52DB,ARNJ
+NES Classics - Castlevania (Europe)|497E3279,FADP
+Next Generation Tennis (Europe) (En,Fr,De,Es,It,Pt)|5297693A,ATXP
+NFL Blitz 20-02 (USA)|8C748DCB,ABZE
+NFL Blitz 20-03 (USA)|E0B137E7,ANKE
+NHL 2002 (USA)|D1D9E515,ANLE
+NHL Hitz 20-03 (USA)|4F1ADF75,AN4E
+Nicktoons - Attack of the Toybots (USA)|DDA9A035,BUJE
+Nicktoons - Battle for Volcano Island (USA)|FEAFBD72,BNVE
+Nicktoons - Freeze Frame Frenzy (USA)|A8B6766E,BCCE
+Nicktoons Racing (Europe) (En,Fr,De,Es,It)|BABCCEFD,ANQP
+Nicktoons Racing (USA)|50AB9BB6,ANQE
+Nicktoons Racing (USA) (Beta)|38295D30
+Nicktoons Unite! (USA)|75C35F7C,BNUE
+Nihon Pro Mahjong Renmei Kounin - Tetsuman Advance - Menkyo Kaiden Series (Japan)|085C1184,ANTJ
+Ninja Cop (Europe)|C14295B1,ANXP
+Ninja Five-0 (USA)|EB3954C6,ANXE
+Nintendo MP3 Player (Europe) (En,Fr,De,Es,It)|867BEC76,ZMDE
+No No No Puzzle Chailien (Japan)|1B00BC2C,BKRJ
+No Rules - Get Phat (USA, Europe) (En,Fr,De,Es,It,Nl)|966FA650,AGPE
+Nobunaga Ibun (Japan)|526AB88E,ANOJ
+Nobunaga no Yabou (Japan)|EF23C79E,ANBJ
+Noddy - A Day in Toyland (Europe) (En,Fr,Es,It,Nl,Pt,Da)|607DDC6B,BNKP
+Noddy - A Day in Toyland (USA) (En,Fr,Es)|F906C5B6,BNKE
+Nos Voisins, les Hommes (France)|EB7C8402,BH5F
+Nyan Nyan Nyanko no NyanCollection (Japan)|685E62BA,BNYJ
+Ochaken Kururin - Honwaka Puzzle de Hotto Shiyo (Japan)|EECDD3EF,BIKJ
+Ochaken no Bouken-jima - Honwaka Yume no Island (Japan)|61E2799A,BO2J
+Ochaken no Heya (Japan)|C22CE53E,BDRJ
+Ochaken no Yume Bouken (Japan)|2937A9CD,BCUJ
+Oddworld - Munch's Oddysee (Germany)|FCC570A7,BODD
+Oddworld - Munch's Oddysee (USA, Europe)|97367887,BODE
+Ohanaya-san Monogatari GBA - Iyashikei Ohanaya-san Ikusei Game (Japan)|D5059733,A87J
+Ojarumaru - Gekkouchou Sanpo de Ojaru (Japan)|6043595E,BOJJ
+Okumanchouja Game - Nottori Daisakusen! (Japan)|07022C3A,AOKJ
+One Piece (USA)|7D2CF2A1,BONE
+One Piece - Dragon Dream (Japan)|08CFF461,BIPJ
+One Piece - Going Baseball - Haejeok Yaku (Korea)|66928F27,BO8K
+One Piece - Going Baseball - Kaizoku Yakyuu (Japan)|0B77BCB8,B08J
+One Piece - Ilgop Seomui Debomool (Korea)|05E56A4D,AO7K
+Onimusha Tactics (Europe)|63AA930A,A6OP
+Onimusha Tactics (Japan)|B521C635,A6OJ
+Onimusha Tactics (USA)|70475D7F,A6OE
+Onmyou Taisenki - Zeroshiki (Japan)|66C29472,BITJ
+Open Season (Europe) (En,Fr,De,Es,It,Sv,No,Da,Fi)|4C8F6FDC,BOAX
+Open Season (Europe) (En,Fr,Es,Nl)|51B0A94B,BOAP
+Open Season (USA) (En,Fr,Es)|E6A1D5B2,BOAE
+Operation Armored Liberty (USA)|8F289E0B,BAAE
+Oriental Blue - Ao no Tengai (Japan)|8A850DA7,05E80ECC,AORJ
+Oshaberi Inko Club (Japan)|DF6901F0,AICJ
+Oshaberi Inko Club (Japan) (Beta)|F896BB9E,AICJ
+Oshare Princess (Japan)|5A2299E1,AOPJ
+Oshare Princess 2 (Japan)|8383FCDA,AO2J
+Oshare Princess 3 (Japan)|F1E8A261,BO3J
+Oshare Princess 5 (Japan)|38AF35C1,BO5J
+Oshare Wanko (Japan)|1CC60C27,A5SJ
+Ottifanten Pinball (Germany)|77A84969,BOFD
+Ougon no Taiyou - Hirakareshi Fuuin (Japan)|FB96D9DE,AGSJ
+Ougon no Taiyou - Ushinawareshi Toki (Japan)|830B795F,AGFJ
+Ougon no Taiyou - Ushinawareshi Toki (Japan) (Virtual Console)|8C9EC3DA,AGFJ
+Over the Hedge (Europe)|C7023309,BH5P
+Over the Hedge (USA)|5F3A7BB7,BH5E
+Over the Hedge - Beesten bij de Buren (Netherlands)|CF0F07C7,BH5H
+Over the Hedge - Hammy Goes Nuts! (Europe) (En,Fr,De,Es,It,Nl)|8F1B100D,BH7P
+Over the Hedge - Hammy Goes Nuts! (USA)|B9D4E9E7,BH7E
+Overstorm (Unknown) (Proto)|EE764CF6
+Ozzy & Drix (USA)|D7245280,BOZE
+Paard & Pony - Mijn Manege (Netherlands) (En,Nl)|1F2708D5,BPVY
+Paard & Pony - Paard in Galop (Netherlands) (En,Nl)|B6FC77F3,BYPY
+Pac-Man Collection (Europe)|E1578D25,APCP
+Pac-Man Collection (Europe) (Virtual Console)|1585B57B,APCP
+Pac-Man Collection (Japan) (En)|B0FDDB8F,APCJ
+Pac-Man Collection (Japan) (En) (Virtual Console)|0FCB1A0C,APCJ
+Pac-Man Collection (USA)|6E5C16F4,APCE
+Pac-Man Collection (USA) (Virtual Console)|9A8E2EAA,APCE
+Pac-Man Pinball Advance (Europe) (En,Fr,De,Es,It)|3E70BF4D,BP8P
+Pac-Man Pinball Advance (USA)|DA4E1109,BP8E
+Pac-Man World & Ms. Pac-Man - Maze Madness (Europe) (En,Fr,De,Es,It)|B68B84C1,B6PP
+Pac-Man World (Europe) (En,Fr,De,Es,It)|1F92814E,BPAP
+Pac-Man World (USA)|B2A4FC78,BPAE
+Pac-Man World 2 (Europe) (En,Fr,De,Es,It)|A45EB4D2,B2CP
+Pac-Man World 2 (USA)|814A7D33,B2CE
+Pac-Man World 2 (USA) (Beta)|B645B5EF,AGBJ
+Paws & Claws - Best Friends - Dogs & Cats (USA)|6ECF40A0,BHBE
+Paws & Claws - Pet Resort (USA)|E58DA71E,BURE
+Paws & Claws - Pet Vet (USA)|EFEE1DDF,BQVE
+Payback (Europe) (En,Fr,De,Es,It)|962DD201,BPKP
+Pazuninn - Umininn no Puzzle de Nimu (Japan)|8DAA89C9,BPZJ
+Penny Racers (Europe)|8FDDD48B,AQAP
+Perplexus Diodomin (World) (Proto)|3442F9CF
+Peter Pan - Return to Neverland (Europe) (En,Fr,De,Es,It,Nl)|BE7D574C,APPP
+Peter Pan - Return to Neverland (Europe) (En,Fr,De,Es,It,Nl) (Rev 1)|4C682CC3,APPP
+Peter Pan - Return to Neverland (USA)|4CAFCCBD,APPE
+Peter Pan - Return to Neverland (USA) (Rev 1)|431DFEA8,APPE
+Peter Pan - The Motion Picture Event (Europe) (En,Fr,De,Es,It)|98C27E8A,BPTP
+Peter Pan - The Motion Picture Event (USA)|8AC558CE,BPTE
+Petz - Hamsterz Life 2 (USA)|9F0E4A6A,AJHE
+Petz Vet (USA)|1DBF4D3D,BNBE
+Pferd & Pony - Best Friends - Mein Pferd (Germany) (En,De)|AA02CB0C,BEFP
+Pferd & Pony - Lass Uns Reiten 2 (Germany) (En,De)|6217469F,BYPP
+Pferd & Pony - Mein Gestuet (Germany) (En,De)|2819BDF5,BHUP
+Pferd & Pony - Mein Pferdehof (Germany) (En,De)|CC74B433,BPVP
+Pferd & Pony 2 in 1 (Germany)|965391EA,B94D
+Phalanx (Europe) (En,Fr,De,Es,It,Nl)|DFCFE06C,APXP
+Phalanx (Japan)|5F419F32,APXJ
+Phalanx (USA)|EB733713,APXE
+Phantasy Star Collection (Europe)|4D9C671B,AYCP
+Phantasy Star Collection (USA)|E5A7FE17,AYCE
+Phantom, The (Italy) (Proto)|5833169C,0000
+Phil of the Future (USA)|E199E132,BFXE
+Pia Carrot e Youkoso!! 3.3 (Japan)|254E6F31,BP3J
+Piglet's Big Game (Europe) (En,Fr,De,Es,It,Nl)|FF5C9636,A9NX
+Piglet's Big Game (USA)|52919538,A9NE
+Pikapika Nurse Monogatari - Nurse Ikusei Game (Japan)|80A081FE,BPNJ
+Pinball Advance (Europe) (En,Fr,De,Es,It)|39479369,APZP
+Pinball Challenge Deluxe (Europe)|BCB204B7,APLP
+Pinball of the Dead, The (Europe) (En,Fr,De,Es,It)|A9DD7EFA,APDP
+Pinball of the Dead, The (Japan)|1A7EFBD0,AZOJ
+Pinball of the Dead, The (USA)|0A09C517,APDE
+Pinball Tycoon (Europe)|5D52BE1E,A2TP
+Pinball Tycoon (USA)|1C4D3FDF,A2TE
+Pink Panther - Pinkadelic Pursuit (Europe) (En,Fr,De,Es,It)|8859B808,AP7P
+Pink Panther - Pinkadelic Pursuit (USA)|1762A578,APEE
+Pinky and the Brain - The Master Plan (Europe) (En,Fr,De,Es,It)|FF7D5F62,APIP
+Pinky Monkey Town (Japan)|9F75B077,APNJ
+Pinobee & Phoebee (Japan)|E989A4AE,AP6J
+Pinobee - Wings of Adventure (USA, Europe)|D9385207,APBE
+Pinobee no Daibouken (Japan)|FEBF9045,APBJ
+Pippa Funnell - Stable Adventure (Europe) (En,Fr)|1C1846C2,BPVX
+Pippa Funnell 2 (Europe) (En,Fr)|F3C274C2,BYPX
+Pirates of the Caribbean - Dead Man's Chest (USA, Europe) (En,Fr,De,Es,It)|D1A67BE8,B8QE
+Pirates of the Caribbean - The Curse of the Black Pearl (Europe) (En,Fr,De,Es,It)|2DF9D7F0,A8QP
+Pirates of the Caribbean - The Curse of the Black Pearl (USA) (En,Fr,De,Es,It)|8F15BF4C,A8QE
+Pitfall - L'Expedition Perdue (France)|846F43F3,BPHF
+Pitfall - The Lost Expedition (Europe)|DC6512D6,BPHP
+Pitfall - The Lost Expedition (USA)|5C11DC26,BPHE
+Pitfall - The Mayan Adventure (USA, Europe)|2CEDBB31,APFE
+Pixeline i Pixieland (Denmark)|20B72D17,BQ9Q
+Planet Monsters (Europe) (En,Fr,De,Es,It,Nl)|D4D77BCE,APMP
+Planet Monsters (USA) (En,Fr,De,Es,It,Nl)|9B182354,APME
+Planet of the Apes (Europe) (En,Fr,De,Es,It,Nl)|6E378BF3,AYNP
+Planet of the Apes (USA) (En,Fr,De,Es,It,Nl)|A0F0269B,AYNE
+Play Novel - Silent Hill (Japan)|318A1E9B,ASHJ
+Play-Yan (Japan)|BA997CFA,ZMAJ
+Play-Yan Micro (Japan)|E24F6A15,ZMBJ
+Pocket Dogs (USA)|BEDDC67F,BTDE
+Pocket Monsters - Emerald (Japan)|4881F3F8,BPEJ
+Pocket Monsters - FireRed (Japan)|3B2056E9,BPRJ
+Pocket Monsters - FireRed (Japan) (Rev 1)|BB640DF7,BPRJ
+Pocket Monsters - LeafGreen (Japan)|0A48556B,BPGJ
+Pocket Monsters - LeafGreen (Japan) (Rev 1)|8DA4601A,BPGJ
+Pocket Monsters - Ruby (Japan)|CEE9471A,AXVJ
+Pocket Monsters - Ruby (Japan) (Pokemon Box)|606C9ADB,AXVJ
+Pocket Monsters - Ruby (Japan) (Rev 1)|B448A337,AXVJ
+Pocket Monsters - Sapphire (Japan)|FD1EEB78,AXPJ
+Pocket Monsters - Sapphire (Japan) (Pokemon Box)|9EAEA813,AXPJ
+Pocket Monsters - Sapphire (Japan) (Rev 1)|01BD60E3,AXPJ
+Pocket Music (Europe) (En,Fr,De,Es,It)|A3FD418A,AP9P
+Pocket Professor - Kwik Notes - Volume One (USA)|07B824B1,BPJE
+Pocky & Rocky with Becky (USA)|53A8EE86,APKE
+Poke Inu (Japan)|1D379DCC,BTDJ
+Pokemon - 10th Anniversary Distribution (Europe) (Kiosk)|7E3BA6A2,BUUJ
+Pokemon - 10th Anniversary Distribution (France) (Kiosk)|6AA7AA37,BUUJ
+Pokemon - 10th Anniversary Distribution (Germany) (Kiosk)|DBF39320,BUUJ
+Pokemon - 10th Anniversary Distribution (Italy) (Kiosk)|82658753,BUUJ
+Pokemon - 10th Anniversary Distribution (Spain) (Kiosk)|CD08F2B2,BUUJ
+Pokemon - Aura Mew Distribution (Europe) (Kiosk)|2912E76E,BUUJ
+Pokemon - Aura Mew Distribution (France) (Kiosk)|2AD292A4,BUUJ
+Pokemon - Aura Mew Distribution (Germany) (Kiosk)|9A704AF8,BUUJ
+Pokemon - Aura Mew Distribution (Italy) (Kiosk)|D111CC19,BUUJ
+Pokemon - Aura Mew Distribution (Spain) (Kiosk)|AE57B39E,BUUJ
+Pokemon - Aurora Ticket Distribution (USA) (Kiosk)|24C80FA6,JPAJ
+Pokemon - Blattgruene Edition (Germany)|D12F1FDD,BPGD
+Pokemon - Doel Deoxys Distribution (Netherlands) (En) (Kiosk)|6346FD59,BUUJ
+Pokemon - Edicion Esmeralda (Spain)|8C4D3108,BPES
+Pokemon - Edicion Rojo Fuego (Spain)|9F08064E,BPRS
+Pokemon - Edicion Rubi (Spain)|EB0729CF,AXVS
+Pokemon - Edicion Rubi (Spain) (Rev 1)|B980FFF5,AXVS
+Pokemon - Edicion Verde Hoja (Spain)|2CA11D59,BPGS
+Pokemon - Edicion Zafiro (Spain)|A04F5F0B,AXPS
+Pokemon - Edicion Zafiro (Spain) (Rev 1)|F2C88931,AXPS
+Pokemon - Emerald Version (USA, Europe)|B56D1A8A,1F1C08FB,BPEE
+Pokemon - Feuerrote Edition (Germany)|1A81EEDF,BPRD
+Pokemon - FireRed Version (USA)|DD88761C,BPRE
+Pokemon - FireRed Version (USA, Europe)|10EF71A7,6A761D9F,935ECB8B
+Pokemon - FireRed Version (USA, Europe) (Rev 1)|84EE4776,BPRE
+Pokemon - LeafGreen Version (USA)|D69C96CC,BPGE
+Pokemon - LeafGreen Version (USA, Europe) (Rev 1)|DAFFECEC,BPGE
+Pokemon - Liechi Berry Glitch Fix & Shiny Zigzagoon Distribution (Europe) (Kiosk)|D78B5A1F,AGBJ
+Pokemon - Rubin-Edition (Germany)|15E1E280,AXVD
+Pokemon - Rubin-Edition (Germany) (Debug Version)|40686C47,AXVD
+Pokemon - Rubin-Edition (Germany) (Rev 1)|CAE89464,AXVD
+Pokemon - Ruby Version (USA)|F0815EE7,AXVE
+Pokemon - Ruby Version (USA, Europe) (Rev 1)|61641576,AXVE
+Pokemon - Ruby Version (USA, Europe) (Rev 2)|AEAC73E6,AXVE
+Pokemon - Saphir-Edition (Germany)|6FCD7A98,AXPD
+Pokemon - Saphir-Edition (Germany) (Rev 1)|B0C40C7C,AXPD
+Pokemon - Sapphire Version (USA)|554DEDC4,AXPE
+Pokemon - Sapphire Version (USA, Europe) (Rev 1)|BAFEDAE5,AXPE
+Pokemon - Sapphire Version (USA, Europe) (Rev 2)|9CC4410E,AXPE
+Pokemon - Slot 2 Distribution (Japan) (Proto)|E4D657EB,B5BJ
+Pokemon - Smaragd-Edition (Germany)|34C9DF89,BPED
+Pokemon - Version Emeraude (France)|A3FDCCB1,BPEF
+Pokemon - Version Rouge Feu (France)|5DC668F6,BPRF
+Pokemon - Version Rubis (France)|690FD310,AXVF
+Pokemon - Version Rubis (France) (Rev 1)|9F981F72,AXVF
+Pokemon - Version Saphir (France)|3581A05F,AXPF
+Pokemon - Version Saphir (France) (Rev 1)|2AE49146,AXPF
+Pokemon - Version Vert Feuille (France)|BA3285E3,BPGF
+Pokemon - Versione Rosso Fuoco (Italy)|73A72167,BPRI
+Pokemon - Versione Rubino (Italy)|C18231A9,AXVI
+Pokemon - Versione Rubino (Italy) (Rev 1)|9305E793,AXVI
+Pokemon - Versione Smeraldo (Italy)|A0AEC80A,BPEI
+Pokemon - Versione Verde Foglia (Italy)|16974506,BPGI
+Pokemon - Versione Zaffiro (Italy)|0C7992A9,AXPI
+Pokemon - Versione Zaffiro (Italy) (Rev 1)|5EFE4493,AXPI
+Pokemon Fushigi no Dungeon - Aka no Kyuujotai (Japan)|1A1BAA50,B24J
+Pokemon Mystery Dungeon - Red Rescue Team (Europe) (En,Fr,De,Es,It)|C1D18FE4,B24P
+Pokemon Mystery Dungeon - Red Rescue Team (USA) (Demo) (Kiosk)|F12F908E,B9JE
+Pokemon Mystery Dungeon - Red Rescue Team (USA, Australia)|DD0AC86C,B24E
+Pokemon Pinball - Ruby & Sapphire (Europe) (En,Fr,De,Es,It)|A53AC14B,BPPP
+Pokemon Pinball - Ruby & Sapphire (Japan)|8AF1EC73,BPPJ
+Pokemon Pinball - Ruby & Sapphire (Japan) (Rev 1)|925A5684,BPPJ
+Pokemon Pinball - Ruby & Sapphire (USA)|B992A3C0,BPPE
+Polar Express, The (USA, Europe) (En,Fr,De,Es,It)|62CA5620,BPXE
+Polarium Advance (Europe) (En,Fr,De,Es,It)|8F2DEBB8,BIIP
+Polarium Advance (Europe) (En,Fr,De,Es,It) (Virtual Console)|4329D8FE,BIIP
+Polarium Advance (USA)|02D62CE9,BIIE
+Polarium Advance (USA) (Virtual Console)|D2D36C5F,BIIE
+Polly Pocket! - Super Splash Island (Europe) (En,Fr,De,Es,It) (DSI)|13E2A64F,B3FP
+Polly Pocket! - Super Splash Island (Europe) (En,Fr,De,Es,It) (Vivendi)|A654CBA9,AOTP
+Polly Pocket! - Super Splash Island (USA) (DSI)|F120ECA2,B3FE
+Polly Pocket! - Super Splash Island (USA) (Vivendi)|B5DE8C6E,AOTE
+Pop Idol (Europe)|B9A7E60D,BIDP
+Popeye - Rush for Spinach (USA, Europe) (En,Fr,De,Es,It)|CFFC52DD,APOE
+Postman Pat and the Greendale Rocket (Europe) (En,No,Da)|566CF164,BROP
+Power Poke Dash (Japan)|59E7AB4C,BBQJ
+Power Pro Kun Pocket 1, 2 (Japan)|A84032AA,B8PJ
+Power Pro Kun Pocket 1, 2 (Japan) (Promo)|46493FA1,B8PJ
+Power Pro Kun Pocket 3 (Japan)|4314D8BC,AP3J
+Power Pro Kun Pocket 3 (Japan) (Rev 1)|D8397194,AP3J
+Power Pro Kun Pocket 4 (Japan)|30B4A347,AP4J
+Power Pro Kun Pocket 4 (Japan) (Rev 1)|89A3A2C7,AP4J
+Power Pro Kun Pocket 5 (Japan)|06F0F8D4,A5PJ
+Power Pro Kun Pocket 5 (Japan) (Promo)|969AC691,A5PJ
+Power Pro Kun Pocket 5 (Japan) (Rev 1)|B2D8732D,A5PJ
+Power Pro Kun Pocket 6 (Japan)|88513763,BP6J
+Power Pro Kun Pocket 6 (Japan) (Promo)|023A9A75,BP6J
+Power Pro Kun Pocket 7 (Japan)|073047DF,BP7J
+Power Rangers - Dino Thunder (Europe) (Fr,De)|414BFE31,BPOX
+Power Rangers - Dino Thunder (USA, Europe)|BC193EE7,BPOE
+Power Rangers - La Force du Temps (France)|EB54D898,APRF
+Power Rangers - Ninja Storm (Europe) (En,Fr,De)|09D8ED5E,BPWP
+Power Rangers - Ninja Storm (USA)|E8691A0F,BPWE
+Power Rangers - Time Force (Germany)|933F5477,APRD
+Power Rangers - Time Force (USA, Europe)|70359B35,APRE
+Power Rangers - Wild Force (USA, Europe)|54C31AFB,APWE
+Power Rangers S.P.D. (Europe) (En,Es,It)|DCA64F27,BRDY
+Power Rangers S.P.D. (Europe) (En,Fr,De)|CB59CF7D,BRDX
+Power Rangers S.P.D. (USA, Europe)|921B66E2,BRDE
+Powerpuff Girls, The - Him and Seek (Europe) (En,Fr,De,Es)|0BFED765,AP5P
+Powerpuff Girls, The - Him and Seek (USA)|4D22B35E,AP5E
+Powerpuff Girls, The - Mojo Jojo A-Go-Go (Europe) (En,Fr,De,Es,It,Nl)|1172D0A7,APTP
+Powerpuff Girls, The - Mojo Jojo A-Go-Go (USA) (En,Fr,De,Es,It,Nl)|DFB57DCF,APTE
+Prehistorik Man (USA) (En,Fr,De,Es,It,Nl) (Beta)|ABB50D93,APHE
+Prehistorik Man (USA, Europe) (En,Fr,De,Es,It,Nl)|0D3B922B,APHE
+Premier Action Soccer (Europe) (En,Fr,De,Es,It)|B5432FA4,BAQP
+Premier Manager 2003-04 (Europe) (En,Fr,De,It)|A959F638,BPMP
+Premier Manager 2003-04 (Europe) (En,Fr,De,It) (Rev 1)|CA893BC4,BPMP
+Premier Manager 2004-2005 (Europe) (En,Fr,De,It)|2706DFF2,BP4P
+Premier Manager 2005-2006 (Europe) (En,Fr,De,It)|3B04673B,BP5P
+Prince of Persia - The Sands of Time & Lara Croft Tomb Raider - The Prophecy (Europe) (En,Fr,De,Es,It,Nl+En,Fr,De,Es,It)|2A3E1A8D,B2QP
+Prince of Persia - The Sands of Time (Europe) (En,Fr,De,Es,It,Nl)|F0F16B7E,BPYP
+Prince of Persia - The Sands of Time (USA) (En,Fr,Es)|0C043BA6,BPYE
+Prince of Persia - The Sands of Time (USA) (En,Fr,Es) (Rev 1)|5ADF72E6,BPYE
+Princess Natasha - Student, Secret Agent, Princess (Europe) (En,Fr,De,Es,It)|E6567686,BNPP
+Princess Natasha - Student, Secret Agent, Princess (USA)|B07CB7BA,BNPE
+Pro Action Replay (Japan) (Unl)|9C249666
+Pro Beach Soccer (Europe) (En,Fr,De,Es,It,Pt)|7623E41A,AVEP
+Pro Mahjong Tsuwamono GBA (Japan)|E4D9AE55,B2OJ
+Pro Tennis WTA Tour (Europe)|F7171521,ATEP
+Pro Yakyuu Team o Tsukurou! Advance (Japan)|A8A3AA8B,ALMJ
+Proud Family, The (USA)|C92BDE6E,BD7E
+PukuPuku Tennen Kairanban (Japan)|91C4C334,APUJ
+PukuPuku Tennen Kairanban - Koi no Cupid Daisakusen (Japan)|B57FEC3A,BPQJ
+PukuPuku Tennen Kairanban - Youkoso! Illusion Land he (Japan)|E98CF9C3,B3PJ
+Punch King - Arcade Boxing (Europe) (En,Fr,Es)|3E4CB21C,APGP
+Punch King - Arcade Boxing (USA)|540B6CC1,APGE
+Puppy Luv - Spa and Resort (USA)|04146DD6,BYXE
+Puyo Pop (Europe) (En,Ja)|C85DE50E,APYP
+Puyo Pop (USA) (En,Ja)|0901BE49,APYE
+Puyo Pop Fever (Europe) (En,Fr,De,Es,It)|6E5880ED,BPFP
+Puyo Puyo Fever (Japan) (En,Ja,Fr,De,Es,It)|3FFD621A,BPFJ
+Puzzle & Tantei Collection (Japan)|893551BB,AEHJ
+Pyuu to Fuku! Jaguar - Byoo to Deru! Megane-kun (Japan)|1F67BD36,BPBJ
+Quad Desert Fury (USA, Europe)|95BE56E6,BQDE
+Qui Veut Gagner des Millions (France)|8F33BD3F,A55F
+Quiere Ser Millonario (Spain)|43514D44,A55S
+Qwak (Europe) (Demo) (Unl)|09C59E6B
+Qwak (Europe) (En,Fr,De,Es,It) (Unl)|9027917F
+R-Type III - The Third Lightning (Europe) (En,Fr,De,Es,It)|41BB7F8A,BR3P
+R-Type III - The Third Lightning (USA)|EA863F4D,BR3E
+Racing Fever (Europe) (En,De,Es,It)|E40EC737,BRWP
+Racing Fever (France)|4F61DEDB,BRWF
+Racing Gears Advance (Europe) (En,Fr,De,Es,It)|49A88E52,BRAP
+Racing Gears Advance (USA)|BF648E5C,BRAE
+Rampage - Puzzle Attack (USA, Europe)|8ECA2B0F,ARXE
+Rapala Pro Fishing (USA, Europe)|964D39A7,BRFE
+Ratatouille (Europe) (En,It,Sv,No,Da)|82F9C596,BNLP
+Ratatouille (Europe) (Es,Pt)|7A80B515,BNLY
+Ratatouille (Europe) (Fr,De,Nl)|5C48C362,BNLX
+Ratatouille (USA)|AA2EB686,BNLE
+Rave Master - Special Attack Force! (USA)|C39B9418,BRME
+Rayman - 10th Anniversary (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)|437E95B9,BX5P
+Rayman - 10th Anniversary (USA) (En,Fr,De,Es,It)|AE72B0EE,BX5E
+Rayman - Hoodlum's Revenge (USA) (En,Fr,Es)|025A9998,BRYE
+Rayman - Hoodlums' Revenge (Europe) (En,Fr,De,Es,It,Nl)|C221C419,BRYP
+Rayman - Raving Rabbids (Europe) (En,Fr,De,Es,It,Nl)|9914DA23,BQ3P
+Rayman - Raving Rabbids (USA) (En,Fr,Es)|751EF0D2,BQ3E
+Rayman 3 (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)|29F83314,AYZP
+Rayman 3 (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi) (Beta)|8F34B14F,AYZP
+Rayman 3 (USA) (Beta)|C3ADBC41,AYZE
+Rayman 3 (USA) (En,Fr,Es)|D1613266,AYZE
+Rayman Advance (Europe) (En,Fr,De,Es,It)|B43783B4,ARYP
+Rayman Advance (Europe) (En,Fr,De,Es,It) (Beta)|4B1B4E02,ARYP
+Rayman Advance (USA) (En,Fr,De,Es,It)|8ABA5AB8,ARYE
+Razbitume! - Restez Branches! (Europe) (En,Fr)|A169B3B5,BALX
+Razmoket Rencontrent les Delajungle, Les (France)|720B7FF2,A5WF
+Razmoket, Les - A Moi la Fiesta (France)|4130F7D0,AR5F
+Razmoket, Les - Voler N'Est Pas Jouer (France)|809A103A,ARGF
+Razor Freestyle Scooter (USA)|FFE38431,ARFE
+Ready 2 Rumble Boxing - Round 2 (Europe) (En,Fr,De)|E418E962,AR2P
+Ready 2 Rumble Boxing - Round 2 (USA)|5DFCC5E5,AR2E
+Rebelstar - Tactical Command (Europe) (En,Fr,De,Es,It)|E448C5D4,BRLP
+Rebelstar - Tactical Command (Europe) (En,Fr,De,Es,It) (Beta)|9706208C
+Rebelstar - Tactical Command (USA)|FB6C590F,BRLE
+Recca no Honoo - The Game (Japan)|B29BEE34,ARHJ
+Reign of Fire (Europe) (En,Fr,De,Es,It)|79D7F4BC,AR9P
+Reign of Fire (USA) (En,Fr,De,Es,It)|B48F8D57,AR9E
+Relaxuma na Mainichi (Japan)|9F333017,BR9J
+Rescue Heroes - Billy Blazes! (USA)|8111261C,AQHE
+Resident Evil 2 (Unknown) (Proto)|26B5CF8B,0000
+Revenge of Shinobi, The (Europe) (En,Fr,De,Es,It)|DDB4496A,A3RP
+Revenge of Shinobi, The (Europe) (En,Fr,De,Es,It) (Beta)|58A3F0E1,A3RP
+Revenge of Shinobi, The (USA)|E9339304,A3RE
+Revenge of the Smurfs, The (Europe) (Beta) (2002-03-22)|DD049B0D
+Revenge of the Smurfs, The (Europe) (En,Fr,De,Es,It,Nl)|516CE770,A7SP
+Rhythm Tengoku (Japan)|BAF7FFD2,349D7025,BRIJ
+Rhythm Tengoku (Japan) (Demo) (Kiosk)|D6C7DC21,BZLJ
+Rhythm Tengoku (Japan) (Rev 1)|A6CD88E1,BRIJ
+Ripping Friends, The - The World's Most Manly Men! (USA, Europe)|9850BF21,ARDE
+River City Ransom EX (USA)|8686436E,BDTE
+Riviera - The Promised Land (USA)|4FB6958D,BREE
+Riviera - Yakusoku no Chi Riviera (Japan)|F73B840F,BREJ
+Riviera - Yakusoku no Chi Riviera (Japan) (Rev 1)|146097F2,BREJ
+Road Rash - Jailbreak (Europe) (En,Fr,De,Es,It)|F4693458,A9RP
+Road Rash - Jailbreak (USA)|8834AF99,A9RE
+RoboCop (USA) (Proto)|282E6408
+Robopon 2 - Cross Version (USA)|68D3023A,ACVE
+Robopon 2 - Ring Version (USA)|CA73E17A,ARPE
+Robot Poncots 2 - Cross Version (Japan)|0C6F2B1B,ACVJ
+Robot Poncots 2 - Ring Version (Japan)|6002159C,ARPJ
+Robot Wars - Advanced Destruction (Europe) (En,Fr,De,Es,It)|CF8231BE,ARWP
+Robot Wars - Advanced Destruction (USA)|E6CB567D,ARUE
+Robot Wars - Extreme Destruction (Europe) (En,Fr,De,Es,It,Nl)|5EE9D6C5,ARSP
+Robotech - The Macross Saga (USA, Europe) (En,Fr,De,Es,It,Nl)|325A6596,ARBE
+Robots (Europe) (En,Fr,De,Es,It)|2ACBDB64,BRTP
+Robots (Japan)|1BEB9E91,BRTJ
+Robots (USA)|5370AE1F,BRTE
+Rock 'N Roll Racing (Europe)|53D1A142,A4RP
+Rock 'N Roll Racing (USA)|15F2DD16,A4RE
+Rock'em Sock'em Robots (Europe) (En,Fr,De,Es,It)|6AD6E952,BR7P
+Rock'em Sock'em Robots (USA)|C8896C62,BR7E
+Rocket Power - Beach Bandits (USA, Europe)|13695669,AR4E
+Rocket Power - Beach Bandits (USA, Europe) (v0.14) (Beta)|D3755452
+Rocket Power - Dream Scheme (USA, Europe)|93961CB2,ARKE
+Rocket Power - Le Cauchemar d'Otto (France)|17B8B786,ARKF
+Rocket Power - Zero Gravity Zone (USA)|26D62D32,AZZE
+Rockman & Forte (Japan)|CE2B48C4,AFCJ
+Rockman & Forte (Japan) (Virtual Console)|B4090702,AFCJ
+Rockman EXE 4 - Tournament Blue Moon (Japan)|ED7C5B50,B4BJ
+Rockman EXE 4 - Tournament Blue Moon (Japan) (Rev 1) (Virtual Console)|0A27789E
+Rockman EXE 4 - Tournament Red Sun (Japan)|6A51907D,B4WJ
+Rockman EXE 4 - Tournament Red Sun (Japan) (Rev 1)|CF0E8B05,B4WJ
+Rockman EXE 4 - Tournament Red Sun (Japan) (Rev 1) (Virtual Console)|BFE9AC96,B4WJ
+Rockman EXE 4.5 - Real Operation (Japan)|A646601B,BR4J
+Rockman EXE 4.5 - Real Operation (Japan) (Virtual Console)|9AD45607,BR4J
+Rockman EXE 5 - Team of Blues (Japan)|C73F23C0,BRBJ
+Rockman EXE 5 - Team of Blues (Japan) (Virtual Console)|B914DAAB,BRBJ
+Rockman EXE 5 - Team of Colonel (Japan)|16842635,BRKJ
+Rockman EXE 5 - Team of Colonel (Japan) (Virtual Console)|A6876EC7,BRKJ
+Rockman EXE 6 - Dennoujuu Falzar (Japan)|2DFB603E,BR6J
+Rockman EXE 6 - Dennoujuu Falzar (Japan) (Virtual Console)|36C9DD6F,BR6J
+Rockman EXE 6 - Dennoujuu Gregar (Japan)|6285918A,BR5J
+Rockman EXE 6 - Dennoujuu Gregar (Japan) (Virtual Console)|D0FDBEFB,BR5J
+Rockman EXE Battle Chip GP (Japan)|9217FB18,A89J
+Rockman EXE Battle Chip GP (Japan) (Virtual Console)|F37BF038,A89J
+Rockman Zero (Japan)|FF2A67B1,ARZJ
+Rockman Zero (Japan) (Virtual Console)|E85A6525,ARZJ
+Rockman Zero 2 (Japan)|9B5C8A4C,A62J
+Rockman Zero 2 (Japan) (Virtual Console)|B88847AA,A62J
+Rockman Zero 3 (Japan)|5A2C41A9,BZ3J
+Rockman Zero 3 (Japan) (Virtual Console)|C0EE255F,BZ3J
+Rockman Zero 4 (Japan)|ECE42D0E,B4ZJ
+Rockman Zero 4 (Japan) (Virtual Console)|41E7180E,B4ZJ
+Rocky (Europe) (En,Fr,De,Es,It)|D2E55FB5,AROP
+Rocky (USA) (En,Fr,De,Es,It)|C8F4FF1B,AR8E
+RPG Tsukuru Advance (Japan)|E7FC81D0,A8TJ
+Rugrats - Castle Capers (USA, Europe)|8AABD86A,ARGE
+Rugrats - Go Wild (USA, Europe)|52A33375,A5WE
+Rugrats - I Gotta Go Party (USA, Europe)|DF167D1D,AR5E
+Rugrats - Travesuras en el Castillo (Spain)|0BCAB7D0,ARGS
+Sabre Wulf (Europe) (En,Fr,De)|9E3EAB8D,AWUP
+Sabre Wulf (USA)|73787A16,AWUE
+Sabrina the Teenage Witch - Potion Commotion (Europe) (En,Fr,De,Es,It,Nl)|CAA8225B,A3BP
+Sabrina the Teenage Witch - Potion Commotion (USA) (En,Fr,Es)|A39EDD2F,A3BE
+Saibara Rieko no Dendou Mahjong (Japan)|02B9F82D,ASMJ
+Sakura Momoko no UkiUki Carnival (Japan)|B0A75590,ACLJ
+Salt Lake 2002 (Europe) (En,Fr,De,Es,It,Nl)|68836DF9,AWGP
+Salt Lake 2002 (USA) (En,Fr,De,Es,It,Nl)|4603205A,AS5E
+Samsara Naga 1x2 (Japan)|68076B62,ASNJ
+Samsara Naga 1x2 (Japan) (Rev 1)|A79872FE,ASNJ
+Samsara Naga 1x2 (Japan) (Rev 2)|B3780A4F,ASNJ
+Samurai Deeper Kyo (Japan)|56EAD477,AOSJ
+Samurai Deeper Kyo (USA)|4AB65478,AOSE
+Samurai Evolution - Oukoku Geist (Japan)|C0F54C65,AECJ
+Samurai Jack - The Amulet of Time (USA, Europe)|B250366C,AJTE
+Sangokushi (Japan)|F3D3C239,ASXJ
+Sangokushi - Eiketsuden (Japan)|A4A1C956,B3EJ
+Sangokushi - Koumeiden (Japan)|765043FF,B3QJ
+Sanrio Puroland - All Characters (Japan)|5257BD92,A85J
+Santa Claus Jr. Advance (Europe)|FE3E6769,AXXP
+Santa Claus Jr. Advance (Europe) (Beta)|38D896BD,AXXP
+Santa Claus Saves the Earth (Europe)|49E012A8,AUZE
+Santa Clause 3, The - The Escape Clause (USA)|206933F5,B33E
+Scan Hunter - Sennen Kaigyo o Oe! (Japan)|DCFDDFF7,A57J
+Scooby-Doo (Europe)|E5AC4BB9,AP8P
+Scooby-Doo (France)|CEEFC038,AP8F
+Scooby-Doo (Germany)|03A07291,AP8D
+Scooby-Doo (Spain)|E5261946,AP8S
+Scooby-Doo (USA)|22D993C6,AP8E
+Scooby-Doo 2 - Monsters Unleashed (Europe) (En,Fr,De,Es,It)|7BDAB2CF,BMUX
+Scooby-Doo 2 - Monsters Unleashed (USA, Europe)|9FF01DDD,BMUE
+Scooby-Doo and the Cyber Chase (Europe) (En,Fr,De)|8B0079CB,ASDX
+Scooby-Doo and the Cyber Chase (USA, Europe)|CF2DBA97,ASDE
+Scooby-Doo! - Mystery Mayhem (Europe) (En,Fr,De)|5348A655,BMMP
+Scooby-Doo! - Mystery Mayhem (USA) (En,Fr)|3D389A12,BMME
+Scooby-Doo! - Unmasked (Europe) (En,Fr)|D21B8344,B25X
+Scooby-Doo! - Unmasked (Europe) (Es,It)|AF42F90F,B25Y
+Scooby-Doo! - Unmasked (USA) (En,Fr)|96BDD6C1,B25E
+Scorpion King, The - Sword of Osiris (Europe) (En,Fr,De,Es,It)|D5410D32,ASZP
+Scorpion King, The - Sword of Osiris (USA)|6E0A8585,ASZE
+Scrabble (Europe) (En,Fr,De,Es)|C5C9B31B,AQBP
+Scrabble Blast! (USA)|5D31A1F9,BLAE
+Scrabble Scramble! (Europe)|0ED5F375,BLAP
+Scrabble Scramble! (Europe) (En,Fr,De,Es,It,Nl)|E8EB2E3A,BLAX
+Screw Breaker - Goushin DoriRureRo (Japan)|B17532EE,V49J
+Scurge - Hive (Europe) (En,Fr,De,Es,It)|2C119783,BHVP
+Scurge - Hive (USA) (En,Fr,Es)|1AE38AC0,BHVE
+SD Gundam Force (Japan) (En)|83417478,BG4J
+SD Gundam Force (USA)|68B21289,BGEE
+SD Gundam G Generation Advance (Japan)|7DAF215C,BGAJ
+Sea Trader - Rise of Taipan (USA)|7597E8C1,ALJE
+Secret Agent Barbie - Royal Jewels Mission (Europe) (En,Fr,De,Es,It)|DA3133C3,AAHP
+Secret Agent Barbie - Royal Jewels Mission (USA)|610913E0,AAHE
+SEGA Arcade Gallery (Europe) (En,Fr,De,Es,It)|F92140C0,AYPP
+SEGA Arcade Gallery (USA)|3B8FFDF4,AYPE
+SEGA Rally Championship (Europe)|D125A6BB,AYLP
+SEGA Rally Championship (Europe) (Beta)|31FB92EA
+SEGA Rally Championship (Japan) (En)|E57C16F7,AYLJ
+SEGA Rally Championship (USA)|1AE3EB16,AYLE
+SEGA Smash Pack (Europe)|09310FEC,A3PP
+SEGA Smash Pack (USA)|5C2E97BA,A3PE
+Sengoku Kakumei Gaiden (Japan)|3DD25FD7,A7GJ
+Sennen Kazoku (Japan)|A2F6976C,BKAJ
+Sennen Kazoku (Japan) (Rev 1)|DCAAE075,BKAJ
+Sennen Kazoku (Japan) (Rev 1) (Virtual Console)|18C9DA4C,BKAJ
+Sentouin Yamada Hajime (Japan)|596C5D4C,BSYJ
+Serious Sam Advance (Europe) (En,Fr,De)|58199232,AENP
+Serious Sam Advance (USA) (En,Fr,De)|FDF4ECA7,AENE
+Shaman King - Legacy of the Spirits - Soaring Hawk (USA)|798593A5,BHLE
+Shaman King - Legacy of the Spirits - Sprinting Wolf (USA)|FA1AA3F6,BWSE
+Shaman King - Master of Spirits (Europe) (En,Fr,De)|4864B878,BSOP
+Shaman King - Master of Spirits (USA)|10E554AE,BSOE
+Shaman King - Master of Spirits 2 (Europe) (En,Fr,De)|4A74E038,B2MP
+Shaman King - Master of Spirits 2 (USA)|201E3412,B2ME
+Shaman King Card Game - Chou Senjiryakketsu 2 (Japan)|CB9A390A,AKAJ
+Shaman King Card Game - Chou Senjiryakketsu 3 (Japan)|2BCF66D4,AL3J
+Shamu's Deep Sea Adventures (Europe)|6A0F2C8B,BBAP
+Shamu's Deep Sea Adventures (USA)|4E9426EB,BBAE
+Shanghai Advance (Japan)|9AEEA9B7,ASVJ
+Shark Tale (Europe) (Fr,De,Es)|DF2518E9,BSUX
+Shark Tale (Italy)|804A01B1,BSUI
+Shark Tale (Japan)|128BE27C,B9TJ
+Shark Tale (USA, Europe)|7B68D93E,BSUE
+Shaun Palmer's Pro Snowboarder (Germany)|6D545FED,ASCD
+Shaun Palmer's Pro Snowboarder (USA, Europe)|66265AD9,ASCE
+Sheep (Europe) (En,Fr,De,Es,It)|75A92925,AEPP
+Shifting Gears - Road Trip (USA)|549BF1C5,A6RE
+Shikakui Atama o Maruku Suru. Advance - Kanji, Keisan (Japan)|E0A452A8,B4KJ
+Shikakui Atama o Maruku Suru. Advance - Kokugo, Sansuu, Shakai, Rika (Japan)|07695A6C,B4RJ
+Shimura Ken no Baka Tonosama - Bakushou Tenka Touitsu Game (Japan)|F29E6E2D,A64J
+Shimura Ken no Baka Tonosama - Bakushou Tenka Touitsu Game (Japan) (Rev 1)|5546B016,A64J
+Shin Bokura no Taiyou - Gyakushuu no Sabata (Japan)|AF453162,U33J
+Shin chan - Aventuras en Cineland (Spain)|4C5FFBA8,769A7666,BKCS
+Shin chan contra los Munecos de Shock Gahn (Spain)|FD47A2FE,BC2S
+Shin Kisekae Monogatari (Japan)|B65095BF,AAJJ
+Shin Megami Tensei (Japan)|B857C3C5,AAUJ
+Shin Megami Tensei Devil Children - Hikari no Sho (Japan)|5D7EE5AF,AL4J
+Shin Megami Tensei Devil Children - Honoo no Sho (Japan)|9A0903BC,BDHJ
+Shin Megami Tensei Devil Children - Koori no Sho (Japan)|AD80D5F9,BDYJ
+Shin Megami Tensei Devil Children - Messiah Riser (Japan)|0EC98C51,BDLJ
+Shin Megami Tensei Devil Children - Puzzle de Call! (Japan)|EA8A185A,A8ZJ
+Shin Megami Tensei Devil Children - Yami no Sho (Japan)|E0E153B7,AC5J
+Shin Megami Tensei Devil Children - Yami no Sho (Japan) (Beta)|81F30EBC,AC5J
+Shin Megami Tensei II (Japan)|AF40CC99,A5TJ
+Shin Nihon Pro Wrestling - Toukon Retsuden Advance (Japan)|9F0B8B79,ARAJ
+Shin Sangoku Musou Advance (Japan)|FE1BE6C1,B36J
+Shin Sangoku Musou Advance (Japan) (Rev 1)|7CEDED10,B36J
+Shingata Medarot - Kabuto Version (Japan)|54AF534D,BKVJ
+Shingata Medarot - Kuwagata Version (Japan)|0FD35628,BKUJ
+Shining Force - Kuroki Ryuu no Fukkatsu (Japan)|4A643CC4,AF5J
+Shining Force - Kuroki Ryuu no Fukkatsu (Japan) (Virtual Console)|1127B83E,AF5J
+Shining Force - Resurrection of the Dark Dragon (Europe) (En,Fr,De,Es,It)|07B06994,AF5P
+Shining Force - Resurrection of the Dark Dragon (USA)|563AA3A0,AF5E
+Shining Soul (Europe) (En,Fr,De,Es,It)|74B5D069,AHUP
+Shining Soul (Japan)|521450D1,AHUJ
+Shining Soul (Japan) (Virtual Console)|3BD8CF12,AHUJ
+Shining Soul (USA)|E95BBA0C,AHUE
+Shining Soul II (Europe) (En,Fr,De,Es,It)|55E503C1,AU2P
+Shining Soul II (Japan)|7B39A7B2,AU2J
+Shining Soul II (Japan) (Virtual Console)|1659AF19,AU2J
+Shining Soul II (USA)|4038E282,AU2E
+Shinyaku Seiken Densetsu (Japan)|31B220E5,AVSJ
+Shiren Monsters - Netsal (Japan)|C1F2B5EC,ANVJ
+Shiren Monsters - Netsal (Japan) (Demo) (Kiosk, GameCube)|25B0B122,ANVJ
+Shrek - Hassle at the Castle (Europe) (En,Fr,De,Es,It,Nl)|CD8E4F85,AH4P
+Shrek - Hassle at the Castle (USA) (En,Fr,De,Es,It,Nl)|09E7472C,AH4E
+Shrek - Reekin' Havoc (Europe) (En,Fr,De,Es,It,Nl)|1E4D4813,AOIP
+Shrek - Reekin' Havoc (USA) (En,Fr,De,Es,It,Nl)|63F49BA9,AOIE
+Shrek - Smash n' Crash Racing (Europe) (En,Fr,De,Es,It)|A45857C4,B4IP
+Shrek - Smash n' Crash Racing (USA)|EA8AE3B2,B4IE
+Shrek - Super Slam (Europe) (En,Fr,De,Es,It,Nl)|DF73101E,B4UP
+Shrek - Super Slam (USA)|E2EC9EED,B4UE
+Shrek - Swamp Kart Speedway (USA) (En,Fr,De,Es,It,Nl) (Rev 1)|41F55560,AS4E
+Shrek - Swamp Kart Speedway (USA, Europe) (En,Fr,De,Es,It,Nl)|91483D87,AS4E
+Shrek 2 (Europe) (Fr,De,Es,It,Sv)|AC1D8C97,BSEX
+Shrek 2 (USA, Europe)|52FF42D4,BSEE
+Shrek 2 - Beg for Mercy (Europe) (Fr,De,Es,It)|B6E091CE,BSIX
+Shrek 2 - Beg for Mercy (USA, Europe)|F1861610,BSIE
+Shrek the Third (Europe) (En,Fr,De,Es,It,Nl)|DA1EE1E5,B3HP
+Shrek the Third (USA)|D7D1DA8D,B3HE
+Sigma Star Saga (USA, Europe)|A8B80A7C,B3GE
+Silent Scope (Europe) (En,Fr,De,Es,It)|F03728F3,AIPP
+Silent Scope (Japan)|8AB024E0,AIPJ
+Silent Scope (USA) (En,Fr,De,Es,It)|C5CE1B2C,AIPE
+Silk to Cotton (Japan)|515E2127,A7IJ
+SimCity 2000 (Europe) (En,Fr,De,Es,It)|A74187D3,A5CP
+SimCity 2000 (Europe) (En,Fr,De,Es,It) (Rev 1)|95C79648,A5CP
+SimCity 2000 (USA)|733751B3,A5CE
+SimCity 2000 (USA) (Rev 1)|097E8628,A5CE
+Simple 2960 Tomodachi Series Vol. 1 - The Table Game Collection - Mahjong, Shougi, Hanafuda, Reversi (Japan)|8B72BA3C,AZKJ
+Simple 2960 Tomodachi Series Vol. 2 - The Block Kuzushi (Japan)|E731FD45,AZ9J
+Simple 2960 Tomodachi Series Vol. 2 - The Block Kuzushi (Japan) (Rev 1)|180901E3,AZ9J
+Simple 2960 Tomodachi Series Vol. 3 - The Itsudemo Puzzle - Massugu Soroete Straws (Japan)|49B92627,BS3J
+Simple 2960 Tomodachi Series Vol. 4 - The Trump - Minna de Asoberu 12 Shurui no Trump Game (Japan)|A6FC701F,BS4J
+Simple 2960 Tomodachi Series Vol. 4 - The Trump - Minna de Asoberu 12 Shurui no Trump Game (Japan) (Rev 1)|07C2D7ED,BS4J
+Simpsons, The - Road Rage (Europe) (En,Fr,De,Es,It)|44548B33,A4AX
+Simpsons, The - Road Rage (USA, Europe)|409E8252,A4AE
+Sims 2, The (USA, Europe) (En,Fr,De,Es,It,Nl)|8B1BC7DF,B46E
+Sims 2, The - Pets (Europe) (En,Fr,De,Es,It,Nl)|87F8599C,B4OX
+Sims 2, The - Pets (USA, Europe)|EC1F4029,B4OE
+Sims, The (Japan)|89956199,B4PJ
+Sims, The - Bustin' Out (USA) (En,Fr,De,Es,It,Nl) (Rev 1)|D1183501,ASIE
+Sims, The - Bustin' Out (USA, Europe) (En,Fr,De,Es,It,Nl)|ABAF519C,ASIE
+Sister Princess - RePure (Japan)|6845C671,A4PJ
+Sitafei De Chuanshuo (China) (Proto)|6F2DF7C4,ASTC
+Sitafei De Chuanshuo 2 (China) (Proto)|E8E756CA,AVFC
+Sitting Ducks (Europe) (En,Fr,De,Es,It,Nl)|B92A8A88,BSDP
+Sitting Ducks (USA) (En,Fr,De,Es,It,Nl)|8BC90ADB,BSDE
+SK8 - Tony Hawk's Pro Skater 2 (Japan)|91F93500,ATHJ
+Sky Dancers - They Magically Fly! (Europe) (En,Fr,De,Es,It)|3AF1063B,B4DP
+Sky Dancers - They Magically Fly! (USA)|CADD57DD,B4DE
+Slime Morimori Dragon Quest - Shougeki no Shippo Dan (Japan)|1194D33B,A9KJ
+Slot! Pro 2 Advance - GoGo Juggler & New Tairyou (Japan)|4DA0B936,ATBJ
+Slot! Pro Advance - Takarabune & Ooedo Sakurafubuki 2 (Japan)|D9A8D01F,ASFJ
+Smashing Drive (Europe) (En,Fr,De,Es,It)|1034D672,BSVP
+Smashing Drive (USA)|2390ACA6,BSVE
+Smuggler's Run (Europe) (En,Fr,De,Es,It)|3AE0AFC8,ASGP
+Smuggler's Run (USA)|1A6AEA5E,ASGE
+SN Systems (Europe)|00F5687A
+Snap Kid's (Japan)|41E35C6A,AEAJ
+Snood (Europe) (En,Fr,De,Es,It)|32BD1486,ASQP
+Snood (USA)|F1F1F148,ASQE
+Snood 2 - On Vacation (Europe) (En,Fr,De,Es,It)|6470252F,B2VP
+Snood 2 - On Vacation (USA)|D8E05727,B2VE
+Soccer Kid (USA, Europe)|D3485F5A,AK6E
+Sonic Advance (Europe) (En,Ja,Fr,De,Es)|6232839B,ASOP
+Sonic Advance (Japan) (En,Ja)|5F512223,ASOJ
+Sonic Advance (Japan) (En,Ja) (Rev 1)|85957A24,ASOJ
+Sonic Advance (Japan) (En,Ja) (Rev 1) (Virtual Console)|431E55AC,ASOJ
+Sonic Advance (USA) (En,Ja)|63F70FD8,ASOE
+Sonic Advance 2 (Europe) (En,Ja,Fr,De,Es,It)|89509891,A2NP
+Sonic Advance 2 (Japan) (En,Ja,Fr,De,Es,It)|513804FF,A2NJ
+Sonic Advance 2 (Japan) (En,Ja,Fr,De,Es,It) (Virtual Console)|6C6C65A3,A2NJ
+Sonic Advance 2 (USA) (En,Ja,Fr,De,Es,It)|7EFEE7F7,A2NE
+Sonic Advance 3 (Europe) (En,Ja,Fr,De,Es,It)|5BF83456,B3SP
+Sonic Advance 3 (Europe) (En,Ja,Fr,De,Es,It) (Beta)|4C93DAC6,B3SP
+Sonic Advance 3 (Japan) (Demo) (Kiosk, GameCube)|0594D496,B3SJ
+Sonic Advance 3 (Japan) (En,Ja,Fr,De,Es,It)|4375F1D6,B3SJ
+Sonic Advance 3 (Japan) (En,Ja,Fr,De,Es,It) (Virtual Console)|1F36892F,B3SJ
+Sonic Advance 3 (USA) (En,Ja,Fr,De,Es,It)|49DDA5E6,B3SE
+Sonic Battle (Europe) (En,Ja,Fr,De,Es,It)|D0F65125,BSBP
+Sonic Battle (Japan) (En,Ja)|7305AC30,BSBJ
+Sonic Battle (USA) (En,Ja,Fr,De,Es,It)|9EC9D86F,BSBE
+Sonic Pinball Party (Europe) (En,Ja,Fr,De,Es,It)|4435917E,A3VP
+Sonic Pinball Party (Japan) (En,Ja,Fr,De,Es,It)|43B5F167,A86J
+Sonic Pinball Party (USA) (En,Ja,Fr,De,Es,It)|08794743,A3VE
+Sonic The Hedgehog - Genesis (USA)|027BC70D,BIJE
+Sound of Thunder, A (Europe) (En,Fr,De,Es,It)|CF404AEE,A3QP
+Sound of Thunder, A (USA) (En,Fr,De,Es,It)|72894E1B,A3QE
+Space Channel 5 - Ulala's Cosmic Attack (Europe)|0F105694,A5UP
+Space Channel 5 - Ulala's Cosmic Attack (USA)|0666F37A,A5UE
+Space Hexcite - Maetel Legend EX (Japan)|BD4E6008,AJSJ
+Space Invaders (France)|59372656,AIDF
+Space Invaders (USA, Europe)|5EA3F3B5,AIDE
+Space Invaders EX (Japan) (En)|297B9854,AIDJ
+Speedball 2 - Brutal Deluxe (Europe) (En,Fr,De,Es,It)|051F3D0D,AS6P
+Spider-Man (France)|832EA2B1,AKXF
+Spider-Man (Germany)|E9D9B35F,AKXD
+Spider-Man (USA, Europe)|406265B8,AKXE
+Spider-Man - Battle for New York (Europe) (En,Fr,De,Es,It)|AD2C404C,BC9P
+Spider-Man - Battle for New York (USA)|6310BA16,BC9E
+Spider-Man - Mysterio no Kyoui (Japan)|F8125C4B,ASEJ
+Spider-Man - Mysterio's Menace (USA, Europe)|6E135B4D,ASEE
+Spider-Man 2 (Europe) (En,Fr,De,Es)|821838BC,BSPX
+Spider-Man 2 (Italy)|66340F23,BSPI
+Spider-Man 2 (USA, Europe)|0145F3F4,BSPE
+Spider-Man 3 (Europe)|6BE8D68C,BI3P
+Spider-Man 3 (France)|450D1D48,BI3F
+Spider-Man 3 (Germany)|FDA3C9DD,BI3D
+Spider-Man 3 (Italy)|E8FB4B9A,BI3I
+Spider-Man 3 (Spain)|E6251FD3,BI3S
+Spider-Man 3 (USA)|AD0228A1,BI3E
+Spirit - Der Wilde Mustang - Auf der Suche nach Homeland (Germany)|4785EEE0,AC6D
+Spirit - Der Wilde Mustang - Auf der Suche nach Homeland (Germany) (Beta)|CAAAEFB6
+Spirit - L'Etalon des Plaines - A la Recherche de la Terre Natale (France)|C8C76255,AC6F
+Spirit - Stallion of the Cimarron - Search for Homeland (Europe)|AEE21783,AC6P
+Spirit - Stallion of the Cimarron - Search for Homeland (USA)|9A457633,AC6E
+Spirits & Spells (USA)|2FA6DB95,AWNE
+SpongeBob and Friends - Attack of the Toybots (Europe) (En,De)|F0B0F53C,BUJX
+SpongeBob SquarePants - Battle for Bikini Bottom (Europe) (En,Fr,De)|DE4A85C0,BSQP
+SpongeBob SquarePants - Battle for Bikini Bottom (USA)|235628C3,BSQE
+SpongeBob SquarePants - Creature from the Krusty Krab (Europe) (En,Fr,De,Es,It,Nl,Sv,Da)|7580FBD6,BQ4P
+SpongeBob SquarePants - Creature from the Krusty Krab (USA)|51CE91D6,BQ4E
+SpongeBob SquarePants - Lights, Camera, Pants! (Europe) (En,Fr,De,Es,It,Nl,Sv)|C189013D,BQQX
+SpongeBob SquarePants - Lights, Camera, Pants! (USA)|23297579,BQQE
+SpongeBob SquarePants - Revenge of the Flying Dutchman (USA) (Beta)|4F21757D
+SpongeBob SquarePants - Revenge of the Flying Dutchman (USA, Europe)|30D6C979,AQ3E
+SpongeBob SquarePants - SuperSponge (USA, Europe)|98AD67E6,ASPE
+SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta) (2000-11-28)|22F37CFD
+SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta) (2001-01-08) (05-16)|49754EE4
+SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta) (2001-01-08) (07-47)|B83D7E0D
+SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta) (2001-02-05)|DFA0465F
+SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta) (2001-02-15)|9DD49688
+SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta) (2001-02-23)|78D0D354
+SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta) (2001-02-26)|D0FB4BD2
+SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta) (2001-03-01)|6B458C53
+SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta) (2001-03-12)|70456F6E
+SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta) (2001-03-14)|FFEA9FEC
+SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta) (2001-06-06) (11-34)|40CC2E8A
+SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta) (2001-06-06) (11-39)|FF4F1EE7
+SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta) (2001-07-31)|F2F67F40,SBSP
+SpongeBob SquarePants and Friends - Battle for Volcano Island (Europe) (En,Fr,De,Es,It,Nl)|033229A7,BNVP
+SpongeBob SquarePants and Friends in Freeze Frame Frenzy (Europe) (En,Fr,De,Es,Nl)|FC339FC7,BCCX
+SpongeBob SquarePants and Friends Unite! (Europe) (En,Fr,De,Es,It)|611CC620,BNUP
+SpongeBob SquarePants Movie, The (Europe) (En,Fr,De,Es,It,Nl)|5D9D52DE,BSNX
+SpongeBob SquarePants Movie, The (USA)|3622DA11,BSNE
+SpongeBob SquarePants Movie, The (USA) (Beta 1)|DF3D16A1
+SpongeBob SquarePants Movie, The (USA) (Beta 2)|E1068687,BSNE
+SpongeBob's Atlantis SquarePantis (USA)|190B1653,BZXE
+Sports Illustrated for Kids - Baseball (USA)|616088DF,AKBE
+Sports Illustrated for Kids - Football (USA)|9972779D,AKFE
+Sportsmans Pack 2 in 1 - Cabela's Big Game Hunter + Rapala Pro Fishing (USA)|2E725460,B23E
+Spy Hunter (Europe) (En,Ja,Fr,De,Es)|4F196612,AHNP
+Spy Hunter (USA) (En,Ja,Fr,De,Es)|B04892C9,AHNE
+Spy Kids 3-D - Game Over (Europe)|A93601F5,AV3P
+Spy Kids 3-D - Game Over (USA)|96128B31,AV3E
+Spy Kids Challenger (USA)|E8227E41,A2KE
+Spy Muppets - License to Croak (USA) (En,Fr,De,Es,It,Nl)|848F9D42,BSSE
+Spyro - Attack of the Rhynocs (USA)|13F10A1E,AOWE
+Spyro - Season of Ice (Europe) (En,Fr,De,Es,It)|AFD25827,ASYP
+Spyro - Season of Ice (USA)|2F2389D2,ASYE
+Spyro 2 - Season of Flame (Europe) (En,Fr,De,Es,It)|104B4CAA,A2SP
+Spyro 2 - Season of Flame (Europe) (En,Fr,De,Es,It) (Beta)|D05C86BB
+Spyro 2 - Season of Flame (USA)|37E120E7,A2SE
+Spyro Advance (Japan)|42DD5DD9,A4SJ
+Spyro Advance - Wakuwaku Tomodachi Daisakusen! (Japan)|91A9E2CC,BS8J
+Spyro Adventure (Europe) (En,Fr,De,Es,It,Nl)|1F62D660,AOWP
+Spyro Fusion (Europe) (En,Fr,De,Es,It)|E53BA082,BSTP
+Spyro Orange - The Cortex Conspiracy (USA)|A9915BAF,BSTE
+Spyro Orange - The Cortex Conspiracy (USA) (Rev 1)|BBF2549D,BSTE
+Spyro Superpack - Spyro - Season of Ice + Spyro 2 - Season of Flame (USA)|7EF359ED,B8SE
+SSX 3 (USA, Europe)|8232F58A,BSXE
+SSX Tricky (USA, Europe) (En,Fr,De)|E0988123,AXYE
+Stadium Games (Europe)|DB146CC3,A9GP
+Stadium Games (USA)|4BF6E9E8,A9GE
+Star Wars - Episode II - Attack of the Clones (Europe) (En,Fr,De,Es,It)|C492C46D,AS2X
+Star Wars - Episode II - Attack of the Clones (USA)|8FB5E2C6,AS2E
+Star Wars - Episode III - Revenge of the Sith (Europe) (En,Fr,De,Es,It,Nl)|FD49236B,BE3P
+Star Wars - Episode III - Revenge of the Sith (USA) (En,Fr,Es)|3E34AAB7,BE3E
+Star Wars - Flight of the Falcon (Europe) (En,Fr,De)|A41D22AD,BSWP
+Star Wars - Flight of the Falcon (USA)|94D2737A,BSWE
+Star Wars - Jedi Power Battles (Europe) (En,Fr,De,Es)|FA0F055D,ASWX
+Star Wars - Jedi Power Battles (USA)|3F19E156,ASWE
+Star Wars - The New Droid Army (Europe) (En,Fr,De,Es)|677854AF,A2WP
+Star Wars - The New Droid Army (USA)|59C52F98,A2WE
+Star Wars Trilogy - Apprentice of the Force (Europe) (En,Fr,De,Es,It,Nl)|C9F0C492,BCKP
+Star Wars Trilogy - Apprentice of the Force (USA) (En,Fr,Es)|714A0D3A,BCKE
+Star X (Europe) (En,Fr,De,Es,It,Nl)|9DCA9C3C,AS8P
+Star X (USA) (En,Fr,De,Es,It,Nl)|8B02B2B1,AS8E
+Starsky & Hutch (Europe) (En,Fr,De,Es,It)|209958E5,AYHP
+Starsky & Hutch (USA)|B3993252,AYHE
+Starsky & Hutch (USA) (Beta)|AB142D2E,AYHE
+Steel Empire (Europe)|CB91922E,BKTP
+Steven Gerrard's Total Soccer 2002 (Europe) (En,Fr,De,Es,It,Nl)|B94DDC93,ATUP
+Strawberry Shortcake - Ice Cream Island - Riding Camp (Europe) (En,Fr,De,Es,It,Nl,Pt,Da)|C40220CF,B35P
+Strawberry Shortcake - Ice Cream Island - Riding Camp (Europe) (En,Fr,De,Es,It,Nl,Pt,Da) (Rev 1)|F3F2E465,B35P
+Strawberry Shortcake - Summertime Adventure (USA)|7FEC3419,B35E
+Strawberry Shortcake - Summertime Adventure - Special Edition (USA)|5A66CAFA,BQWE
+Strawberry Shortcake - Sweet Dreams (USA)|53384966,B4TE
+Street Fighter Alpha 3 (Europe)|93C5CF69,AZUP
+Street Fighter Alpha 3 (USA)|80B707C2,AZUE
+Street Fighter Zero 3 Upper (Japan)|8D5D0EAB,AZUJ
+Street Jam Basketball (USA, Europe)|3F20A970,A3ZE
+Street Racing Syndicate (Europe) (En,Fr,De,Es,It)|AC24888B,BCZP
+Street Racing Syndicate (USA)|F44B6A70,BCZE
+Strike Force Hydra (Europe)|277D2C89,AFHP
+Strike Force Hydra (USA)|5AEEA1DE,AFHE
+Stuart Little 2 (France)|0827D896,ASLF
+Stuart Little 2 (USA, Europe)|6EB7C688,ASLE
+Stuntman (Europe) (En,Fr,De,Es,It)|62A678AB,AUXP
+Stuntman (USA) (En,Fr,Es)|0D58BA07,AUXE
+Sugar Sugar Rune - Heart Ga Ippai! Moegi Gakuen (Japan)|0A4E0ED2,B4LJ
+Suite Life of Zack & Cody, The - Tipton Caper (USA) (En,Fr)|1D33DD2C,BZCE
+Sum of All Fears, The (Europe) (En,Fr,De,Es,It)|AEA15C21,AA6P
+Sum of All Fears, The (USA) (En,Fr,De,Es,It)|166391D1,AA6E
+Summon Night - Craft Sword Monogatari (Japan)|A5D38236,AB4J
+Summon Night - Craft Sword Monogatari - Hajimari no Ishi (Japan)|12AFAE5D,B3CJ
+Summon Night - Craft Sword Monogatari 2 (Japan)|8CD98F6F,BSKJ
+Summon Night - Swordcraft Story (USA)|3EA860C2,AB4E
+Summon Night - Swordcraft Story 2 (USA)|1EAC1F48,BSKE
+Super Army War (USA)|BAF484BE,BG6E
+Super Black Bass Advance (Europe)|91238AD1,AABP
+Super Black Bass Advance (Japan)|67C4E470,AABJ
+Super Bubble Pop (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)|25123D97,AVZP
+Super Bubble Pop (USA)|5EC8EA61,AVZE
+Super Bust-A-Move (Europe) (En,Fr,De,Es,It)|6BFD2915,ABMP
+Super Bust-A-Move (USA) (En,Fr,Es)|2FB4B14D,ABME
+Super Chinese 1, 2 Advance (Japan)|35448DF4,BSAJ
+Super Collapse! II (USA)|F4634DBD,BCLE
+Super Dodge Ball Advance (Europe)|4CA4F528,ADFP
+Super Dodge Ball Advance (USA)|1D31DC6B,ADFE
+Super Dodge Ball Advance (USA) (Beta)|626603B5,ADFE
+Super Dodge Ball Advance (USA) (Rev 1)|63CA5050,ADFE
+Super Donkey Kong (Japan)|2206B04D,A5NJ
+Super Donkey Kong 2 (Japan)|27A1CC75,B2DJ
+Super Donkey Kong 3 (Japan)|4DCF6E20,BDQJ
+Super Dropzone - Intergalactic Rescue Mission (Europe)|BAB43D5C,AZNP
+Super Dropzone - Intergalactic Rescue Mission (USA)|2B4843FE,AZNE
+Super Duper Sumos (USA)|8E20043F,BDPE
+Super Ghouls'n Ghosts (USA) (Virtual Console)|E279EC31,AG5E
+Super Ghouls'n Ghosts (USA, Europe)|1EF2ACF3,AG5E
+Super Hornet FA 18F (USA, Europe)|9653BAC5,BF8E
+Super Mario Advance (USA) (Demo) (Kiosk)|69924CBD,AMZE
+Super Mario Advance (USA, Europe)|1E4C6D6A,AMAE
+Super Mario Advance (USA, Europe) (Virtual Console)|5251F2BF,AMAE
+Super Mario Advance - Super Mario USA + Mario Brothers (Japan)|B993B92F,AMAJ
+Super Mario Advance - Super Mario USA + Mario Brothers (Japan) (Virtual Console)|49684D37,AMAJ
+Super Mario Advance 2 - Super Mario World (Europe) (En,Fr,De,Es)|FCFEF343,AA2P
+Super Mario Advance 2 - Super Mario World (USA, Australia)|5206880A,AA2E
+Super Mario Advance 2 - Super Mario World + Mario Brothers (Japan)|901CE373,AA2J
+Super Mario Advance 3 - Yoshi's Island (Europe) (En,Fr,De,Es,It)|639E9D3B,A3AP
+Super Mario Advance 3 - Yoshi's Island (Europe) (En,Fr,De,Es,It) (Virtual Console)|2C79C2DE,A3AP
+Super Mario Advance 3 - Yoshi's Island (USA)|40A48276,A3AE
+Super Mario Advance 3 - Yoshi's Island (USA) (Virtual Console)|3D803E41,A3AE
+Super Mario Advance 3 - Yoshi's Island + Mario Brothers (Japan)|26321120,A3AJ
+Super Mario Advance 3 - Yoshi's Island + Mario Brothers (Japan) (Virtual Console)|10F9EDA4,A3AJ
+Super Mario Advance 4 - Super Mario 3 + Mario Brothers (Japan)|F3C87306,AX4J
+Super Mario Advance 4 - Super Mario 3 + Mario Brothers (Japan) (Rev 1)|5A676424,AX4J
+Super Mario Advance 4 - Super Mario 3 + Mario Brothers (Japan) (Rev 2)|7B1A4C22,AX4J
+Super Mario Advance 4 - Super Mario 3 + Mario Brothers (Japan) (Rev 2) (Virtual Console)|4AEE9C77,AX4J
+Super Mario Advance 4 - Super Mario Bros. 3 (Europe) (En,Fr,De,Es,It)|37141F32,AX4P
+Super Mario Advance 4 - Super Mario Bros. 3 (Europe) (En,Fr,De,Es,It) (Rev 1)|8D84ACFC,AX4P
+Super Mario Advance 4 - Super Mario Bros. 3 (Europe) (En,Fr,De,Es,It) (Rev 1) (Virtual Console)|D4F45B01,AX4P
+Super Mario Advance 4 - Super Mario Bros. 3 (USA)|A44BA79F,AX4E
+Super Mario Advance 4 - Super Mario Bros. 3 (USA) (Rev 1) (Virtual Console)|D4C13AC3,AX4E
+Super Mario Advance 4 - Super Mario Bros. 3 (USA, Australia) (Rev 1)|88DAB27F,AX4E
+Super Mario Ball (Europe)|3B035681,BMVP
+Super Mario Ball (Europe) (Virtual Console)|3B15E886,BMVP
+Super Mario Ball (Japan)|7EB4A336,BMVJ
+Super Mario Ball (Japan) (Demo) (Kiosk, GameCube)|65B1D9CB,BMVE
+Super Mario Ball (Japan) (Virtual Console)|CF9914AE,BMVJ
+Super Mario Bros. (Japan) (Hot Mario Campaign)|E4628D75,FSMJ
+Super Monkey Ball Jr. (Europe) (En,Fr,De,Es,It)|D75DA09D,ALUP
+Super Monkey Ball Jr. (USA)|0A8031F0,ALUE
+Super Monkey Ball Jr. (USA) (Beta) (2002-08-06)|FEE7B029
+Super Puzzle Bobble Advance (Japan) (En)|F2BC49CE,ABMJ
+Super Puzzle Fighter II (Europe)|AAC3E9CA,AZ8P
+Super Puzzle Fighter II (USA)|1201243A,AZ8E
+Super Puzzle Fighter II (USA) (Rev 1)|62066FC9,AZ8E
+Super Real Mahjong Dousoukai (Japan)|9E90456B,BDMJ
+Super Robot Taisen - Original Generation (Europe)|BDB86CAA,AOGP
+Super Robot Taisen - Original Generation (Japan)|75127EC4,AOGJ
+Super Robot Taisen - Original Generation (USA)|58E86266,AOGE
+Super Robot Taisen - Original Generation 2 (Japan)|A608800F,B2RJ
+Super Robot Taisen - Original Generation 2 (USA)|2AEE0380,B2RE
+Super Robot Taisen A (Japan)|2F6E9788,ASRJ
+Super Robot Taisen D (Japan)|EFB45117,A6SJ
+Super Robot Taisen J (Japan)|3B3CD715,C956FD37,B6JJ
+Super Robot Taisen R (Japan)|DF7F91BC,AJ9J
+Super Street Fighter II Turbo - Revival (Europe)|461B4590,AXRP
+Super Street Fighter II Turbo - Revival (Europe) (Rev 1)|459600A9,AXRP
+Super Street Fighter II Turbo - Revival (Europe) (Rev 1) (Virtual Console)|8D423E8D,AXRP
+Super Street Fighter II Turbo - Revival (USA)|063045AA,AXRE
+Super Street Fighter II Turbo - Revival (USA) (Virtual Console)|17D7636A,AXRE
+Super Street Fighter II X - Revival (Japan)|7A2C0D61,AXRJ
+Super Street Fighter II X - Revival (Japan) (Virtual Console)|660C5754,AXRJ
+Superman - Countdown to Apokolips (Europe) (En,Fr,De,Es,It)|2BF26A56,ASUP
+Superman - Countdown to Apokolips (USA)|43017D47,ASUE
+Superman Returns - Fortress of Solitude (USA, Europe) (En,Fr,De,Es,It)|68215047,BQXE
+Surf's Up (Europe) (En,Fr,De,Es,It)|B225AE1A,BXUX
+Surf's Up (Europe) (En,Fr,Es)|317326B0,BXUP
+Surf's Up (USA) (En,Fr,Es)|0ADF57C5,BXUE
+Sutakomi - Star Communicator (Japan)|260683C7,ASKJ
+Sweet Cookie Pie (Japan)|63F45849,ABGJ
+Sword of Mana (Europe)|88E64A8A,AVSP
+Sword of Mana (Europe) (Es,It)|11A0AF49,AVSY
+Sword of Mana (Europe) (Fr,De)|5EE17ED1,AVSX
+Sword of Mana (USA, Australia)|7F1EAC75,AVSE
+Sylvanian Families - Fashion Designer ni Naritai! - Kurumi-risu no Onnanoko (Japan)|58DC532E,BSFJ
+Sylvanian Families - Yousei no Stick to Fushigi no Ki - Marron-inu no Onnanoko (Japan)|00911694,BS5J
+Sylvanian Families 4 - Meguru Kisetsu no Tapestry (Japan)|3BFBF110,A4LJ
+Tactics Ogre - The Knight of Lodis (USA)|6649D2CE,ATOE
+Tactics Ogre Gaiden - The Knight of Lodis (Japan)|0167A878,ATOJ
+Taiketsu! Ultra Hero (Japan)|4E6BDF8B,BU6J
+Tak - The Great Juju Challenge (Europe) (En,Fr,De,Nl)|4AD90EC1,BJWX
+Tak - The Great Juju Challenge (USA, Europe)|881C8416,BJWE
+Tak 2 - The Staff of Dreams (Europe) (En,Fr,De,Es,It)|91DD701D,BT9X
+Tak 2 - The Staff of Dreams (USA)|8F7EB026,BT9E
+Tak and the Power of Juju (Europe) (En,Fr,De)|0D483AA6,BJUP
+Tak and the Power of Juju (Europe) (Es,It)|4D0C3680,BJUX
+Tak and the Power of Juju (USA)|A9AF1381,BJUE
+Tales of Phantasia (Europe) (En,Fr,De,Es,It)|FA172A4A,AN8P
+Tales of Phantasia (Japan)|D08819C1,AN8J
+Tales of Phantasia (USA, Australia)|01A0FCA8,AN8E
+Tales of the World - Narikiri Dungeon 2 (Japan)|231B9FCA,AN9J
+Tales of the World - Narikiri Dungeon 3 (Japan)|1867CCEF,B3TJ
+Tales of the World - Summoner's Lineage (Japan)|9C534023,A9PJ
+Tanbi Musou - Meine Liebe (Japan)|2785CB89,AYMJ
+Tang Tang (Europe) (En,Fr,De,Es,It,Fi)|8BFB4CFE,ATAP
+Tang Tang (USA)|F5F0C143,ATAE
+Tantei Gakuen Q - Kyuukyoku Trick ni Idome! (Japan)|77C172BD,BTIJ
+Tantei Gakuen Q - Meitantei wa Kimi da! (Japan)|552F0D90,BTQJ
+Tantei Jinguuji Saburou - Shiroi Kage no Shoujo (Japan)|3C21D7E0,BT3J
+Tarzan - L'Appel de la Jungle (France)|35AB002E,AJGF
+Tarzan - Return to the Jungle (USA, Europe)|32C6DF3F,AJGE
+Tarzan - Rueckkehr in den Dschungel (Germany)|59733B26,AJGD
+Taxi 3 (France)|2D2B0C11,AXQF
+Teen Titans (USA) (En,Fr)|12A0442C,BBLE
+Teen Titans 2 (USA) (En,Fr)|CCACD823,BZUE
+Teenage Mutant Ninja Turtles (Europe) (En,Fr,De,Es,It)|15BDF0AD,BNTP
+Teenage Mutant Ninja Turtles (USA)|F6C36783,BNTE
+Teenage Mutant Ninja Turtles 2 - Battle Nexus (Europe) (En,Fr,De,Es,It)|ADA00A65,BT2P
+Teenage Mutant Ninja Turtles 2 - Battle Nexus (USA)|802FC7C1,BT2E
+Teenage Mutant Ninja Turtles Double Pack (Europe) (En,Fr,De,Es,It)|E902880F,BT8P
+Teenage Mutant Ninja Turtles Double Pack (USA) (En,Fr,De,Es,It)|176A42E5,BT8E
+Tekken Advance (Europe)|4628C1B8,ATKP
+Tekken Advance (Japan)|C2EEAE53,ATKJ
+Tekken Advance (USA)|C59EA73B,ATKE
+Ten Pin Alley 2 (USA)|3C225943,BTPE
+Tennis Masters Series 2003 (Europe) (En,Fr,De,Es,It,Pt)|28E6BD52,AT8P
+Tennis no Ouji-sama - Aim at the Victory! (Japan)|AFC3FCF7,AVAJ
+Tennis no Ouji-sama - Genius Boys Academy (Japan)|DD244C9A,ATIJ
+Tennis no Ouji-sama 2003 - Cool Blue (Japan)|9F7FC898,A9LJ
+Tennis no Ouji-sama 2003 - Passion Red (Japan)|59D1DC73,A8RJ
+Tennis no Ouji-sama 2004 - Glorious Gold (Japan)|26A4EE5C,B4GJ
+Tennis no Ouji-sama 2004 - Stylish Silver (Japan)|750D579D,B4SJ
+Terminator 3 - Rise of the Machines (Europe) (En,Fr,De,Es,It)|16C3CAC3,AO3P
+Terminator 3 - Rise of the Machines (USA)|F74B3C7D,AO3E
+Tetris Worlds (Europe) (En,Es,It)|4A834FC2,ATWY
+Tetris Worlds (Europe) (En,Fr,De,Nl)|AD97EB3F,ATWX
+Tetris Worlds (Japan)|DD271470,ATWJ
+Tetris Worlds (Japan) (Rev 1)|FCF2D471,ATWJ
+Tetris Worlds (USA)|7B729804,ATWE
+Texas Hold 'em Poker (Europe) (Rev 1)|1A13DF6B,BXAE
+Texas Hold 'em Poker (USA, Europe)|78B59AAC,BXAE
+TG Rally (Europe)|BE67D878,BTGP
+That's So Raven (USA)|8E190698,BRVE
+That's So Raven 2 - Supernatural Style (USA) (En,Fr)|5495CBE1,BZSE
+Three Stooges, The (USA)|C3C855EA,A3TE
+Three-in-One Pack - Connect Four + Perfection + Trouble (USA)|D482421E,B65E
+Three-in-One Pack - Risk + Battleship + Clue (USA)|F6F70922,B66E
+Three-in-One Pack - Risk + Battleship + Clue (USA) (Rev 1)|15C24091,B66E
+Three-in-One Pack - Sorry! + Aggravation + Scrabble Junior (USA)|111EB61A,B67E
+Thunder Alley (USA)|25E8E649,BTHE
+Thunderbirds (USA, Europe)|F09B7BB0,BTBE
+Thunderbirds - International Rescue (Europe)|9A6CB678,ATNP
+Tiger Woods PGA Tour 2004 (USA, Europe)|0E38108B,BTWE
+Tiger Woods PGA Tour Golf (Europe) (En,Fr,De,Es,It)|38934732,AT5X
+Tiger Woods PGA Tour Golf (USA, Europe)|F3F26ACC,AT5E
+Tim Burton's The Nightmare Before Christmas - The Pumpkin King (Japan)|9F16857D,BNCJ
+Tim Burton's The Nightmare Before Christmas - The Pumpkin King (USA, Europe) (En,Fr,De,Es,It)|3C247C14,BNCE
+Tiny Chao Garden (USA) (Ja) (Phantasy Star Online Episode I & II)|C523504F,GSBJ
+Tiny Toon Adventures - Buster's Bad Dream (Europe) (En,Fr,De,Es,It)|3246A8BD,ATTP
+Tiny Toon Adventures - Scary Dreams (USA)|FCD7A7C0,ATTE
+Tiny Toon Adventures - Wacky Stackers (Europe) (En,Fr,De,Es,It)|4AC770B6,AWSP
+Tiny Toon Adventures - Wacky Stackers (USA)|E03C633E,AWSE
+Tir et But - Edition Champions du Monde (France)|7782A204,ATVP
+Titeuf - Mega Compet (France)|FFD0A045,BTCF
+Titeuf - Mega Compet (France) (Beta)|C9BE7FCF
+Titeuf - Ze Gag Machine (France)|47BC61B5,AT7F
+Titi et les Bijoux Magiques (France)|C66E14A4,ATMF
+TMNT (USA) (En,Fr,Es)|916DB9D5,BEXE
+TMNT - Teenage Mutant Ninja Turtles (Europe) (En,Fr,De,Es,It)|89103893,BEXP
+TOCA World Touring Cars (Europe)|D8125874,ATQP
+Tokimeki Yume Series 1 - Ohanaya-san ni Narou! (Japan)|6EEA16BD,AF7J
+Tokyo Majin Gakuen - Fuju Houroku (Japan)|E05CEF9D,BTFJ
+Tokyo Xtreme Racer Advance (Europe) (En,Fr,De,Es,It)|BD5F5F4C,BTZP
+Tokyo Xtreme Racer Advance (USA)|AB272800,BTZE
+Tom and Jerry - The Magic Ring (Europe) (En,Fr,De,Es,It)|1B7A3819,ATJP
+Tom and Jerry - The Magic Ring (USA) (En,Fr,De,Es,It)|7DC8E08E,ATJE
+Tom and Jerry in Infurnal Escape (Europe) (En,Fr,De,Es,It)|2DB83271,AIFP
+Tom and Jerry in Infurnal Escape (USA)|11156D88,AIFE
+Tom and Jerry Tales (Europe) (En,Fr,De,Es,It)|5A8D5736,BJTP
+Tom and Jerry Tales (USA) (En,Fr,Es)|AF494F20,BJTE
+Tom Clancy's Rainbow Six - Rogue Spear (Europe) (En,Fr,De,Es,It)|6863CE1A,AR6P
+Tom Clancy's Rainbow Six - Rogue Spear (USA) (En,Fr,De,Es,It)|23575BF2,AR6E
+Tom Clancy's Splinter Cell (Europe) (En,Fr,De,Es,It,Nl)|7ECD29CE,AO4P
+Tom Clancy's Splinter Cell (Europe) (En,Fr,De,Es,It,Nl) (Beta)|E07BA799,A3BP
+Tom Clancy's Splinter Cell (USA) (En,Fr,Es)|308BA69C,AO4E
+Tom Clancy's Splinter Cell - Pandora Tomorrow (Europe) (En,Fr,De,Es,It,Nl)|F007DFE1,BSLP
+Tom Clancy's Splinter Cell - Pandora Tomorrow (USA) (En,Fr,Es)|AEFB7B54,BSLE
+Tomato Adventure (Japan)|E37CA939,AGLJ
+Tomato Adventure (Japan) (Virtual Console)|A934C4EE,AGLJ
+Tongqin Yi Bi (China) (Proto)|D57F7B40,BIIC
+Tonka - On the Job (USA)|DBCD4541,BT7E
+Tony Hawk's American Sk8land (Europe)|A824DF3F,BH9P
+Tony Hawk's American Sk8land (Europe) (Fr,De,Es,It)|9633084A,BH9X
+Tony Hawk's American Sk8land (USA)|7B089F4A,BH9E
+Tony Hawk's Downhill Jam (Europe) (En,Fr,De,Es,It)|4A975F48,BXSP
+Tony Hawk's Downhill Jam (USA)|37B0B53D,BXSE
+Tony Hawk's Pro Skater 2 (France)|F0EFC9D8,ATHF
+Tony Hawk's Pro Skater 2 (Germany)|6D236181,ATHD
+Tony Hawk's Pro Skater 2 (USA, Europe)|812DC57A,ATHE
+Tony Hawk's Pro Skater 3 (France)|8D132067,AT3F
+Tony Hawk's Pro Skater 3 (Germany)|74174675,AT3D
+Tony Hawk's Pro Skater 3 (USA, Europe)|F669A368,AT3E
+Tony Hawk's Pro Skater 4 (USA, Europe)|8CB0AA77,AT6E
+Tony Hawk's Underground (USA, Europe)|1F5149BC,BTOE
+Tony Hawk's Underground 2 (USA, Europe)|BF864083,B2TE
+Tootuff - The Gag Machine (Europe) (En,Fr,De,Es,It) (Proto)|3E69A610,AT7P
+Top Gear GT Championship (Europe)|391C0497,ATCP
+Top Gear GT Championship (USA)|0A9C9968,ATCE
+Top Gear Rally (Europe) (En,Fr,De,Es,It)|86AD4007,BTGX
+Top Gear Rally (Japan)|C457C5DB,AYEJ
+Top Gear Rally (USA)|4DD90762,BTGE
+Top Gun - Combat Zones (USA) (En,Fr,De,Es,It)|DFC88D3E,A2YE
+Top Gun - Firestorm Advance (USA, Europe) (En,Fr,De,Es,It)|FDBE5A26,ATGE
+Top Spin 2 (Europe) (En,Fr,De,Es,It)|A8E8618B,B27P
+Top Spin 2 (USA) (En,Fr,De,Es,It)|A960D63B,B27E
+Total Soccer Advance (Japan)|28C3E211,ATUJ
+Totally Spies! (Europe) (En,Fr,De,Es,It,Nl)|06992F1D,BTUP
+Totally Spies! (USA)|AAA6E141,BTUE
+Totally Spies! 2 - Undercover (Europe) (En,Fr,De,Es,It,Nl)|CA245559,B2LP
+Totally Spies! 2 - Undercover (Europe) (En,Fr,De,Es,It,Nl) (Beta)|0E4FF9A1
+Totally Spies! 2 - Undercover (USA) (En,Fr)|2C8EB8A1,B2LE
+Tottoko Hamutarou - Hamu-Hamu Sports (Japan) (Demo) (Kiosk, GameCube)|7CD6839C,B85A
+Tottoko Hamutarou 3 - Love Love Daibouken Dechu (Japan)|C2945D42,AH3J
+Tottoko Hamutarou 4 - Nijiiro Daikoushin Dechu (Japan)|1B6E5617,A84J
+Touhai Densetsu Akagi - Yami ni Mai Orita Tensai (Japan)|14EB6587,BZWJ
+Toukon Heat (Japan)|4043F1E0,A59J
+Tower SP, The (Japan)|EC325C92,BTRJ
+Tower SP, The (USA)|95E05895,BTRE
+Toyrobo Force (Japan)|227FC16B,ATRJ
+Travis Pastrana's Pro MotoX (USA, Europe) (Proto) (2002-12-12)|ECFE5F96
+Treasure Planet (Europe) (En,Fr,De,Es,It,Nl)|D52DDCE1,AZQP
+Treasure Planet (Europe) (En,Fr,De,Es,It,Nl) (Rev 1)|794B2602,AZQP
+Treasure Planet (USA)|8B14F9EC,AZQE
+Trick Star (Europe) (En,Fr,De,Es,It)|961260AE,B9SP
+Tringo (Europe) (En,Fr,De,Es,It)|B5F7BF43,BTJP
+Tringo (USA)|2956A0DA,BTJE
+Trollz - Hair Affair! (Europe)|3E0ED609,BT6P
+Trollz - Hair Affair! (Europe) (En,De,It)|FB2284EF,BT6Y
+Trollz - Hair Affair! (Europe) (En,Fr,Es)|14FEA5C0,BT6X
+Trollz - Hair Affair! (USA)|C5CD2C22,BT6E
+Tron 2.0 - Killer App (Europe)|3BF38352,BTNP
+Tron 2.0 - Killer App (USA)|77D50EC6,BTNE
+Tsuukin Hitofude (Japan)|5A7E762B,BIIJ
+Tsuukin Hitofude (Japan) (Virtual Console)|F4C7A95B,BIIJ
+Turbo Turtle Adventure (USA)|E5E0B0F1,AK3E
+Turok - Evolution (Europe) (En,Fr,De,Es,It)|07A32299,AT4P
+Turok - Evolution (USA)|4EDAC27A,AT4E
+Turok Advance (Unknown) (Proto) (Bright Version)|9EF46F34
+Turok Advance (Unknown) (Proto) (Dark Version)|378D6DA7
+Turok Advance (Unknown) (Proto) (Earlier)|401E10EA
+Tweety and the Magic Gems (Europe)|024A1914,ATMP
+Tweety and the Magic Gems (Germany)|8AA6E91A,ATMD
+Tweety and the Magic Gems (Netherlands)|F1A49D56,ATMH
+Tweety and the Magic Gems (USA)|2DA5C91E,ATME
+Tweety no Hearty Party (Japan)|D38672BF,AMJJ
+Twin Series 1 - Mezase Debut! - Fashion Designer Monogatari + Kawaii Pet Game Gallery 2 (Japan)|09F5E672,BFVJ
+Twin Series 2 - Oshare Princess 4 + Renai Uranai Daisakusen! + Renai Party Game - Sweet Heart (Japan)|8B0EB948,BOPJ
+Twin Series 3 - Konchuu Monster - Ouja Ketteisen + Super Chinese Labyrinth (Japan)|68237519,BQMJ
+Twin Series 4 - Hamu Hamu Monster EX - Hamster Monogatari RPG + Fantasy Puzzle - Hamster Monogatari - Mahou no Meikyuu 1.2.3 (Japan)|FA643377,BHFJ
+Twin Series 5 - Mahou no Kuni no Cake-ya-san Monogatari + Wanwan Meitantei EX (Japan)|2C582FF3,BMWJ
+Twin Series 6 - Wannyan Idol Gakuen + Koinu to Issho Special (Japan)|9370623D,BWNJ
+Twin Series 7 - Twin Puzzle - Kisekae Wanko EX + Nyaa to Chuu no Rainbow Magic 2 (Japan)|3C91B0A0,B2PJ
+Ty the Tasmanian Tiger 2 - Bush Rescue (USA, Europe) (En,Fr,De)|108C3535,BTYE
+Ty the Tasmanian Tiger 3 - Night of the Quinkan (USA)|CF467E1B,BTVE
+Tyrian 2000 (USA) (Proto)|E5ACBA28
+Uchuu Daisakusen Choco Vader - Uchuu kara no Shinryakusha (Japan)|5A211B60,AUCJ
+Uchuu no Stellvia (Japan)|A00A4530,BUVJ
+Ueki no Housoku - Jingi Sakuretsu! Nouryokusha Battle (Japan)|ED368EF1,BUHJ
+Ui-Ire - World Soccer Winning Eleven (Japan)|31B1A586,AEWJ
+Ultimate Arcade Games (USA)|264F7A95,BUZE
+Ultimate Beach Soccer (USA)|5D4D88C5,AVEE
+Ultimate Brain Games (USA, Europe)|B6C9F401,ABUE
+Ultimate Card Games (USA) (Rev 1)|300F5D25,BUCE
+Ultimate Card Games (USA) (Rev 2)|94863423,BUCE
+Ultimate Card Games (USA, Europe)|8A0831BD,BUCE
+Ultimate Muscle - The Kinnikuman Legacy - The Path of the Superhero (USA)|BB85AD55,AK2E
+Ultimate Puzzle Games (USA)|A13F76A5,BUAE
+Ultimate Spider-Man (Europe)|97E1727F,BULP
+Ultimate Spider-Man (Europe) (Fr,De,Es,It)|61A74634,BULX
+Ultimate Spider-Man (USA)|931E2C18,BULE
+Ultimate Winter Games (USA)|95988EE2,BUWE
+Ultra Keibitai - Monster Attack (Japan)|C03785C7,BUTJ
+Unfabulous (USA)|2547F3A1,BU4E
+Unglaublichen, Die (Germany)|BDC06E57,BICD
+Uno 52 (Europe) (En,Fr,De,Es,It)|315360D0,BU5P
+Uno 52 (USA)|C659C6DB,BU5E
+Uno Free Fall (Europe) (En,Fr,De,Es,It)|414EA9F4,BUIP
+Uno Free Fall (USA)|19FCC78E,BUIE
+Urban Yeti! (USA, Europe)|4C53BA49,AYIE
+Urbz, The - Sims in the City (Japan)|BBCCC2FD,BOCJ
+Urbz, The - Sims in the City (USA, Europe) (En,Fr,De,Es,It,Nl)|8B3330BB,BOCE
+V-Master Cross (Japan)|251B2503,AVMJ
+V-Rally 3 (Europe) (En,Fr,De,Es,It)|02D20287,AVRP
+V-Rally 3 (Japan)|A0AA46B9,AVRJ
+V-Rally 3 (USA) (En,Fr,Es)|D3AE3D37,AVRE
+V.I.P. (Europe) (En,Fr,De,Es,It,Nl)|718A6C3B,AVPP
+Van Helsing (Europe) (En,Fr,De,Es,It)|9E8748C9,BANP
+Van Helsing (USA)|36159D63,BANE
+Vattroller X (Japan)|E368A67A,BRXJ
+Vattroller X - Taikenban (Japan) (Demo) (Kiosk, GameCube)|BED622EC,BRXJB2
+Vecinos Invasores (Spain)|96AF60F3,BH5S
+VeggieTales - LarryBoy and the Bad Apple (USA)|B5213253,BZTE
+Viewpoint (Unknown) (Techo Demo)|7AD65E4B
+Virtua Tennis (Europe) (En,Fr,De,Es,It)|E52A3AB8,AVTP
+Virtua Tennis (USA)|E0BD3B75,AVTE
+Virtual Kasparov (Europe) (En,Fr,De,Es,It)|23B92CF7,AVKP
+Virtual Kasparov (USA) (En,Fr,De,Es,It)|815B722F,AVKE
+W.i.t.c.h. (Europe) (En,Fr,De,Es,It)|CA4F6D5D,BWTP
+Wade Hixton's Counter Punch (USA, Europe)|47B49060,BSRE
+Wagamama Fairy Mirumo de Pon! - 8 Nin no Toki no Yousei (Japan)|5E5C008C,BMYJ
+Wagamama Fairy Mirumo de Pon! - Dokidoki Memorial Panic (Japan)|5EFFDC65,BMIJ
+Wagamama Fairy Mirumo de Pon! - Nazo no Kagi to Shinjitsu no Tobira (Japan)|AE2FB113,BWPJ
+Wagamama Fairy Mirumo de Pon! - Ougon Maracas no Densetsu (Japan)|7D21F61F,AWKJ
+Wagamama Fairy Mirumo de Pon! - Taisen Mahoudama (Japan)|F5DA0DCC,BMPJ
+Wagamama Fairy Mirumo de Pon! - Yume no Kakera (Japan)|A606C803,BWFJ
+Wakeboarding Unleashed Featuring Shaun Murray (Europe)|A3CCF1EC,AWDE
+Wakeboarding Unleashed Featuring Shaun Murray (USA)|CAD6376C,AWDE
+Waliou Xunbao Ji (China)|CF7585F1,AWAC
+Waliou Zhizao (China)|78A4D2D4,AZWC
+Wanko de Kururin! Wancle (Japan)|E93F547B,BWKJ
+Wanko Mix Chiwanko World (Japan)|253AD05E,BWXJ
+Wannyan Doubutsu Byouin - Doubutsu no Oishasan Ikusei Game (Japan)|6DE82857,BWDJ
+Wannyan Doubutsu Byouin - Doubutsu no Oishasan Ikusei Game (Japan) (Rev 1)|B12D2724,BWDJ
+Wanwan Meitantei (Japan)|5F41C9FE,BWMJ
+Wario Land 4 (USA, Europe)|D6141609,AWAE
+Wario Land 4 (USA, Europe) (Virtual Console)|8BB73D8A,AWAE
+Wario Land Advance - Youki no Otakara (Japan)|F56EBB7A,AWAJ
+Wario Land Advance - Youki no Otakara (Japan) (Virtual Console)|A8CD90F9,AWAJ
+WarioWare - Twisted! (USA)|CB4E844B,RZWE
+WarioWare, Inc. - Mega Microgame$! (USA)|785D8B8C,AZWE
+WarioWare, Inc. - Mega Microgame$! (USA) (Beta)|EC0C0C58,AZWE
+WarioWare, Inc. - Mega Microgame$! (USA) (Virtual Console)|B0182907,AZWE
+WarioWare, Inc. - Minigame Mania (Europe) (En,Fr,De,Es,It)|500CA178,AZWP
+WarioWare, Inc. - Minigame Mania (Europe) (En,Fr,De,Es,It) (Virtual Console)|1FE34E43,AZWP
+Weekend Miljonairs (Netherlands)|41AA465E,A55H
+Wer Wird Millionaer (Germany)|08D71A89,A55D
+Whac-A-Mole (USA)|E58EF9A2,BWEE
+Whistle! - Dai-37-kai Tokyo-to Chuugakkou Sougou Taiiku Soccer Taikai (Japan)|667A0D06,A73J
+Who Wants to Be a Millionaire (Australia)|DA7006E0,A55U
+Who Wants to Be a Millionaire (Europe)|B9C55B22,A55P
+Who Wants to Be a Millionaire - 2nd Edition (Europe)|C89DEB4F,B55P
+Who Wants to Be a Millionaire Junior (Europe)|AAD93DA8,BWJP
+Wild Thornberrys Movie, The (USA, Europe)|4E2C47BC,AWLE
+Wild Thornberrys Movie, The (USA, Europe) (Beta)|E41720F5,AGBJ
+Wild Thornberrys, The - Chimp Chase (USA, Europe)|F0CA0689,AWTE
+Wild, The (USA, Europe) (En,Fr,De,Es)|DE79EDC3,BWLE
+Wilden Fussball-Kerle, Die - Entscheidung im Teufelstopf (Germany)|C8C12090,BWUD
+Wilden Fussball-Kerle, Die - Gefahr im Wilde Kerle Land (Germany)|A6281DD3,BXWD
+Wing Commander - Prophecy (Europe) (En,Fr,De,Es,It)|09F02F6A,AW9P
+Wing Commander - Prophecy (USA)|62D9E3D0,AW9E
+Wings (Europe)|6E0D29FC,AWQP
+Wings (USA)|49041BC8,AWQE
+Winnie the Pooh's Rumbly Tumbly Adventure & Rayman 3 (Europe) (En,Fr,De,Es,It,Nl+En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)|C2FC12E5,BWZP
+Winnie the Pooh's Rumbly Tumbly Adventure (Europe) (En,Fr,De,Es,It,Nl)|E5A97A58,BWHP
+Winnie the Pooh's Rumbly Tumbly Adventure (USA) (En,Fr,Es)|5B098A68,BWHE
+Winning Post for Game Boy Advance (Japan)|5ADA60F6,AWPJ
+Winning Post for Game Boy Advance (Japan) (Rev 1)|F6180AF5,AWPJ
+Winning Post for Game Boy Advance (Japan) (Rev 2)|9FB4AF0A,AWPJ
+Winter Sports (Europe) (En,Fr,De,Es,It)|64C802F9,BWYP
+WinX Club (Europe) (En,Fr,De,Es,It)|AFCB9CE8,BWIP
+WinX Club (USA)|1D6950A3,BWIE
+WinX Club - Quest for the Codex (Europe) (En,Fr,De,Es,It)|9EB09C77,BWVP
+WinX Club - Quest for the Codex (USA)|29DFFF34,BWVE
+Wizardry Summoner (Japan)|71695A71,AWZJ
+Wizardry Summoner (Japan) (Rev 1)|B3C77A61
+Wolfenstein 3D (USA, Europe)|C4AA2B7B,AWOE
+Woody Woodpecker - Crazy Castle 5 (Japan)|A3E1E037,AWWJ
+Woody Woodpecker in Crazy Castle 5 (Europe) (En,Fr,De)|092B3DCE,AWWP
+Woody Woodpecker in Crazy Castle 5 (USA)|B9A3C878,AWWE
+Word Safari - The Friendship Totems (USA)|78E5A643,BB8E
+World Advance Soccer - Shouri e no Michi (Japan)|AFE01C1F,AASJ
+World Championship Poker (Europe) (En,Fr,De,Es,It)|4776F86E,BP9P
+World Championship Poker (USA)|07F15152,BP9E
+World Poker Tour (Europe) (En,Fr,De)|8FA26A97,BWOP
+World Poker Tour (USA)|B18784C1,B26E
+World Reborn (USA) (Proto)|4C48EBB3,BWRE
+World Reborn (World) (Aftermarket) (Unl)|EEFB32FF,BWRE
+World Tennis Stars (Europe)|B5830F5F,AWCP
+World Tennis Stars (USA)|036E30B0,AWCE
+Worms Blast (Europe) (En,Fr,De,Es,It)|5223F5AA,AWBP
+Worms World Party (Europe) (En,Fr,De,Es,It)|8EE32CBE,AWYP
+Worms World Party (USA) (En,Fr,De,Es,It)|E8789C18,AWYE
+WTA Tour Tennis (USA)|7F8CB0AF,ATEE
+WTA Tour Tennis Pocket (Japan)|459DAF35,ACIJ
+WWE - Road to WrestleMania X8 (USA, Europe)|F1FB4FD1,AW8E
+WWE - Survivor Series (USA, Europe)|6694F94D,BWWE
+WWF - Road to WrestleMania (USA, Europe)|8D3B116E,AWFE
+WWF - Road to WrestleMania (USA, Europe) (Beta)|8314421B
+X-Bladez - Inline Skater (Europe)|C05F9907,AXIP
+X-Bladez - Inline Skater (USA)|09FDD665,AXIE
+X-Men - Reign of Apocalypse (USA, Europe)|25F43491,AXME
+X-Men - The Official Game (Europe) (En,Fr,Es,It)|34BE6923,B3XP
+X-Men - The Official Game (USA)|C87F460A,B3XE
+X-Men 2 - La Vengeance de Wolverine (France)|82373B44,AWVF
+X-Terminator Advance (Japan) (Unl)|D48D5587
+X2 - Wolverine's Revenge (USA, Europe)|41A92220,AWVE
+Xploder Advance (Europe) (Unl)|AD71F6FF
+Xploder Advance (Europe) (Unl) (Alt)|4F3E7427
+XS Moto (USA)|6DBBC17C,BXME
+xXx (France)|44A77F71,AX3F
+xXx (USA, Europe)|2B3A2AB2,AX3E
+Yaobai Senxigang (China) (Proto)|517FB18D,BBKC
+Yaoxi Dao (China)|9C32A829,A3AC
+Yggdra Union (Japan)|A86F844A,BYUJ
+Yggdra Union - We'll Never Fight Alone (Europe)|3E0DF130,BYUP
+Yggdra Union - We'll Never Fight Alone (USA)|3BFA68F7,BYUE
+Yoshi no Banyuuinryoku (Japan)|31594B7A,KYGJ
+Yoshi Sample (Japan) (En) (Demo)|34F2EF47
+Yoshi Sample (Japan) (En) (SDK 3.0) (Demo)|954D2619,AGBJ
+Yoshi Topsy-Turvy (USA)|E64C265C,KYGE
+Yoshi's Universal Gravitation (Europe) (En,Fr,De,Es,It)|05F4D0AA,KYGP
+Youkaidou (Japan)|2A4A92B4,AFUJ
+Yu Yu Hakusho - Ghostfiles - Spirit Detective (Europe) (En,Fr,De,Es,It)|208D77EC,BYYP
+Yu Yu Hakusho - Ghostfiles - Spirit Detective (USA)|D3784B52,BYYE
+Yu Yu Hakusho - Ghostfiles - Spirit Detective (USA) (Beta)|8CBFA66B
+Yu Yu Hakusho - Ghostfiles - Tournament Tactics (USA, Europe)|AEF6B7CC,BRGE
+Yu-Gi-Oh! - 7 Trials to Glory - World Championship Tournament 2005 (USA) (En,Ja,Fr,De,Es,It)|584DB6A6,BY7E
+Yu-Gi-Oh! - Day of the Duelist - World Championship Tournament 2005 (Europe) (En,Ja,Fr,De,Es,It)|17988E9B,BYOP
+Yu-Gi-Oh! - Destiny Board Traveler (Europe) (En,Fr,De,Es,It)|AE1A8E9D,BYDP
+Yu-Gi-Oh! - Destiny Board Traveler (USA)|611E7BBD,BYDE
+Yu-Gi-Oh! - Dungeon Dice Monsters (Europe) (En,Fr,De,Es,It)|EE317F69,AYDP
+Yu-Gi-Oh! - Dungeon Dice Monsters (Japan)|51B35E87,AYDJ
+Yu-Gi-Oh! - Dungeon Dice Monsters (USA) (En,Es)|8B5E0A27,AYDE
+Yu-Gi-Oh! - Reshef of Destruction (Europe) (En,Fr,De,Es,It)|460E073F,AY8P
+Yu-Gi-Oh! - Reshef of Destruction (USA)|09E0C559,AY8E
+Yu-Gi-Oh! - Sugoroku no Sugoroku (Japan)|8D52B3C5,BYSJ
+Yu-Gi-Oh! - The Eternal Duelist Soul (USA)|DFD07A36,AY5E
+Yu-Gi-Oh! - The Sacred Cards (Europe) (En,Fr,De,Es,It)|D19DB37C,AY7P
+Yu-Gi-Oh! - The Sacred Cards (USA)|141FB1CC,AY7E
+Yu-Gi-Oh! - Ultimate Masters - World Championship Tournament 2006 (USA) (En,Ja,Fr,De,Es,It)|F968A196,BY6E
+Yu-Gi-Oh! - Ultimate Masters Edition - World Championship Tournament 2006 (Europe) (En,Ja,Fr,De,Es,It)|CEDE4060,BY6P
+Yu-Gi-Oh! - World Championship Tournament 2004 (Europe) (En,Ja,Fr,De,Es,It)|3C42E84C,BYWP
+Yu-Gi-Oh! - World Championship Tournament 2004 (USA) (En,Ja,Fr,De,Es,It)|69B6F229,BYWE
+Yu-Gi-Oh! - Worldwide Edition - Stairway to the Destined Duel (Europe) (En,Ja,Fr,De,Es,It)|ACA5FFC6,AYWP
+Yu-Gi-Oh! - Worldwide Edition - Stairway to the Destined Duel (USA) (En,Ja,Fr,De,Es,It)|39B5E771,AYWE
+Yu-Gi-Oh! Double Pack (Europe) (En,Fr,De,Es,It)|7EA28A99,BY2P
+Yu-Gi-Oh! Double Pack (USA)|F3DF5758,BY2E
+Yu-Gi-Oh! Double Pack 2 (USA) (En,Fr,De,Es,It)|2CB399D0,BYVE
+Yu-Gi-Oh! Duel Monsters 5 Expert 1 (Japan)|F3041E7E,AY5J
+Yu-Gi-Oh! Duel Monsters 6 Expert 2 (Japan)|A7054D60,AY6J
+Yu-Gi-Oh! Duel Monsters 7 - Kettou Toshi Densetsu (Japan)|B9BE9B91,AY7J
+Yu-Gi-Oh! Duel Monsters 8 - Hametsu no Daijashin (Japan)|681DAF1F,AY8J
+Yu-Gi-Oh! Duel Monsters Expert 2006 (Japan) (En,Ja,Fr,De,Es,It)|7A1019E6,BY6J
+Yu-Gi-Oh! Duel Monsters Expert 3 (Japan) (En,Ja,Fr,De,Es,It)|7AB1EC04,BY3J
+Yu-Gi-Oh! Duel Monsters GX - Mezase Duel King! (Japan)|F4295DA8,BYGJ
+Yu-Gi-Oh! Duel Monsters International - Worldwide Edition (Japan) (En,Ja,Fr,De,Es,It)|98507497,AYWJ
+Yu-Gi-Oh! Duel Monsters International - Worldwide Edition (Japan) (En,Ja,Fr,De,Es,It) (Rev 1)|1BECF9D3,AYWJ
+Yu-Gi-Oh! Duel Monsters International 2 (Japan) (En,Ja)|6DCFB879,BYIJ
+Yu-Gi-Oh! GX - Duel Academy (Europe)|3FB2ABDA,BYGP
+Yu-Gi-Oh! GX - Duel Academy (USA)|3B8A00FE,BYGE
+Yumemi-chan no Naritai Series 3 - Watashi no Makesalon (Japan)|4D35AAB7,AW3J
+Yuujou no Victory Goal 4v4 Arashi - Get the Goal!! (Japan)|CE987F90,A4VJ
+Yuureiyashiki no Nijuuyojikan (Japan)|6DA2166E,AUYJ
+Z.O.E. 2173 - Testament (Japan)|9FEEF66D,AZEJ
+Zapper (Europe) (En,Fr,De,Es,It)|8753A1C5,AZPP
+Zapper - One Wicked Cricket! (USA)|6751A4EF,AZPE
+Zatchbell! - Electric Arena (USA)|B4F1E785,A4GE
+Zelda no Densetsu - Fushigi no Boushi (Japan)|6CE771A5,BZMJ
+Zelda no Densetsu - Fushigi no Boushi (Japan) (Demo) (Kiosk, GameCube)|EA115BC4,BZMJ
+Zelda no Densetsu - Kamigami no Triforce & 4tsu no Tsurugi (Japan)|81E42BEE,AZLJ
+Zen-Nihon GT Senshuken (Japan)|D320A965,AGTJ
+Zen-Nihon Shounen Soccer Taikai 2 - Mezase Nihon-ichi! (Japan)|268F9C7E,A2ZJ
+Zero One (Japan)|84A4C1B4,AF3J
+Zero One SP (Japan)|FD6CE886,BZOJ
+Zero-Tours (Japan)|DE7C1AE8,AZTJ
+Zettaizetsumei Dangerous Jiisan - Naki no 1-kai - Zettaifukujuu Violence Kouchou - Wagahai ga 1-ban Erainjai!! (Japan)|00328BB3,BZGJ
+Zettaizetsumei Dangerous Jiisan - Shijou Saikyou no Dogeza (Japan)|7DA6CC69,BZDJ
+Zettaizetsumei Dangerous Jiisan 3 - Hateshinaki Mamonogatari (Japan)|5BE52FB7,BJ3J
+Zettaizetsumei Dangerous Jiisan Tsuu - Ikari no Oshioki Blues (Japan)|99273EE3,BZ2J
+Zhuanzhuanbang (China) (Proto)|E9FED103,AKRC
+Zhuanzhuanbang Tiantang (China) (Proto)|6065E963,A9QC
+Zidane Football Generation 2002 (Europe) (En,Fr,De,Es,It)|59E2635F,AZDP
+Zoey 101 (USA)|9CF348A8,BZYE
+Zoids Legacy (USA)|302E75F3,AZ2E
+Zoids Saga (Japan)|5975DDA8,ATZJ
+Zoids Saga (Japan) (Rev 1)|28E8B0D9,ATZJ
+Zoids Saga - Fuzors (Japan)|094E16AD,BZFJ
+Zoids Saga II (Japan)|0C039503,AZ2J
+Zoku Bokura no Taiyou - Taiyou Shounen Django (Japan)|2804E589,U32J
+Zoku Bokura no Taiyou - Taiyou Shounen Django (Japan) (Rev 1)|71E2CD01,U32J
+Zone of the Enders - The Fist of Mars (Europe) (En,Fr,De)|973496E0,AZEP
+Zone of the Enders - The Fist of Mars (USA)|24244415,AZEE
+ZooCube (Europe) (En,Fr,De,Es,It)|4A23B8D6,ANCP
+ZooCube (Japan)|09A2255F,ANCJ
+ZooCube (USA)|AF20BE72,ANCE
+Zooo - Action Puzzle Game (Europe) (En,Fr,De,Es,It)|897B2893,BMZP

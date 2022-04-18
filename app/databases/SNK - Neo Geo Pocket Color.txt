@@ -1,0 +1,128 @@
+ngc
+Bakumatsu Rouman Tokubetsu Hen - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana (Japan)|12AFACB0,0064
+Baseball Stars Color - Pocket Sports Series (World) (En,Ja)|FFA7E88D,0025
+Big Bang Pro Wrestling (Japan) (En,Ja)|B783C372,0066
+Bikkuriman 2000 - Viva! Pocket Festival! (Japan)|7A2D7635,0083
+Biomotor Unitron (Japan)|FCBBE494,0010
+Biomotor Unitron (Japan) (Demo)|C6FB900F,9008
+Biomotor Unitron (USA, Europe)|3807DF4F,0053
+Bust-A-Move Pocket (USA)|B073D601
+Bust-A-Move Pocket (USA) (Demo)|78A1361D,0020
+Cool Boarders Pocket (Japan, Europe) (En,Ja)|833F9C22,0075
+Cool Cool Jam (Japan)|0FD6F378
+Cool Cool Jam (USA) (Proto)|4D8D27F0,1234
+Crush Roller (World) (En,Ja)|F20FF9F2,0038
+Dark Arms - Beast Buster 1999 (World) (En,Ja)|77CAA548,0045
+Delta Warp (Japan) (Demo)|A3C89788,9026
+Delta Warp (Japan) (En,Ja)|ADD4FDFF,0103
+Densetsu no Ogre Battle Gaiden - Zenobia no Ouji (Japan)|EEEEFD6A,0085
+Densha de Go! 2 on Neo Geo Pocket (Japan)|A0334549
+Densha de Go! 2 on Neo Geo Pocket (Japan) (Beta)|2FC4623E,0060
+Dive Alert - Becky's Version (USA, Europe)|83DB5772,0089
+Dive Alert - Burn Hen (Japan)|C213941D,0036
+Dive Alert - Burn Hen (Japan) (Beta)|D9817A88,0000
+Dive Alert - Matt's Version (USA, Europe)|EF75081B,0088
+Dive Alert - Rebecca Hen (Japan)|3C4AF4F5,0037
+Dokodemo Mahjong (Japan)|78C21B5E,0033
+Dynamite Slugger (Japan, Europe) (En,Ja)|7F1779CD,0071
+Evolution - Eternal Dungeons (Europe) (v03)|A60582F8
+Evolution - Eternal Dungeons (Europe) (vA1)|BE47E531,0099
+Fantastic Night Dreams - Cotton (Europe)|1BF412F5,0105
+Fantastic Night Dreams - Cotton (Japan)|B8A12409,0080
+Faselei! (Japan)|8F585838,0051
+Faselei! (USA, Europe)|E705E30E,0090
+Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja)|E7E5D6E8
+Ganbare Neo Poke-kun (Kari) (Japan)|6DF986A3,0097
+Infinity Cure (Japan)|32DC2AA2,0109
+Kikou Seiki Unitron - Sono Tsuide. Hikari Umareru Chi Yori. (Japan)|F029F1C0
+King of Fighters R-2 - Pocket Fighting Series (Japan) (En,Ja) (Demo 1)|E3AE79C0,9004
+King of Fighters R-2 - Pocket Fighting Series (Japan) (En,Ja) (Demo 2)|76544C97,9006
+King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja)|9BC63F27,0023
+King of Fighters, The - Battle de Paradise (Japan)|77E37BAC,0092
+Koi Koi Mahjong (Japan) (v08)|75FE164C
+Koi Koi Mahjong (Japan) (v0B)|B51C3EBA,0091
+Last Blade, The - Beyond the Destiny (USA, Europe)|94FCFD1E,0095
+Magical Drop Pocket (Japan)|694CE2DC,0048
+Magical Drop Pocket (Japan) (Demo)|D76F1A47,9011
+Magical Drop Pocket (USA, Europe)|7712F82D,0058
+Memories Off - Pure (Japan)|A7926E90,0087
+Metal Slug - 1st Mission (World) (En,Ja)|D29EC1BA
+Metal Slug - 2nd Mission (World) (En,Ja)|18E692A5
+Metal Slug - 2nd Mission (World) (En,Ja) (Demo)|8B1647D4,9021
+Mezase! Kanji Ou (Japan)|A52E1C82,0063
+Mizuki Shigeru no Youkai Shashinkan (Japan)|DDE08335,0062
+Neo 21 - Pocket Casino Series (World)|95C38985
+Neo Baccarat - Pocket Casino Series (Japan, Europe) (Beta)|80880498,0098
+Neo Baccarat - Pocket Casino Series (Japan, Europe) (v11)|495071A9,0019
+Neo Baccarat - Pocket Casino Series (Japan, Europe) (v16)|22AAB454,0098
+Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja)|2F6EB991,0024
+Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja) (Demo)|1A288507
+Neo Derby Champ Daiyosou (Japan)|5A053559,0017
+Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (v11)|225FD7F9,0015
+Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (v13)|5D028C99,0015
+Neo Mystery Bonus - Pocket Casino Series (World) (En,Ja)|E79DC5B3,0016
+Neo Poke Pro Yakyuu (Japan) (v1F)|3CA883A5
+Neo Poke Pro Yakyuu (Japan) (v32)|C624388F,0026
+Neo Turf Masters (World) (En,Ja)|E0E853DD,0035
+Neo Turf Masters (World) (En,Ja) (Demo)|9DCA6ED6,0035
+NeoGeo Cup '98 Plus Color - Pocket Sports Series (World) (En,Ja)|C0DA4FE9,0039
+Nige-ron-pa (Japan)|6672D6E6,0096,3CC3E269
+Oekaki Puzzle (Japan)|A9118E82,0081
+Pac-Man (World) (En,Ja)|21E8CC15,0055
+Pachi-slot Aruze Oukoku - Porcano 2 (Japan)|96DDFBE3,0102
+Pachi-Slot Aruze Oukoku Pocket - Azteca (Japan) (v03)|2314440A
+Pachi-Slot Aruze Oukoku Pocket - Azteca (Japan) (v04)|25B783B5,0074
+Pachi-Slot Aruze Oukoku Pocket - Azteca (Japan) (v06)|C9B55E6B
+Pachi-Slot Aruze Oukoku Pocket - Dekahel 2 (Japan)|346F3C46,0108
+Pachi-Slot Aruze Oukoku Pocket - Delsol 2 (Japan)|1EA69DB1,0107
+Pachi-Slot Aruze Oukoku Pocket - e-CUP (Japan) (v03)|B5311753
+Pachi-Slot Aruze Oukoku Pocket - e-CUP (Japan) (v04)|0A7C32DF,0112
+Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan) (v03)|4014FF42
+Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan) (v04)|2A4F45AB
+Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan) (v05)|A0C26F9B,0052
+Pachi-Slot Aruze Oukoku Pocket - Ohanabi (Japan)|8A88C50F,0110
+Pachi-Slot Aruze Oukoku Pocket - Ward of Lights (Japan) (v03)|D46CBC54,0084
+Pachi-Slot Aruze Oukoku Pocket - Ward of Lights (Japan) (v04)|A54EC305
+Pachinko Hisshou Guide - Pocket Parlor (Japan)|543DC257
+Pachinko Hisshou Guide - Pocket Parlor (Japan) (Beta)|CCF07C2F,0000
+Party Mail (Japan)|4DA8A1C0,0032
+Party Mail (Japan) (Beta)|F2284A95,0032
+Picture Puzzle (Europe)|6F2D35E6
+Pocket Love - if (Japan)|C2EE1EE5,0044
+Pocket Reversi (Europe) (v03)|9589F2F2
+Pocket Reversi (Europe) (vA1)|22C07C25
+Pocket Reversi (Japan)|FB0B55B8,0079
+Pocket Tennis Color - Pocket Sports Series (World) (En,Ja)|E0B9AA22
+Puyo Pop (World) (En,Ja) (v05)|3090B2FD,0041
+Puyo Pop (World) (En,Ja) (v06)|5C649D1E,0041
+Puzzle Bobble Mini (Japan, Europe)|D31312DC
+Puzzle Bobble Mini (Japan, Europe) (En,Ja) (Demo)|D6544F6C,0020
+Puzzle Link (USA, Europe)|8D0610AC,0054
+Puzzle Link 2 (USA, Europe)|BA9CA21C,0076
+Renketsu Puzzle Tsunagete Pon! Color (Japan)|C3F3E83C,0029
+Rockman - Battle & Fighters (Japan)|65985356,0094,9C861E49
+Rockman - Battle & Fighters (Japan) (Demo)|16A98AC4,9025
+Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja)|4F7FB156,0030
+Shanghai Mini (World) (En,Ja)|90732D53,0040
+Shanghai Mini (World) (En,Ja) (Beta 1)|79620C3F,0040
+Shanghai Mini (World) (En,Ja) (Beta 2)|920AF0ED,0000
+Shinki Sekai Evolution - Hateshinai Dungeon (Japan)|E006F42F,0082
+Shougi no Tatsujin Color (Japan)|1F2872ED,0027
+SNK Gals' Fighters (Japan)|D73B5B9F
+SNK Gals' Fighters (USA, Europe)|B02C2BE7,0093
+SNK vs. Capcom - Card Fighters 2 - Expand Edition (Japan)|0CC88D96,0116,CCBCFDA7
+SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe)|80CE137B,0068
+SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe)|94B63A97,0067
+SNK vs. Capcom - Gekitotsu Card Fighters (Japan) (Demo)|4A41A56E,9015
+SNK vs. Capcom - Gekitotsu Card Fighters - Capcom Supporter Version (Japan)|9217159B,0057
+SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan)|7065295C,0056
+SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan) (Beta)|E70E3F1A,0056
+SNK vs. Capcom - The Match of the Millennium (Japan) (Demo)|1E19E307,9020
+SNK vs. Capcom - The Match of the Millennium (World) (En,Ja)|682A7A7B,0069
+Sonic The Hedgehog - Pocket Adventure (World)|8BD22145
+Sonic The Hedgehog - Pocket Adventure (World) (Beta) (1999-10-22)|45FC3BCA,0039
+Sonic The Hedgehog - Pocket Adventure (World) (Demo)|622176CE,9019
+Soreike!! Hanafuda Doujou (Japan)|05FA3EB0,0078
+Super Real Mahjong - Premium Collection (Japan)|C6E620C3,0111
+Tsunagete Pon! 2 (Japan)|129091BB,0049
+Wrestling Madness (Japan) (En) (Beta)|16B0BE9B,0066

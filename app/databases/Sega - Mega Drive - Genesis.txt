@@ -1,0 +1,2670 @@
+md,smd,bin,68k,sgd
+007 Shitou - The Duel (Japan)|AEB4B262,T-48073-00
+10 Super Jogos (Brazil) (En)|C19AE368,MK-1281
+16 Zhang Mahjong (Taiwan) (Unl)|36407C82
+16 Zhang Mahjong II (Taiwan) (Unl)|B4F4249F
+16Bit Rhythm Land (World) (Aftermarket) (Unl)|67271302,00000000-00
+16t (Japan) (Game no Kanzume Otokuyou)|98149EAF,00054503-00
+16t (Japan) (SegaNet)|537F04B6,00054503-00
+2020 Nen Super Baseball (Japan)|2BBEE127,T-106273-00
+3 Ninjas Kick Back (USA)|E5A24999,T-113076-00
+6-Pak (USA)|1A6F45DC,MK-1717-00
+688 Attack Sub (USA, Europe)|F2C58BF7,MK-1401-00
+A Ressha de Ikou MD (Japan)|3D45DE4F,G-4532-00
+Aa Harimanada (Japan)|065F6021,G-4086-1.00
+Aaahh!!! Real Monsters (Europe)|7AD115FF,T139066-50
+Aaahh!!! Real Monsters (USA)|FDC80BFC,T139066-00
+Aaahh!!! Real Monsters (USA) (Beta) (1995-07-07)|F4B44B82,00000000-00
+Action 52 (USA) (Unl)|29FF58AE,T-00000-00
+Addams Family Values (Europe) (En,Fr,De)|B906B992,T-164046-00
+Addams Family Values (USA) (En,Fr,De) (Proto)|B360704B,T-XXXXXX-XX
+Addams Family, The (USA, Europe)|71F58614,T-081236-00
+Addams Family, The (USA, Europe) (Beta)|2803A5CA,????????-??
+Advanced Busterhawk Gleylancer (Japan)|1B744D15,42CF9B5B,T-25123-00
+Advanced Daisenryaku - Deutsch Dengeki Sakusen (Japan) (Beta) (1991-03-07)|6CE17E36,00000000-00
+Advanced Daisenryaku - Deutsch Dengeki Sakusen (Japan) (Rev A)|E0D5E18A,00005505-01
+Adventures of Batman & Robin, The (Europe)|355E8C39,MK-1535-00
+Adventures of Batman & Robin, The (USA)|0CAAA4AC,MK-1535-00
+Adventures of Batman & Robin, The (USA) (Beta) (1995-04-06)|F05CF389,MK-0000-00
+Adventures of Batman & Robin, The (USA) (Beta) (1995-04-10)|D4F3A070,MK-0000-00
+Adventures of Batman & Robin, The (USA) (Beta) (1995-04-11)|B5B5A290,MK-0000-00
+Adventures of Batman & Robin, The (USA) (Beta) (1995-04-18)|6874142B,MK-1535-00
+Adventures of Batman & Robin, The (USA) (Beta) (1995-04-19)|7002DA56,MK-1535-00
+Adventures of Batman & Robin, The (USA) (Beta) (1995-04-21)|61F02F13,MK-1535-00
+Adventures of Batman & Robin, The (USA) (Beta) (1995-04-22)|EB8236B2,MK-1535-00
+Adventures of Batman & Robin, The (USA) (Beta) (1995-04-24)|253947F8,MK-1535-00
+Adventures of Batman & Robin, The (USA) (Beta) (1995-04-26)|BC79F7EE,MK-1535-00
+Adventures of Batman & Robin, The (USA) (Beta) (1995-04-27)|FDAC8190,MK-1535-00
+Adventures of Batman & Robin, The (USA) (Beta) (1995-04-28)|27A1524B,MK-1535-00
+Adventures of Batman & Robin, The (USA) (Beta) (1995-05-01)|589AA203,MK-1535-00
+Adventures of Mighty Max, The (Europe)|24F1A3BB,T-164056-00
+Adventures of Mighty Max, The (USA)|55F13A00,T-164056-00
+Adventures of Rocky and Bullwinkle and Friends, The (USA)|EF02D57B,T-86056-00
+Adventurous Boy - Mao Xian Xiao Zi (Taiwan) (Unl)|D4403913
+Aero Blasters (Japan)|A00DA987,T-33013-00
+Aero the Acro-Bat (Europe)|1A3EAF57,T-15056-50
+Aero the Acro-Bat (Europe) (Beta)|DCD14B10,T-15056-50
+Aero the Acro-Bat (USA)|A3A7A8B5,T-15056-00
+Aero the Acro-Bat 2 (Europe)|A451F9A1,T-15166-50
+Aero the Acro-Bat 2 (USA)|39EB74EB,T-15166-00
+Aerobiz (USA)|CFAA9BCE,T-76046-10
+Aerobiz Supersonic (USA)|9377F1B5,T-76136-00
+After Burner II (Japan)|4FF37E66,T-17013-00
+After Burner II (USA, Europe)|CCAFE00E,MK-1104-00
+Air Buster (USA)|F3D65BAA,T-33026-00
+Air Diver (Japan)|9E2D5B91,T-20023-00
+Air Diver (USA)|2041885E,T-35026-00
+Air Management - Oozora ni Kakeru (Japan)|B3DB0C71,T-76083-20
+Air Management II - Koukuuou o Mezase (Japan)|4582817B,T-76143-00
+Akira (USA) (Proto)|6D32D468,XXXXXXXX-XX
+Al Michaels Announces HardBall III (USA, Europe) (Unl)|A4F2F011,ACLD012-00
+Aladdin (Europe)|D1845E8F,MK-1058-00
+Aladdin (Japan)|FB5AACF0,G-4111-00
+Aladdin (Japan) (En) (Beta) (1993-07-31)|C4491714,MK-1058-00
+Aladdin (USA)|ED427EA9,MK-1058-00
+Aladdin (USA) (Beta) (1993-06-27)|78110310,T-70196-00
+Aladdin (USA) (Beta) (July, 1993)|8C60EF73,MK-1058-00
+Aladdin (USA) (Final Cut)|DD66B3FA,MK-1058-00
+Aladdin (World) (Beta) (Disney Classic Games)|404930F5
+Aladdin (World) (Disney Classic Games)|E4A7AA54
+Aladdin (World) (Ja) (Disney Classic Games)|C4616DCB
+Aladdin II (Taiwan) (En) (Unl)|BE5F9397
+Alex Kidd - Cheongong Maseong (Korea)|5B0678FB,00054004-02
+Alex Kidd - Tenkuu Majou (Japan)|8A5ED856,00054004-00
+Alex Kidd in the Enchanted Castle (Europe)|778A0F00,00054004-02
+Alex Kidd in the Enchanted Castle (USA)|47DBA0AC,00054004-01
+ALEXKIDD_U|47DBA0AC
+Alien 3 (USA, Europe)|A3B00D6E,T-081096-00
+Alien 3 (USA, Europe) (Rev A)|B327FD1B,T--81096-01
+Alien Soldier (Europe)|0496E06C,MK-01186-00
+Alien Soldier (Japan)|90FA1539,G-004130-00
+Alien Soldier (USA) (Virtual Console)|9B1A1D7F,MK-01186-00
+Alien Storm (World)|F5AC8DE5,00001121-00
+Alien Storm (World) (SEGA Classic Collection)|5AB9C9F8,00001121-00
+AlienSoldier_Europe|0496E06C
+AlienStorm_USA|5AB9C9F8
+Alisia Dragoon (Europe)|28165BD1,T-45033-00
+Alisia Dragoon (Japan)|4D476722,T-45033-00
+Alisia Dragoon (Japan) (Mega Drive Mini)|3A6BF605,T-45033-00
+Alisia Dragoon (USA)|D28D5C40,T-45033-00
+Alisia Dragoon (USA) (Genesis Mini)|4BFDFE9C,T-45033-00
+Alter Ego (World) (Aftermarket) (Unl)|24BF6937,00000000-00
+Altered Beast (USA, Europe)|154D59BB,00054002-02
+ALTEREDB_UE|154D59BB
+American Gladiators (USA)|9952FA85,T-83056-00
+Andre Agassi Tennis (Europe)|224256C7,T-101016-01
+Andre Agassi Tennis (USA)|E755DD51,T-101016-00
+Andre Agassi Tennis (USA) (Beta) (August, 1992)|3BBF700D,00000000-00
+AngryBridsdemo|9E73551A
+Animaniacs (Europe) (En,Fr,De)|92B6F255,T-95176-00
+Animaniacs (USA)|86224D86,T-95176-00
+Another World (Europe)|E9742041,T-70106-00
+Aoki Ookami to Shiroki Mejika - Genchou Hishi (Japan)|10BE1D93,T-76103-00
+Aq Renkan Awa (Taiwan) (Unl)|2C6CBD77,G-3051
+Aquatic Games Starring James Pond and the Aquabats, The (USA, Europe)|400F4BA7,T-50436-00
+Arcade Classics (USA, Europe)|8AED2090,MK-1715-00
+Arcade Legends Sega Mega Drive ~ Arcade Legends Sega Genesis ~ Mega Drive Play TV (World)|2362F1B9,MK-1010-00
+Arcade Legends Street Fighter II' - Special Champion Edition ~ Mega Drive Play TV 3 (World)|12CAA444,MK-1090-00
+Arch Rivals - The Arcade Game (USA, Europe)|E389D7E7,T-081056-00
+Arcus Odyssey (Japan)|41C5FB4F,T-32053-00
+Arcus Odyssey (USA)|BC4D9B20,T-32053-00
+Ariel the Little Mermaid (USA, Europe)|58E297DF,MK-1041-00
+Ariel the Little Mermaid (USA, Europe) (1992-10-10) (Sega Channel)|2B3F375E,MK-1041-00
+Arkagis Revolution (World) (En,Es) (Prerelease) (2019-07-29) (Unl)|8B33E732,SIK-ROTO-XZ
+Arkagis Revolution (World) (En,Es) (Prerelease) (2019-09-02) (Unl)|E4E7F232,SIK-ROTO-YX
+Arkagis Revolution (World) (En,Es) (Prerelease) (2019-09-16) (Unl)|53D271FD,SIK-ROTO-YZ
+Arkagis Revolution (World) (En,Fr,Es) (Prerelease) (2019-02-21) (Unl)|662C4A59,SIK-ROTO-WX
+Arkagis Revolution (World) (En,Fr,Es) (Prerelease) (2019-11-28) (Unl)|980E247E,SIK-ROTO-ZW
+Arkagis Revolution (World) (En,Fr,Es) (Prerelease) (2020-03-04) (Unl)|C839231E,SIK-ROTO-00
+Arkagis Revolution (World) (En,Fr,Es) (Rev 1) (Aftermarket) (Unl)|A9BDC71B,SIK-ROTO-01
+Arnold Palmer Tournament Golf (USA, Europe)|35B995EF,00001203-00
+Arnold Palmer Tournament Golf (USA, Europe) (Rev A) (Beta) (1990-03-22) (Sega Channel)|09B67C70,00001203-01
+Arrow Flash (Japan, Europe) (En)|D49F8444,00004039-00
+Arrow Flash (USA)|4D89E66B,00004039-00
+Art Alive (World)|F1B72CDD,MK-1703-00
+Art Alive (World) (Beta) (1991-09-20)|952C0375,MK-1703-00
+Art of Fighting (Europe)|9970C422,MK-01146-00
+Art of Fighting (USA)|C9A57E07,MK-1146-00
+Art of Fighting (USA) (Beta) (1994-07-11)|19CE567D,MK-1146-00
+Asterix and the Great Rescue (Europe) (En,Fr,De,Es,It)|4735FEE6,MK-1532-50
+Asterix and the Great Rescue (USA)|7F112CD8,MK-1532-00
+Asterix and the Power of the Gods (Europe) (En,Fr,De,Es)|4FF1D83F,MK-1095-00
+Asterix and the Power of the Gods (Europe) (En,Fr,De,Es,It) (Beta) (February, 1994)|45C8B5B7,MK-1532-50
+Atomic Robo-Kid (Japan)|E833067E,T-24016-00
+Atomic Robo-Kid (USA)|7CD8169E,T-24016-00
+Atomic Runner (Europe)|B3C05418,MK1140-00
+Atomic Runner (USA)|0677C210,T-13073-00
+ATP Tour (Europe)|1A3DA8C5,MK-1234-50
+ATP Tour Championship Tennis (USA)|8C822884,MK-1234-00
+ATP Tour Championship Tennis (USA) (Beta) (1994-05-09)|B17A8DBC,MK-1224-00
+ATP Tour Championship Tennis (USA) (Beta) (1994-07-19)|CB927488,MK-1234-00
+ATP Tour Championship Tennis (USA) (Beta) (1994-07-23)|A15D5051,MK-1234-00
+ATP Tour Championship Tennis (USA) (Beta) (1994-08-02)|686A9FA1,MK-1234-00
+ATP Tour Championship Tennis (USA) (Beta) (1994-08-05)|A1FEF967,MK-1234-00
+ATP Tour Championship Tennis (USA) (Beta) (1994-08-08)|E6398864,MK-1234-00
+ATP Tour Championship Tennis (USA) (Beta) (1994-09-08)|B83F4CA4,MK-1234-00
+Australian Rugby League (Europe)|AC5BC26A,T-172106-01
+Australian Rugby League (Europe) (Beta)|51117C67,T-172106-01
+Awesome Possum (Japan) (En)|8C64445E,T-48153-00
+Awesome Possum Kicks Dr Machino's Butt! (USA) (Beta 1)|0158DC53,T-48096-00
+Awesome Possum Kicks Dr Machino's Butt! (USA) (Beta 2)|65526763,T-48226-00
+Awesome Possum... ...Kicks Dr. Machino's Butt (USA)|1F07577F,T-48226-00
+Aworg (Japan) (SegaNet)|069C27C1,00054503-00
+Ayrton Senna's Super Monaco GP II (Japan, Europe) (En,Ja)|60AF0F76,00005514-00
+Ayrton Senna's Super Monaco GP II (USA) (En,Ja)|EAC8DED6,00001135-00
+B.O.B. (USA, Europe) (Beta)|E3E8421E,MK-xxxx-00
+B.O.B. (USA, Europe) (Rev A)|EAA2ACB7,T-50586-01
+Baby Boom (USA) (Proto) (1994-06-03)|C0D97F6F,MK-1145-00
+Baby Boom (USA) (Proto) (1994-06-06)|6E0CF48D,MK-1145-00
+Baby Boom (USA) (Proto) (1994-08-11)|BD697054,MK-1145-00
+Baby's Day Out (USA) (Proto 1)|459B891C,TSNEAKE-RS
+Baby's Day Out (USA) (Proto 2)|B2E7CC49,T-112056-00
+Back to the Future Part III (Europe)|2737F92E,T-69046-50
+Back to the Future Part III (USA)|66A388C3,T-69046-00
+Bad Omen (Japan, Korea) (Ja)|975693CE,T-28043-00
+Bahamut Senki (Japan)|B1E268DA,00004521-00
+Ball Jacks (Japan, Europe) (En)|F5C3C54F,MK-1078-50
+Ballz 3D - Fighting at Its Ballziest ~ Ballz 3D - The Battle of the Ballz (USA, Europe)|B362B705,T-119126-00
+Ballz 3D - Fighting at Its Ballziest ~ Ballz 3D - The Battle of the Ballz (USA, Europe) (Beta 1)|C89AD87E,MK-0000-00
+Ballz 3D - Fighting at Its Ballziest ~ Ballz 3D - The Battle of the Ballz (USA, Europe) (Beta 2)|D349AB90,T-156016-00
+Bao Xiao San Guo (Taiwan) (Unl)|496EB1D1
+Bao Xiao San Guo (Taiwan) (Unl) (Alt)|DF107B54
+Barbarian (World) (Aftermarket) (Unl)|A887D287,00000000-00
+Barbie Super Model (USA)|81C9662B,T-112026-00
+Barbie Super Model (USA) (Beta) (1993-06-30)|D4823175,00000000-00
+Barbie Vacation Adventure (USA) (Proto)|10E0BA69,T-112066-00
+Bare Knuckle - Ikari no Tekken ~ Streets of Rage (World)|BFF227C6,00001019-00
+Bare Knuckle - Ikari no Tekken ~ Streets of Rage (World) (Rev A)|4052E845,00001019-01
+Bare Knuckle II (Japan) (Beta)|0CF2ACBE,00000000-00
+Bare Knuckle II - Shitou e no Requiem ~ Streets of Rage II (Japan, Europe) (En,Ja)|42E3EFDC,MK-1054-00
+Bare Knuckle III (Japan)|5D09236F,G-4116-00
+Bare Knuckle III (Japan) (Beta)|E7FF99DB,G-4116-00
+Barkley Shut Up and Jam 2 (USA)|321BB6BD,T-119186-00
+Barkley Shut Up and Jam 2 (USA) (Beta)|DE27357B,T-119066-01
+Barkley Shut Up and Jam! (USA, Europe)|63FBF497,T-119066-00
+Barney's Hide & Seek Game (USA)|1EFA9D53,MK-1534-00
+Barney's Hide & Seek Game (USA) (Beta) (1993-09-18)|19D9DC81,MK-1534-00
+Barver Battle Saga - Tai Kong Zhan Shi (Taiwan) (Unl)|D37A37C6
+Bass Masters Classic (USA)|CF1FF00A,T-100096-00
+Bass Masters Classic - Pro Edition (USA)|9EDDEB3D,T-100116-00
+Batman (Europe)|61C60C35,MK-1044-50
+Batman (Japan)|D7B4FEBF,T-15043-00
+Batman - Revenge of the Joker (USA)|CAA044A1,T-015046-00
+Batman - The Video Game (USA)|017410AE,T-15016-00
+Batman Forever (World)|DB41F2D5,T-81336-00
+Batman Returns (World)|4A3225C0,MK-1045-00
+Battle Golfer Yui (Japan)|2D7E868C,4AA03E4E,G-4040-00
+Battle Mania (Japan)|A76C4A29,T-23013-00
+Battle Mania (Japan) (Beta) (1991-05-28)|BF0A017F,exercise-only
+Battle Mania Daiginjou (Japan, Korea)|FA7D49E5,07BA38F6
+Battle Mania Daiginjou (Japan, Korea) (Ja)|312FA0F2,T-23043-00
+Battle Squadron (USA, Europe)|0FEAA8BF,T-XXXXX-XX
+Battle Squadron (USA, Europe) (Rev 1) (Beta) (1991-01-18) (Sega Channel)|43A76B45,T-50066-00
+Battlemaster (USA)|FD2B35E3,T-69066-00
+Battletech - A Game of Armored Combat (USA)|409E5D14,T-22066-00
+Battletoads (World)|D10E103A,G-4074-00
+Battletoads-Double Dragon (USA)|8239DD17,T-97066-00
+Beast Warriors (Japan)|4646C694,T-49053-00
+Beast Wrestler (Japan) (Beta) (1991-09-13)|E8734E9C,T-49053-00
+Beast Wrestler (USA)|0CA5BB64,T-49116-00
+Beastball (Europe) (Proto)|6A176576,T-124026-01
+Beauty and the Beast - Belle's Quest (USA)|BEFB6FAE,T-15106-00
+Beauty and the Beast - Roar of the Beast (USA)|13E7B519,T-15116-00
+Beavis and Butt-Head (Europe)|C7B6435E,T-139016-50
+Beavis and Butt-Head (USA)|F5D7B948,T-139016-00
+Beavis and Butt-Head (USA) (Beta)|81ED5335,T-139016-00
+Beethoven's 2nd - The Quest for Pups (USA) (Proto)|1BD0C6A3,T112046-00
+Beggar Prince (World) (Aftermarket) (Unl)|F3AF46CD,SF-001
+Beggar Prince (World) (Rev 1) (Aftermarket) (Unl)|6332EDCC,SF-001
+Berenstain Bears' Camping Adventure, The (USA)|1F86237B,MK-1548-00
+Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-03-23)|BFBCD7CC,MK-0000-00
+Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-04-28)|F222E946,MK-0000-00
+Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-04-29)|E21493B4,MK-0000-00
+Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-05-06)|713C14D8,MK-0000-00
+Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-05-11)|F7B81C6A,MK-0000-00
+Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-05-17)|E1855ADE,MK-1548-00
+Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-05-19)|07C9F71F,MK-1548-00
+Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-05-23)|913887B7,MK-1548-00
+Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-05-26)|D33C0FA4,MK-1548-00
+Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-05-30)|9C3BF429,MK-1548-00
+Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-06-02)|83CF19E4,MK-1548-00
+Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-06-10)|A748E2CF,MK-1548-00
+Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-07-09)|BF6AA405,MK-1548-00
+Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-07-16)|C84AAD8E,MK-1548-00
+Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-07-20)|ABEE4C5E,MK-1548-00
+Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-01)|B7CD465C,MK-1548-00
+Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-02)|383AD564,MK-1548-00
+Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-03)|18F268A6,MK-1548-00
+Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-05)|24159B6F,MK-1548-00
+Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-08)|58B6B0FC,MK-1548-00
+Best of the Best - Championship Karate (Europe) (Proto)|F842240B,T-49143-00
+Best of the Best - Championship Karate (USA)|C3D6A5D4,T-107016-00
+Beyond Oasis (USA)|C4728225,MK-1354-00
+Beyond Oasis (USA) (Beta) (1994-11-01)|FA59F847,MK-1354-00
+Beyond Zero Tolerance (USA) (Proto) (1995-06-23)|C61ED2ED,T-119146-00
+BEYONDOA_E|1110B0DB
+BEYONDOA_F|B97CCA1C
+BEYONDOA_G|FA20D011
+BEYONDOA_J|4F39783C
+BEYONDOA_S|4631F941
+BEYONDOA_U|C4728225
+Bible Adventures (USA) (Unl)|64446B77
+Bill Walsh College Football (USA, Europe)|3ED83362,T-50606-00
+Bill Walsh College Football 95 (USA)|A582F45A,T-50826-00
+Bill's Tomato Game (USA) (Proto)|0E1F263F,T-113096-50
+Bimini Run (USA)|D4DC5188,T-55016-02
+Bio Evil (World) (Demo) (Aftermarket) (Unl)|09778768,00000000-00
+Bio Hazard Battle (USA, Europe)|95B0EA2B,MK-1060-00
+Bio Hazard Battle (USA, Europe) (Beta 1)|4F19A73D,00000000-00
+Bio Hazard Battle (USA, Europe) (Beta 2) (August, 1992)|DD10DD1A,G-4087-00
+Bishoujo Senshi Sailor Moon (Japan)|48778ADD,5E246938,T-16043-00
+Blades of Vengeance (USA, Europe)|74C65A49,T-50686-00
+Blaster Master 2 (USA)|C11E4BA1,T-15076-00
+Blaster Master 2 (USA) (Beta)|08F78C70,T-15076-00
+Blockbuster World Video Game Championship II (USA)|4385E366,T-81406-00
+Blockout (World)|5E2966F1,T-50106-01
+Bloodshot (Europe) (En,Fr,De,Es)|F9F2BCEB,T8812650-01
+Blow'em Out (World) (Aftermarket) (Unl)|26F26C34
+Blue Almanac (Japan)|7222EBB3,T-46013-00
+Body Count (Brazil) (En)|649607D1,MK-1533-00
+Body Count (Brazil) (En) (Beta) (1994-01-27)|66CA4E71,00000000-00
+Body Count (Brazil) (En) (Beta) (1994-02-08)|C5FED897,MK-1533-00
+Body Count (Brazil) (En) (Beta) (1994-03-03)|6ABC6E77,MK-1533-00
+Body Count (Brazil) (En) (Beta) (1994-03-08)|8965213F,MK-1533-00
+Body Count (Europe) (En,Fr,De,Es,It)|3575A030,MK-1533-00
+Body Count (Europe) (En,Fr,De,Es,It) (Beta)|B4FFB6CE,00000000-00
+Bomber (Brazil) (En) (Unl)|6389A658,TECTOY-2005-01
+Bomboy (Taiwan) (En) (Unl)|065D2019
+Bonanza Bros. (Japan, Europe) (En)|ADF6476C,G-4046-00
+Bonanza Bros. (Japan, Europe) (En) (Rev A)|C6AAC589,G-4046-01
+Bonanza Bros. (USA, Europe, Korea) (En) (Rev B)|20D1AD4C,MK-1124-00
+BONANZAB_JE|C6AAC589
+Bonkers (USA, Europe)|D1E66017,MK-1055-00
+Bonkers (USA, Europe) (Beta) (1994-03-28)|CD67C588,MK-1145-00
+Bonkers (USA, Europe) (Beta) (1994-05-03)|E4CD0D61,MK-1145-00
+Bonkers (USA, Europe) (Beta) (1994-08-04)|913CC834,MK-1145-00
+Bonkers (USA, Europe) (Beta) (1994-08-25)|3E5EDC4F,MK-1055-00
+Bonkers (USA, Europe) (Beta) (1994-08-29)|7B84793E,MK-1055-00
+Boogerman - A Pick and Flick Adventure (Europe)|DBC4340C,T-125066-00
+Boogerman - A Pick and Flick Adventure (USA)|1A7A2BEC,T-125066-00
+Boogie Woogie Bowling (Japan)|CCF52828,T-058033-00
+Boxing Legends of the Ring (USA)|00F225AC,00107026-00
+Bram Stoker's Dracula (Europe)|9BA5A063,T-93016-50
+Bram Stoker's Dracula (USA)|077084A6,T-93016-01
+Breach (USA) (Proto)|121CE289
+Brett Hull Hockey 95 (USA)|F7775A09,T-119076-00
+Brian Lara Cricket (Australia)|408CF5C3,T-120106-50
+Brian Lara Cricket (Europe)|90F5C2B7,T-120106-00
+Brian Lara Cricket 96 (Europe)|FA3024AF,T-120146-50
+Brian Lara Cricket 96 (Europe) (Rev 1)|FE52F7E1,T-120146-50
+Brutal - Paws of Fury (Europe) (En,Fr,De)|7E9A8D32,T-83136-50
+Brutal - Paws of Fury (USA)|98D502CD,T-83136-00
+Bubba 'N' Stix (Europe)|B467432E,T-115026-00
+Bubba 'N' Stix (USA)|D45CB46F,T-115026-00
+Bubba N Stix (Europe) (Beta)|2DFA5E48,T-000000-00
+Bubble and Squeak (Europe)|86151BF1,T-015096-50
+Bubble and Squeak (USA)|28C4A006,T-015096-00
+Bubsy II (USA, Europe)|F8BEFF56,T-119136-00
+Bubsy in - Claws Encounters of the Furred Kind (USA, Europe)|3E30D365,T-119026-00
+Buck Rogers - Countdown to Doomsday (USA, Europe)|44E3BFFF,T-50286-00
+Budokan - The Martial Spirit (Europe)|97ADD5BD,T-50016-00
+Budokan - The Martial Spirit (USA) (Rev 1) (Beta) (1990-09-25)|43532E3D,T-50016-00
+Budokan - The Martial Spirit (USA) (Unl)|ACD9F5FC,7018
+Bug's Life, A (Taiwan) (En) (Unl)|10458E09
+Bugs Bunny in Double Trouble (Europe) (En,Fr,De,Es,It)|CEC0A0BB,MK-1840-00
+Bugs Bunny in Double Trouble (USA)|365305A2,MK-1840-00
+Bulls versus Blazers and the NBA Playoffs (USA, Europe)|D4E4B4E8,T-50556-00
+Bulls vs Lakers and the NBA Playoffs (USA, Europe)|E56023A0,T-50366-00
+Burning Force (Europe)|776FF6FF,MK-1029-00
+Burning Force (Japan)|0C1DEB47,T-14023-00
+Burning Force (USA)|BDC8F02C,T-14026-00
+Cadash (USA, Korea) (En)|13BDF374,T-11086-00
+Caesar no Yabou (Japan)|69796E93,T-22033-00
+Caesar no Yabou II (Japan)|4F327B3A,T-22056-00
+Caesars Palace (USA)|8FDAA9BB,T-70146-00
+Cal Ripken Jr. Baseball (USA)|9B1C96C0,T-87046-00
+Caliber.50 (USA)|44F4FA05,T-58026-00
+California Games (USA, Europe)|43B1B672,MK-1207-00
+Cannon Fodder (Europe)|3F440D3F,T-070366-50
+Canon - The Legend of the New Gods (World) (Aftermarket) (Unl)|F85DD66D
+Captain America and the Avengers (Europe)|43225612,MK-1031-50
+Captain America and the Avengers (USA)|E0639CA2,T-13056-00
+Captain America and the Avengers (USA) (Beta)|BAAC59C0,T-13056-00
+Captain Lang (Japan) (En,Ja)|61BA8199,T-13103-00
+Captain Planet and the Planeteers (Europe)|7672EFA5,MK-1031-00
+Captain Planet and the Planeteers (Europe) (Beta)|BF2CBD3A,T-95026-00
+Cascade (World) (Aftermarket) (Unl)|E7B287FE,SF-009
+Castle of Illusion Starring Mickey Mouse (USA, Europe)|BA4E9FD0,00001015-00
+Castlevania - Bloodlines (USA)|FB1EA6DF,T-95076-00
+Castlevania - Bloodlines (USA) (Beta) (1993-08-04)|CA0DF45B,T-95076-00
+Castlevania - Bloodlines (USA) (Beta) (1993-10-07)|64D46357,T-95076-00
+Castlevania - Bloodlines (USA) (Castlevania Anniversary Collection)|E949FBE5,T-95076-00
+Castlevania - Bloodlines (USA, Europe) (Switch Online)|2E8597F2,T-95076-00
+Castlevania - The New Generation (Europe)|4DD4E4A5,T-95076-00
+Castlevania - The New Generation (Europe) (Beta)|BED7A379,T-95076-00
+Castlevania - The New Generation (Europe) (Mega Drive Mini)|6A5E58CD,T-95076-00
+Centurion - Defender of Rome (USA, Europe)|21283B14,T-50146-11
+Centurion - Defender of Rome (USA, Europe) (Sega Channel)|A7C83919,T-50146-11
+Chakan (USA, Europe)|046A48DE,MK-1047-00
+Chakan (USA, Europe) (1992-10-06) (Sega Channel)|77B7E85F,MK-1047-00
+Chameleon Kid (Japan) (En)|50217C80,MK-1010-00
+Champions World Class Soccer (World) (Beta) (1994-03-18)|7B3EB69D,T-081296-00
+Champions World Class Soccer (World) (En,Fr,De,Es)|883E33DB,T-081296-00
+Championship Bowling (USA)|1BF92520,T-58056-00
+Championship Pool (USA)|253512CF,T-87076-00
+Championship Pro-Am (USA)|B496DE28,T-97046-00
+Chao Ji Da Fu Weng (Taiwan) (Unl)|2E2EA687
+Chao Ji Mahjong Club (Taiwan) (Unl)|2B4B40E3,0000-0001
+Chao Ji Poker (Taiwan) (En) (Unl)|C37E6858
+Chaos Engine 2, The (Europe) (Proto)|3FB045C2,Txxxxx-00
+Chaos Engine, The (Europe)|A6E1D401,65887F32,T-104066-00
+Chase H.Q. II (USA)|F39E4BF2,T-11106-00
+Chavez II (Mexico)|5BC0DBB8,T-137036-00
+Cheese Cat-Astrophe Starring Speedy Gonzales (Europe) (En,Fr,De,Es)|FF634B28,MK-1540-00
+Chelnov (Japan)|B2FE74D8,T-13073-00
+Chess (Russia) (En) (Unl)|47380EDD,00000000-00
+Chester Cheetah - Too Cool to Fool (USA)|250E3EC3,T-33056-00
+Chester Cheetah - Wild Wild Quest (USA)|B97B735D,T-33066-00
+Chi Chi's Pro Challenge Golf (USA)|9C3973A4,T-70186-00
+Chibi Maruko-chan - Wakuwaku Shopping (Japan)|91A144B8,T-14123-01
+Chiki Chiki Boys (Japan, Korea) (Ja)|06918C17,G-4083-00
+Chiki Chiki Boys (USA, Europe)|813A7D62,MK-1075-00
+Chou Kyuukai Miracle Nine (Japan)|6D8C2206,G-5546-00
+Chou Touryuu Retsuden - Dino Land (Japan)|81F939DE,T-32043-00
+Chuck Rock (Europe)|7CD40BEA,T-70036-00
+Chuck Rock (USA)|F8AC454A,T-70036-00
+Chuck Rock II (Japan)|BFD24BE8,T-70063-00
+Chuck Rock II - Son of Chuck (Europe)|1ADE9488,T-115016-50
+Chuck Rock II - Son of Chuck (USA)|408B1CDB,T-115016-00
+Chuck Rock II - Son of Chuck (USA) (Beta)|D6A3B324,T-115016-00
+Clan of Heroes - Generals of the Yang Family (World) (Aftermarket) (Unl)|AEB3C10C
+Classic Collection (Europe)|73F948B1,MK-1199-00
+ClayFighter (Europe)|1AAF7707,T-125036-00
+ClayFighter (USA)|B12C1BC1,T-125036-00
+Cliffhanger (Europe)|EB5E0B28,T-93036-00
+Cliffhanger (USA)|9CBF44D3,T-93036-00
+Clue (USA)|7753A296,T-89016-00
+Coach K College Basketball (USA)|67C309C6,T-172016-00
+Coffee Crisis (World) (Aftermarket) (Unl)|870DFCE7,JN-20160131-03
+Coffee Crisis (World) (Demo) (Unl)|85E45420,JN-20160131-03
+Coffee Crisis (World) (Rev 1) (Aftermarket) (Unl)|5F6F343D,JN-20160131-03
+College Football USA 96 (USA)|B9075385,T-172046-00
+College Football USA 96 (USA) (Beta) (1995-06-21)|E70BD01D,T-172046-00
+College Football USA 97 (USA)|2EBB90A3,T-172126-01
+College Football's National Championship (USA)|172C5DBB,MK-1227-00
+College Football's National Championship (USA) (Beta) (1994-04-13)|D9772DEF,MK-1225-00
+College Football's National Championship (USA) (Beta) (1994-04-18)|E0A1705F,MK-1225-00
+College Football's National Championship (USA) (Beta) (1994-04-19)|D5FE66C3,MK-1225-00
+College Football's National Championship (USA) (Beta) (1994-04-29)|99DA1973,MK-1227-00
+College Football's National Championship (USA) (Beta) (1994-05-03)|DB1A3F66,MK-1227-00
+College Football's National Championship (USA) (Beta) (1994-05-06)|0A538E75,MK-1227-00
+College Football's National Championship (USA) (Beta) (1994-05-11)|CE65B294,MK-1227-00
+College Football's National Championship (USA) (Beta) (1994-05-17)|8CFD4C86,MK-1227-00
+College Football's National Championship (USA) (Beta) (1994-05-20)|F285385E,MK-1227-00
+College Football's National Championship (USA) (Beta) (1994-05-25)|482E334A,MK-1227-00
+College Football's National Championship (USA) (Beta) (1994-05-31)|C6766745,MK-1227-00
+College Football's National Championship (USA) (Beta) (1994-06-01)|994DBC8F,MK-1227-00
+College Football's National Championship (USA) (Beta) (1994-06-03)|9CA29321,MK-1227-00
+College Football's National Championship (USA) (Beta) (1994-06-07)|B40B791E,MK-1227-00
+College Football's National Championship (USA) (Beta) (1994-06-08)|D008DEBC,MK-1227-00
+College Football's National Championship (USA) (Beta) (1994-06-14)|ECEF7DE7,MK-1227-00
+College Football's National Championship (USA) (Beta) (1994-06-15)|C7E5A998,MK-1227-00
+College Football's National Championship (USA) (Beta) (1994-06-18)|74988A9D,MK-1227-00
+College Football's National Championship (USA) (Beta) (1994-06-20)|898C17FA,MK-1227-00
+College Football's National Championship II (USA)|65B64413,MK-1241-00
+College Slam (USA)|96A42431,T-81576-00
+Columns (Japan) (En)|03163D7A,00054035-00
+Columns (USA, Europe)|D783C244,00054035-01
+Columns (USA, Europe) (1990-06-21) (Sega Channel)|7EEC1A45,00054035-01
+Columns (World) (Sega Ages)|0A0D1D51,00054035-01
+Columns III (USA)|DC678F6D,T-23056-00
+Columns III - Taiketsu! Columns World (Japan, Korea) (Ja)|CD07462F,00004801-00
+Columns3_USA|DC678F6D
+COLUMNS_W|D783C244
+Combat Aces (USA) (Proto) (Unl)|84560D5A
+Combat Cars (USA, Europe)|E439B101,T-119106-00
+Comix Zone (Europe) (Beta) (1995-06-28)|939EFD4C,MK-1569-50
+Comix Zone (Europe) (Beta) (1995-07-12)|E28C89C1,MK-1569-50
+Comix Zone (Europe) (En,Fr,De,Es)|1318E923,MK-1569-50
+Comix Zone (Japan) (En,Ja)|7A6027B8,G-4132-00
+Comix Zone (USA)|17DA0354,MK-1569-00
+Comix Zone (USA) (Beta) (1995-04-04)|2EFCB6EE,XXX-XXXX-XX
+Comix Zone (USA) (Beta) (1995-05-26)|36029A1F,MK-10044-00
+Comix Zone (USA) (Beta) (1995-05-30)|A72ECA2C,MK-10044-00
+Comix Zone (USA) (Beta) (1995-06-01)|BA506835,MK-1569-00
+Comix Zone (USA) (Beta) (1995-06-01) (Alt 2)|413B9A94,MK-1569-00
+Comix Zone (USA) (Beta) (1995-06-01) (Alt 3)|9AE93C9D,MK-1569-00
+Comix Zone (USA) (Beta) (1995-06-01) (Alt)|BBE03CB6,MK-1569-00
+Comix Zone (USA) (Beta) (1995-06-02)|B5F0DAE5,MK-1569-00
+Comix Zone (USA) (Beta) (1995-06-02) (Alt)|1A4ABCF3,MK-1569-00
+Comix Zone (USA) (Beta) (1995-06-03)|AFF32614,MK-1569-00
+Comix Zone (USA) (Demo) (1995-06-12) (Sega Channel)|C77DB9E1,MK-1569-00
+Comix Zone (USA) (Sega Smash Pack 2)|2BB02A7D,MK-1569-00
+Comix Zone (USA) (Virtual Console)|E45A15F4,MK-1569-00
+COMIXZON_U|17DA0354
+Congo - The Game (USA) (Proto)|13746716,00000001-00
+Contra - Hard Corps (USA) (Genesis Mini)|042A81B0,T-95106-00
+Contra - Hard Corps (USA, Korea)|41B49317
+Contra - Hard Corps (USA, Korea) (En)|C579F45E,T-95106-00
+Contra - Hard Corps (World) (Contra Anniversary Collection)|74DDED00,T-95106-00
+Contra - The Hard Corps (Japan)|2AB26380,T-95093-00
+Contra - The Hard Corps (Japan) (Mega Drive Mini)|76C211CB,T-95093-00
+Contra - The Hard Corps (World) (Ja) (Contra Anniversary Collection)|F1F4B361,T-95093-00
+Cool Spot (Europe)|5F09FA41,T-70196-00
+Cool Spot (Japan, Korea) (Ja)|E869EFB1,T-70013-00
+Cool Spot (USA)|F024C1A1,T-70196-00
+Cool Spot (USA) (Beta)|0EBAA4A8,T-70196-00
+Corporation (Europe)|A80D18AA,T-70016-00
+Cosmic Spacehead (Europe) (En,Fr,De,Es) (Rev 1)|CB89E605,00000000-00
+Cosmic Spacehead (USA, Europe) (En,Fr,De,Es)|C593D31C,00000000-00
+Crack Down (Europe)|D012A47A,G-4024-00
+Crack Down (Japan) (En)|538AAA5D,G-4024-00
+Crack Down (USA)|B9CE9051,T-47046-00
+CrackDown_USA|B9CE9051
+Crayon Shin-chan - Arashi o Yobu Enji (Japan)|97FC42D2,T-16033-00
+CrossFire (USA)|CC73F3A9,T-29016-00
+CrossFire (USA) (Sample)|FF9E9F45,T-29023-00
+Crude Buster (Japan)|AFFB4B00,T-13063-00
+Crue Ball (Japan)|514C53E2,T-XXXXX-XX
+Crue Ball - Heavy Metal Pinball (USA, Europe)|4B195FC0,T-50386-XX
+Crusader of Centy (USA)|41858F6F,T-144026-00
+Crying - Aseimei Sensou (Japan)|4ABA1D6A,G-4087-00
+Crying_USA|95B0EA2B
+Crystal's Pony Tale (USA)|6CF7A4DF,MK-1544-00
+Crystal's Pony Tale (USA) (Beta) (1994-05-11)|EAC9D74B,00000000-00
+Crystal's Pony Tale (USA) (Beta) (1994-05-19)|DC50B741,MK-1544-00
+Crystal's Pony Tale (USA) (Beta) (1994-05-26)|A2EABA55,MK-1544-00
+Crystal's Pony Tale (USA) (Beta) (1994-06-01)|14C6347C,MK-1544-00
+Crystal's Pony Tale (USA) (Beta) (1994-06-06)|83E8CAC9,MK-1544-00
+Crystal's Pony Tale (USA) (Beta) (1994-06-10)|9E1DD267,MK-1544-00
+Crystal's Pony Tale (USA) (Beta) (1994-06-23)|4CCC19AF,MK-1544-00
+Crystal's Pony Tale (USA) (Beta) (1994-06-28)|03BE7F66,MK-1544-00
+Crystal's Pony Tale (USA) (Beta) (1994-06-30)|DD8C73FB,MK-1544-00
+Crystal's Pony Tale (USA) (Beta) (1994-07-01)|16AC2E4F,MK-1544-00
+Crystal's Pony Tale (USA) (Beta) (1994-07-02)|24BC4354,MK-1544-00
+Crystal's Pony Tale (USA) (Beta) (1994-07-03)|6D67A87C,MK-1544-00
+Crystal's Pony Tale (USA) (Beta) (1994-07-12)|3577DC72,MK-1544-00
+Crystal's Pony Tale (USA) (Beta) (1994-07-12) (Alt)|2BFC0A53,MK-1544-00
+Crystal's Pony Tale (USA) (Beta) (1994-07-13)|C67B6DBA,MK-1544-00
+Curse (Japan)|A4FBF9A9,T-22013-00
+Curse (USA) (Proto) (1990-06-26) (Sega Channel)|DEE8876D,T-37016-00
+Curse of Illmoore Bay, The (World) (Aftermarket) (Unl)|7AD106C0
+Curse of Illmoore Bay, The (World) (Demo 1) (Aftermarket) (Unl)|0FD997F5,00000000-00
+Curse of Illmoore Bay, The (World) (Demo 2) (Aftermarket) (Unl)|FB825096,00000000-00
+Curse of Illmoore Bay, The (World) (Demo 3) (Aftermarket) (Unl)|615818E5,00000000-00
+Cursed Knight, The (World) (v2.0) (Demo) (Aftermarket) (Unl)|B08237CB,GM-00000000-00
+Cursed Knight, The (World) (v2.1) (Demo) (Aftermarket) (Unl)|6F31E5B4,GM-00000000-00
+Custodian (World) (Aftermarket) (Unl)|3245E60C,00000000-00
+Cutie Suzuki no Ringside Angel (Japan)|13795DCA,T-20033-00
+CutThroat Island (USA, Europe)|EBABBC70,T-81516-00
+CutThroat Island (USA, Europe) (Beta)|7F4939F2,T-81516-00
+Cyber Police - ESWAT (Japan)|87B636A2,00004029-00
+Cyber-Cop (USA)|01E719C8,T-70016-00
+Cyberball (World)|76120E96,00004027-00
+Cyborg Justice (USA, Europe)|AB0D1269,MK-1024-00
+Cyborg Justice (USA, Europe) (Beta)|BB84928C,MK-1024-00
+Daffy Duck in Hollywood (Europe) (Beta) (August, 1994)|0EAA4740,XXXXXXXX-XX
+Daffy Duck in Hollywood (Europe) (En,Fr,De,Es,It)|1FDC66B0,MK-1024-00
+Dahna (Korea)|10829EA1,64013-00
+Dahna - Megami Tanjou (Japan)|4602584F,64013-00
+Dahna Megami Tanjou (Japan)|D04D2DF7
+Daikoukai Jidai (Japan)|5A652458,T-76053-10
+Daikoukai Jidai II (Japan)|E040F0DA,T-76163-00
+Daimakaimura (Japan)|5659F379,00004013-00
+Daimakaimura ~ Ghouls'n Ghosts (Japan, USA) (En)|D31BD910,00004013-01
+Daimakaimura ~ Ghouls'n Ghosts (World) (Rev A)|4F2561D5,00004013-02
+Daimakaimura ~ Ghouls'n Ghosts (World) (Rev A) (Sega Channel)|4552A3DE,00004013-01
+Daisenpuu ~ Twin Hawk (Japan, Europe)|ABD8CE33
+Daisenpuu ~ Twin Hawk (Japan, Europe) (En)|A2EC8C67,G-4034-00
+Daisenpuu ~ Twin Hawk (Japan, Europe) (En) (Beta) (1990-04-06)|DDE94356,G-4034-00
+Dangerous Seed (Japan)|A2990031,T-14033-00
+Danny Sullivan's Indy Heat (USA) (Proto)|0E356A3C,****???-00
+Darius (World) (Genesis Mini, Mega Drive Mini)|26CA4234,00000000-00
+Darius II (Japan)|25DFE62A,T-11083-00
+Darius II (World) (Darius Cozmic Collection)|E8E29BE2,T-11083-00
+Dark Castle (USA, Europe)|0464ACA4,T-50096-00
+Darwin 4081 (Japan, Korea) (En)|7A33B0CB,G-4033-00
+Darwin 4081 (Japan, Korea) (En) (Beta) (1990-02-21)|DB68D1AC,G-4033-00
+Dashin' Desperadoes (Europe) (Proto)|98D224A5,T-13093-00
+Dashin' Desperadoes (USA)|DCB76FB7,T-13066-00
+Dashin' Desperadoes (USA) (Beta)|B573E63A,30103030-01
+David Crane's Amazing Tennis (USA)|9177088C,T-86036-00
+David Robinson Basketball (Japan)|56164B00,MK-1214-00
+David Robinson Basketball (Japan) (Beta) (1992-04-15)|875BB1A0,MK-1214-00
+David Robinson's Supreme Court (USA, Europe)|512B7599,MK-1214-00
+Davis Cup II (Europe) (Proto) (1994-07-10)|6F4183C0,T-49143-00
+Davis Cup II (USA) (Proto) (1994-07-28)|76F2BED8,T-11111-00
+Davis Cup Tennis (Japan)|802CD123,T-48163-00
+Davis Cup Tennis ~ Davis Cup World Tour (USA, Europe)|894686F0,T-48206-00
+Davis Cup Tennis ~ Davis Cup World Tour (USA, Europe) (Beta) (June, 1993)|7C6B0646,T-48206-00
+Daze Before Christmas (Australia)|B95E25C9,T-015156-50
+Daze Before Christmas (Australia) (Beta)|317C9491,T-000000-00
+Deadly Moves (USA)|35CBD237,T-33033-00
+Death and Return of Superman, The (Europe)|CFC440E8,T-15186-00
+Death and Return of Superman, The (USA)|982242D3,T-15186-00
+Death Duel (USA)|A9804DCC,T-56036-00
+Death Duel (USA) (Beta) (1992-05-06)|2F979365,T-56036-00
+DECAP_UE|73DC0DD8
+DEcapAttack (USA, Europe, Korea) (En)|73DC0DD8,MK-1027-00
+Demolition Man (USA, Europe)|5FF71877,T-81486-00
+Demolition Man (USA, Europe) (Beta)|57FFAD7A,T-81486-00
+Demons of Asteborg (World) (Demo 1) (Aftermarket) (Unl)|C7CDD236
+Demons of Asteborg (World) (Demo 2) (Aftermarket) (Unl)|8163415E,00000000-00
+Demons of Asteborg (World) (En,Fr,De,Es,It,Pt) (v1.0) (Aftermarket) (Unl)|67283FBE,00000000-01
+Demons of Asteborg (World) (En,Fr,De,Es,It,Pt) (v1.1) (Aftermarket) (Unl)|AACB216E,00000000-01
+Demons of Asteborg (World) (En,Fr,De,Es,It,Pt) (v1.1) (Demo 3) (Aftermarket) (Unl)|DDA1A052,00000000-01
+Desert Demolition (USA, Europe) (Beta) (1994-12-06)|D27FE9E5,xx-xxxx-xx
+Desert Demolition (USA, Europe) (Beta) (1994-12-08)|69AAEAB6,mk-1062-00
+Desert Demolition (USA, Europe) (Beta) (1994-12-12)|16F19283,mk-1062-00
+Desert Demolition (USA, Europe) (Beta) (1994-12-12) (Alt)|5DAD49D7,mk-1062-00
+Desert Demolition (USA, Europe) (Beta) (1994-12-13)|375DEE15,mk-1062-00
+Desert Demolition (USA, Europe) (Beta) (1994-12-14)|39F9F304,mk-1062-00
+Desert Demolition (USA, Europe) (Beta) (1994-12-15)|5109736A,MK-1062-00
+Desert Demolition (USA, Europe) (Beta) (1994-12-16)|573FABFB,MK-1062-00
+Desert Demolition (USA, Europe) (Beta) (1994-12-19)|B0ECE758,MK-1062-00
+Desert Demolition Starring Road Runner and Wile E. Coyote (USA, Europe)|C287343D,MK-1062-00
+Desert Strike - Return to the Gulf (USA, Europe)|67A9860B,T-50326-00
+Desert Strike - Wangan Sakusen ~ Desert Strike (Japan, Korea) (Ja)|1E740145,T-106093-00
+Devil Crash MD (Japan)|4C4CAAD8,T-18053-00
+Devilish (USA) (Beta) (1992-01-16)|6C8EB5A2,T-47066-00
+Devilish - The Next Possession (USA)|D3F300AC,T-47066-00
+Devwill Too (World) (Aftermarket) (Unl)|25736E4F,00000000-00
+Devwill Too (World) (Aftermarket) (Unl) (Alt)|34031793,00000000-00
+Devwill Too (World) (Demo) (Aftermarket) (Unl)|C53C9CEE,00000000-00
+Devwill Too (World) (Pt-BR) (Aftermarket) (Unl)|C14FC0D4,00000000-00
+Devwill Too (World) (Pt-BR) (Aftermarket) (Unl) (Alt)|7748C2DF,00000000-00
+Dexstar (USA, Europe) (Beta) (1994-08-12)|4371F046,MK-1555-00
+Dexstar (USA, Europe) (Beta) (1994-08-26)|D0C74FDD,MK-1555-00
+Dial Q o Mawase! (Japan) (Unl)|C632E5AF
+Dick Tracy (World)|EF887533,00001014-00
+Dick Vitale's 'Awesome, Baby!' College Hoops (USA)|1312CF22,T-048236-00
+Dino Dini's Soccer (Europe) (En,Fr,De)|4608F53A,T-70276-00
+Dino Land (USA)|5FE351B8,T-32043-00
+Dinosaur's Tale, A (USA)|70155B5B,T-112036-00
+Disney Collection, The - QuackShot Starring Donald Duck + Castle of Illusion Starring Mickey Mouse (Europe)|ADFDE883,MK-1197-00
+Divine Sealing (Japan) (Unl)|CA72973C,00000000-00
+DJ Boy (Europe)|860E749A,MK-1139-50
+DJ Boy (Japan)|202ABAA8,G-4032-00
+DJ Boy (USA)|DC9F02DB,T-33016-00
+Domine o Territorio (Brazil) (Aftermarket) (Unl)|AEA8B9B0,TECTOY-2005-01
+Dominus (USA) (Proto)|30006EBD,00000000-01
+Donald in Maui Mallard (Brazil) (En)|77772691,T-239016-00
+Donald in Maui Mallard (Europe) (Rev A)|FA5A79F7,MK-1192-01
+Dong Gu Ri Te Chi Jak Jeon (Korea)|E32F0B1C,MK-1706-40
+Doom Troopers (USA)|11194414,T-132066-00
+Doraemon - Yume Dorobou to 7 Nin no Gozans (Japan)|EEED1130,00004094-00
+Double Clutch (Europe)|D98C623C,MK-1063
+Double Clutch (Europe) (Beta)|43E7A117,MK-1063-6BU
+Double Dragon (USA, Europe) (Unl)|054F5D53,ACLD009-00
+Double Dragon 3 - The Arcade Game (USA, Europe)|B36AB75C,T-081166-00
+Double Dragon II - The Revenge (Japan) (En)|A8BFDBD6,T-74023-00
+Double Dragon II - The Revenge (Japan) (En) (Beta) (1991-10-18)|E11F8543,T-74023-00
+Double Dragon V - The Shadow Falls (USA)|27E59E35,T-97106-00
+Double Dribble - The Playoff Edition (USA)|8352B1D0,T-95126-00
+doukutsu|D6D74CFD,E468CEE3
+doukutsu-0.5.2|292080AE
+Dr. Robotnik's Mean Bean Machine (Europe)|70680706,MK-1706-50
+Dr. Robotnik's Mean Bean Machine (USA)|C7CA517F,MK-1706-00
+Dr. Robotnik's Mean Bean Machine (USA) (Beta 1)|4D0E5273,??-????-00
+Dr. Robotnik's Mean Bean Machine (USA) (Beta 2)|C631BFFF,MK-1706-00
+Dragon - The Bruce Lee Story (Europe)|FDEED51D,T-70286-00
+Dragon - The Bruce Lee Story (USA)|EFE850E5,T-81496-00
+Dragon Ball - Final Bout (Taiwan) (Unl)|63847005
+Dragon Ball Z - Buyuu Retsuden (Japan)|AF8F3371,T-133013-00
+Dragon Ball Z - L'Appel du Destin (France)|F035C737,T-133016-00
+Dragon Slayer - Eiyuu Densetsu (Japan)|01BC1604,G-5542-00
+Dragon Slayer - Eiyuu Densetsu II (Japan)|46924DC3,G-5544-00
+Dragon's Eye Plus - Shanghai III (Japan)|81F0C3CF,T-67023-00
+Dragon's Fury (USA, Europe)|58037BC6,T-48116-00
+Dragon's Lair (USA) (Proto) (June, 1994)|A33EB522,T-11136-00
+Dragon's Revenge (Japan) (En)|D8D2EFD7,T-48143-00
+Dragon's Revenge (USA, Europe)|841EDBC0,T-048266-00
+Dream Team USA (Japan)|E2E21B72,T-50376-00
+Du Shen Zhi Meng Huan Poker (Taiwan) (Unl)|1D81A67C,0000-0001
+Duke Nukem 3D (Brazil) (En)|6BD2ACCB,T-274026-01
+Dune - The Battle for Arrakis (USA)|4DEA40BA,T-70246-00
+Dune II - Kampf um den Wuestenplaneten (Germany)|39790728,T-70246-00
+Dune II - The Battle for Arrakis (Europe)|B58AE71D,T-70246-00
+Dune II - The Battle for Arrakis (Europe) (Beta) (1994-01-11)|781CB285,T-70246-50
+Dungeons & Dragons - Warriors of the Eternal Sun (USA, Europe)|AF4A9CD7,MK-1304-00
+Dyna Brothers (Japan)|360C1B20,T-68033-01
+Dyna Brothers 2 (Japan)|47E0A64E,T-68063-00
+Dyna Brothers 2 Special (Japan) (Virtual Console)|BA3554BC,T-68063-00
+DYNAHEAD_J|D03CDB53
+DYNAHEAD_UE|3DFEEB77
+Dynamite Duke (World)|39D01C8C,00004038-00
+Dynamite Duke (World) (Beta) (1990-06-21)|7D2CD95C,00004038-00
+Dynamite Duke (World) (Rev A)|246F0BDA,00004038-00
+Dynamite Headdy (Japan)|D03CDB53,G-004117-00
+Dynamite Headdy (Japan) (Beta) (1994-06-14)|971EF24C,MK-1543-00
+Dynamite Headdy (Japan) (Beta) (1994-06-16)|F8A96719,MK-1543-00
+Dynamite Headdy (Japan) (Beta) (April, 1994)|5C25E934,T-471110-00
+Dynamite Headdy (Japan) (Sample)|6A3289C9
+Dynamite Headdy (USA, Europe)|3DFEEB77,MK-1543-00
+Dynamite Headdy (USA, Europe) (Beta) (1994-06-22)|61001EC8,MK-1543-00
+DynoBlaze (USA) (Proto) (1994-05-24)|D625E584,T-860XX-00
+EA Hockey (Europe)|9BFC279C,T-50236-50
+EA Hockey (Japan)|9DCDC894,T-50236-00
+EA Sports Double Header (Europe)|A0B54CBC,T-50536-50
+Earnest Evans (USA)|A243816D,T-49176-01
+Earnest Evans (USA) (Beta)|11475FAC,T-49176-01
+Earth Defense ~ Earth Defend, The (USA, Taiwan) (En) (Unl)|3519C422
+Earthworm Jim (Europe)|1C07B337,T-70386-00
+Earthworm Jim (USA)|DF3ACF59,T-132036-00
+Earthworm Jim (USA) (Beta) (1994-07-28)|24AA391B,T-132036-00
+Earthworm Jim 2 (Europe)|AF235FDF,T-70446-50
+Earthworm Jim 2 (Europe) (Beta) (1995-08-24)|F92A931D,T-132056-50
+Earthworm Jim 2 (USA)|D57F8BA7,T-132056-00
+Ecco - The Tides of Time (Europe) (En,Fr,De,Es)|7B1BF89C,MK-1553-00
+Ecco - The Tides of Time (USA)|CCB21F98,MK-1553-00
+Ecco - The Tides of Time (USA) (Beta) (1994-04-13)|B5D64817,MK-1042-01
+Ecco - The Tides of Time (USA) (Beta) (1994-04-29)|5AF83ECB,MK-1042-01
+Ecco - The Tides of Time (USA) (Beta) (March, 1994)|8DB60749,MK-1042-01
+Ecco Jr. (USA, Australia)|6C6F4B89,MK-1554-00
+Ecco Jr. (USA, Australia) (Beta)|3C517975,MK-1554-00
+Ecco the Dolphin (Japan)|6520304D,G-4106-00
+Ecco the Dolphin (Japan) (Beta) (1993-04-21)|17E24509,MK-0000-00
+Ecco the Dolphin (USA, Europe, Korea) (En)|45547390,MK-1042-00
+Ecco the Dolphin (USA, Europe, Korea) (En) (Rev A) (Beta) (1993-06-29)|6FB62649,MK-1042-01
+Ecco the Dolphin II (Japan)|062D439C,G-4123-00
+ECCO2_U|CCB21F98
+eccojr|5B13FC7C
+El. Viento (USA)|363946B2
+El.Viento (Japan)|6091C36E,T-32063-00
+El.Viento (USA)|070A1CEB,T-32063-00
+Elemental Master (Japan)|5F553E29,T-18043-00
+Elemental Master (USA)|390918C6,T-49236-00
+Eliminate Down (Japan)|48467542,T-73033-00
+Elite (Unknown) (Tech Demo, Game)|9A0B03C1
+Elite (Unknown) (Tech Demo, Soaker)|C393EBEF
+Elite (Unknown) (Tech Demo, Viewer)|4A6A7DA3
+Elitserien 95 (Sweden)|E10A25C0,T-50976-00
+Elitserien 96 (Sweden)|9821D0A3,T-172096-00
+Empire of Steel (Europe)|E5517B77,T-081046-00
+Escape 2042 - The Truth Defenders (World) (En,Ja,Fr,Es) (Aftermarket) (Unl)|C51380E8,00000000-42
+Escape 2042 - The Truth Defenders (World) (En,Ja,Fr,Es) (Preview) (Aftermarket) (Unl)|0D81511C,00000000-42
+Escape from Mars Starring Taz (USA) (Beta) (1994-03-09)|E3C2271E,MK-1032-00
+Escape from Mars Starring Taz (USA) (Beta) (1994-04-18)|BFA776EC,MK-1032-00
+Escape from Mars Starring Taz (USA) (Beta) (1994-05-09)|11727086,MK-1032-00
+Escape from Mars Starring Taz (USA) (Beta) (1994-05-18)|6E2666DE,MK-1032-00
+Escape from Mars Starring Taz (USA) (Beta) (1994-05-23)|EA344FD2,MK-1032-00
+Escape from Mars Starring Taz (USA) (Beta) (1994-06-02)|39F345C2,MK-1546-00
+Escape from Mars Starring Taz (USA) (Beta) (1994-06-07)|3481E709,MK-1546-00
+Escape from Mars Starring Taz (USA) (Beta) (1994-06-10)|832F4CB4,MK-1546-00
+Escape from Mars Starring Taz (USA) (Beta) (1994-06-14)|2BADB65B,MK-1546-00
+Escape from Mars Starring Taz (USA) (Beta) (1994-06-18)|3C4B1E9C,MK-1546-00
+Escape from Mars Starring Taz (USA) (Beta) (1994-06-20)|F00F4203,MK-1546-00
+ESPN Baseball Tonight (USA)|96D8440C,T-93056-00
+ESPN National Hockey Night (USA)|1D08828C,T-93176-00
+ESPN National Hockey Night (USA) (Beta)|A427814A,T-93176-00
+ESPN Speed World (USA)|F50BE478,T-93166-00
+ESPN Speed World (USA) (Beta)|AB12849A,T-93166-00
+ESPN Sunday Night NFL (USA)|61E9C309,T-093046-00
+ESPN Sunday Night NFL (USA) (Beta)|D13AECDC,T-093046-00
+ESWAT - City under Siege (USA, Europe) (Rev A)|E72F8A36,00001110-01
+ESWAT_U|E72F8A36
+Eternal Champions (Europe)|B9512F5E,MK-1145-00
+Eternal Champions (Europe) (Beta)|E0665F06,MK-1145-00
+Eternal Champions (Japan, Korea) (Ja)|66AA3C64,G-4114-00
+Eternal Champions (Japan, Korea) (Ja) (Beta) (1993-11-17)|C486B439,G-4114-00
+Eternal Champions (USA)|48F1A42E,MK-1145-00
+EternalChampions_USA|48F1A42E
+Europa Sensen (Japan)|B0416C60,T-76113-10
+European Club Soccer (Europe)|6A5CF104,T-70046-00
+European Club Soccer (Europe) (Beta) (1991-10-25)|4E63F90A,00000001-01
+Evander Holyfield's 'Real Deal' Boxing (World)|4FEF37C8,MK-1215-00
+Ex-Mutants (USA, Europe)|33B1979F,MK-1074-00
+Ex-Mutants (USA, Europe) (Beta)|6EFBA291
+Ex-Ranza (Japan)|349BB68D,G-004097-00
+Ex-Ranza (Japan) (Beta)|C642FDF4,T-00000-00
+Exile (USA)|1B569DC2,T-49186-00
+Exile (USA) (Sega Channel)|8C6E2AA3,T-49186-00
+Exile - Toki no Hazama he (Japan)|880BF311,T-49093-00
+Exo Squad (Europe)|B599B9F9,T-132026-00
+Exo Squad (USA)|10EC03F3,T-132026-00
+Exo Squad (USA) (Beta)|70EDF964,T-132026-00
+Exodus - Journey to the Promised Land (USA) (Unl)|22E6FC04
+Eyra - The Crow Maiden (World) (Demo) (Aftermarket) (Unl)|E7891DB4,1549
+F-117 Night Storm (USA, Europe)|1BF67A07,T-50716-00
+F-117 Stealth - Operation - Night Storm (Japan)|EA6E421A,T--------00
+F-15 Strike Eagle II (Europe)|E98EE370,T-104036-04
+F-15 Strike Eagle II (USA)|412C4D60,T-104036-03
+F-15 Strike Eagle II (USA) (Beta) (1992-07-13)|FD4F5A01,00000001-00
+F-15 Strike Eagle II (USA) (Sample)|DC5F07BA,T-104036-03
+F-22 Interceptor (USA) (1991-09-17) (Sega Channel)|BD468C42,T-50276-00
+F-22 Interceptor (USA) (Beta)|D6A880A4,T-50276-00
+F-22 Interceptor - Advanced Tactical Fighter (Japan)|FB55C785,T-50276-00
+F-22 Interceptor - Advanced Tactical Fighter (USA) (F-205)|98FAE0E1,T-50276-00
+F-22 Interceptor - Advanced Tactical Fighter (USA, Europe) (F-202)|9CF552C2,T-50276-00
+F1 (Europe)|FBDD4520,T-880660-00
+F1 - World Championship Edition (Europe)|74CEE0A7,T-88146-50
+F1 - World Championship Edition (Europe) (Beta)|2269ED6B
+F1 - World Championship Edition (USA) (Proto 1)|2613C005,T-50016-00
+F1 - World Championship Edition (USA) (Proto 2)|5A72FCE8
+F1 Circus MD (Japan)|5D30BEFB,T-71013-00
+F1 Circus MD (USA) (Proto) (1991-12-28) (Sega Channel)|CD1A1AD8,T-71013-00
+Faery Tale Adventure, The (USA, Europe)|963F4969,T-50156-01
+Family Feud (USA)|1AA628B0,T-83076-00
+Fantasia (USA, Europe)|D351B242,MK-1021-00
+Fantasia (World) (1991-06-17) (Sega Channel)|34E04627,MK-1021-00
+Fantasia (World) (Rev A)|FC43DF2D,MK-1021-01
+Fantastic Dizzy (USA, Europe) (Beta)|831C20D6,00000000-00
+Fantastic Dizzy (USA, Europe) (En,Fr,De,Es,It)|46447E7A,00000000-00
+Fastest 1 (Japan)|BB43F0DE,T-43023-00
+Fatal Fury (Europe, Korea) (En)|71AA889E,MK-1083-00
+Fatal Fury (USA)|98D49170,T-103016-00
+Fatal Fury 2 (USA, Korea) (En)|1B1754CB,T-103046-00
+Fatal Labyrinth (USA, Europe)|5F0BD984,00001309-00
+Fatal Rewind (USA, Europe)|E91AED05,T-50256-00
+Fatal Rewind (USA, Europe) (Rev 1)|21DBB69D,T-50256-00
+FATALLAB_JU|5F0BD984
+Fatman (Japan)|7867DA3A,T-44013-00
+Feng Kuang Tao Hua Yuan (Taiwan) (Unl)|2F15BB22,0001-0001
+Feng Shen Ying Jie Chuan (Taiwan) (Unl)|6A382B60
+Ferias Frustradas do Pica Pau (Brazil)|B03507C4
+Ferrari Grand Prix Challenge (Europe)|250111DF,T-81016-00
+Ferrari Grand Prix Challenge (USA)|F73F6BEC,T-81016-00
+Fever Pitch Soccer (Europe) (En,Fr,De,Es,It)|FAC29677,T-79196-50
+Fido Dido (USA) (Proto)|C6D4A240,T-33086-00
+FIFA 2003 (Unknown) (Es) (Unl) (Pirate)|419BCB02,T-28216-00
+FIFA 98 - Road to World Cup (Europe) (En,Fr,Es,It,Sv)|96947F57,T-172206-00
+FIFA International Soccer (Japan) (En,Ja)|B555E8B4,T--------00
+FIFA International Soccer (USA, Europe) (En,Fr,De,Es)|BDDBB763,T-50706-00
+FIFA Soccer 2000 (Russia) (En,Fr,De,Es,It,Sv) (Unl) (Pirate)|647DF504,T-183457-01
+FIFA Soccer 95 (Korea) (En,Fr,De,Es)|012591F9,T-50916-01
+FIFA Soccer 95 (USA, Europe) (En,Fr,De,Es)|B389D036,T-50916-00
+FIFA Soccer 96 (USA, Europe) (En,Fr,De,Es,It,Sv)|BAD30FFA,T-172086-00
+FIFA Soccer 97 (USA, Europe) (En,Fr,De,Es,It,Sv)|A33D5803,T-172156-01
+FIFA Soccer 99 (Unknown) (Unl) (Pirate)|C5C5A4B0,T-172086-00
+Fight for Vengeance (World) (Demo) (Aftermarket) (Unl)|23F95374
+Fighting Masters (Japan, Korea) (Ja)|39BE80EC,T-24063-00
+Fighting Masters (USA)|5F51983B,T-24056-00
+Final Blow (Japan) (En)|48AD505D,T-11033-00
+Final Blow (Japan) (En) (Beta) (1990-01-16)|A26E957D,T-11033-00
+Fire Mustang (Japan)|EB7E36C3,T-11123-00
+Fire Shark (Europe)|2351CE61,T-34016-00
+Fire Shark (USA)|9C175146,T-34016-00
+Flash Point (Japan) (En) (Proto)|0655074D,00004007-00
+Flashback (Europe) (En,Fr)|EDE60E88,T-79066-50
+Flashback (Europe) (En,Fr) (Beta) (1992-09-18)|82095CB6,XXXXXXXX-XX
+Flashback (Japan)|B790E3B4,T-15083
+Flashback - The Quest for Identity (USA) (En,Fr)|9FEFB1AB,T-79066
+Flicky (USA, Europe)|4291C8AB,00001022-00
+FLICKY_UE|4291C8AB
+Flink (Europe) (En,Fr,De)|BEF9A4F4,T-113046-00
+Flink (Europe) (En,Fr,De) (Beta)|47B47AFC
+Flintstones, The (Europe) (Taito)|21845D61,MK-1088-50
+Flintstones, The (Japan) (Taito)|920A3031,T-11173-00
+Flintstones, The (USA) (Beta) (1992-11-05) (Taito)|41A2A7EE,G-4015-00
+Flintstones, The (USA) (Proto) (Ocean)|9281FF45,00001014-00
+Flintstones, The (USA) (Taito)|7C982C59,T-11116-00
+Foreman for Real (World)|BA6EAECA,T-81506-00
+Forgotten Worlds (World)|D0EE6434,00004016-00
+Forgotten Worlds (World) (Rev A)|95513985,00004016-01
+Formula One (USA)|CCD73738,T-088066-00
+Frank Thomas Big Hurt Baseball (USA, Europe)|863E0950,T-81476-00
+Frog Dude (Europe) (Proto)|C5E80CE2
+Frogger (USA)|EA2E48C0,T-50901-00
+Frogger (USA) (Rev 1)|FD75BC31,T-50901-00
+From TV Animation Slam Dunk - Kyougou Makkou Taiketsu! (Japan)|CDF5678F,T-133037-00
+Fun 'n Games (Europe)|DA4AB3CD,T-93126-00
+Fun 'n' Games (USA)|B5AE351D,T-97056-00
+Fun Car Rally (USA) (Beta)|42E27845,XXXXXXXX-XX
+Funny World & Balloon Boy (USA) (Unl)|A82F05F0,WISEGAME-11-03-1993
+Fushigi no Umi no Nadia (Japan)|8DEC9C35,4762062A,T-14083-00
+Futbol Argentino (Argentina) (Unl) (Pirate)|A35C2B2F,T-95196-50
+Futbol Argentino 96 (Argentina) (Unl) (Pirate)|65071CCC,G-5540-00
+Futbol Argentino 98 - Pasion de Multitudes (Argentina) (Unl) (Pirate)|5C015888,T-50916-00
+FX Unit Yuki - The Henshin Engine (World) (Aftermarket) (Unl)|2906876B,00000000-00
+FZ Senki Axis ~ Final Zone (Japan, USA) (En)|731FA4A1,T-32013-00
+G-LOC - Air Battle (World)|F2AF886E,MK-1120-00
+G-LOC - Air Battle (World) (1992-11-23) (Sega Channel)|C6BC06FD,MK-1120-00
+G-LOC - Air Battle (World) (Beta)|175C7E63,00000000-00
+Gadget Twins (USA)|7AE5E248,T-83036-00
+Gaiares (Japan, USA) (En)|5D8BF68B,T-49013-03
+Gain Ground (Europe)|AEE20A64,00004036-00
+Gain Ground (Japan) (En)|8641A2AB,00004036-00
+Gain Ground (USA)|83E7B8AE,00004036-00
+Gain Ground (USA) (Beta) (1990-07-27)|F5C0B45F,00000000-00
+GAING_UE|83E7B8AE
+Galaxy Force II (Japan) (En)|CAE883C5,T-68013-00
+Galaxy Force II (Japan) (En) (Virtual Console)|BC3646BB,T-68013-00
+Galaxy Force II (USA, Europe) (PC Rerelease)|E4D84E4A,T-68013-01
+Galaxy Force II (World) (Rev B)|D15F5C3C,T-68013-01
+GalaxyForceII_UE|E4D84E4A
+Gambler Jiko Chuushinha - Katayama Masayuki no Mahjong Doujou (Japan)|05650B7A,T-45013-00
+Game no Kanzume Otokuyou (Japan) (Sega Channel)|CDAD7E6B,T-68???-??
+Garfield - Caught in the Act (USA, Europe)|F0FF078E,MK-1556-00
+Garfield - Caught in the Act (USA, Europe) (Beta) (1995-09-11)|4A633F40,MK-1556-00
+Gargoyles (USA)|2D965364,T-239056-00
+Garou Densetsu - Shukumei no Tatakai (Japan)|BF3E3FA4,G-4100
+Garou Densetsu 2 - Aratanaru Tatakai (Japan)|2AF4427F,T-146023-00
+Garry Kitchen's Super Battletank - War in the Gulf (USA)|B0B5E3C9,T-86016-00
+Gauntlet (Japan) (En,Ja)|F9872055,T-48123-00
+Gauntlet (Japan) (En,Ja) (Beta)|7D478079,T-57192-00
+Gauntlet IV (USA, Europe) (Beta)|F9D60510,T-48123-00
+Gauntlet IV (USA, Europe) (En,Ja)|3BF46DCE,T-48216-00
+GAXE2_W|725E0A18
+GAXE3_J|C7862EA3
+GAXE_W|665D7DF9
+Gemfire (USA)|3D36135B,T-76036-10
+General Chaos (USA, Europe)|F1ECC4DF,T-50626-00
+General Chaos Daikonsen (Japan)|05CC7369,T-106253-00
+Generations Lost (USA, Europe)|131F36A6,T-48326-00
+Genghis Khan II - Clan of the Gray Wolf (USA)|87A281AE,T-76066-00
+Gensou Senki Kokou no Ryuu - Crying Dragon (Japan) (Proto)|888193BC,00000000-00
+George Foreman's KO Boxing (Europe)|BD556381,T-081116-00
+George Foreman's KO Boxing (USA)|E1FDC787,T-081116-00
+Ghostbusters (Japan)|00419DA3,00004030-00
+Ghostbusters (USA, Europe)|792DF93B,00004030-01
+Ghostbusters (USA, Europe) (Beta) (1990-05-01)|4FC33173,00004030-01
+Global Gladiators (Europe)|5C218C6A,T-70066-00
+Gluf (World) (Aftermarket) (Unl)|F8FE1043,00000000-00
+Go Net (Japan)|DB30F773,4533
+Gods (Europe)|6C415016,T-119036-50
+Gods (Japan)|E4F50206,T-85013-00
+Gods (USA)|FD234CCD,T87016-00
+Gods (USA) (Beta)|2C06BB64,T87016-00
+Golden Axe (World)|E8182B90,00054018-00
+Golden Axe (World) (Beta) (1989-10-14)|B01B26FF,00054018-00
+Golden Axe (World) (Beta) (1989-11-22)|3E640C09,00054018-00
+Golden Axe (World) (Rev A)|665D7DF9,00054018-01
+Golden Axe (World) (Rev B) (Sega Smash Pack)|31227079,00054018-02
+Golden Axe II (World)|725E0A18,00001122-00
+Golden Axe II (World) (Beta)|E62EA1BB
+Golden Axe III (Europe) (Virtual Console)|1D90DC83,00004093-00
+Golden Axe III (Japan) (En)|C7862EA3,00004093-00
+Goofy's Hysterical History Tour (USA)|4E1CC833,T-86066-00
+Gouketsuji Ichizoku (Japan)|ABE9C415,T-144013-00
+Granada (Japan, USA) (En)|7F45719B,T-32023-00
+Granada (Japan, USA) (En) (Rev A)|E89D1E66,T-32023-01
+Granada (Japan, USA) (En) (Rev A) (Beta)|129A37DD,T-32023-01
+GrandSlam - The Tennis Tournament '92 (Japan)|30CF37D0,T-49133-00
+GrandSlam - The Tennis Tournament (Europe)|8C2670DE,MK-1217-00
+Great Circus Mystery - Mickey to Minnie Magical Adventure 2 (Japan)|5AA0F3A0,T-12063-00
+Great Circus Mystery Starring Mickey & Minnie, The (USA)|14744883,T-12076-00
+Great Waldo Search, The (USA)|8C5C93B8,00000001-00
+Greatest Heavyweights (Europe)|9778C181,MK-1228-00
+Greatest Heavyweights (Japan)|7EF8B162,G-5538-00
+Greatest Heavyweights (USA)|6E3621D5,MK-1228-00
+Greendog - The Beached Surfer Dude! (USA, Europe)|C4820A03,MK-1035-00
+Grind Stormer (USA)|7E6BEF15,T-048256-00
+Growl (USA)|F60EF143,T-11076-00
+Growl (USA) (Beta) (1991-08-26)|AA973DE7,T-11076-00
+Gunfight 3 in 1 (Taiwan) (En) (Unl)|E5785D45
+Gunship (Europe)|DA1440C9,T-79086-50
+Gunstar Heroes (Europe)|866ED9D0,MK-01077-00
+Gunstar Heroes (Japan)|1CFD0383,G-004103-00
+Gunstar Heroes (Japan) (Sample) (April, 1993)|6F90B502,00001105-03
+Gunstar Heroes (USA)|B813CF0D,MK-01077-00
+Gunstar Heroes U|B813CF0D
+Gynoug (Europe)|03405102,MK-1030-00
+Gynoug (Japan)|1B69241F,T-25093-00
+Handy Harvy (World) (Aftermarket) (Unl)|CEB61752
+Hard Drivin' (World)|3225BAAF,T-48026-00
+HardBall '94 (USA, Europe)|EA9C4878,T-119086-00
+HardBall '95 (USA)|ED10BC9E,T-119176-00
+HardBall! (USA, Europe) (Unl)|BD1B9A04,ACLD003-00
+Hardwired (USA, Europe) (Beta)|2BFF8B7C
+Haunting Starring Polterguy (USA, Europe)|C9FC876D,T-50616-00
+Havoc (Europe)|76E6D20D,T-120056-00
+Head-On Soccer (USA)|DCFFA327,T-79196
+Heavy Nova (USA)|F6B6A9D8,T-22053-00
+Heavy Unit - Mega Drive Special (Japan)|1ACBE608,T-27013-00
+Hei Tao 2 - Super Big 2 (Taiwan) (Unl)|31449113
+Hellfire (Europe)|CF30ACEC,MK-1137-00
+Hellfire (Japan)|8E5E13BA,T-25073-00
+Hellfire (USA)|184018F9,T-35036-00
+Hercules 2 (Taiwan) (En) (Unl)|292623DB
+Herzog Zwei (Japan)|4CF676B3,T-18023-00
+Herzog Zwei (USA, Europe)|A605B65B,MK-1400-00
+High Seas Havoc (USA)|17BE551C,T-13076-00
+High Seas Havoc (USA) (Beta)|89418D48,00000000-00
+Hit the Ice - VHL - The Official Video Hockey League (USA)|85B23606,T-11096-00
+Hokuto no Ken - Shin Seikimatsu Kyuuseishu Densetsu (Japan)|1B6585E7,00004012-00
+Home Alone (USA, Europe)|AA0D4387,MK-1046-00
+Home Alone (USA, Europe) (Beta) (July, 1992)|3A235FB9,XXXXXXX-00
+Home Alone 2 - Lost in New York (USA)|CBF87C14,MK-1536-00
+Home Alone 2 - Lost in New York (USA) (1993-09-29) (Sega Channel)|C2F37AE2,MK-1536-00
+Honoo no Toukyuuji - Dodge Danpei (Japan)|630F07C6,00004076-00
+Hook (Europe)|A154433A,T-93026-50
+Hook (USA)|2C48E712,T-93026-01
+Huan Le Tao Qi Shu - Smart Mouse (Taiwan) (Unl)|DECDF740
+Humans, The (USA)|A0CF4366,T-83046-00
+Hurricanes (Europe)|DECCC874,T-079136-00
+Hybrid Front, The (Japan)|A1F1CFE7,G-5541-00
+Hybrid Front, The (Japan) (Beta)|04F02687,00001022-00
+Hyokkori Hyoutan-jima - Daitouryou wo Mezase! (Japan)|72253BDB,G-4075-00
+Hyper Dunk (Europe)|F27C576A,T-95126-00
+Hyper Dunk - The Playoff Edition (Japan)|5BAF53D7,T-95083-00
+Hyper Dunk - The Playoff Edition (Japan) (Beta) (February, 1994)|DB124BBB,T-95096-00
+Hyper Marbles (Japan) (Game no Kanzume Otokuyou)|9ED72146,00054503-00
+Hyper Marbles (Japan) (SegaNet)|83BB2799,00054503-00
+I Love Mickey and Donald - Fushigi na Magic Box (Japan)|CB9EE238,G-4080-00
+I Love Mickey and Donald - Fushigi na Magic Box (Japan) (Rev 1)|277BDB4C,G-4080-01
+I Love Mickey Mouse - Fushigi no Oshiro Daibouken (Japan)|CE8333C6,00004042-00
+Ikasuze! Koi no Doki Doki Penguin Land MD (Japan) (Game no Kanzume Otokuyou)|22736650,00054503-00
+Ikasuze! Koi no Doki Doki Penguin Land MD (Japan) (SegaNet)|0053BFD6,00054503-00
+IMG International Tour Tennis (USA, Europe)|E04FFC2B,T-50836-00
+Immortal, The (USA, Europe)|F653C508,T-50186-00
+Incredible Crash Dummies, The (USA, Europe)|1F6E574A,T-081246-00
+Incredible Crash Dummies, The (USA, Europe) (Beta)|623A920F,????????-??
+Incredible Hulk, The (USA, Europe)|84A5A2DC,T-79106-00
+Indiana Jones and the Last Crusade (Europe)|EB8F4374,T-79046-50
+Indiana Jones and the Last Crusade (USA)|3599A3FD,T-79046-00
+Insector X (Japan, Korea) (Ja)|9625C434,T-28023-00
+Insector X (USA)|70626304,T-28026-00
+Instruments of Chaos Starring Young Indiana Jones (USA)|4E384EF0,MK-1048-00
+Instruments of Chaos Starring Young Indiana Jones (USA) (Beta) (1993-09-23)|14443A29,MK-1048-00
+Instruments of Chaos Starring Young Indiana Jones (USA) (Beta) (1993-12-28)|51CA641C,MK-1048-00
+Instruments of Chaos Starring Young Indiana Jones (USA) (Beta) (1993-12-28) (Alt)|F285AD46,MK-1048-00
+Instruments of Chaos Starring Young Indiana Jones (USA) (Beta) (1993-12-29)|94B02351,MK-1048-00
+Instruments of Chaos Starring Young Indiana Jones (USA) (Beta) (1994-01-01)|263F1A4C,MK-1048-00
+Instruments of Chaos Starring Young Indiana Jones (USA) (Beta) (1994-01-03)|3C46D83D,MK-1048-00
+Instruments of Chaos Starring Young Indiana Jones (USA) (Beta) (1994-01-26)|F3498542,MK-1048-00
+Instruments of Chaos Starring Young Indiana Jones (USA) (Beta) (1994-01-27)|F43112C3,MK-1048-00
+Instruments of Chaos Starring Young Indiana Jones (USA) (Beta) (July, 1992)|AD6C2050,XXXXXXX-00
+International Rugby (Europe)|D97D1699,T-88056-50
+International Sensible Soccer (Europe) (En,Fr,De,It)|04E3BCCA,T-93146-00
+International Superstar Soccer Deluxe (Europe, Brazil) (En)|9BB3B180,T-95196-50
+Ishido - The Way of Stones (USA) (Unl)|B1DE7D5E
+It Came from the Desert (USA) (Proto)|25AFB4F7,T-XXXXX-XX
+Itchy & Scratchy Game, The (USA) (Proto)|81B7725D,T-081286-00
+Ivanhoe (World) (Proto) (Aftermarket) (Unl)|FD9FF851,00000000-00
+Izzy's Quest for the Olympic Rings (USA, Europe)|77B416E4,T-79156-00
+J. League Champion Soccer (Japan)|453C405E,T-105013-00
+J. League Pro Striker (Japan)|EC229156,00005518-00
+J. League Pro Striker (Japan) (Rev A)|2D5B7A11,00005518-03
+J. League Pro Striker 2 (Japan)|9FE71002,G-5540-00
+J. League Pro Striker Perfect (Japan)|0ABED379,00005532-00
+Jack Nicklaus' Power Challenge Golf (USA, Europe)|5545E909,T-119016-00
+James 'Buster' Douglas Knockout Boxing (USA, Europe)|87BBCF2A,MK-1204-00
+James Bond 007 - The Duel (Europe)|291A3E4B,T-088016-00
+James Bond 007 - The Duel (USA)|4E614548,T-048156-00
+James Pond - Underwater Agent (USA, Europe)|D0E7B466,T-50126-01
+James Pond 3 (USA, Europe)|26F64B2A,T-50646-00
+James Pond II (Japan, Korea) (Ja)|98794702,T-106123-00
+James Pond II - Codename - Robocod (USA, Europe)|F4ABEDBA,T-50296-00
+Jammit (USA)|D91B52B8,T-70296-00
+Janou Touryuumon (Japan)|B5EF97C6,G-4096-00
+Jantei Monogatari (Japan)|8A1B19AD,T-49033-01
+Jashin Draxos (Japan, Korea) (Ja)|1EA07AF2,T-50466-01
+Jelly Boy (Europe) (Proto)|7CFADC16,00000000-00
+Jennifer Capriati Tennis (USA)|AB2ABC8E,T-49226-00
+Jeopardy! (USA)|56CFF3F1,T-83026-00
+Jeopardy! - Deluxe Edition (USA)|25E2F9D2,T-83116-00
+Jeopardy! - Sports Edition (USA)|13F924D2,T-83126-00
+Jerry Glanville's Pigskin Footbrawl (USA)|E7F48D30,T-56056-00
+Jesse 'The Body' Ventura - Wrestling Superstars (USA) (Proto) (1992-03-02)|65242680,T-34036-00
+Jewel Master (Japan)|2CF6926C,G-4047-00
+Jewel Master (USA, Europe)|CEE98813,MK-1025-00
+Jim Power - The Arcade Game (USA) (Proto)|1CF3238B,T-24083-00
+Jim Power - The Lost Dimension in 3D (World) (Aftermarket) (Unl)|F9CD7079,T-107036-00
+Jimmy White's Whirlwind Snooker (Europe)|0AEF5B1F,T-70206-00
+Jiu Ji Ma Jiang II - Ye Yan Bian (Taiwan) (Unl)|E9829B22
+Joe & Mac (USA)|85BCC1C7,T-103036-00
+Joe Montana Football (World)|8AA6A1DD,MK-1205-00
+Joe Montana II - Sports Talk Football (World) (Rev A)|A45DA893,MK-1209-01
+Joe Montana II Sports Talk Football (World)|F2363A4A,MK-1209-00
+John Madden Football '92 (USA, Europe)|046E3945,T-50316-00
+John Madden Football '93 (USA, Europe)|CA323B3E,T-50446-00
+John Madden Football (USA, Europe)|90FB8818,T-50016-00
+John Madden Football (USA, Europe) (1990-11-07) (Sega Channel)|E361DB13,T-50056-00
+John Madden Football - Championship Edition (USA)|CA534B1A,T-50516-00
+John Madden Football - Pro Football (Japan)|0460611C,T-50316-00
+Jordan vs Bird (USA, Europe)|22D77E6D,T-50346-0
+Jordan vs Bird (USA, Europe) (Rev A)|4D3DDD7C,T-50346-1
+Jordan vs Bird - One on One (Japan)|8837E896,T-106223-00
+Joshua & the Battle of Jericho (USA) (Unl)|DA9E25AA
+Journey from Darkness - Strider Returns (USA)|42589B79,T-79036
+Judge Dredd (World)|EA342ED8,T-81306-00
+Judge Dredd (World) (Beta)|8D46F4DA,XXXXXXXX-XX
+JuJu Densetsu (Japan) (En)|D09B1EF1,MK-1127-00
+Junction (Japan, USA) (En)|94CDCE8D,T-22023-00
+Jungle Book, The (Europe)|B9709A99,T-70176-00
+Jungle Book, The (Europe) (Beta)|20B97D87,T-70176-00
+Jungle Book, The (USA)|3FB6D92E,T-70176-00
+Jungle Book, The (World) (Disney Classic Games)|F48EB5DA
+Jungle Strike (USA, Europe)|A5D29735,T-50576-00
+Jungle Strike (USA, Europe) (Beta)|0CD540D4,T-XXXXX-XX
+Jungle Strike - Uketsugareta Kyouki (Japan)|BA7A870B,T-106203-00
+Junker's High (Japan) (En) (Beta 1)|23534949,T-101016-00
+Junker's High (Japan) (En) (Beta 2)|73022C67
+Jurassic Park (Europe)|448341F6,MK-1056-00
+Jurassic Park (Europe) (1993-06-14) (Sega Channel)|64B8BEB5,MK-1056-00
+Jurassic Park (Japan)|EC8E5783,MK-1056-00
+Jurassic Park (USA)|7B31DEEF,MK-1056-00
+Jurassic Park (USA) (1993-05-26) (Sega Channel)|B44968E7,MK-1056-00
+Jurassic Park (USA) (Beta) (June, 1993)|CF890EED,MK-1056-00
+Jurassic Park - Rampage Edition (USA, Europe)|98B4AA1B,MK-1557-00
+Jurassic Park - Rampage Edition (USA, Europe) (Beta) (1994-06-20)|1280FA5C,xx-xxxx-xx
+Jurassic Park - Rampage Edition (USA, Europe) (Beta) (1994-06-22)|53582F2B,xx-xxxx-xx
+Jurassic Park - Rampage Edition (USA, Europe) (Beta) (1994-06-30)|BFF4B396,xx-xxxx-xx
+Jurassic Park - Rampage Edition (USA, Europe) (Beta) (1994-07-08)|F4C78BD0,MK-1557-00
+Jurassic Park - Rampage Edition (USA, Europe) (Beta) (1994-07-13)|8475A105,MK-1557-00
+Jurassic Park - Rampage Edition (USA, Europe) (Beta) (1994-07-14)|9BF0E28D,MK-1557-00
+Jurassic Park - Rampage Edition (USA, Europe) (Beta) (1994-07-15)|D2202BE5,MK-1557-00
+Jurassic Park - Rampage Edition (USA, Europe) (Beta) (1994-07-17)|2EAE6140,MK-1557-00
+Jurassic Park - Rampage Edition (USA, Europe) (Beta) (1994-07-18)|1A62B826,MK-1557-00
+Justice League Task Force (World)|88BB241F,T-81456-00
+Juuouki (Japan)|1B7C96C0,00054002-00
+Juuouki (Japan) (Rev A)|B2233E87,00054002-01
+Juusou Kihei Leynos (Japan)|81A2C800,T-25013-00
+Juusou Kihei Leynos (Japan) (Virtual Console)|AF5018F6,T-25013-00
+Ka-Ge-Ki (Japan)|391866A1,T-47026-00
+Ka-Ge-Ki - Fists of Steel (USA)|EFFC0FA6,T-47026-00
+Kawasaki Superbike Challenge (USA, Europe)|631CC8E9,T-48356-00
+Kawasaki Superbike Challenge (USA, Europe) (Beta)|55934D1B,T-000000-00
+Kick Boxing, The (Japan, Korea) (Ja)|9BDC230C,T-49143-00
+Kick Off 3 - European Challenge (Europe) (Beta)|B69A43B8,T-150016-00
+Kick Off 3 - European Challenge (Europe) (En,Fr,De,Es,It)|BC37401A,T-23086-50
+Kid Chameleon (USA, Europe)|CE36E6CC,MK-1010-00
+Kid Chameleon (USA, Europe) (Beta) (1991-12-19)|2E1F3AA9,MK-1010-00
+KIDCHAM_UE|CE36E6CC
+Kidou Keisatsu Patlabor - 98-Shiki Kidou Seyo! (Japan)|21A0E749,T-16013-00
+Killing Game Show, The (Japan)|B8E7668A,T-106213-00
+King of Fighters '99, The (Taiwan) (Unl)|AB82AFBE
+King of Fighters 2000, The (Taiwan) (Unl)|34CBAC5D
+King of Fighters 98', The (Taiwan) (Unl)|CBC38EEA
+King of the Monsters (Europe)|7A94FD49,MK-1086-50
+King of the Monsters (Japan)|3AF7E74E,G-4104-00
+King of the Monsters (USA)|F390D406,T-103026-00
+King of the Monsters 2 (USA)|EE1638AC,T-103056-00
+King Salmon (Japan)|2CFC9F61,T-28053-00
+King Salmon - The Big Catch (USA)|F516E7D9,T-23026-00
+King's Bounty - The Conqueror's Quest (USA, Europe)|AA68A92E,T-50136-01
+Kishi Densetsu (Japan)|22E1F04A,T-46033-00
+Kiss Shot (Japan) (SegaNet)|E487088C,00054503-00
+Klax (Japan) (Namco)|1AFCC1DA,T-14063-00
+Klax (USA, Europe) (Tengen)|248CD09E,T-48016-00
+Klax (USA, Europe) (Tengen) (Beta) (1990-06-21)|B6B9C758,T-48016-00
+Koutetsu Teikoku (Japan)|755D0B8A,T-28033-00
+Kromasphere (World) (Aftermarket) (Unl)|9DAB89E3
+Krusty's Super Fun House (USA, Europe)|F764005E,T-081036-00
+Krusty's Super Fun House (USA, Europe) (Rev A)|56976261,T-081036-01
+Kujaku Ou 2 - Geneijou (Japan)|AFFD56BC,00004017-00
+Kuuga - Operation Code 'Vapor Trail' (Japan)|83B6B6BA,T-49043-00
+Kyuukai Douchuuki (Japan)|DE48DCE3,T-14103-00
+Kyuukai Douchuuki (Japan) (Rev 1) (Beta) (Sega Channel)|CCCAB8AE,T-14103-00
+Kyuukyoku Tiger (Japan)|61276D21,T-24033-00
+L'Abbaye des Morts (World) (Aftermarket) (Unl)|8865EE24,LGM-01-0-v1.00
+La Russa Baseball 95 (USA, Australia)|3F848A92,T-50846-00
+Lakers versus Celtics and the NBA Playoffs (USA, Europe)|0E33FC75,T-50046-00
+Lakers versus Celtics and the NBA Playoffs (USA, Europe) (Beta)|E818B0AA,T-50046-00
+Landstalker (USA)|FBBB5B97,MK-1353-00
+Landstalker (USA) (1993-07-13) (Sega Channel)|8866FB16,MK-1353-00
+Landstalker (USA) (Beta) (1993-02-24)|70483D03,MK-1353
+Landstalker (USA) (Genesis Mini)|F2D14A6A,MK-1353-00
+Landstalker - Die Schatze von Konig Nolo (Germany)|10FEDB8F,MK-1353-00
+Landstalker - Die Schatze von Konig Nolo (Germany) (Mega Drive Mini)|FC64BB8C,MK-1353-00
+Landstalker - Koutei no Zaihou (Japan)|60D4CEDB,00005517-005
+Landstalker - Koutei no Zaihou (Japan) (Mega Drive Mini)|B0AFA45A,00005517-00
+Landstalker - Le Tresor du Roi Nole (France)|5DE7D917,MK-1353-00
+Landstalker - Le Tresor du Roi Nole (France) (Mega Drive Mini)|365D282A,MK-1353-00
+Landstalker - The Treasures of King Nole (Europe)|E3C65277,MK-1353-00
+Landstalker - The Treasures of King Nole (Europe) (Mega Drive Mini)|1EC0EC97,MK-1353-00
+LandStalker_USA|FBBB5B97
+Langrisser (Japan)|B6EA5016,T-25103-00
+Langrisser II (Japan)|7F891DFC,T-025143-00
+Langrisser II (Japan) (Rev A)|0CAA0593,T-025143-01
+Langrisser II (Japan) (Rev B)|4967C9F9,T-025143-02
+Langrisser II (Japan) (v1.2)|E8F28522
+Last Action Hero (USA, Europe)|15357DDE,T-93066-00
+Last Battle (USA, Europe, Korea) (En)|BBFAAD77,00004012-00
+Lawnmower Man, The (USA, Europe)|A7CACD59,T-48336-00
+Legend of Galahad, The ~ Galahad (USA, Europe)|679557BC,T-50406-01
+Legend of Wukong (World) (Aftermarket) (Unl)|72F11771,SF-002
+Legende de Thor, La (France)|B97CCA1C,MK-1354-00
+Legende de Thor, La (France) (Mega Drive Mini)|A9359029,MK-1354-00
+Lemmings (Europe)|6A1A4579,MK-1704-00
+Lemmings (Japan, Korea) (En)|68C70362,T-15063-01
+Lemmings (USA)|F015C2AD,T-15063-00
+Lemmings 2 - The Tribes (Europe)|741EB624,T-113036-00
+Lemmings 2 - The Tribes (USA)|DE59A3A3,T-113036-00
+Lethal Enforcers (Europe)|CA2BF99D,T-95096-00
+Lethal Enforcers (Japan)|F25F1E49,T-95073-00
+Lethal Enforcers (USA)|51D9A84A,T-95096-00
+Lethal Enforcers (USA) (Beta) (1993-08-13)|F4010503,T-95096-FF
+Lethal Enforcers II - Gun Fighters (Europe)|4BFE045C,T-95136-00
+Lethal Enforcers II - Gun Fighters (USA)|E5FDD28B,T-95136-00
+LHX Attack Chopper (Japan)|224FF103,T-106153-00
+LHX Attack Chopper (USA, Europe)|70C3428D,T-50416-00
+Liberty or Death (USA)|2ADB0364,T-76106-00
+Light Crusader (Europe) (En,Fr,De,Es)|52C7252B,MK-01187-00
+Light Crusader (Europe) (En,Fr,De,Es) (Mega Drive Mini)|600E5709,MK-01187-00
+Light Crusader (Japan)|237076A4,G-005545-00
+Light Crusader (Japan) (Mega Drive Mini)|F6550938,G-005545-00
+Light Crusader (Korea) (En,Ko)|6D0CBCB2,G-005545-00
+Light Crusader (USA)|BEB715DC,MK-01187-00
+Light Crusader (USA) (Beta) (1995-06-08)|E350CCFA,MK-01187-00
+Light Crusader (USA) (Genesis Mini)|84390291,MK-01187-00
+LightCrusader_USA|BEB715DC
+Lightening Force - Quest for the Darkstar (USA)|C8F8C0E0,MK-1143
+Lightening Force - Quest for the Darkstar (World) (Sega Ages)|CA90FF51,T-18063-00
+Ling Huan Daoshi - Super Magican (Taiwan) (Unl)|E24AC6B2
+Link Dragon (Taiwan) (En) (Unl)|1B86E623
+Lion King 3 (Taiwan) (En) (Unl)|C004219D
+Lion King II (Taiwan) (En) (Unl)|AFF46765
+Lion King, The (World)|5696A5BC,T-70316-00
+Lion King, The (World) (Disney Classic Games)|5D4287E6,T-70316-00
+Little Medusa (World) (Aftermarket) (Unl)|931DD919,00000000-00
+Little Medusa (World) (Demo) (Aftermarket) (Unl)|B9F6C84D,00000000-00
+Lobo (USA) (Proto)|B5E09338,T-83126-00
+Lobo (USA) (Proto) (Alt)|A366DBCA,T-83126-00
+Lord Monarch - Tokoton Sentou Densetsu (Japan)|238BF5DB,G-005534-00
+Lost Vikings, The (Europe) (Beta)|17BED25F,T-.oOOo.
+Lost Vikings, The (Europe) (En,Fr,De)|1F14EFC6,T-70226-50
+Lost Vikings, The (USA) (November, 1993)|7BA49EDB,T-125016-00
+Lost Vikings, The (USA) (October, 1995)|63729B74,T-119216-00
+Lost World, The - Jurassic Park (USA, Europe)|140A284C,MK-1846-00
+Lotus II (USA, Europe)|1D8EE010,T-50746-00
+Lotus II (USA, Europe) (Beta)|2997B7D4,?-?????-??
+Lotus Turbo Challenge (USA, Europe)|A3CF6E9C,T-50476-03
+Lufia & the Fortress of Doom (USA) (Proto)|2B4C3EC1,T000000-00
+M-1 Abrams Battle Tank (USA, Europe)|1E2F74CF,MK-1402-01
+Ma Jiang Qing Ren - Ji Ma Jiang Zhi (Taiwan) (Unl)|DDD02BA4,0001-0001
+Ma Qiao E Mo Ta - Devilish Mahjong Tower (Taiwan) (Unl)|12E35994
+Mad Stalker - Full Metal Forth (World) (Aftermarket) (Unl)|64E7F1CD,MDMFF-BK-05
+Madden NFL '94 (USA, Europe)|D14B811B,T-50676-00
+Madden NFL 95 (USA, Europe)|DB0BE0C2,T-50926-00
+Madden NFL 96 (USA, Europe)|F126918B,T-172076-00
+Madden NFL 97 (USA, Europe)|C4B4E112,T-172136-00
+Madden NFL 98 (USA)|E051EA62,T-172196-00
+Madou Monogatari I (Japan)|DD82C401,T-66023-00
+Magic Bubble (Taiwan) (En) (Unl)|3EC61DC1,4024-00
+Magic Girl Featuring Ling Ling the Little Witch (World) (Aftermarket) (Unl)|8362D852,SF-008
+Magic Pockets (World) (Aftermarket) (Unl)|E0FF2F6B,00000000-00
+Magic School Bus, The - Space Exploration Game (USA)|1A5D4412,MK-1558-00
+Magic School Bus, The - Space Exploration Game (USA) (Beta) (1995-01-12)|946346F9,MK-0000-00
+Magic School Bus, The - Space Exploration Game (USA) (Beta) (1995-02-02)|7805B5C9,MK-0000-00
+Magic School Bus, The - Space Exploration Game (USA) (Beta) (1995-02-17)|2B7A88C0,MK-0000-00
+Magic School Bus, The - Space Exploration Game (USA) (Beta) (1995-03-07)|26C71EB8,MK-0000-00
+Magic School Bus, The - Space Exploration Game (USA) (Beta) (1995-03-14)|37A6A1AF,MK-0000-00
+Magic School Bus, The - Space Exploration Game (USA) (Beta) (1995-03-27)|B065DA40,MK-0000-00
+Magic School Bus, The - Space Exploration Game (USA) (Beta) (1995-03-31)|CD788DEF,MK-0000-00
+Magic School Bus, The - Space Exploration Game (USA) (Beta) (1995-04-11)|883023BC,MK-0000-00
+Magic School Bus, The - Space Exploration Game (USA) (Beta) (1995-04-21)|7844B7AD,MK-1558-00
+Magic School Bus, The - Space Exploration Game (USA) (Beta) (1995-04-25)|B6BD2D87,MK-1558-00
+Magic School Bus, The - Space Exploration Game (USA) (Beta) (1995-04-28)|9B6BAE87,MK-1558-00
+Magic School Bus, The - Space Exploration Game (USA) (Beta) (1995-05-05)|A2315F1C,MK-1558-00
+Magical Hat no Buttobi Turbo! Daibouken (Japan)|E43E853D,G-4041-00
+Magical Taruruuto-kun (Japan)|F11060A5,G-4068-00
+Mahjong Cop Ryuu - Shiro Ookami no Yabou (Japan)|1CCBC782,G-4015-00
+Mallet Legend's Whac-a-Critter ~ Mallet Legend (USA, Taiwan) (En) (Unl)|1BDD02B8
+Mamono Hunter Youko - Dai 7 no Keishou (Japan)|10BB359B,T-25053-00
+Man Overboard! (Europe)|CAE0E3A6,T-120076-50
+Maou Renjishi (Japan)|24A7F28C,T-11143-00
+Marble Madness (Japan)|775BC464,T-48113-00
+Marble Madness (USA, Europe)|79EBA28A,T-50306-00
+Mario Andretti Racing (USA, Europe)|7F1DC0AA,T-50806-00
+Mario Lemieux Hockey (USA, Europe)|F664EB6C,MK-1210-00
+Marko (USA)|2B8C8CCE,T-88086-00
+Marko's Magic Football (Europe) (En,Fr,De,Es)|2307B905,T-88086-00
+Marko's Magic Football (Europe) (En,Fr,De,Es) (Beta)|0273E564,T-XXXXX-00
+Marsupilami (Europe) (En,Fr,De,Es,It)|E09BBD70,MK-1841-00
+Marsupilami (USA) (En,Fr,De,Es,It)|C76558DF,MK-1841-00
+Marvel Land (Japan)|5D162D21,T-14093-01
+Marvel Land (USA)|CD7EEEB7,T-14046-00
+Mary Shelley's Frankenstein (USA)|48993DC3,T-93086-00
+Master of Monsters (Japan)|D51EE8C2,T-63013-03
+Master of Monsters (Japan) (Beta) (1991-04-26)|BD1683A8,T-63013-00
+Master of Monsters (USA)|91354820,T-63013-03
+Master of Weapon (Japan)|12AD6178,T-11063-00
+Maten no Soumetsu (Japan)|B804A105,T-46023-00
+Math Blaster - Episode 1 (USA)|D055A462,T-152016-00
+Mazin Saga (Asia) (En)|36459B59,G-4078-00
+Mazin Saga (Japan, Korea) (Ja)|45B3A34B,G-4078-00
+Mazin Saga - Mutant Fighter (USA)|1BD9FEF1,T-23036-00
+Mazin Wars (Europe)|4B07A105,MK-1069-00
+McDonald's Treasure Land Adventure (Europe)|6AB6A8DA,MK-01067-00
+McDonald's Treasure Land Adventure (Japan)|FEBCFD06,G-004102-00
+McDonald's Treasure Land Adventure (Japan) (Beta)|7BF477E8,00001105-03
+McDonald's Treasure Land Adventure (USA)|04EF4899,MK-1067-00
+Medal City (Japan) (SegaNet)|3EF4135D,00054503-00
+Mega 3D Noah's Ark (Unknown) (Aftermarket) (Unl)|409165C2,GS-MNOA-01
+Mega 6 Vol. 3 (Europe)|80174799,MK-1195
+Mega Bomberman (Europe, Korea) (En)|54AB3BEB,MK-1573-00
+Mega Bomberman (USA)|4BD6667D,MK-1573-00
+Mega Bomberman - Special 8-Player-Demo (Europe) (Proto)|F65128E4
+Mega Cheril Perils (World) (En,Es) (Aftermarket) (Unl)|77AFA0B1,MK-0000-00
+Mega Games 2 (Europe)|30D59F2F,MK-1707-50
+Mega Games 3 (Europe, Asia) (En)|B4247D98,MK-1708-50
+Mega Games 6 (Europe)|B66FB80D,MK-1188
+Mega Games 6 Vol. 2 (Europe)|E8D10DB9,MK-1189
+Mega Games I (Europe)|DB753224,00000000-00
+Mega lo Mania (Japan)|A60D8619,T-68053-00
+Mega Man - The Wily Wars (Europe)|D5D47D23,DCF6E8B2,T-12046-00
+Mega Man - The Wily Wars (USA) (Genesis Mini)|0CD405DB,T-12053-00
+Mega Marble World (World) (Aftermarket) (Unl)|438C7511,MK-0000-00
+Mega SWIV (Europe)|78C2F046,T-48366-00
+Mega Turrican (Europe)|B1D15D0F,T-93246-50
+Mega Turrican (Japan) (En) (Proto) (1993-05-18)|3BA35ACD,00000001-00
+Mega Turrican (USA)|FE898CC9,T-13086-00
+Mega Turrican (USA, Europe) (Virtual Console)|11326504,T-13086-00
+Mega-lo-Mania (Europe)|2148D56D,T-70056-00
+Mega-lo-Mania (Europe) (Beta)|AB9FED30,C-19921-01
+Mega-lo-Mania (France)|3B3231ED,T-70056-00
+MegaMind (Japan) (SegaNet)|76DF2AE2,00054503-00
+MegaPanel (Japan)|6240F579,T-14073-00
+MegaTrax (Japan)|A0837741,T-14113-00
+Menacer - 6-Game Cartridge (USA, Europe)|936B85F7,MK-1658-00
+Meng Huan Shui Guo Pan - 777 Casino (Taiwan) (Unl)|42DC03E4
+Metal Blast 2277 (World) (Beta) (Aftermarket) (Unl)|0DE1117F,MK-0000-00
+Metal Blast 2277 (World) (Rev 1) (Aftermarket) (Unl)|DFD4FE49,MK-0000-00
+Metal Fangs (Japan)|A8DF1C4C,T-60033-01
+Michael Jackson's Moonwalker (Japan, USA) (En)|6A70791B,00004028-00
+Michael Jackson's Moonwalker (Japan, USA) (En) (Beta) (1990-04-24)|DC7ED8C1,00004017-00
+Michael Jackson's Moonwalker (World) (Rev A)|11CE1F9E,00004028-01
+Mick & Mack as the Global Gladiators (USA)|40F17BB3,T-70066-00
+Mick & Mack as the Global Gladiators (USA) (Beta)|08C2AF21,T-70066-00
+Mickey Mania (Europe)|CB5A8B85,T-93216-00
+Mickey Mania - The Timeless Adventures of Mickey Mouse (Japan)|23180CF7,G-4131-00
+Mickey Mania - The Timeless Adventures of Mickey Mouse (USA)|629E5963,T-93156-00
+Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) (Beta) (July, 1994)|7FC1BDF0,T-113016-50
+Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) (Beta) (September, 1994)|BAB821F2,T-113016-50
+Mickey's Ultimate Challenge (USA)|30B512EE,T112046-00
+Micro Machines (Europe)|7FFBD1AD,00000000-00
+Micro Machines (Europe) (Alt 2)|50081A0B,00000000-00
+Micro Machines (Europe) (Alt)|E5CF560D,00000000-00
+Micro Machines (USA)|82FE2D3F
+Micro Machines (USA) (Rev 1)|54E4CFF1,00000000-00
+Micro Machines - Military (Europe) (Beta) (1995)|B33D01BC,00000000-00
+Micro Machines - Military (Europe) (J-Cart)|B3ABB15E,00000000-00
+Micro Machines - Turbo Tournament 96 (Europe) (J-Cart)|7492B1DE,00000000-00
+Micro Machines - Turbo Tournament 96 (Europe) (Rev 1) (J-Cart)|23319D0D,00000000-00
+Micro Machines 2 - Turbo Tournament (Europe)|01C22A5D,T-120096-50
+Micro Machines 2 - Turbo Tournament (Europe) (Beta)|51C9F851,00000000-00
+Micro Machines 2 - Turbo Tournament (Europe) (J-Cart)|42BFB7EB,T-120096-50
+Midnight Resistance (Japan)|8F3F6E4D,T-13043-00
+Midnight Resistance (USA)|187C6AF6,T-13016-00
+Midway Presents Arcade's Greatest Hits (Europe)|C0DCE0E5,T-97126-50
+Mig-29 Fighter Pilot (Europe) (En,Fr,De,Es,It,Nl,Sv,Fi)|70B0A5D7,T-088026-00
+Mig-29 Fighter Pilot (Japan)|3D239046,T-48133-00
+Mig-29 Fighter Pilot (USA)|59CCABB2,T-088026-00
+Might and Magic - Gates to Another World (USA, Europe)|F509145F,T-50166-01
+Might and Magic III - Isles of Terra (USA) (Proto)|6EF7104A,T-XXXXX-XX
+Mighty Morphin Power Rangers (Europe)|7F96E663,MK-1570-00
+Mighty Morphin Power Rangers (Europe) (Beta) (1994-08-10)|E79CD214,MK-1570-00
+Mighty Morphin Power Rangers (USA)|715158A9,MK-1570-00
+Mighty Morphin Power Rangers (USA) (Beta) (1994-07-08)|E6916C54,T-xxxxx-xx
+Mighty Morphin Power Rangers (USA) (Beta) (1994-07-18)|5ACCDB1A,T-xxxxx-xx
+Mighty Morphin Power Rangers (USA) (Beta) (1994-08-04)|F3AE5AAF,MK-1570-00
+Mighty Morphin Power Rangers (USA) (Beta) (1994-08-08)|57644549,MK-1570-00
+Mighty Morphin Power Rangers (USA) (Beta) (1994-08-09)|4356FE0A,MK-1570-00
+Mighty Morphin Power Rangers - The Fighting Edition (Russia) (En) (Unl)|1046D696
+Mighty Morphin Power Rangers - The Movie (Europe)|254A4972,MK-1578-00
+Mighty Morphin Power Rangers - The Movie (USA)|AA941CBC,MK-1578-00
+Mighty Morphin Power Rangers - The Movie (USA) (Beta) (1995-07-13)|227BF7FD,T-133037-00
+Mighty Morphin Power Rangers - The Movie (USA) (Beta) (1995-07-17)|579DE657,MK-1578-00
+Mighty Morphin Power Rangers - The Movie (USA) (Beta) (1995-07-22)|C2CA3A8B,MK-1578-00
+Mighty Morphin Power Rangers - The Movie (USA) (Beta) (1995-07-24)|3429FA3A,MK-1578-00
+Mike Ditka Power Football (USA, Europe) (Unl)|6078B310,ACLD005-00
+Mike Ditka Power Football (USA, Europe) (Unl) (Alt)|DE50CA8E,ACLD005-00
+Minato no Traysia (Japan)|BD89FD09,T-49073-00
+Miniplanets (World) (Rev 2) (Aftermarket) (Unl)|48460E4A,SIK-MINI-02
+Miniplanets (World) (Rev 3) (Aftermarket) (Unl)|8EA40D2F,SIK-MINI-03
+Minnesota Fats - Pool Legend (USA)|38174F40,T-13106-00
+Miracle Piano Teaching System, The (USA)|A719542E,T-87056-00
+Misplaced (Russia) (Aftermarket) (Unl)|1997B949,RS333444-01
+Misplaced (World) (Aftermarket) (Unl)|D79FD3EC,RS333444-01
+MK5 - Mortal Kombat Mythologies - Sub-Zero (Taiwan) (En) (Unl)|11E367A1
+MLBPA Baseball (USA)|14A8064D,T-50816-00
+Mondu's Fight Palace (USA) (Beta) (1990-07-03)|754188F9,T-380160-00
+Monopoly (USA)|C10268DA,T-89026-00
+Monopoly (USA) (Beta)|DFBCC3FA,T-89026-00
+Monster World IV (Japan)|C94A35BF,36A3AAA4,G-5519-00
+Monster World IV (USA) (Genesis Mini)|D26A32B6,G-9999-00
+Monster World IV (USA, Europe) (En,Ja) (Virtual Console)|AF050C46,G-9999-00
+MonsterLair_JUE|C24BC5E4
+MonsterWorld3|45A50F96
+MonsterWorld3_USA|1592F5B0
+Mortal Kombat (USA, Europe) (Rev A) (Beta)|33F19AB6,T-81186-01
+Mortal Kombat (World)|1AA3A207,T-81186-00
+Mortal Kombat (World) (Beta)|195B0397
+Mortal Kombat 3 (Europe)|AF6DE3E8,T-81536-50
+Mortal Kombat 3 (USA)|DD638AF6,T-097116-00
+Mortal Kombat 3 (USA) (Beta)|7AB140E1
+Mortal Kombat II (World)|1867B4D9,A9E013D8,T-081346-00
+Mr. Nutz (Europe)|0786EA0B,T-164016-00
+Mr. Nutz - Hoppin' Mad (Europe) (Proto)|2BFCAA3E,00000001-00
+Ms. Pac-Man (USA, Europe)|AF041BE6,T-48036-00
+Mugen Senshi Valis (Japan)|24431625,T-49083-00
+Muhammad Ali Heavyweight Boxing (Europe)|A920C852,T-70096-00
+Muhammad Ali Heavyweight Boxing (USA)|B638B6A3,T-70056-00
+Muhammad Ali Heavyweight Boxing (USA) (Beta 1)|7B852653,T-XXXXX-XX
+Muhammad Ali Heavyweight Boxing (USA) (Beta 2)|BE6E8F2B,T-XXXXX-XX
+Mulan (Taiwan) (Unl)|796882B8
+MUSHA - Metallic Uniframe Super Hybrid Armor (USA)|58A7F7B4,T-35046-00
+MUSHA - Metallic Uniframe Super Hybrid Armor (USA, Europe) (Switch Online)|EE61BAEA,T-35046-00
+Musha Aleste - Full Metal Fighter Ellinor (Japan)|8FDE18AB,T-35013-00
+Musha Aleste - Full Metal Fighter Ellinor (Japan) (Switch Online)|12C68EEE,T-35013-00
+Mutant League Football (Japan)|2A97E6AF,T-106183-00
+Mutant League Football (USA, Europe)|DCE29C9D,T-50566-00
+Mutant League Hockey (USA, Europe)|3529180F,T-50766-00
+Mystic Defender (USA, Europe)|F9CE1AB8,00001011-00
+Mystic Defender (USA, Europe) (Beta) (1989-09-14)|5AC0D238,00001011-00
+Mystic Defender (USA, Europe) (Rev A)|50FD5D93,00001011-01
+Mystical Fighter (USA)|B2F2A69B,T-11143-00
+Nakajima Satoru Kanshuu - F-1 Grand Prix (Japan)|93BE47CF,T-72013-00
+Nakajima Satoru Kanshuu - F-1 Hero MD (Japan)|24F87987,T-72023-00
+Nakajima Satoru Kanshuu - F-1 Super License (Japan)|8774BC79,T-72033-00
+NBA Action '94 (USA)|99C348BA,MK-1221-00
+NBA Action '94 (USA) (Beta) (1994-01-04)|2491DF2F,MK-1221-00
+NBA Action '94 (USA) (Beta) (1994-01-16)|FE43C79D,MK-1221-00
+NBA Action '95 Starring David Robinson (USA, Europe)|AA7006D6,MK-1236-00
+NBA Action '95 Starring David Robinson (USA, Europe) (Beta) (1994-11-18)|2D411E4B,0000000-70
+NBA Action '95 Starring David Robinson (USA, Europe) (Beta) (1994-11-23)|4650CFCC,0000000-77
+NBA Action '95 Starring David Robinson (USA, Europe) (Beta) (1994-12-02)|04BF6F6E,0000000-7a
+NBA Action '95 Starring David Robinson (USA, Europe) (Beta) (1994-12-09)|2B198487,0000000-7f
+NBA Action '95 Starring David Robinson (USA, Europe) (Beta) (1994-12-15)|10A3B46D,0000000-80
+NBA Action '95 Starring David Robinson (USA, Europe) (Beta) (1994-12-22)|F92BA323,MK-1236-00
+NBA Action '95 Starring David Robinson (USA, Europe) (Beta) (1994-12-24)|DDB04550,MK-1236-00
+NBA Action '95 Starring David Robinson (USA, Europe) (Beta) (1994-12-29)|DCEBE32A,MK-1236-00
+NBA Action '95 Starring David Robinson (USA, Europe) (Beta) (1994-12-30)|D87956C9,0000000-90
+NBA Action '95 Starring David Robinson (USA, Europe) (Beta) (1994-12-31)|582A378F,MK-1236-00
+NBA Action '95 Starring David Robinson (USA, Europe) (Beta) (1995-01-03)|374AF160,0000000-92
+NBA Action '95 Starring David Robinson (USA, Europe) (Beta) (1995-01-08)|0A6B7B9E,0000000-99
+NBA Action '95 Starring David Robinson (USA, Europe) (Beta) (1995-01-12)|B47FF025,0000000-a2
+NBA Action '95 Starring David Robinson (USA, Europe) (Beta) (1995-01-15)|9C6A1F27,MK-1236-00
+NBA Action '95 Starring David Robinson (USA, Europe) (Beta) (1995-01-18)|C4A0A624,MK-1236-00
+NBA Action '95 Starring David Robinson (USA, Europe) (Beta) (1995-01-21)|E337BDFB,MK-1236-00
+NBA Action '95 Starring David Robinson (USA, Europe) (Beta) (1995-01-22)|7BD7CA47,MK-1236-00
+NBA Action '95 Starring David Robinson (USA, Europe) (Beta) (1995-01-24)|15ABCF41,MK-1236-00
+NBA Action '95 Starring David Robinson (USA, Europe) (Beta) (1995-01-27)|EF7F608B,MK-1236-00
+NBA Action '95 Starring David Robinson (USA, Europe) (Beta) (1995-01-27) (Alt)|79C7FB00,MK-1236-00
+NBA Action '95 Starring David Robinson (USA, Europe) (Beta) (1995-01-28)|57C2C69C,MK-1236-00
+NBA Action '95 Starring David Robinson (USA, Europe) (Beta) (1995-01-28) (Alt)|97D7075D,MK-1236-00
+NBA Action '95 Starring David Robinson (USA, Europe) (Beta) (1995-01-30)|2FAC80B2,MK-1236-00
+NBA Action '95 Starring David Robinson (USA, Europe) (Beta) (1995-02-01)|2C02A79D,MK-1236-00
+NBA Action '95 Starring David Robinson (USA, Europe) (Beta) (1995-02-02)|A9167903,MK-1236-00
+NBA All-Star Challenge (USA, Europe)|C4674ADF,T-081126-00
+NBA Hang Time (Europe)|EDB4D4AA,T-97136-50
+NBA Hang Time (USA)|176B0338,T-97136-00
+NBA Jam (Japan)|A6C6305A,T-81033-00
+NBA Jam (USA, Europe)|10FA248F,T-081326-00
+NBA Jam (USA, Europe) (Beta) (April, 1993)|E35F7EEE,T-XXXXX-00
+NBA Jam (USA, Europe) (Rev 1)|EB8360E6,T-081326-01
+NBA Jam - Tournament Edition (World)|E9FFCB37,T-81406-00
+NBA Live 95 (Korea)|779C1244,T-50936-00
+NBA Live 95 (USA, Europe)|66018ABC,T-50936-00
+NBA Live 96 (USA, Europe)|49DE0062,T-172056-00
+NBA Live 97 (USA, Europe)|7024843A,T-172166-00
+NBA Live 98 (USA)|23473A8A,T-172186-00
+NBA Playoffs - Bulls vs Blazers (Japan)|4565CE1F,T-106173-00
+NBA Pro Basketball '94 (Japan)|EEA19BCE,T--------00
+NBA Pro Basketball - Bulls vs Lakers and the NBA Playoffs (Japan)|4416CE39,T-106133-00
+NBA Showdown '94 (USA, Europe)|160B7090,T-50756-00
+NCAA Final Four Basketball (USA)|ED0C1303,T-158016-00
+NCAA Football (USA)|081012F0,T-87106-00
+Nekketsu Koukou Dodgeball-bu - Soccer Hen MD (Japan)|F49C3A86,T-74033-00
+New 3D Golf Simulation - Devil's Course (Japan)|BD090C67,G-5527-00
+New 3D Golf Simulation - Harukanaru Augusta (Japan)|D2A9BF92,T-114033-00
+New 3D Golf Simulation - Pebble Beach no Hatou (Japan)|96ED2E5D,G-5525-00
+New 3D Golf Simulation - Waialae no Kiseki (Japan)|CBE2C1F6,G-5529-00
+New Horizons (USA)|EAD69824,T-76126-00
+Newman Haas IndyCar featuring Nigel Mansell (World)|1233A229,T-081366-00
+NewZealand Story, The (Japan)|1C77AD21,T-11013-00
+NFL '95 (USA)|B58E4A81,MK-1237-00
+NFL '95 (USA) (Beta) (1994-08-01)|5A57EA4E,T-00000-00
+NFL '95 (USA) (Beta) (1994-08-05)|88D51773,T-00000-00
+NFL '95 (USA) (Beta) (1994-08-10)|A3C5710B,T-00000-00
+NFL '95 (USA) (Beta) (1994-08-12)|CC86A259,T-00000-00
+NFL '95 (USA) (Beta) (1994-08-12) (Alt)|3D23633B,T-00000-00
+NFL '95 (USA) (Beta) (1994-08-17)|A6015C29,T-00000-00
+NFL '95 (USA) (Beta) (1994-08-17) (Alt)|655966C8,T-00000-00
+NFL '95 (USA) (Beta) (1994-08-22)|B01434E5,T-00000-00
+NFL '95 (USA) (Beta) (1994-08-30)|D0E0A436,MK-1237-00
+NFL '95 (USA) (Beta) (1994-08-31)|C360521E,MK-1237-00
+NFL '95 (USA) (Beta) (1994-09-01)|9240FCAA,MK-1237-00
+NFL '95 (USA) (Beta) (1994-09-02)|FF049A49,MK-1237-00
+NFL '95 (USA) (Beta) (1994-09-04)|60604D40,MK-1237-00
+NFL '95 (USA) (Beta) (1994-09-05)|123985A5,MK-1237-00
+NFL '95 (USA) (Beta) (1994-09-05) (Alt)|DBDF61AC,MK-1237-00
+NFL '95 (USA) (Beta) (1994-09-06)|624B8699,MK-1237-00
+NFL '95 (USA) (Beta) (1994-09-07)|AE8AA4BE,MK-1237-00
+NFL '95 (USA) (Beta) (1994-09-08)|22C5E289,MK-1237-00
+NFL '95 (USA) (Beta) (1994-09-09)|55DF1066,MK-1237-00
+NFL '95 (USA) (Beta) (1994-09-11)|111AC6A0,MK-1237-00
+NFL '95 (USA) (Beta) (1994-09-11) (Alt)|21614C4F,MK-1237-00
+NFL 98 (USA)|F73EC54C,MK-1243-00
+NFL 98 (USA) (Beta)|9F605018
+NFL Football '94 (Japan)|E490DC4A,MK-1225-00
+NFL Football '94 (Japan) (1993-11-04) (Sega Channel)|2C50EBF6,MK-1225-00
+NFL Football '94 Starring Joe Montana (USA)|0D486ED5,MK-1225-00
+NFL Pro Football '94 (Japan)|96C947F3,T-106263-00
+NFL Quarterback Club (World)|21979ABB,T-081276-00
+NFL Quarterback Club 96 (USA, Europe)|D5A37CAB,T-081586-00
+NFL Sports Talk Football '93 Starring Joe Montana (USA, Europe)|CE0B1FE1,MK-1216-00
+NFL Sports Talk Football '93 Starring Joe Montana (USA, Europe) (Rev A)|646AE909,MK-1216-01
+NHK Taiga Drama - Taiheiki (Japan)|09FBB30E,G-1D5511-00
+NHL '94 (USA, Europe)|9438F5DD,T-50656-00
+NHL '94 (USA, Europe) (Re-release)|7B344D0C,T-50656-00
+NHL 95 (USA, Europe)|E8EE917E,T-50856-00
+NHL 96 (USA, Europe)|8135702C,T-172036-00
+NHL 97 (USA, Europe)|F067C103,T-172146-03
+NHL 98 (USA)|7B64CD98,T-172176-00
+NHL All-Star Hockey 95 (USA)|E6C0218B,MK-1230-00
+NHL All-Star Hockey 95 (USA) (Beta) (1994-09-14)|5D4BC48D,XXXXXXXX-XX
+NHL All-Star Hockey 95 (USA) (Beta) (1994-09-29)|96BAE44F,XXXXXXXX-XX
+NHL All-Star Hockey 95 (USA) (Beta) (1994-10-01)|B1C0FBB2,XXXXXXXX-XX
+NHL All-Star Hockey 95 (USA) (Beta) (1994-10-21)|17EB2238,XXXXXXXX-XX
+NHL All-Star Hockey 95 (USA) (Beta) (1994-11-07)|E8F2C88F,XXXXXXXX-XX
+NHL All-Star Hockey 95 (USA) (Beta) (1994-11-09)|82624073,MK-1230-00
+NHL All-Star Hockey 95 (USA) (Beta) (1994-11-19)|CD0F588A,MK-1230-00
+NHL All-Star Hockey 95 (USA) (Beta) (1994-11-21)|CFE4059D,MK-1230-00
+NHL All-Star Hockey 95 (USA) (Beta) (1994-11-22)|81D30FE6,MK-1230-00
+NHL All-Star Hockey 95 (USA) (Beta) (1994-11-23)|88D4FC38,MK-1230-00
+NHL All-Star Hockey 95 (USA) (Beta) (1994-11-27)|658FFE52,MK-1230-00
+NHL All-Star Hockey 95 (USA) (Beta) (1994-11-28)|51AD0056,MK-1230-00
+NHL All-Star Hockey 95 (USA) (Beta) (1994-11-29)|A060A60B,MK-1230-00
+NHL All-Star Hockey 95 (USA) (Beta) (1994-12-01)|C209D720,MK-1230-00
+NHL All-Star Hockey 95 (USA) (Beta) (1994-12-01) (Alt)|112E4CB3,MK-1230-00
+NHL All-Star Hockey 95 (USA) (Beta) (1994-12-02)|01D6A6C7,MK-1230-00
+NHL Hockey (USA)|2641653F,T-50236-00
+NHL94 - 1999|9A33D1D3
+NHL94 - 2000|877C59D4
+NHL94 - 2009|9D7AC63A
+NHL94 - 2010|AA504499
+NHL94 - 2011|23E7330F
+NHL94 - 2012|E12EB1C1
+NHL94 - 2013|9242A355
+NHL94 - 2014|C3A619F9
+NHL94 - 2015|0F3C84FF
+NHL94 - 2016|9C9BC3D5
+NHL94 - 2017|FD58A9EB
+NHL94 - 2019|A07741C5
+NHL94 - 3vs3|BDCFA1E8
+NHLPA Hockey 93 (USA, Europe)|CBBF4262,T-50396-00
+NHLPA Hockey 93 (USA, Europe) (Rev A)|F361D0BF,T-50396-01
+NHLPA Hockey 93 (USA, Europe) (Rev A) (Sample)|93E509EA,T-50236-00
+Nigel Mansell's World Championship Racing (Europe)|3FE3D63B,T-95186-00
+Nigel Mansell's World Championship Racing (USA)|6BC57B2C,T-83066-00
+Nightmare Circus (Brazil) (En)|06DA3217,MK-1575-00
+Nightmare Circus (Brazil) (En) (Beta 1)|EE96F1B8,T-000000-00
+Nightmare Circus (Brazil) (En) (Beta 2)|31DE5A94,MK-1575-00
+Nikkan Sports Pro Yakyuu VAN (Japan)|C3655A59,G-4522-00
+Ninja Burai Densetsu (Japan)|A8D828A0,G-4524-00
+Ninja Burai Densetsu (Japan) (Beta) (1991-05-28)|49089471,00005502-00
+Ninja Gaiden (Japan) (En) (Proto)|0D7F74BA,00000000-00
+No Escape (USA)|44EE5F20,T-113086-00
+Nobunaga no Yabou - Bushou Fuuunroku (Japan)|30BF8637,T-76013-10
+Nobunaga no Yabou - Haouden (Japan)|96C01FC6,T-76153-00
+Nobunaga no Yabou - Zenkoku Ban (Japan)|1381B313,T-76133-00
+Nobunaga's Ambition (USA)|B9BC07BC,T-76076-00
+Normy's Beach Babe-O-Rama (USA, Europe)|B56A8220,T-50786-00
+Nuclear Rush (USA) (Proto) (1994-08-06)|A2DD6D09,MK-1831-00
+Nyuushi Chokuzen Check - Nanmon Kimon Kiki Kaikai (Japan) (Sega Channel)|47AEBFCB,T-19401J00
+Oh Mummy Genesis (World) (Aftermarket) (Unl)|B7F68B29,00000000-00
+Old Towers (World) (Aftermarket) (Unl)|C66D9C37,00000000-00
+Old Towers (World) (v1.1) (Aftermarket) (Unl)|1A7E29FC,00000000-00
+Old Towers (World) (v1.2) (Aftermarket) (Unl)|D875E97D,76334511-12
+Olympic Gold (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)|924E57D3,T-79016-50
+Olympic Gold (Japan, USA) (En,Fr,De,Es,It,Nl,Pt,Sv)|339594B4,T-79016-00
+Olympic Gold (Japan, USA, Korea) (En,Fr,De,Es,It,Nl,Pt,Sv) (Rev A)|E9C925B8,T-79016-00
+Olympic Summer Games (Europe)|CC506D37,T-100116-50
+Olympic Summer Games (USA)|9E470FB9,T-100116-00
+On Dal Jang Goon (Korea)|67CCB1CA,00001011-00
+Onslaught (USA, Europe) (Unl)|9F19D6DF,ACLD004-00
+Ooze, The (Europe)|E16B102C,MK-1572-50
+Ooze, The (Europe) (Beta) (1995-07-28)|7CF868E7,MK-1572-50
+Ooze, The (Japan, USA) (En)|1C0DD42F,MK-1572-00
+Ooze, The (USA) (Beta) (1995-06-15)|921106FD,MK-1572-00
+Ooze, The (USA) (Beta) (1995-06-19)|FA39281D,MK-1572-00
+Ooze, The (USA) (Beta) (1995-06-22)|CE1F139F,MK-1572-00
+Ooze, The (USA) (Beta) (1995-06-26)|70419442,MK-1572-00
+Ooze, The (USA) (Beta) (1995-06-29)|CA93E93B,MK-1572-00
+Ooze, The (USA) (Beta) (1995-06-29) (Alt)|1776763B,MK-1572-00
+Operation Europe - Path to Victory 1939-45 (USA)|E7CBA1D8,T-76096-00
+Osomatsu-kun Hachamecha Gekijou (Japan)|2453350C,00004005-01
+Ottifants, The (Europe) (De) (Beta)|C6E3DD23,MK1531-00
+Ottifants, The (Europe) (En,Fr,De,Es,It)|41AC8003,MK1531-00
+Out of the Vortex (USA) (Proto)|3EAAB03E,????????-??
+Out of This World (USA)|2DA36E01,T-70106-00
+Out of This World (USA) (Beta)|4FFDF6B6,00000000-00
+Outback Joey (USA)|10ABD93F,T-122026-00
+Outlander (USA)|FE6F2350,T-87036-00
+Outlander (USA) (Beta)|C5BA7BBF,T-87036-00
+OutRun (Japan)|EE7D9F4A,00004052-00
+OutRun (USA, Europe)|FDD9A8D2,00004052-00
+OutRun (USA, Europe) (Sega Smash Pack)|E6821FB1,00004052-00
+OutRun 2019 (Europe)|5CB3536A,MK-1118-50
+OutRun 2019 (Japan)|0EAC7440,T-44033-00
+OutRun 2019 (USA)|E32E17E2,MK-1118-00
+OutRun 2019 (USA) (Beta)|D2ECDDFA,MK-1118-00
+OutRunners (Japan)|E164A09F,G-4119-00
+OutRunners (USA)|EDE636B9,T-13096-00
+Ozaki Naomichi no Super Masters (Japan)|088BA825,00004014-00
+P.T.O. - Pacific Theater of Operations (USA)|D9D4C6E2,T-76056-00
+Pac-Attack (USA)|79587507,T-14116-00
+Pac-Man 2 - The New Adventures (USA)|FE7A7ED1,T-14126-00
+Pac-Mania (USA, Europe)|74BBA09B,T-48056-00
+Pac-Panic (Europe)|EBD6D5BA,T-14116-00
+Pachinko Kuunyan (Japan)|9D137E7F,T-73013-02
+Paddle Fighter (Japan) (Game no Kanzume Otokuyou)|EBEF05A4,00054503-00
+Paddle Fighter (Japan) (SegaNet)|3D8147E6,00054503-00
+Pagemaster, The (Europe)|79A180E2,MK-1180-00
+Pagemaster, The (USA)|75A96D4E,T-161016-00
+Pagemaster, The (USA) (Beta)|E0A3385A,T-161016-00
+Panorama Cotton (Japan)|135F3568,9E57D92E,T-15103-00
+Panorama Cotton (Japan) (Beta) (1993-11-27)|54D82F86,00000000-00
+Paperboy (Japan)|E14250AE,T-48086-00
+Paperboy (USA, Europe)|0A44819B,T-48086-00
+Paperboy (USA, Europe) (Beta) (1991-10-28)|9856D9EA,T-48086-00
+Paperboy 2 (USA, Europe)|1DE28BB1,T-48176-00
+Papi Commando (World) (Aftermarket) (Unl)|EC16D540,MK-0000-00
+Papi Commando (World) (Demo) (Aftermarket) (Unl)|6FA66BDC,MK-0000-00
+Papi Commando - Second Blood (World) (Demo) (Aftermarket) (Unl)|C50676B1,MK-0000-00
+Papi Commando Reload - TECTOY Demo (World) (Demo) (Aftermarket) (Unl)|D73E6AD5,00000000-00
+Papi Commando Remix (World) (Aftermarket) (Unl)|D15C6391,MK-0000-00
+Papi Commando Remix Deluxe (World) (Aftermarket) (Unl)|227A251B,MK-0000-00
+Papi Commando Remix Deluxe (World) (v1.1) (Aftermarket) (Unl)|6C8EE0B0,MK-0000-00
+Party Quiz Mega Q (Japan)|9D4B447A,00004107-00
+Pat Riley Basketball (USA)|3D9318A7,MK-1201-00
+Pat Riley Basketball (USA) (Beta) (1990-06-14)|00F4C7CC,MK-1201-00
+Payne Stewart Pro Golf (USA) (Proto 1)|1EE27E49,XXXXXXXX-XX
+Payne Stewart Pro Golf (USA) (Proto 2)|602F556A,XXXXXXXX-XX
+Pebble Beach Golf Links (Europe)|6CFC7297,MK-1231-00
+Pebble Beach Golf Links (USA)|95823C43,MK-1231-00
+Pebble Beach Golf Links (USA) (Rev A) (1994-02-14) (Sega Channel)|D124CE9C,MK-1231-01
+Pele II - World Tournament Soccer (USA, Europe)|05A486E9,T-119096-00
+Pele! (USA, Europe)|5A8ABE51,T-119046-00
+Pele! (USA, Europe) (Sample)|D2BBB00E,ACLD???-00
+Pepenga Pengo (Japan)|D1E2324B,G-4133-00
+Perlin & Pinpin - The Robin Tower - Back to School (World) (Demo 1) (Aftermarket) (Unl)|7C95BD0D,00000000-00
+Perlin & Pinpin - The Robin Tower - Back to School (World) (Demo 2) (Aftermarket) (Unl)|4EB5EC1F,00000000-00
+Perlin & Pinpin - The Robin Tower - Case Closed [somehow] (World) (Demo) (Aftermarket) (Unl)|FE9D15ED,00000000-00
+Pete Sampras Tennis (Europe) (Rev 2) (MDSTEE13)|AA8B19BC,T-120066-03
+Pete Sampras Tennis (USA, Europe) (MDST6636) (J-Cart)|94E505B2,00000000-00
+Pete Sampras Tennis (USA, Europe) (Rev 1) (MDST17FF) (J-Cart)|9EF5BBD1,00000000-00
+PGA European Tour (USA, Europe)|8CA45ACD,T-50796-00
+PGA Tour 96 (USA, Europe)|9698BBDE,T-172066-00
+PGA Tour Golf (USA, Europe) (PGA07)|0489FF8E,T-50086-01
+PGA Tour Golf (USA, Europe) (PGA09)|C1F0B4E1,T-50086-02
+PGA Tour Golf II (Japan)|C05B7A4A,T-106113-00
+PGA Tour Golf II (USA, Europe)|16B2D816,T-50486-00
+PGA Tour Golf II (USA, Europe) (Rev A)|E82B8606,T-50486-01
+PGA Tour Golf III (USA, Europe)|AEB3F65F,T-50946-00
+Phantasy Star - Sennenki no Owari ni (Japan)|F0BFAD42,G-5524-00
+Phantasy Star - Sennenki no Owari ni (Japan) (Mega Drive Mini)|B23CD7AA,G-5524-00
+Phantasy Star - Sennenki no Owari ni (Japan) (PC Rerelease)|FE45F95D,G-5524-00
+Phantasy Star Fukkokuban (Japan)|07301F83
+Phantasy Star II (Brazil) (En)|E6688B66,00005501-01
+Phantasy Star II (USA, Europe)|0D07D0EF,00005501-01
+Phantasy Star II (USA, Europe) (Beta) (1989-07-28)|B034C46E,00005501-01
+Phantasy Star II (USA, Europe) (Rev A)|726EAFEC,904FA047,00005501-02
+Phantasy Star II (USA, Europe) (Rev A) (PC Rerelease)|75AF3D59,00005501-02
+Phantasy Star II (USA, Europe) (Rev A) (Virtual Console)|67DB982A,00005501-02
+Phantasy Star II - Amia's Adventure (Japan) (SegaNet)|7FDB5FE9,A3A724AA,00054503-00
+Phantasy Star II - Anne's Adventure (Japan) (SegaNet)|355FAD11,FAFA5B6F,00054503-00
+Phantasy Star II - Huey's Adventure (Japan) (SegaNet)|DB2CCE50,1A076F83,00054503-00
+Phantasy Star II - Kaerazaru Toki no Owari ni (Japan)|BEC8EB5A,00005501-00
+Phantasy Star II - Kinds's Adventure (Japan) (SegaNet)|E91051E3,C334F308,00054503-00
+Phantasy Star II - Nei's Adventure (Japan) (SegaNet)|B0CE897C,3D9AD465,00054503-00
+Phantasy Star II - Rudger's Adventure (Japan) (SegaNet)|3CD3BC1C,6B5916D2,00054503-00
+Phantasy Star II - Shilka's Adventure (Japan) (SegaNet)|76E56009,1F83BEB2,00054503-00
+Phantasy Star II - Yushis's Adventure (Japan) (SegaNet)|5395A7E2,D40C76D6,00054503-00
+Phantasy Star III - Generations of Doom (Brazil) (En)|2E9B4C23,MK-1303-00
+Phantasy Star III - Generations of Doom (USA, Europe) (PC Rerelease)|1D1C62FB,1303-01
+Phantasy Star III - Generations of Doom (USA, Europe, Korea)|CA89DBE5
+Phantasy Star III - Generations of Doom (USA, Europe, Korea) (En)|C6B42B0F,1303-01
+Phantasy Star IV (Europe)|389C2968,MK-1307
+Phantasy Star IV (USA)|78FBB881,FE236442,MK-1307-00
+Phantasy Star IV (USA) (Beta) (1994-05-30)|B32B17E1,MK-1307-00
+Phantasy Star IV (USA) (Beta) (1994-06-08)|DC2E1C0A,MK-1307-00
+Phantasy Star IV (USA) (Beta) (1994-08-15)|60137F25,MK-1307-00
+Phantasy Star IV (USA) (Beta) (1994-10-27)|12A2590A,MK-1307-00
+Phantasy Star IV (USA) (Beta) (1994-11-07)|BDA29CDF,MK-1307-00
+Phantasy Star IV (USA) (Genesis Mini)|2EE18BC3,MK-1307-00
+Phantasy Star IV (USA) (Sample)|1C82E0E3,MK-1307-00
+PhantasyStar2_UE_GreenCrossFix|75AF3D59
+PhantasyStar3_USA|CC194AD8
+PhantasyStar4|B23CD7AA
+Phantom 2040 (Europe) (En,Fr,De)|B024882E,T-139036-50
+Phantom 2040 (USA)|FB36E1F3,T-139036-00
+Phelios (Europe)|13ABC2B2,MK-1131-00
+Phelios (Japan)|94596174,T-14013-00
+Phelios (Japan) (Virtual Console)|14DC2668,T-14013-00
+Phelios (USA)|11C79320,T-14013-00
+Pier Solar and the Great Architects (World) (Beta) (Aftermarket) (Unl)|55FFB501,00000000-00
+Pier Solar and the Great Architects (World) (En,Es,Pt) (Reprint B) (Aftermarket) (Unl)|DFB94F1B,T-574023-02
+Pier Solar and the Great Architects (World) (En,Fr,De) (Reprint A) (Aftermarket) (Unl)|25B7063E,T-574023-01
+Pier Solar and the Great Architects (World) (En,Fr,De) (Reprint) (Aftermarket) (Unl)|4261EA9B,T-574023-00
+Pier Solar and the Great Architects (World) (En,Fr,Es) (Aftermarket) (Unl)|003A0754,T-574013-00
+Pink Goes to Hollywood (USA, Europe)|B5804771,T-101046-00
+Pink Goes to Hollywood (USA, Europe) (Beta)|56087CFF,?-??????-00
+Pinocchio (Europe)|715D03A8,28014BDC,T-239026-00
+Pinocchio (USA)|CD4128D8,T-239026-00
+Pirates of Dark Water, The (Europe)|1BDC1A5E,T-15086-50
+Pirates of Dark Water, The (USA)|0C45B9F7,T-15086-00
+Pirates! Gold (USA)|ED50E75C,T-104026-02
+Pirates! Gold (USA) (Beta 1)|F61E5417,00000000-00
+Pirates! Gold (USA) (Beta 2)|0A525641,00000000-00
+Pit-Fighter (World) (Beta)|1E0E0831,T-48076-00
+Pit-Fighter (World) (En,Ja)|D48A8B02,T-48076-00
+Pitfall - The Mayan Adventure (Europe)|C9198E19,T-130036-50
+Pitfall - The Mayan Adventure (USA)|F917E34F,T-130036-00
+Planet Message Quiz (Japan) (Sega Channel)|F466EEDD,T-19402J-00
+Pocahontas (Europe)|165E7987,T-239036-00
+Pocahontas (USA)|6DDD1C6D,T-239036-00
+Pocket Monsters (Taiwan) (En) (Unl)|F68F6367
+Pocket Monsters (Taiwan) (En) (Unl) (Alt)|FB176667
+Pocket Monsters 2 (Taiwan) (En) (Unl)|30F7031F
+Pokemon Stadium (Taiwan) (En) (Unl)|FE187C5D
+Populous (Europe)|83D56F64,T-50026-00
+Populous (Japan)|97C26818,T-50026-00
+Populous (USA) (Unl)|BD74B31E
+Power Athlete (Japan, Korea) (Ja)|B41B77CF,T-33033-00
+Power Drive (Europe) (En,Fr,De,Es,Pt)|8C00AD61,T7914650-00
+Power Monger (Japan, Korea) (Ja)|553289B3,T-106103-00
+Power Monger (USA, Europe)|FB599B86,T-50426-00
+Powerball (USA)|7ADF232F,T-14036-00
+Predator 2 (USA, Europe)|BDBA113E,T-081076-00
+Premier Manager (Europe)|303B889F,MK-1191-00
+Premier Manager 97 (Europe)|FCCBF69B,MK-1280-00
+Primal Rage (USA) (Demo) (1995-08-01) (Sega Channel) (Test Drive Version)|9789EA79,T-148096-00
+Primal Rage (USA) (Demo) (1995-08-25) (Sega Channel) (Rental Version)|5E19C1C0,T-81186-01
+Primal Rage (USA, Europe)|2884C6D1,T-48426-00
+Primal Rage Showdown (USA) (Demo) (1995-08-26) (Sega Channel)|C9E3F2DC,T-148086-00
+Prime Time NFL Starring Deion Sanders (USA)|5AA53CBC,MK-1240-00
+Prince of Persia (Europe)|61DE6FE0,T-88076-00
+Prince of Persia (Europe) (Beta 1)|425E6A87
+Prince of Persia (Europe) (Beta 2)|505314B6,MK-0000-00
+Prince of Persia (USA)|13C181A4,T-048286-00
+Prince of Persia 2 (Europe) (Proto) (1995-02-20)|3AB44D46,00000000-00
+Prince of Persia 2 - The Shadow and the Flame (Europe) (Proto)|F5E625C9
+Pro Moves Soccer (USA)|707017E5,T-021016-00
+Pro Quarterback (USA)|CC8B2B69,T-97036-00
+Pro Striker - Final Stage (Japan)|E35E25FB,G-5547
+Pro Yakyuu Super League '91 (Japan)|A948AB7E,00004529-00
+Probotector (Europe) (En,Fr,De)|BC597D48,T-95106-00
+Probotector (Europe) (En,Fr,De) (Mega Drive Mini)|6ED9E471,T-95106-00
+Probotector (World) (En,Fr,De) (60 Hz) (Contra Anniversary Collection)|5E42179D,T-95106-00
+Probotector (World) (En,Fr,De) (Contra Anniversary Collection)|C14F4E78,T-95106-00
+Psy-O-Blade (Japan)|427F95CD,8BA7E6C5,T-26013-00
+Psycho Pinball (Europe) (En,Fr,De,Es,It)|1AB8F1A1,T-120086-50
+Psycho Pinball (Europe) (En,Fr,De,Es,It) (Beta)|F29A5532,00000000-00
+Psycho Pinball (Europe) (En,Fr,De,Es,It) (Rev 1)|32DD8351,T-120086-50
+Puggsy (Europe)|5D5C9ADE,T-113016-50
+Puggsy (USA)|70132168,T-113016
+Puggsy (USA) (Beta)|E13ED54E,XXXXXXXX-01
+Pulseman (Japan)|138A104E,G-4098-00
+Punisher, The (Europe)|729EDD17,T-12026-00
+Punisher, The (USA)|695CD8B8,T-12026-00
+Putter Golf (Japan) (Game no Kanzume Otokuyou)|A6557FAA,00054503-00
+Putter Golf (Japan) (SegaNet)|20F168A6,00054503-00
+Putty Squad (Europe) (Proto 1)|4974AE73,00000000-00
+Putty Squad (Europe) (Proto 2)|2348DA80,00000000-00
+Puyo Puyo (Japan)|7F26614E,G-4082-00
+Puyo Puyo Tsuu (Japan)|51AD7797,T-66013-00
+Puyo Puyo Tsuu (Japan) (Rev A)|25B7B2AA,T-66013-01
+Puyo Puyo Tsuu (World) (Ja) (Rev A) (Virtual Console)|EB6E1894,T-66013-01
+Puzzle & Action - Ichidanto-R (Japan)|7BDEC762,G-4128-00
+Puzzle & Action - Ichidanto-R (World) (Ja) (Sega Ages)|8C00DD10,G-4128-00
+Puzzle & Action - Tanto-R (Japan)|D2D2D437,G-4118-00
+Pyramid Magic (Japan) (Game no Kanzume Otokuyou)|B20272EA,00054503-00
+Pyramid Magic (Japan) (SegaNet)|306D839E,00054503-00
+Pyramid Magic II (Japan) (SegaNet)|C9DDAC72,00054503-00
+Pyramid Magic III (Japan) (SegaNet)|8329820A,00054503-00
+Pyramid Magic Special (Japan) (SegaNet)|153A3AFA,00054503-00
+QuackShot Starring Donald Duck ~ QuackShot - I Love Donald Duck - Guruzia Ou no Hihou (World)|88C8DD94,00004054-00
+QuackShot Starring Donald Duck ~ QuackShot - I Love Donald Duck - Guruzia Ou no Hihou (World) (Rev A)|5DD28DD7,00004054-01
+QuackShot Starring Donald Duck ~ QuackShot - I Love Donald Duck - Guruzia Ou no Hihou (World) (Rev A) (Alt)|A5C946B3,00004054-01
+Quad Challenge (USA)|74736A80,T-14056-00
+Queen of Poker Club (Taiwan) (Unl)|AE28D9EB
+R.B.I. Baseball '93 (USA)|BEAFCE84,T-48196-00
+R.B.I. Baseball '94 (USA, Europe)|4EB4D5E4,T-048296-00
+R.B.I. Baseball '95 (USA) (Proto)|9D44F9D1,T-48126-00
+R.B.I. Baseball 3 (USA)|4840348C,T-48096-00
+R.B.I. Baseball 3 (USA) (Beta) (1991-07-18)|D0430946,T-48096-00
+R.B.I. Baseball 4 (Japan)|8F4E1005,T-48063-00
+R.B.I. Baseball 4 (USA)|FECF9B94,T-48126-00
+R.B.I. Baseball 4 (USA) (Beta)|F7420278,T-48126-00
+Race Drivin' (USA)|D737CF3D,T-48246-00
+Race Drivin' (USA) (Beta)|9DE9EB4A,T-40016-00
+Radical Rex (Europe)|D02D3282,T-130026-50
+Radical Rex (Europe) (Beta)|BF2912E3,T-130026-00
+Radical Rex (USA)|2E6EEC7E,T-130026-00
+Raiden Densetsu ~ Raiden Trad (Japan, USA) (En)|F839A811,T-22043-03
+Rainbow Islands Extra (Japan)|C74DCB35,T-11073-00
+Rambo III (Japan) (En)|2232F03D,00054010-00
+Rambo III (USA, Europe, Korea) (En) (Rev A)|4D47A647,00054010-01
+Rampart (Japan, Korea) (Ja)|16EAD64C,T-48000-00
+Rampart (USA)|9C4DD057,T-48106-00
+Ranger X (Europe)|B8C04804,MK-1076-00
+Ranger X (USA)|55915915,MK-1076-00
+Ransei no Hasha (Japan)|A9A0083D,T-20053-00
+Rastan Saga II (Japan)|EBACFB5A,T-11043-00
+Rastan Saga II (USA)|C7EE8965,T-11026-00
+Red Zone (USA, Europe)|56512EE5,T-48376-00
+Ren & Stimpy Show Presents, The - Stimpy's Invention (Europe)|C276C220,MK-1068-00
+Ren & Stimpy Show Presents, The - Stimpy's Invention (Europe) (1993-12-09) (Sega Channel)|1B475ED3,MK-1068-00
+Ren & Stimpy Show Presents, The - Stimpy's Invention (USA)|D9503BA5,MK-1068-00
+Ren & Stimpy Show Presents, The - Stimpy's Invention (USA) (Beta)|FCB86336,??-????-00
+Rent a Hero (Japan)|EFE3483B,2E515F82,55508-00
+Resq (Europe) (Proto)|558E35E0,XXXXXXXX-01
+Revenge of Shinobi, The (USA, Europe)|05F27994,00001105-01
+Revenge of Shinobi, The (USA, Europe) (Rev A)|FE91AB7E,00001105-02
+Revenge of Shinobi, The (USA, Europe) (Rev A) (Beta) (1990-02-01)|E488EB46,00001105-02
+Revenge of Shinobi, The (USA, Europe) (Rev B)|4D35EBE4,00001105-03
+Revenge of Shinobi, The (World) (Rev B) (Virtual Console)|5CA24F66,00001105-03
+Revolution X (USA, Europe)|5FB0C5D4,T-81566-00
+Richard Scarry's Busytown (USA)|7BB60C3F,MK-1552-00
+Richard Scarry's Busytown (USA) (Beta) (1994-07-21)|1E92D6FF,MK-0000-00
+Richard Scarry's Busytown (USA) (Beta) (1994-08-09)|C48CBC30,MK-1552-00
+Richard Scarry's Busytown (USA) (Beta) (1994-08-15)|650ED917,MK-1552-00
+Richard Scarry's Busytown (USA) (Beta) (1994-08-17)|3B9C3F4A,MK-1552-00
+Richard Scarry's Busytown (USA) (Beta) (1994-08-25)|A0C013BA,MK-1552-00
+Richard Scarry's Busytown (USA) (Beta) (1994-08-26)|760CFF62,MK-1552-00
+Richard Scarry's Busytown (USA) (Beta) (1994-08-26) (Alt)|1AD270F3,MK-1552-00
+Riddle Wired (Japan) (SegaNet)|FAE3D720,00054503-00
+Rings of Power (USA, Europe)|41FCC497,T-50176-00
+Rise of the Robots (Europe)|5650780B,T-081426-50
+Risk (USA)|80416D0D,T-89036-00
+Risky Woods (USA, Europe)|D975E93C,T-50466-00
+Ristar (USA, Europe)|6511AA61,MK-1555-00
+Ristar (USA, Europe) (Beta) (Later)|9700139B,MK-1555-00
+Ristar - The Shooting Star (Japan) (Beta) (1994-07-01)|7C5C7A0A,00004126-00
+Ristar - The Shooting Star (Japan) (Beta) (1994-07-18)|6BECCCC9,00004126-00
+Ristar - The Shooting Star (Japan, Korea) (Ja)|CE464F0E,G-4126-00
+RISTAR_UE|6511AA61
+Road Rash (Japan)|256A21D2,T-XXXXX-XX
+Road Rash (USA, Europe)|DEA53D19,T-50116-00
+Road Rash 3 (USA, Europe)|15785956,T-50966-00
+Road Rash 3 (USA, Europe) (Beta) (1994-11-19)|B6626083,T-7752-1
+Road Rash II (Japan)|9A5723B6,T-106143-00
+Road Rash II (Japan) (Mega Drive Mini)|6CFA9048,T-106143-00
+Road Rash II (USA) (Genesis Mini)|C25ABD9E,T-50496-XX
+Road Rash II (USA, Europe) (RR205)|7B29C209,T-50496-XX
+Road Rash II (USA, Europe) (RR206)|0876E992,T-50496-02
+Road Riot 4WD (USA) (Proto)|10C89166,T-48136-00
+RoadBlasters (Japan)|A0015440,T-48066-00
+RoadBlasters (USA)|EC6CD5F0,T-48066-00
+RoadBlasters (USA) (Beta) (1991-06-27)|E4EF86B9,T-40016-00
+RoboCop 3 (USA, Europe)|34FB7B27,T-081226-00
+RoboCop Versus The Terminator (Europe)|85A93F8D,T-70216-50
+RoboCop Versus The Terminator (Europe) (Beta) (1993-07-27)|2487049F,T-70066-00
+RoboCop Versus The Terminator (Japan, Korea) (En)|D444E1F0,T-70043-00
+RoboCop Versus The Terminator (USA)|BBAD77A4,T-70166
+RoboCop Versus The Terminator (USA) (Beta) (1993-04-30)|ECEBFF29,T-70066-00
+Robot Battler (Japan) (SegaNet)|FDF23EFF,00054503-00
+Robot Wreckage (USA) (Beta) (July, 1992)|C67DDB14,0000000-00
+ROBOTNIK_U|C7CA517F
+Rock 'n' Roll Racing (Europe)|BC5A0562,T-125056-50
+Rock n' Roll Racing (USA)|205F4AFC,6ABAB577,T-125056-00
+Rocket Knight Adventures (Europe)|8EEDFD51,T-95046-00
+Rocket Knight Adventures (Japan)|D1C8C1C5,T-95063-00
+Rocket Knight Adventures (USA)|A6EFEC47,T-95046-00
+Rocket Knight Adventures (USA) (Sample) (1993-06-15)|9CBEE37B,T-95046-FF
+Rockman - Mega World (Japan)|85C956EF,T-12053-00
+Rockman - Mega World (Japan) (Mega Drive Mini)|E8F5668E,T-12053-00
+Rockman X3 (Taiwan) (En) (Unl)|3EE639F0
+Roger Clemens' MVP Baseball (USA)|83699E34,T-81106-00
+Rolling Thunder 2 (Europe)|C440F292,MK-1140-00
+Rolling Thunder 2 (Japan)|965B2628,T-14133-00
+Rolling Thunder 2 (USA)|3ACE429B,T-14066-00
+Rolling Thunder 3 (USA)|64FB13AA,T-14096-00
+Rolo to the Rescue (USA, Europe)|306861A2,T-50526-00
+Romance of the Three Kingdoms II (USA)|3D842478,T-76016-10
+Romance of the Three Kingdoms III - Dragon of Destiny (USA)|7E41C8FE,T-76086-00
+Ronaldinho 98 (Unknown) (Pt) (Unl) (Pirate)|DD27C84E,T-95196-50
+Royal Blood (Japan)|0E0107F1,T-76063-10
+Rugby World Cup 95 (USA, Europe) (En,Fr,It)|61F90A8A,T-50956-00
+Runark (Japan, Korea) (En)|0894D8FB,T-11153-00
+Ryuuko no Ken (Japan)|054CF5F6,G-004113-00
+Sacred Line Genesis (World) (1.1.9) (Aftermarket) (Unl)|2E029AB4,00000005-00
+Sagaia (USA)|F1E22F43,T-11016-00
+Saint Sword (Japan)|3960A00F,T-11133-00
+Saint Sword (USA)|44F66BFF,T-11056-00
+Same! Same! Same! (Japan)|77BBD841,T-40013-00
+Same! Same! Same! (Japan) (Beta) (1990-07-30)|6FD46DC2,T-34016-00
+Sampras Tennis 96 (Europe) (J-Cart)|14E3FB7B,T-123456-00
+Samurai Shodown (Europe)|C972014F,MK-1184-00
+Samurai Shodown (USA)|5BB8B2D4,T-103066-00
+Samurai Spirits (Japan)|0EA2AE36,G-4127-00
+Samurai Spirits II (Taiwan) (Unl)|2942F180
+Samurai Spirits II (Taiwan) (Unl) (Alt)|DDE8C55D
+San Guo Yan Yi - Huo Shao Chi Bi (Taiwan) (Unl)|3A71E961
+San Guo Zhi Lie Zhuan - Luan Shi Qun Ying (Hong Kong)|3B5CC398,G-5510-00
+Sangokushi II (Japan)|437BA326,T-76023-10
+Sangokushi III (Japan)|A8DE6AEA,T-76093-10
+Sangokushi Retsuden - Ransei no Eiyuutachi (Japan)|0F56785A,G-5504-00
+Sangokushi V (Taiwan) (Unl)|CD7E53D0
+Sansan (Japan)|5B85DEED,T-147013-00
+Saturday Night Slammasters (Europe)|08FA5A3F,T-12066-00
+Saturday Night Slammasters (USA)|2FB4EABA,T-12066-00
+Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es)|B28BDD69,T-151046-50
+Scooby-Doo Mystery (USA)|7BB9DD9B,T-81526-00
+Scrabble (Europe) (Proto)|360B2610,00000000-00
+SD Valis (Japan)|1AEF72EA,T-49103-01
+seaQuest DSV (Europe)|BAC87612,T-100076-50
+seaQuest DSV (USA)|25B05480,T-100076-00
+Second Samurai (Europe)|78E92143,T-113106-50
+Second Samurai (World) (Aftermarket) (Unl)|12D646B8,T-113106-50
+Sega Sports 1 (Europe)|07FEDAF1,MK-1183-00
+Sega Top Five (Brazil) (En)|61069069,MK-1721-45
+Senjou no Ookami II ~ Mercs (World)|16113A72,00001119-00
+Sensible Soccer (Europe) (En,Fr,De,It)|F9B396B8,T-93076-00
+Sensible Soccer (Europe) (En,Fr,De,It) (Beta)|EF52664D,T-93076-00
+Sesame Street Counting Cafe (USA)|0A4F48C3,T-50896-00
+Shadow Blasters (USA)|713D377B,T-47016-00
+Shadow Dancer - The Secret of Shinobi (USA, Europe) (PC Rerelease)|5CD3E295,00001114-00
+Shadow Dancer - The Secret of Shinobi (World)|EBE9AD10,00001114-00
+Shadow Dancer - The Secret of Shinobi (World) (Beta) (1990-10-02)|8497CD8D
+Shadow of the Beast (USA, Europe)|BD385C27,T-50266-00
+Shadow of the Beast - Mashou no Okite (Japan)|0CD09D31,T-60023-00
+Shadow of the Beast II (USA, Europe)|2DEDE3DB,T-50456-00
+ShadowDancer|5CD3E295
+Shadowrun (Asia) (En)|D32199F7,MK-1352-00
+Shadowrun (USA)|5F51E5DD,FBB92909,MK-1352-00
+Shadowrun (USA) (Beta) (1993-12-28)|2455ADD2,MK-1352-00
+Shadowrun (USA) (Beta) (1993-12-31)|BBB5E2FA,MK-1352-00
+Shadowrun (USA) (Beta) (1994-01-25)|6E2BBCA8,MK-1352-00
+Shadowrun (USA) (Beta) (1994-01-25) (Alt)|2A964BCD,MK-1352-00
+Shane Warne Cricket (Australia)|68865F6F,T-120146-50
+Shanghai II - Dragon's Eye (USA)|EBE9E840,T-130016-00
+Shanghai II - Dragon's Eye (USA) (Beta)|154ACA2D,T-130016-00
+Shaq-Fu (USA, Europe)|499955F2,T-50876-00
+Shi Jie Zhi Bang Zheng Ba Zhan - World Pro Baseball 94 (Taiwan) (Unl)|72DD884F
+Shi no Meikyuu - Labyrinth of Death (Japan) (Game no Kanzume Otokuyou)|40C44CD3,00001309-00
+Shi no Meikyuu - Labyrinth of Death (Japan) (SegaNet)|A6D7E02D,00054503-00
+Shi San Zhang Ma Jiang 98 - Mei Shao Nv (Taiwan) (Unl)|68B372F6
+Shijou Saidai no Soukoban (Japan)|40F4AACC,T-25023-00
+Shikinjou (Japan)|5EA0C97D,T-15053-00
+Shin Changsegi - Ragnacenty (Korea)|77B5B10B,G-005536-01
+Shin Souseiki Ragnacenty (Japan)|6A3F5AE2,G-005536-01
+Shin Souseiki Ragnacenty (Japan) (Beta)|43797455,T-32023-01
+Shining and the Darkness (Japan)|496AF51C,G-5506-00
+Shining Force (Europe)|B7278199,MK-1312-00
+Shining Force (USA)|E82ACDFC,MK-1312-00
+Shining Force (USA) (Beta)|CE67143A,MK-1312
+Shining Force (USA) (Genesis Mini)|4391175E,MK-1312-00
+Shining Force - Kamigami no Isan (Japan)|9378FBCD,G-5512-00
+Shining Force - Kamigami no Isan (Japan) (Mega Drive Mini)|45416AA9,G-5512-00
+Shining Force II (Europe)|83CB46D1,MK-1315-00
+Shining Force II (USA)|4815E075,MK-1315-00
+Shining Force II (USA) (Beta) (1994-04-04)|5843670C,MK-1315-00
+Shining Force II (USA) (Beta) (1994-06-07)|03B68BBA,MK-1315-00
+Shining Force II - Inishie no Fuuin (Japan)|0288F3E1,G-5521-00
+Shining in the Darkness (Brazil) (En)|3EE2BBC4,MK-1310-00
+Shining in the Darkness (USA, Europe)|4D2785BC,MK-1310-00
+SHINING2_U|4815E075
+SHININGD_UE|4D2785BC
+SHININGF_U|E0594ABE
+Shinobi III - Return of the Ninja Master (Europe)|0B6D3EB5,MK-1136-50
+Shinobi III - Return of the Ninja Master (USA)|AAEA518F,5381506F,MK-1136
+Shinobi III - Return of the Ninja Master (USA) (Beta) (1993-06-29)|ED32899A,MK-1136-00
+Shinobi III - Return of the Ninja Master (USA) (Genesis Mini)|C0F1DE3C,MK-1136
+SHINOBI3_U|5381506F
+Ship (Unknown) (Proto) (GEMS 2.5)|4CDC9F16,00000000-00
+Ship (Unknown) (Proto) (Visitor)|F30BA411,00000000-00
+Shiten Myouou (Japan)|7E729693,T-26023-00
+Shougi no Hoshi (Japan)|4148F816,T-67013-00
+Shove It! ...The Warehouse Game (USA)|C51F40CB,T-25036-00
+Show do Milhao (Brazil)|0A22DF04,TECTOY-2001-02
+Show do Milhao Volume 2 (Brazil)|48EE66CB,TECTOY-2001-03
+Shui Hu - Feng Yun Zhuan (Taiwan) (Unl)|3E9E010C
+Shui Hu Zhuan (Taiwan) (Unl)|61E458C3
+Shura no Mon (Japan)|E19DA6E5,00004073-00
+Side Pocket (Europe)|36E08145,MK-1218-00
+Side Pocket (Japan, Korea) (Ja)|336BBF3E,T-13083-00
+Side Pocket (USA)|AF9F275D,T-13083-00
+Simpsons, The - Bart vs. the Space Mutants (USA, Europe)|C8620574,T-081026-00
+Simpsons, The - Bart vs. the Space Mutants (USA, Europe) (Rev A)|DB70E8CA,T-081026-01
+Simpsons, The - Bart's Nightmare (USA, Europe)|24D7507C,T-081216-02
+Skeleton Krew (Europe)|5F872737,T-115036-00
+Skeleton Krew (USA)|C2E05ACB,T-115036-00
+Skitchin' (USA, Europe)|F785F9D7,T-50776-00
+Slam - Shaq vs. the Legends (USA) (Proto)|C19C200E,T-XXXXX-XX
+Slap Fight MD (Japan)|D6695695,T-48093-00
+Slap Fight MD (Japan) (En) (Beta)|DBB62949,T-40___-00
+Slaughter Sport (USA)|AF9F9D9C,T-56046-00
+Slime World (Japan)|7FF5529F,T-49123-00
+Smart Mouse (World) (Aftermarket) (Unl)|FB01C832,T-00000-00
+Smurfs, The (Brazil) (En,Fr,De,Es,It)|C991668D,T-151016-00
+Smurfs, The (Europe) (En,Fr,De,Es,It)|88B30EFF,T-151016-00
+Snake Rattle n Roll (Europe)|543BED30,MK-1541-50
+Snow Bros. - Nick & Tom (Japan)|11B56228,T-48083-00
+Socket (USA)|3C14E15A,T-23046-00
+Sol-Deace (USA)|A77E4E9F,T-49206
+Sol-Deace (USA) (1992-02-03) (Sega Channel)|A7994615,T-49206
+Soldiers of Fortune (USA)|A84D28A1,T-124016-00
+Soleil (Europe)|A30EBDB1,MK-01182-00
+Soleil (France)|08DC1EAD,MK-01182-00
+Soleil (Germany)|332B9ECD,MK-01182-00
+Soleil (Spain)|9ED4C323,MK-01182-00
+Sonic & Knuckles (World)|0658F691,MK-1563-00
+Sonic & Knuckles (World) (Beta) (1994-05-25)|8E8DADD0,MK-1563-00
+Sonic & Knuckles (World) (Beta) (1994-06-06)|03A52F63,MK-1563-00
+Sonic & Knuckles (World) (Beta) (1994-06-08)|7A6C1317,MK-1563-00
+Sonic & Knuckles (World) (Beta) (1994-06-10)|7092F368,MK-1563-00
+Sonic & Knuckles (World) (Beta) (1994-06-12)|B0A253E8,MK-1563-00
+Sonic & Knuckles (World) (Beta) (1994-06-18)|2615F5DC,MK-1563-00
+Sonic & Knuckles (World) (Beta) (1994-06-19)|1EA5B9D1,MK-1563-00
+Sonic & Knuckles (World) (Sonic Classic Collection)|C7249CDF,MK-1563-00
+Sonic & Knuckles + Sonic The Hedgehog (Japan, Korea) (En)|B6C67EAC,MK-1563-00
+Sonic & Knuckles + Sonic The Hedgehog (USA, Europe)|E01F6ED5,MK-1563-00
+Sonic & Knuckles + Sonic The Hedgehog 2 (World)|2AC1E7C6,MK-1563-00
+Sonic & Knuckles + Sonic The Hedgehog 2 (World) (Beta) (1994-05-24)|8878C1A8,MK-1563-00
+Sonic & Knuckles + Sonic The Hedgehog 2 + Sonic The Hedgehog 3 (World) (Virtual Console)|198DE33E,MK-1563-00
+Sonic & Knuckles + Sonic The Hedgehog 3 (Europe)|92F0929E,MK-1563-00
+Sonic & Knuckles + Sonic The Hedgehog 3 (Japan) (En)|0C06AA82,MK-1563-00
+Sonic & Knuckles + Sonic The Hedgehog 3 (USA)|2BD564B1,63522553,MK-1563-00
+Sonic 3 (Europe)|6A632503,MK-1079-00
+Sonic 3D Blast (USA, Europe, Korea) (En) (Beta) (1996-07-03)|93B75E99,T-000000-00
+Sonic 3D Blast (USA, Europe, Korea) (En) (Beta) (1996-08-14)|D64E7675,MK-1844-00
+Sonic 3D Blast (USA, Europe, Korea) (En) (Beta) (1996-08-19)|2C43F43A,MK-1844-00
+Sonic 3D Blast (USA, Europe, Korea) (En) (Beta) (1996-08-25)|465BCFBD,MK-1844-00
+Sonic 3D Blast (USA, Europe, Korea) (En) (Beta) (1996-08-30)|57640422,MK-1844-00
+Sonic 3D Blast (USA, Europe, Korea) (En) (Beta) (1996-08-31)|5933E453,MK-1844-00
+Sonic 3D Blast (USA, Europe, Korea) (En) (Beta) (1996-09-04)|2F2A4271,MK-1844-00
+Sonic 3D Blast - Director's Cut (World) (Unl)|9767E840,FINAL-01
+Sonic 3D Blast ~ Sonic 3D Flickies' Island (USA, Europe, Korea) (En)|44A2CA44,MK-1844-00
+Sonic Compilation (Europe)|8C70B84E,MK-1190
+Sonic Compilation ~ Sonic Classics (USA, Europe, Korea) (En) (Rev A)|95B5E8D7,MK-1190-01
+Sonic Crackers (World) (Proto) (1994-07-xx)|7FADA88D,XXXXXXXX-XX
+Sonic Eraser (Japan) (SegaNet)|62D8A0E7,00054503-00
+Sonic Jam 6 (Taiwan) (En) (Unl)|04F0C93E
+Sonic Spinball (Europe)|AEA0786D,MK-1537-00
+Sonic Spinball (Europe) (Beta) (1993-09-17)|C203C557,MK-1537-00
+Sonic Spinball (Europe) (Mega Drive Mini)|2C828E46,MK-1537-00
+Sonic Spinball (Japan)|ACD08CE8,G-4112-00
+Sonic Spinball (USA)|677206CB,MK-1537-00
+Sonic Spinball (USA) (1993-09-22) (Sega Channel)|82C55A36,MK-1537-00
+Sonic Spinball (USA) (Beta) (August, 1993)|B1524979,T-?????-00
+Sonic Spinball (USA) (Beta) (October, 1993)|E9960371,NK-1.3.-00
+Sonic The Hedgehog (Japan) (En) (Virtual Console)|6382B2C5,00004049-01
+Sonic The Hedgehog (Japan, Europe, Korea) (En)|AFE05EEE,00004049-01
+Sonic The Hedgehog (Unknown) (Beta)|917C9CA9,00000000-00
+Sonic The Hedgehog (USA, Europe)|96F971F6,F9394E97,00001009-00
+Sonic The Hedgehog (USA, Europe) (Sonic Classic Collection)|27E22795,00004049-01
+Sonic The Hedgehog 2 (USA, Europe) (Rev A) (Virtual Console)|92D8817D,00001051-01
+Sonic The Hedgehog 2 (World)|C27093DA,24AB4C3A,00001051-00
+Sonic The Hedgehog 2 (World) (Beta) (1992-08-21)|370B3CE5,00004049-01
+Sonic The Hedgehog 2 (World) (Beta) (1992-09-14)|0BE8AFA7,00001051-00
+Sonic The Hedgehog 2 (World) (Beta) (1992-09-18)|8FDA5CC5,00001051-00
+Sonic The Hedgehog 2 (World) (Beta) (1992-09-21)|066B9A89,00001051-00
+Sonic The Hedgehog 2 (World) (Beta) (1992-09-22)|CB036E6C,00001051-00
+Sonic The Hedgehog 2 (World) (Beta) (1992-09-24)|6089FADD,00001051-00
+Sonic The Hedgehog 2 (World) (Beta) (1992-09-24) (Alt)|DC7BE12C,00001051-00
+Sonic The Hedgehog 2 (World) (Beta) (July, 1992)|EEA21B5C,00004049-01
+Sonic The Hedgehog 2 (World) (Beta) (June, 1992)|39FAAA70,00004049-01
+Sonic The Hedgehog 2 (World) (Beta) (September, 1992)|5667ECED,00001051-00
+Sonic The Hedgehog 2 (World) (Rev A)|8D0E759A,7B905383,00001051-01
+Sonic The Hedgehog 2 (World) (Rev A) (Sonic Classic Collection)|582E0BF7,00001051-01
+Sonic The Hedgehog 2 (World) (Rev B)|F23AD4B3,00001051-02
+Sonic The Hedgehog 3 (Japan, Korea) (Ja)|F4951D1F,MK-1079-00
+Sonic The Hedgehog 3 (Unknown) (Beta) (1993-11-03)|E4A16A49,00001079-00
+Sonic The Hedgehog 3 (USA)|9BC192CE,MK-1079-00
+Sonic The Hedgehog 3 (USA) (1993-11-20) (Sega Channel)|EBC0AF69,MK-1079-00
+Sonic The Hedgehog 3 (USA) (Sonic Classic Collection)|FC0429DD,MK-1079-00
+Sonic The Hedgehog 3 Limited Edition (Japan) (En) (Proto) (1994-04-08)|59D23DF5,MK-1079-00
+Sonic The Hedgehog 3 Limited Edition (Japan) (En) (Proto) (1994-05-17)|766C4B81,MK-1079-00
+SONIC2_W|7B905383
+SONIC3D_UE|44A2CA44
+Sonic_Knuckles_wSonic3|0C06AA82
+SONIC_W|AFE05EEE
+SONICSPI_U|677206CB
+Sorcer Kingdom (Japan)|944135CA,T-25113-00
+Sorcer Kingdom (Japan) (Beta) (1991-11-08)|3DBC3130,T-25113-00
+Sorcerer's Kingdom (USA)|BB1FC9CE,T-24076-01
+Sorcerer's Kingdom (USA) (Beta)|CBE6C1EA,T-24076-00
+Sorcerian (Japan)|A143A8C5,00054504-00
+Sorcerian (Japan) (Rev 1) (Virtual Console)|B60137E0,00054504-01
+Soul Blade (Taiwan) (En) (Unl)|F26F88D1
+Soul Edge VS Samurai Spirits (Taiwan) (En) (Unl)|B11BD611
+sov|36D2F822
+Space Funky B.O.B. (Japan)|E9310D3B,T-106193-00
+Space Harrier II (Japan) (Launch Cart)|EDC0FB28,00004002-00
+Space Harrier II (World)|E5C9CBB0,00004002-01
+Space Hero (USA) (Proto)|CC0E694F,T-48096-00
+Space Invaders '91 (USA)|BB83B528,T-11036-00
+Space Invaders 90 (Japan)|22ADBD66,T-11053-00
+SPACEHARRIERII|E5C9CBB0
+Sparkster (Europe)|D63E9F2D,T-95166-00
+Sparkster (USA)|6BDB14ED,T-95166-00
+Sparkster - Rocket Knight Adventures 2 (Japan)|914EC662,T-95103-00
+Speedball 2 (Europe)|056A6E03,T-70086-00
+Speedball 2 (Japan)|F5442334,T-68023-00
+Speedball 2 - Brutal Deluxe (USA)|9FC340A7,T-69026-00
+Speedball 2 - Brutal Deluxe (USA) (Beta) (1991-06-07)|13C803B7,XXXXXXXX-XX
+Spider-Man (USA, Europe) (Acclaim)|11B5B590,T-81436-00
+Spider-Man (USA, Europe) (Acclaim) (Beta) (1994-12-12)|B88A710D,MK-1057-00
+Spider-Man (USA, Europe) (Acclaim) (Beta) (August, 1994)|83E1FE76,MK-1057-00
+Spider-Man (World) (Sega)|70AB775F,MK-1016-00
+Spider-Man . Venom - Maximum Carnage (World)|8FA0B6E6,T-081256-00
+Spider-Man X-Men - Arcade's Revenge (Europe)|E7014092,T-081136-00
+Spider-Man X-Men - Arcade's Revenge (USA, Europe)|4A4414EA,T-081136-00
+Spiritual Warfare (USA) (Unl)|D9A364FF
+Spirou (Europe) (En,Fr,De,Es)|6634B130,T-151026-00
+Spirou (Europe) (En,Fr,De,Es) (Beta)|51BC6C35,T-151026-00
+Splatterhouse 2 (Europe)|2559E03C,MK-1061-00
+Splatterhouse 2 (USA)|2D1766E9,T-14076-00
+Splatterhouse 2 (USA) (1992-03-02) (Sega Channel)|ED64CE8C,T-14076-00
+Splatterhouse 3 (USA)|00F05D07,T-14086-00
+Splatterhouse Part 2 (Japan)|9FB70301,T-14143-00
+Splatterhouse Part 3 (Japan, Korea) (Ja)|31B83D22,T-14163-00
+Sport Games (Brazil) (En)|BC61AA50,T-30016-00
+Sports Talk Baseball (USA)|0DEB79C2,00001211-00
+Spot Goes to Hollywood (Europe)|FBE254EA,T-70326-00
+Spot Goes to Hollywood (USA)|BDAD1CBC,T-81616-01
+Squirrel King (Taiwan) (En) (Unl)|B8261FF5
+ST II' Turbo (USA) (Proto) (Unl) (Pirate)|A85491AE,00000000-00
+Star Control (USA, Europe) (Unl)|8E2BCEAF,ACLD002-03
+Star Cruiser (Japan)|53D8B33E,2B75B52F,T-25063-00
+Star Odyssey (USA) (Beta) (1992-01-16)|FBBD7EF4,T-47056-00
+Star Odyssey (World) (Unl)|0B670A3E,SF-004
+Star Trek - Deep Space Nine - Crossroads of Time (Europe)|D4B122F9,T-70436-50
+Star Trek - Deep Space Nine - Crossroads of Time (USA)|A771E1A4,T-132016-00
+Star Trek - The Next Generation (USA) (Beta) (1993-12-28)|3BA670F9,MK-1313-00
+Star Trek - The Next Generation (USA) (Beta) (1993-12-29)|316BBC43,MK-1313-00
+Star Trek - The Next Generation (USA) (Beta) (1994-01-03)|CAC86B68,MK-1313-00
+Star Trek - The Next Generation (USA) (Beta) (1994-01-10)|D138CA3E,MK-1313-00
+Star Trek - The Next Generation (USA) (Beta) (1994-01-18)|D8DAB97A,MK-1313-00
+Star Trek - The Next Generation (USA) (Beta) (1994-01-25)|63F29E6F,MK-1313-00
+Star Trek - The Next Generation - Echoes from the Past (USA)|272153FB,MK-1313-00
+Star Trek - The Next Generation - Echoes from the Past (USA) (Rev A)|EF840EF2,MK-1313-01
+Star Wars (USA) (Proto) (1993-01-25)|E1C32FEC,MK-1035-00
+Starflight (USA, Europe)|D550C928,T-50216-00
+Starflight (USA, Europe) (Rev A)|1217DBEA,T-50216-01
+Stargate (USA, Europe)|E587069E,T-81396-00
+Stargate (USA, Europe) (Beta)|8DC8AB23,00000000-00
+Stargate (USA, Europe) (Sample) (NGen)|51946EA9,T-81396-00
+Steel Empire (USA)|D0E7A0B6,T-81046-00
+Steel Empire (USA) (1992-03-13) (Sega Channel)|097F6440,T-81046-00
+Steel Talons (Japan, Korea) (Ja)|04F388E6,T-48103-00
+Steel Talons (USA, Europe)|10E4EC63,T-48146-00
+Steel Talons (USA, Europe) (Beta)|C4052F18,T-48146-00
+STHUNDER_W|B13087EE
+Stone Protectors (USA) (Proto)|FBF0D54F,T-00000-00
+Stormlord (Japan)|0B440FED,T-49113-00
+Stormlord (USA)|39AB50A5,T-56026-00
+Story of Thor, The (Europe)|1110B0DB,MK-1354-00
+Story of Thor, The (Europe) (Beta) (1994-10-04)|9E486F91,G-5543-00
+Story of Thor, The (Europe) (Beta) (1994-10-17)|AA43D34A,MK-1354-00
+Story of Thor, The (Europe) (Beta) (April, 1994)|BFC11649,MK-1054-00
+Story of Thor, The (Europe) (Mega Drive Mini)|8CD9053F,MK-1354-00
+Story of Thor, The (Germany)|FA20D011,MK-1354-00
+Story of Thor, The (Germany) (Mega Drive Mini)|244D768B,MK-1354-00
+Story of Thor, The (Korea)|EE1603C5,G-5543-00
+Story of Thor, The (Spain)|4631F941,MK-1354-00
+Story of Thor, The (Spain) (Mega Drive Mini)|DBF84CA5,MK-1354-00
+Story of Thor, The - Hikari o Tsugumono (Japan)|4F39783C,G-5543-00
+Street Fighter II' - Champion Edition (Europe) (Beta) (1993-03-25)|7BB62DB2,T-12016
+Street Fighter II' - Champion Edition (USA) (Beta) (1993-07-30)|7FFA8B23,T-12016
+Street Fighter II' - Special Champion Edition (Europe)|56D41136,MK-1090-00
+Street Fighter II' - Special Champion Edition (Europe) (Virtual Console)|ED3F3E20,MK-1090-00
+Street Fighter II' - Special Champion Edition (USA)|92B46306,518A850E,13FE08A1,T-12016
+Street Fighter II' - Special Champion Edition (USA) (Virtual Console)|A81527B7,T-12016
+Street Fighter II' Plus - Champion Edition (Japan) (Virtual Console)|95A351F5,T-12033
+Street Fighter II' Plus - Champion Edition (Japan, Korea) (Ja)|2E487EE3,T-12033
+Street Racer (Europe)|1A58D5FE,T-177016-00
+Street Racer (Europe) (Beta) (1995-03-21)|A439A96E,T-177016-50
+Street Smart (Japan, USA) (En)|B1DEDFAD,T-24083-00
+Street Smart (Japan, USA) (En) (Beta) (1990-06-29)|D1DE6A2E,????????-00
+Streets of Rage 2 (Japan) (En,Ja) (Mega Drive Mini)|C48B3698,MK-1054-00
+Streets of Rage 2 (USA)|E01FA526,MK-1054-00
+Streets of Rage 3 (Asia) (En)|90EF991E,G-4116-00
+Streets of Rage 3 (Europe)|3B78135F,MK-1539-00
+Streets of Rage 3 (Europe) (Beta) (1994-04-12)|A17CE5AB,MK-1539-00
+Streets of Rage 3 (Europe) (Beta) (1994-04-13)|164E42AE,MK-1539-00
+Streets of Rage 3 (Europe) (Beta) (1994-04-15)|C64F1E6B,MK-1539-00
+Streets of Rage 3 (Europe) (Beta) (1994-04-20)|6AE4BD8E,MK-1539-00
+Streets of Rage 3 (Europe) (Beta) (1994-04-25)|7033878A,MK-1539-00
+Streets of Rage 3 (USA)|396E2937,D5BB15D9,MK-1539-00
+Streets of Rage 3 (USA) (Beta) (1994-03-08)|EA50B551,G-4116-00
+Streets of Rage 3 (USA) (Beta) (1994-03-17)|39AD962B,G-4116-00
+Streets of Rage 3 (USA) (Beta) (1994-03-18)|60142484,G-4116-00
+Streets of Rage 3 (USA) (Rev A) (Beta) (1994-03-28)|8757F797,MK-1539-00
+Streets of Rage 3 (USA) (Rev A) (Beta) (1994-04-01)|797E75B7,MK-1539-00
+Streets of Rage 3 (USA) (Rev A) (Beta) (1994-04-04)|6B968F13,MK-1539-00
+Streets of Rage 3 (USA) (Rev A) (Beta) (1994-04-08)|D4BA76C2,MK-1539-00
+Streets of Rage 3 (USA) (Rev A) (Beta) (1994-04-11)|FA5E5A82,MK-1539-00
+Streets of Rage 3 (USA) (Rev A) (Beta) (1994-04-12)|3F52CB72,MK-1539-00
+Streets of Rage 3 (USA) (Rev A) (Beta) (1994-04-13)|6B675807,MK-1539-00
+STREETS2_U|E01FA526
+STREETS3_E|90EF991E
+STREETS3_J|5D09236F
+STREETS3_U|D5BB15D9
+STREETS_W|4052E845
+Strider (USA, Europe)|B9D099A4,00001112-00
+Strider (USA, Europe) (Virtual Console)|5B96A532,00001112-00
+Strider Hiryuu (Japan) (Rev A) (Mega Drive Mini)|F38C0ED3,00004037-01
+Strider Hiryuu (Japan) (Rev A) (Virtual Console)|62B2FD97,00004037-01
+Strider Hiryuu (Japan, Korea) (Ja)|859173F2,00004037-00
+Strider II (Europe)|E85E5270,T-79036-50
+Striker (Europe) (Beta)|C10B270E,MKxxxx-00
+Striker (Europe) (En,Fr,De,Es,It)|CC5D7AB2,MK-1185-00
+Sub-Terrania (Asia) (En)|7638EA91,MK-1551-00
+Sub-Terrania (Asia) (En) (Beta 4) (1994-02-02)|B368E394,MK-1551-00
+Sub-Terrania (Europe)|E8CED28D,MK-1551-00
+Sub-Terrania (USA)|DC3C6C45,MK-1551-00
+Sub-Terrania (USA) (Beta 1) (July, 1993)|9C13D25C,00001022-00
+Sub-Terrania (USA) (Beta 2) (October, 1993)|3A1022D1,MK-XXXX-XX
+Sub-Terrania (USA) (Beta 3) (October, 1993)|707FA63C,MK-1551-01
+Summer Challenge (USA, Europe) (Unl)|D7D53DC1,ACLD013-00
+Sunset Riders (Europe)|0FF33054,T-95026-00
+Sunset Riders (USA)|AC30C297,T-95026-00
+Super Airwolf (Japan)|FA451982,T-29023-00
+Super Baseball 2020 (USA, Europe)|C17ACEE5,T-50636-00
+Super Battleship - The Classic Naval Combat Game (USA)|99CA1BFB,T-87066-00
+Super Bubble Bobble (Taiwan) (En) (Unl)|4820A161
+Super Daisenryaku (Japan)|D50A166F,00004501-00
+Super Daisenryaku (Japan) (Rev A)|11645D6E,00004501-02
+Super Donkey Kong 99 (Taiwan) (En) (Unl)|8E7D9177
+Super Fantasy Zone (Europe)|927975BE,MK-1142-00
+Super Fantasy Zone (Japan)|767780D7,T-15023-00
+Super Fantasy Zone (USA) (Ja) (Genesis Mini)|D97D913D,T-15023-00
+Super H.Q. (Japan)|AB2C52B0,T-11163-00
+Super Hang-On (Europe) (En,Ja) (Rev A)|3877D107,00004011-01
+Super Hang-On (Japan, USA) (En,Ja)|CB2201A3,00004011-00
+Super Hang-On (World) (En,Ja) (Beta) (1989-08-18) (Sega Channel)|B6EAE5C4,00004011-00
+Super Hang-On (World) (Sega Smash Pack 2)|7E892199,00004011-00
+Super Heavy Duty (World) (Aftermarket) (Unl)|81F8E890,NAUT01R1-01
+Super Heavy Duty (World) (Demo) (2020-08-27) (Aftermarket) (Unl)|15ADC6D6,NAUT01D0-01
+Super High Impact (USA)|B870C2F7,T-81146-00
+Super Hydlide (Europe)|1FE2D90B,MK-1311-00
+Super Hydlide (Japan)|599BE386,T-20013-00
+Super Hydlide (USA)|1335DDAA,T-35016-00
+Super Hydlide (USA) (Beta) (1989-10-16)|52E717AC,MK-1300-00
+Super Kick Off (Europe)|F43793FF,T-79076-00
+Super King Kong 99 (Taiwan) (En) (Unl)|413DFEE2
+Super League (Europe)|55BAEC6E,00004006-00
+Super League (Japan)|EA13CB1D,00004006-00
+Super Mario 2 (Taiwan) (En) (Unl)|F7E1B3E1
+Super Mario Bros. (Taiwan) (En) (Unl)|9CFA2BD8
+Super Mario World (Taiwan) (En) (Unl)|CF540BA6
+Super Mario World 64 (Taiwan) (En) (Unl)|E7AC4161
+Super Monaco GP (Japan, USA) (En,Ja)|90F9BAB3,4026-00
+Super Monaco GP (USA) (En,Ja)|725018EE,4026-03
+Super Monaco GP (World) (En,Ja)|B1823595,4026-01
+Super Monaco GP (World) (En,Ja) (Rev A)|BE91B28A,4026-02
+Super Off Road (USA, Europe) (Unl)|8F2FDADA,ACLD010-00
+Super Real Basketball (Europe)|F04765BA,MK-1201-00
+Super Real Basketball (Japan, Korea) (Ja)|4346E11A,G-4021-00
+Super Shinobi II, The (Japan) (Beta 1)|1EE5BCE3,XX-9999-00
+Super Shinobi II, The (Japan) (Beta 2)|C47E8AEA,XX-9999-00
+Super Shinobi II, The (Japan, Korea) (Ja)|5B412816,00004085-00
+Super Shinobi, The (Japan)|5C7E5EA6,00001105-00
+Super Shinobi, The (Japan) (En) (Beta) (1989-08-21) (Sega Channel)|370253D8,00000000-00
+Super Shinobi, The (Japan) (En) (Beta) (1989-xx-xx) (Sega Smash Pack)|FA1B8AEB,00000000-00
+Super Skidmarks (Europe) (Beta) (1995-09-22)|720CC7CB,00000000-00
+Super Skidmarks (Europe) (J-Cart)|4A9C62F9,00000000-00
+Super Smash T.V. (USA, Europe)|F22412B6,T-081066-00
+Super Street Fighter II (Europe)|682C192F,MK-12056-00
+Super Street Fighter II (Europe) (Virtual Console)|BFDE41C8,MK-12056-00
+Super Street Fighter II (USA)|E8612C91,165DEFBF,T-12056-00
+Super Street Fighter II (USA) (Virtual Console)|0BDCCC83,T-12056-00
+Super Street Fighter II - The New Challengers (Japan)|D8EEB2BD,T-12043-00
+Super Street Fighter II - The New Challengers (Japan) (Virtual Console)|EA6E8AFC,T-12043-00
+Super Tank War (Taiwan) (En) (Unl)|5E519EA1
+Super Thunder Blade (Japan) (Launch Cart)|8BD77836,00004003-00
+Super Thunder Blade (World)|B13087EE,00004003-01
+Super Volley Ball (Japan)|9B5C28EA,T-30013-00
+Super Volleyball (USA)|85102799,T-30016-00
+Superman (USA)|543A5869,T-15036-00
+Superman (USA) (Beta)|5CD0E1D4,T-15036-00
+Superman - The Man of Steel (Europe)|7DB434BA,T-70126-00
+Surging Aura (Japan)|28520661,65AC1D2B,G-5522-00
+Swamp Thing (USA) (Proto)|82013EF6,T-55016-02
+Switchblade (World) (Aftermarket) (Unl)|53DD2706,00000000-00
+Switchblade (World) (Demo) (Aftermarket) (Unl)|A790F8C7,00000000-00
+Sword of Sodan (Japan)|58EDB3F3,T-50076-01
+Sword of Sodan (USA, Europe)|9CB8468F,T-50076-01
+Sword of Vermilion (USA, Europe)|EA1BC9AB,00005502-00
+Sword of Vermilion (USA, Europe) (1993-11-18) (Sega Channel)|F38C50BF,00005502-00
+Syd of Valis (USA)|37DC0108,T-49126-01
+Sylvester & Tweety in Cagey Capers (USA, Europe) (Beta 1)|9D9C786B,T-101026-00
+Sylvester & Tweety in Cagey Capers (USA, Europe) (Beta 2)|5B3EA17B,T-101026-00
+Sylvester and Tweety in Cagey Capers ~ Sylvester & Tweety in Cagey Capers (USA, Europe)|89FC54CE,T-048346-00
+Syndicate (USA, Europe) (En,Fr,De)|95BBF87B,T-50906-00
+T2 - Terminator 2 - Judgment Day (USA, Europe)|2F75E896,T-081176-00
+T2 - The Arcade Game (Japan)|5E6FE52C,T-081023-00
+T2 - The Arcade Game (USA) (Beta) (August, 1992)|94255703,T-000000-00
+T2 - The Arcade Game (USA, Europe)|A1264F17,T-081156-01
+Taikou Risshiden (Japan)|F96FE15B,T-76123-00
+Taiwan Daheng (Taiwan) (Unl)|BAF20F81
+TaleSpin (USA, Europe)|F5C0C8D0,MK-1034-00
+TaleSpin (USA, Europe) (Beta)|B3E0C7E6,MK-1035-00
+Talmit's Adventure (Europe)|05DC3FFC,MK-1052-50
+TANGLEWOOD|1A91C419
+Tanglewood (World) (Aftermarket) (Unl)|1A91C419
+Tanglewood (World) (Demo) (Aftermarket) (0.0.11) (Unl)|C6504722,XXXXXXXX-XX
+Tanglewood (World) (Demo) (Aftermarket) (0.0.14) (Unl)|D23BB250,XXXXXXXX-XX
+Tanglewood (World) (Demo) (Aftermarket) (0.0.15) (Unl)|5E0EFB0E,XXXXXXXX-XX
+Tanglewood (World) (Demo) (Aftermarket) (0.1.04) (Unl)|DD537516,XXXXXXXX-XX
+Tanglewood (World) (Demo) (Aftermarket) (0.8.01) (Unl)|61211912,XXXXXXXX-XX
+Tanglewood (World) (Demo) (Aftermarket) (0.9.37) (Unl)|9CC94381,EVIL0106-00
+Tanglewood (World) (Rev 1) (Aftermarket) (Unl)|2B914B3B,EVIL0106-00
+Tanzer (World) (1.83) (Aftermarket) (Unl)|237299A8,00000000-00
+Tanzer (World) (Demo) (Aftermarket) (Unl)|F8A31C40
+Target Earth (USA)|CDDF62D3,T-25046-00
+Target Earth (USA) (Beta) (1990-02-16)|EBAA609D,T-25013-00
+Task Force Harrier EX (Japan)|E9A54EED,T-24053
+Task Force Harrier EX (USA)|C8BB0257,T-24036
+Tatsujin ~ Truxton (World)|5BD0882D,G-4020-00
+Taz in Escape from Mars (Europe)|62100099,MK-1546-00
+Taz in Escape from Mars (USA)|62009F8C,MK-1546-00
+Taz-Mania (World)|0E901F45,MK-1032-00
+Taz-Mania (World) (Beta 1)|1415B80F,MK-1032-00
+Taz-Mania (World) (Beta 2)|76E10518,MK-1032-00
+TC 2000 (Argentina) (Unl) (Pirate)|CEF91BDB
+Team USA Basketball (USA, Europe)|A0CAF97E,T-50376-00
+TechnoClash (USA, Europe)|4E65E483,T-50596-00
+Technocop (USA)|7459AD06,T-56016-00
+Technocop (USA) (Beta) (1990-09-12)|F06ED8CA,00000000-00
+Technocop (USA) (Beta) (September, 1990)|059AC8FB,00000000-00
+Tecmo Super Baseball (USA)|227A1178,T-36046-00
+Tecmo Super Bowl (Japan)|90C6E20C,T-36023-00
+Tecmo Super Bowl (USA)|BD5933EE,T-36016-00
+Tecmo Super Bowl (USA) (Beta)|86EF3441,T-36016-00
+Tecmo Super Bowl II - Special Edition (Japan)|32FB633D,T-36043-00
+Tecmo Super Bowl II - Special Edition (USA)|0A0E67D8,T-36056-00
+Tecmo Super Bowl III - Final Edition (USA)|AAE4089F,T-36066-00
+Tecmo Super Hockey (USA)|5F86DDC9,T-36036-00
+Tecmo Super NBA Basketball (Japan)|79F33EB6,T-36033-00
+Tecmo Super NBA Basketball (USA)|53913991,T-36026-00
+Tecmo World Cup '92 (Japan)|5E93C8B0,T-44023-00
+Tecmo World Cup (USA)|CAF8EB2C,T-44016
+Teddy Boy Blues (Japan) (SegaNet)|733D2EB3,00054503-00
+Teenage Mutant Hero Turtles - The Hyperstone Heist (Europe)|966D5286,T-95016-00
+Teenage Mutant Hero Turtles - Tournament Fighters (Europe)|3CD2B7E6,T-95066-00
+Teenage Mutant Ninja Turtles - Return of the Shredder (Japan)|1B003498,T-95013-00
+Teenage Mutant Ninja Turtles - The Hyperstone Heist (USA)|679C41DE,T-95016-00
+Teenage Mutant Ninja Turtles - The Legend Returns (Russia) (Unl)|7FB1356E,00000000-00
+Teenage Mutant Ninja Turtles - Tournament Fighters (Japan)|8843F2C9,T-95053-00
+Teenage Mutant Ninja Turtles - Tournament Fighters (USA)|95B5484D,T-95066-00
+Teitoku no Ketsudan (Japan)|9B08E4E4,T-76073-00
+Tekken Special (Taiwan) (En) (Unl)|010F6369
+Tel-Tel Mahjong (Japan)|44817E92,T-15033-00
+Tel-Tel Stadium (Japan)|54CF8C29,T-15013-00
+Tenchi o Kurau III - Sangoku Gaiden (Taiwan) (Unl)|E833BC6E
+Terminator, The (Europe)|15F4D302,T-70026-00
+Terminator, The (USA)|31A629BE,T-70026-00
+Terminator, The (USA) (Beta) (1992-04-14)|7350A152,T-70026-00
+Test Drive II - The Duel (USA, Europe) (Unl)|F9BDF8C5,ACLD008-00
+Tetris (Japan)|4CE90DB0,00004007-00
+Tetris (Japan) (Mega Drive Mini)|B6FB7A7D,XXXXXXXX-XX
+Tetris (USA) (Genesis Mini)|C8DD8841,XXXXXXXX-XX
+Theme Park (USA, Europe) (En,Fr,De,Es)|289DA2C5,T-50986-00
+TheSuperShinobi_JUE|5CA24F66
+Thomas the Tank Engine & Friends (USA)|1A406299,T-100036-00
+Thunder Force II (USA, Europe)|9B1561B3,M--8010-00
+Thunder Force II MD (Japan)|E75EC3E0,T-18013-00
+Thunder Force III (Japan, USA) (En)|1B3F399A,T-18033-00
+Thunder Force III (Japan, USA) (En) (Beta) (1990-08-01)|2B5C2063,T-18033-00
+Thunder Force IV (Europe)|E7E3C05B,MK-1143-50
+Thunder Force IV (Japan)|8D606480,T-18063-00
+Thunder Force IV (World) (Sega Ages)|311D9D4A,MK-1143
+Thunder Fox (Japan)|ECA6CFFA,T-11113-00
+Thunder Fox (USA)|5463F50F,T-11066-00
+Thunder Pro Wrestling Retsuden (Japan)|24408C73,T-43013-00
+Thunderbolt II (Taiwan) (En) (Unl)|D5FCC49F
+Tick, The (USA)|425132F0,T-161026-00
+Time Dominator 1st (Japan, Korea) (Ja)|7EBA7A5C,T-23033-00
+Time Killers (Europe)|A4F48A1A,T-100046-00
+Time Killers (USA)|4B5F52AC,T-100046-00
+Time Trax (USA) (Proto)|DFF045EB,0000000-00
+Tinhead (USA) (Ballistic) (April, 1994)|D6724B84,T-124036-00
+Tinhead (USA) (Spectrum HoloByte) (October, 1995)|ADA75F2F,T-119236-00
+Tintin in Tibet (Europe) (En,Fr,De,Es,Nl,Sv)|4243CAF3,T-151036-50
+Tintin in Tibet (Europe) (En,Fr,De,Es,Nl,Sv) (Beta)|5D4E0EA1,T-151036-50
+Tiny Toon Adventures (Korea) (En)|4CA3A8FB,T-95036-00
+Tiny Toon Adventures - ACME All-Stars (Europe) (En,Fr,De)|1227B2B2,T-95146-00
+Tiny Toon Adventures - ACME All-Stars (USA, Korea) (En)|2F9FAA1D,T-95146-00
+Tiny Toon Adventures - Buster's Hidden Treasure (Europe)|D10FBA51,T-95036-00
+Tiny Toon Adventures - Buster's Hidden Treasure (USA)|A26D3AE0,T-95036-00
+Tiny Toon Adventures 3 (Taiwan) (En) (Unl)|F22F569D
+TNN Bass Tournament of Champions (USA)|C83FFA1B,T137056-01
+TNN Outdoors Bass Tournament '96 (USA)|5C523C0B,T137066-00
+Todd's Adventures in Slime World (USA)|652E8B7D,T-49216-00
+ToeJam & Earl (Japan, Europe) (En) (Rev A)|7A588F4B,MK-1020-02
+ToeJam & Earl (USA, Europe, Korea) (En)|D1B36786,MK-1020-00
+ToeJam & Earl in Panic on Funkotron (Asia) (En)|E1B36850,MK-1043-00
+ToeJam & Earl in Panic on Funkotron (Europe)|47B0A871,MK-1043-00
+ToeJam & Earl in Panic on Funkotron (USA)|AA021BDD,MK-1043-00
+ToeJam & Earl in Panic on Funkotron (USA) (1993-09-11) (Sega Channel)|D9DFBB5C,MK-1043-00
+ToeJam & Earl in Panic on Funkotron (USA) (Beta) (August, 1993)|C6A1A8DC,00000000-00
+ToeJam & Earl in Panik auf Funkotron (Germany)|4081B9F2,MK-1043-00
+ToeJamEarl|7A588F4B
+ToeJamEarl2_USA|AA021BDD
+Toki - Going Ape Spit (USA, Europe)|7362C3F4,MK-1127-00
+Toki no Keishousha - Phantasy Star III (Japan)|6C48C06F,5503-00
+Tom and Jerry - Frantic Antics (Japan) (En)|F800C814,T-166013-00
+Tom and Jerry - Frantic Antics! (USA)|3044460C,T-112016-00
+Tom and Jerry - Frantic Antics! (USA) (Beta)|B9992E1C,T-112016
+Tom Clown (Taiwan) (En) (Unl)|0C543CAD
+Tom Mason's Dinosaurs for Hire (USA)|39351146,MK-1050-00
+Tom Mason's Dinosaurs for Hire (USA) (Beta) (1993-04-26)|54C77D3E,MK-1050-00
+Tom Mason's Dinosaurs for Hire (USA) (Beta) (1993-04-27)|16000453,MK-1050-00
+Tom Mason's Dinosaurs for Hire (USA) (Beta) (1993-05-02)|8954DEE9,MK-1050-00
+Tom Mason's Dinosaurs for Hire (USA) (Beta) (March, 1993)|3A538D98,MK-1035-00
+Tommy Lasorda Baseball (USA)|4FB50304,00004006-00
+Tommy Lasorda Baseball (USA) (Beta) (1989-04-30)|AA3965DB,00004006-00
+Tony La Russa Baseball (USA, Australia)|24629C78,T-50546-01
+Top Fighter 2000 MK VIII (Taiwan) (En) (Unl)|F75519DC
+Top Fighter 2005 (Taiwan) (Unl)|174DEFE6
+Top Gear 2 (USA)|BD3074D2,T-23066-00
+Top Pro Golf (Japan)|62BAD606,T-73023-00
+Top Pro Golf 2 (Japan)|B8CE98B3,T-73043-00
+Total Football (Europe)|8360B66A,T-88156-50
+Toughman Contest (USA, Europe)|E19FBC93,T-50996-00
+Tougiou King Colossus (Japan)|016AFD40,FFE7B3C7,G-5513
+Toxic Crusaders (USA)|11FD46CE,MK-1037-00
+Toy Story (Europe)|8E89A9F3,T-239046-00
+Toy Story (USA)|829FE313,T-239046-00
+Toy Story (USA) (Sample)|9321BEC1,T-239046-00
+Toys - Let the Toy Wars begin! (USA)|CBC9951B,T-86046-00
+Trampoline Terror! (USA)|AABB349F,T-34026-00
+Traysia (USA)|96184F4F,T-49166-00
+Traysia (USA) (Beta) (1992-01-22)|DAA83CB5,T-49166-00
+Triple Play - Gold Edition (USA)|C25FF3F2,T-172116-00
+Triple Play 96 (USA)|565E2F2E,T-172026-04
+Trouble Shooter (USA)|BECFC39B,T-23016
+Trouble Shooter (USA) (Beta) (1991-09-12)|4AB3033C,T-23016
+Troy Aikman NFL Football (USA)|015F2713,T-97096-00
+Truco '96 (Argentina) (Unl)|CDDBECFC
+True Lies (World)|18C09468,T-81386-00
+Tun Shi Tian Di 3 - San Guo Wai Chuan (Taiwan) (Unl)|6F98247D
+Tun Shi Tian Di III (Taiwan) (Simple Chinese) (Unl)|EA57B668
+Tun Shi Tian Di III (Taiwan) (Unl)|B23C4166
+Turbo OutRun (Japan, Europe) (En)|0C661369,00001123-00
+Turbo OutRun (Japan, Europe) (En) (Beta) (1991-12-09)|2A7F2B36,00001123-00
+Turma da Monica na Terra dos Monstros (Brazil)|F8288DE1,G-4060-00
+Turrican (USA, Europe) (Unl)|634D67A6,ACLD004-00
+Twin Cobra (USA)|88EA1E4E
+Twin Cobra - Desert Attack Helicopter (USA)|2C708248,MK-1128
+Twinkle Tale (Japan)|0C43B66B,D757F924,T-61013-00
+Twisted Flipper (USA) (Beta 1)|6DD47554,T-XXXXX-XX
+Twisted Flipper (USA) (Beta 2)|D43D5145,T-50386-XX
+Two Crude Dudes (Europe)|B6D90A10,MK-1141
+Two Crude Dudes (USA)|721B5744,T-13026-00
+Two Crude Dudes (USA) (Beta) (1991-11-24)|4BA361A7,T-13063-00
+Two Tribes - Populous II (Europe)|EE988BD9,T-70316-50
+Tyrants - Fight Through Time (USA)|A744921E,T-70056-00
+Uchuu Senkan Gomora (Japan)|C511E8D2,T-42023-00
+Ultimate Mortal Kombat 3 (Europe)|ECFB5CB4,T-81616-50
+Ultimate Mortal Kombat 3 (USA)|D083DBBA,D8C152FF,7290770D,T-097146-00
+Ultimate QIX (USA)|D83369D9,T-11046-00
+Ultimate Soccer (Europe) (En,Fr,De,Es,It)|83DB6E58,MK1219-00
+Ultimate Soccer (Europe) (En,Fr,De,Es,It) (Beta)|9D451F72,MK1219-00
+Ultracore (Europe) (MD-1.0) (Aftermarket) (Unl)|77D3D240,T-SNAKE-MOD
+Ultracore (Europe) (V-1.0) (Aftermarket) (Unl)|B270C265,T-113066
+Ultracore (Japan) (En) (Aftermarket) (Unl)|AE7FDA5A,T-SNAKE-MOD
+Ultracore (USA) (Aftermarket) (Unl)|4852C1C0,T-SNAKE-MOD
+Ultraman (Japan)|83B4D5FB,16023-0000
+Uncharted Waters (USA)|4EDAEC59,T-76026-10
+Undead Line (Japan)|53B9E72F,FB3CA1E6,T-74013-00
+Universal Soldier (USA, Europe) (Unl)|352EBD49,ACLD011-00
+Unnecessary Roughness '95 (USA)|9920E7B7,T-119156-00
+Urban Strike (USA, Europe)|CF690A75,T-50886-00
+Uzu Keobukseon (Korea)|A7255BA8,T-102013-00
+V-V (Japan)|AD9D0EC0,T-48173-00
+Valis (USA)|13BC5B72,T-49196-00
+Valis (USA) (Beta) (1991-10-25)|74A133A8,T-49196-00
+Valis III (Japan)|4D49A166,T-49023-01
+Valis III (USA)|59A2A368,T-49086-01
+Vampire Killer (Japan)|91B57D2B,T-95043-00
+Vampire Killer (Japan) (Castlevania Anniversary Collection)|238A9B8F,T-95043-00
+Vampire Killer (Japan) (Mega Drive Mini)|DB03961B,T-95043-00
+Vapor Trail (USA)|C49E3A0A,T-49106-00
+Vapor Trail (USA) (Beta) (1991-05-26)|2634BDBD,T-49106-00
+VECTMAN2_U|C1A24088
+VECTMAN_UE|D38B3354
+Vectorman (USA) (Genesis Mini)|B0F8C546,MK-1577-00
+Vectorman (USA, Europe)|D38B3354,MK-1577-00
+Vectorman (USA, Europe) (Beta 1)|2084D3DA,xx-xxxx-xx
+Vectorman (USA, Europe) (Beta 2)|A315C8AA,xx-xxxx-xx
+Vectorman (USA, Europe) (Beta 3) (1995-07-24)|0145738B,MK-1577-00
+Vectorman (USA, Europe) (Sega Smash Pack 2)|5C680397,MK-1577-00
+Vectorman 2 (USA)|C1A24088,MK-1843-00
+Vectorman 2 (USA) (Beta) (1996-08-15)|998B087C,MK-1843-00
+Vectorman 2 (USA) (Beta) (1996-08-16)|2986E5CE,MK-1843-00
+Vectorman 2 (USA) (Beta) (1996-08-19)|49EFAB7E,MK-1843-00
+Vectorman 2 (USA) (Beta) (1996-08-26)|EB8124C8,MK-1843-00
+Vectorman 2 (USA) (Beta) (1996-08-27)|6333D89A,MK-1843-00
+Vectorman 2 (USA) (Beta) (August, 1995)|ADA2B0EF,MK-1577-00
+Vectorman 2 (USA) (Sample) (1996-08-28)|B9C79DC9,MK-1843-00
+Venom . Spider-Man - Separation Anxiety (USA, Europe)|512ADE32,T-81556-00
+Vermilion (Japan)|E400DFC3,00005502-00
+Vermilion (Japan) (Mega Drive Mini)|5AF97A22,00005502-00
+Verytex (Japan)|BAFC375F,T-20043-00
+Viewpoint (USA)|59C71866,T-24096-00
+Viewpoint (USA) (Beta) (1994-07-22)|D13FB892,XXXXXXXX-00
+Viewpoint (USA) (Beta) (August, 1994)|DECD238F,T-XXXXX-00
+Virtua Fighter 2 (Korea) (En)|A95D0949,MK-1845-00
+Virtua Fighter 2 (USA, Europe)|937380F3,MK-1845-01
+Virtua Fighter 2 (USA, Europe) (Beta) (1996-08-19)|C5EE3974,T-103046-00
+Virtua Fighter 2 (USA, Europe) (Beta) (1996-08-30)|6A0F3A7B,T-103046-00
+Virtua Fighter 2 (USA, Europe) (Beta) (1996-09-13)|FA5BAD91,MK-1845-00
+Virtua Fighter 2 (USA, Europe) (Beta) (1996-09-20)|AF516DAD,MK-1845-00
+Virtua Fighter 2 (USA, Europe) (Beta) (1996-09-27)|95AB6AB6,MK-1845-00
+Virtua Fighter 2 VS Tekken 2 (Taiwan) (En) (Unl)|2CDB499D
+Virtua Racing (Europe)|9624D4EF,MK-1229-00
+Virtua Racing (Europe) (Beta)|79CADF6E,MK-1229-00
+Virtua Racing (Japan)|53A293B5,G-7001-00
+Virtua Racing (USA)|7E1A324A,MK-1229-00
+VIRTUAFIGHTER2|937380F3
+Virtual Bart (World)|8DB9F378,T-81206-00
+Virtual Pinball (USA, Europe)|D63473AA,T-50696-00
+Vixen 357 (Japan)|F8CE2E43,3AFA2D7B,T-25133-00
+Volfied (Japan)|B0C5E3F7,T-11103
+VR Troopers (USA, Europe)|2F35516E,MK-1576-00
+Wacky Races (USA) (Proto)|1B173F09,T-70406-50
+Wacky Worlds Creativity Studio (USA)|8AF4552D,MK-1713-00
+Wacky Worlds Creativity Studio (USA) (Beta) (1994-08-08)|48D33EA0,MK-1032-00
+Wacky Worlds Creativity Studio (USA) (Beta) (1994-08-17)|4615970B,MK-1032-00
+Wacky Worlds Creativity Studio (USA) (Beta) (1994-08-19)|7F286925,MK-1032-00
+Wani Wani World (Japan)|56F0DBB2,T-33023-00
+Wardner (USA)|1E369AE2,T-58016-00
+Wardner no Mori Special (Japan)|80F1035C,T-58013-00
+Warlock (USA, Europe)|0A46539B,T-81446-00
+Warlock (USA, Europe) (Beta) (December, 1994)|C9B6EDB3,T-81446-00
+WarpSpeed (USA, Europe) (Unl)|143697ED,ACLD014-00
+Warrior of Rome (USA)|5BE10C6A,T-22033-00
+Warrior of Rome II (USA)|CD8C472A,T-22056-00
+Warsong (USA)|4B680285,T-24046-00
+Warsong (USA) (Beta) (1991-10-01)|522642C6,T-24046-00
+Water Margin - A Tale of Clouds and Wind (World) (Unl)|7F93B916
+Waterworld (Europe) (Proto)|51C80498,T-8142650
+Wayne Gretzky and the NHLPA All-Stars (USA, Europe)|C2C13B81,T-048416-00
+Wayne Gretzky and the NHLPA All-Stars (USA, Europe) (Beta)|B963D264,00000000-00
+Wayne's World (USA)|D2CF6EBE,T-100026
+WeaponLord (USA)|B9895365,T-14136-00
+Wheel of Fortune (USA)|C8D8EFC3,T-83016-00
+Where in the World Is Carmen Sandiego (Brazil) (Es,Pt)|7D4450AD,T-50356-00
+Where in the World Is Carmen Sandiego (USA, Europe) (En,Fr,De,Es,It)|EEF372E8,T-50356-00
+Where in Time Is Carmen Sandiego (Brazil) (Es,Pt)|D523B552,T-50336-00
+Where in Time Is Carmen Sandiego (USA, Europe) (En,Fr,De,Es,It)|EA19D4A4,T-50336-00
+Whip Rush (USA)|7EB6B86B,T-49016-00
+Whip Rush (USA) (Beta) (1990-01-29)|FF39FC9F,for-CES-only
+Whip Rush - Wakusei Voltegas no Nazo (Japan)|8084B4D1,G4031-00
+Wild Snake (USA) (Proto)|0C1A49E5,T-124066-00
+Williams Arcade's Greatest Hits (USA)|D68E9C00,T-97126-00
+Wimbledon (Europe)|B791A435,MK-1224-50
+Wimbledon Championship Tennis (Japan)|3E0C9DAF,G-4110-00
+Wimbledon Championship Tennis (USA)|F9142AEE,MK-1224-00
+Wimbledon Championship Tennis (USA) (Beta)|9FEBC760,MK-1224-00
+Wings of Wor (USA)|210A2FCD,T-25076-00
+Winter Challenge (USA, Europe) (Rev 1)|F57C7068,ACLD007-00
+Winter Challenge (USA, Europe) (Unl)|DBC3ED1C,ACLD007-00
+Winter Olympic Games (USA) (En,Fr,De,Es,It,Pt,Sv,No)|C5834437,T-79096
+Winter Olympics (Europe) (En,Fr,De,Es,It,Pt,Sv,No)|FA537A45,T-79096-50
+Winter Olympics (Japan) (En,Fr,De,Es,It,Pt,Sv,No)|654A4684,G-4115-00
+Wisdom Tree Collection (World) (Aftermarket) (Unl)|E77806A8
+Wiz 'N' Liz (USA)|DF036B62,T-113026
+Wiz 'n' Liz - The Frantic Wabbit Wescue (Europe)|F09353B4,T-113026-50
+Wizard of the Immortal (Japan)|C99FAD92,T-106233-00
+Wolfchild (USA)|EB5B1CBF,T-60016-00
+Wolverine - Adamantium Rage (USA, Europe)|D2437BB7,T-81416-00
+Wonder Boy III - Monster Lair (Japan, Europe) (En)|C24BC5E4,G-4025-00
+Wonder Boy in Monster World (USA, Europe)|0D901482,G-4060-00
+Wonder Boy V - Monster World III (Japan, Korea) (Ja)|45A50F96,G-4060-00
+Wonder Boy V - Monster World III (Japan, Korea) (Ja) (Beta) (1991-07-25)|334035F8,G-4060-00
+World Championship Soccer II (Europe)|6065774D,MK-1233-00
+World Championship Soccer II (USA)|C1DD1C8E,MK-1233-00
+World Championship Soccer II (USA) (Beta) (1994-02-22)|6FBFA14E,T-XXXXX-00
+World Championship Soccer II (USA) (Beta) (1994-02-23)|AAB9E240,T-XXXXX-00
+World Championship Soccer II (USA) (Beta) (1994-02-28)|E210A74C,T-XXXXX-00
+World Championship Soccer II (USA) (Beta) (1994-03-03)|5A458D42,T-XXXXX-00
+World Championship Soccer II (USA) (Beta) (1994-03-03) (Alt)|07B387A4,T-XXXXX-00
+World Championship Soccer II (USA) (Beta) (1994-03-04)|8FE9F6EF,T-XXXXX-00
+World Championship Soccer II (USA) (Beta) (1994-03-09)|94625572,T-XXXXX-00
+World Championship Soccer II (USA) (Beta) (1994-03-09) (Alt)|71FA89CC,T-XXXXX-00
+World Championship Soccer II (USA) (Beta) (1994-03-14)|43EC107C,T-XXXXX-00
+World Championship Soccer II (USA) (Beta) (1994-03-18)|F6735B61,T-XXXXX-00
+World Championship Soccer II (USA) (Beta) (1994-03-23)|3852E514,MK-1233-00
+World Championship Soccer II (USA) (Beta) (1994-03-24)|A6D43B4A,MK-1233-00
+World Championship Soccer II (USA) (Beta) (1994-03-25)|6B3624FB,MK-1233-00
+World Championship Soccer II (USA) (Beta) (1994-03-26)|1AD7ED9C,MK-1233-00
+World Championship Soccer II (USA) (Beta) (1994-03-27)|4E141509,MK-1233-00
+World Championship Soccer II (USA) (Beta) (1994-03-29)|A6759340,MK-1233-00
+World Championship Soccer II (USA) (Beta) (1994-03-29) (Alt)|5F9C51F7,MK-1233-00
+World Championship Soccer II (USA) (Beta) (1994-03-30)|8DD49C92,MK-1233-00
+World Championship Soccer II (USA) (Beta) (January, 1994)|C1E21C1A,T-XXXXX-00
+World Class Leader Board (Europe)|DACA01C3,T-79026-50
+World Class Leaderboard Golf (USA)|53434BAB,T-79026-00
+World Cup Italia '90 (Europe)|DD95F829,00004009-05
+World Cup Soccer (Japan) (En)|B01C3D70,00004009-00
+World Cup Soccer ~ World Championship Soccer (Japan, USA) (En)|6363EF45,00004009-01
+World Cup Soccer ~ World Championship Soccer (Japan, USA) (En) (Rev A)|BF84EDE6,00004009-02
+World Cup Soccer ~ World Championship Soccer (Japan, USA) (En) (Rev B)|BF272BCB,00004009-03
+World Cup USA 94 (USA, Europe, Korea) (En,Fr,De,Es,It,Nl,Pt,Sv)|0171B47F,T-79116-00
+World Heroes (Asia) (En)|56E3CEFF,MK-1547-00
+World Heroes (Asia) (En) (Beta) (1994-03-30)|3F93181A,MK-1547-00
+World Heroes (Asia) (En) (Beta) (1994-04-08)|2BEA7215,MK-1547-00
+World Heroes (Asia) (En) (Beta) (1994-04-15)|6DEC07B3,MK-1547-00
+World Heroes (Asia) (En) (Beta) (1994-04-20)|F5FFB191,MK-1547-00
+World Heroes (USA)|0F4D22EC,MK-1547-00
+World Heroes (USA) (Beta) (1994-02-23)|F5DB477E,XXXXXXXX-XX
+World Heroes (USA) (Beta) (1994-03-03)|24A63AEF,MK-1547-00
+World Heroes (USA) (Beta) (1994-03-07)|45C29350,MK-1547-00
+World Heroes (USA) (Beta) (1994-03-09)|2C7F9E64,MK-1547-00
+World Heroes (USA) (Beta) (1994-03-15)|2C0B2F4F,MK-1547-00
+World Heroes (USA) (Beta) (1994-03-16)|19C74E2A,MK-1547-00
+World Heroes (USA) (Beta) (1994-03-18)|2BC2A6BB,MK-1547-00
+World Heroes (USA) (Beta) (1994-03-22)|5C3C0931,MK-1547-00
+World Heroes (USA) (Beta) (1994-03-23)|587E6739,MK-1547-00
+World Heroes (USA) (Beta) (1994-03-24)|8A656942,MK-1547-00
+World Heroes (USA) (Beta) (1994-03-30)|50C797CB,MK-1547-00
+World Heroes (USA) (Beta) (1994-03-31)|D210AA6E,MK-1547-00
+World Heroes (USA) (Beta) (1994-03-31) (Alt)|92E1BF14,MK-1547-00
+World of Illusion starring Mickey Mouse & Donald Duck (USA, Korea) (En) (Beta 2)|F807176C,00004054-01
+World of Illusion starring Mickey Mouse & Donald Duck (USA, Korea) (Ja) (Beta 1)|577F680F,00004054-01
+World of Illusion Starring Mickey Mouse and Donald Duck (Europe)|121C6A49,MK-1070-50
+World of Illusion Starring Mickey Mouse and Donald Duck (USA, Korea) (En)|921EBD1C,MK-1070-00
+World Series Baseball '95 (USA)|25130077,MK-1239-00
+World Series Baseball '95 (USA) (Beta) (1994-12-08)|8846B050,xx-xx-xxxx-xx
+World Series Baseball '95 (USA) (Beta) (1994-12-14)|385BE354,xx-xx-xxxx-xx
+World Series Baseball '95 (USA) (Beta) (1994-12-28)|9E6DBC7C,xx-xx-xxxx-xx
+World Series Baseball '95 (USA) (Beta) (1995-01-01)|C7574372,MK-1239-00
+World Series Baseball '95 (USA) (Beta) (1995-01-03)|498363F7,MK-1239-00
+World Series Baseball '95 (USA) (Beta) (1995-01-05)|1820ABFB,MK-1239-00
+World Series Baseball '95 (USA) (Beta) (1995-01-09)|3DE7CDBC,MK-1239-00
+World Series Baseball '95 (USA) (Beta) (1995-01-10)|AC2772B0,MK-1239-00
+World Series Baseball '95 (USA) (Beta) (1995-01-14)|F70B07CF,MK-1239-00
+World Series Baseball '95 (USA) (Beta) (1995-01-16)|F0E22B21,MK-1239-00
+World Series Baseball '95 (USA) (Beta) (1995-01-18)|5CE70F8F,MK-1239-00
+World Series Baseball '95 (USA) (Beta) (1995-01-20)|16C15E46,MK-1239-00
+World Series Baseball '95 (USA) (Beta) (1995-01-25)|B45D9E33,MK-1239-00
+World Series Baseball '95 (USA) (Beta) (1995-01-30)|6AA76A9D,MK-1239-00
+World Series Baseball '95 (USA) (Beta) (1995-02-02)|A947FE5C,MK-1239-00
+World Series Baseball '95 (USA) (Beta) (1995-02-03)|1F3754FC,MK-1239-00
+World Series Baseball '95 (USA) (Beta) (1995-02-07)|E4056559,MK-1239-00
+World Series Baseball '95 (USA) (Beta) (1995-02-09)|33BB9EDA,MK-1239-00
+World Series Baseball '95 (USA) (Beta) (1995-02-09) (Alt)|83BE98CF,MK-1239-00
+World Series Baseball '95 (USA) (Beta) (1995-02-11)|A0664FE9,MK-1239-00
+World Series Baseball '95 (USA) (Beta) (1995-02-12)|45DA8F18,MK-1239-00
+World Series Baseball '95 (USA) (Beta) (1995-02-13)|9F30AE30,MK-1239-00
+World Series Baseball '95 (USA) (Beta) (1995-02-14)|F300A857,MK-1239-00
+World Series Baseball '96 (USA)|04EE8272,MK-1242-00
+World Series Baseball (USA)|57C1D5EC,MK-1222-00
+World Series Baseball (USA) (Beta) (1993-10-01)|3D71F445,MK-1222-00
+World Series Baseball (USA) (Beta) (1993-12-22)|0DC0558D,MK-1222-00
+World Series Baseball (USA) (Beta) (1993-12-26)|472E6A58,MK-1222-00
+World Series Baseball (USA) (Beta) (1993-12-29)|ED949936,MK-1222-00
+World Series Baseball (USA) (Beta) (1994-01-03)|4B53F035,MK-1222-00
+World Series Baseball (USA) (Beta) (1994-01-06)|B07DE2D3,MK-1222-00
+World Series Baseball (USA) (Beta) (1994-01-16)|5322133E,MK-1222-00
+World Series Baseball (USA) (Beta) (1994-02-18)|3CADFC50,MK-1222-00
+World Series Baseball (USA) (Beta) (1994-03-04)|EDDA44A5,MK-1222-00
+World Series Baseball (USA) (Rev A) (Beta) (1994-05-27)|E473728A,MK-1222-01
+World Series Baseball 98 (USA)|05B1AB53,MK-1244-00
+World Trophy Soccer (USA)|6E3EDC7C,T-70046-00
+Worms (Europe)|B9A8B299,MK-1198-00
+Worms (Europe) (Beta)|5F9E85DF,00000000-00
+Worms (USA) (Proto) (June, 1995)|1D191694,00000000-00
+Wrestle War (Japan, Europe) (En)|2D162A85,00004055-00
+Wrestle War (Japan, Europe) (Ja) (Beta) (September, 1990)|1CDEE87B,00005502-00
+Wrestleball (Japan)|D563E07F,T-14043-00
+Wu Kong Wai Zhuan (Taiwan) (Unl)|880A916E
+Wu Kong Wai Zhuan (Taiwan) (Unl) (Alt)|0BD70E54
+WWF RAW (World)|FBB1E120,T-081316-00
+WWF Royal Rumble (World)|B69DC53E,T-081196-00
+WWF Super WrestleMania (USA, Europe)|B929D6C5,T-081086-00
+WWF WrestleMania - The Arcade Game (USA, Europe)|A5D023F9,T-81546-00
+WWF WrestleMania - The Arcade Game (USA, Europe) (Beta)|719D6155
+X-Men (Europe)|0B78CA97,MK-1057-00
+X-Men (USA)|F71B21B4,MK-1057-00
+X-Men 2 - Clone Wars (USA, Europe)|710BC628,MK-1550-00
+X-Men 2 - Clone Wars (USA, Europe) (Beta) (1994-05-06)|A720EBB4,MK-1032-00
+X-Men 2 - Clone Wars (USA, Europe) (Beta) (1994-05-10)|9B5DD185,MK-1032-00
+X-Men 2 - Clone Wars (USA, Europe) (Beta) (1994-10-18)|52CFF37D,MK-1032-00
+X-Men 2 - Clone Wars (USA, Europe) (Beta) (1994-11-17)|D90CD0DE,MK-1550-00
+X-Men 2 - Clone Wars (USA, Europe) (Beta) (1994-11-23)|4386A381,MK-1550-00
+X-Men 2 - Clone Wars (USA, Europe) (Beta) (1994-11-28)|70383A4D,MK-1550-00
+X-Men 2 - Clone Wars (USA, Europe) (Beta) (1994-11-30)|331DAE0A,MK-1550-00
+X-Men 2 - Clone Wars (USA, Europe) (Beta) (1994-12-02)|7AD7A4E9,MK-1550-00
+X-Men 2 - Clone Wars (USA, Europe) (Beta) (1994-12-03)|669B939C,MK-1550-00
+X-Men 2 - Clone Wars (USA, Europe) (Beta) (1994-12-06)|5B1D0CF5,MK-1550-00
+X-Men 2 - Clone Wars (USA, Europe) (Beta) (1994-12-07)|246A30DA,MK-1550-00
+X-Men 2 - Clone Wars (USA, Europe) (Beta) (1994-12-08)|C6D90B1C,MK-1550-00
+X-Men 2 - Clone Wars (USA, Europe) (Beta) (1994-12-09)|28307B58,MK-1550-00
+X-Men 2 - Clone Wars (USA, Europe) (Beta) (1994-12-10)|73E2EFFE,MK-1550-00
+X-Men 2 - Clone Wars (USA, Europe) (Beta) (1994-12-11)|11415B86,MK-1550-00
+X-Men 2 - Clone Wars (USA, Europe) (Beta) (1994-12-11) (Alt)|51876259,MK-1550-00
+X-Men 2 - Clone Wars (USA, Europe) (Beta) (1994-12-14)|CD662DE6,MK-1550-00
+X-Men 2 - Clone Wars (USA, Europe) (Beta) (1994-12-15)|A5188E30,MK-1550-00
+X-Men 2 - Clone Wars (USA, Europe) (Beta) (1994-12-16)|E8C40972,MK-1550-00
+X-Perts (USA)|57E8ABFD,MK-1574-00
+X-Perts (USA) (Beta) (June, 1995)|9D067249,SEGA000-00
+XDR - X-Dazedly-Ray (Japan)|AB22D002,T-41013-00
+Xeno Crisis (World) (En,Ja,Fr,De,Es,It,Nl,Pt) (Aftermarket) (Unl)|AC5F4CCA,BMAP-001-00
+Xenon 2 - Megablast (Europe)|59ABE7F9,t-70076-50
+Xiao Monv - Magic Girl (Taiwan) (Unl)|8E49A92E
+Xin Qi Gai Wang Zi (Taiwan) (Beta) (Unl)|703704A0
+Xin Qi Gai Wang Zi (Taiwan) (Unl)|DD2F38B5
+Xin Qi Gai Wang Zi (Taiwan) (Unl) (Alt)|DA5A4BFE
+Ya Se Chuan Shuo (Taiwan) (Unl)|095B9A15
+Ya Se Chuan Shuo (Taiwan) (Unl) (Alt)|6C097CB1
+Yazzie (World) (Aftermarket) (Unl)|A104E033,RS333445-01
+Yi Men Ying Lie - Yang Jia Jiang (Taiwan) (Unl)|6604A79E
+Yogi Bear - Cartoon Capers (Europe)|204F97D8,T-83146-50
+Young Indiana Jones Chronicles, The (USA) (Beta)|44F6BE35,XXXXXXX-00
+Ys - Wanderers from Ys (Japan)|52DA4E76,T-49063-00
+Ys III (USA)|EA27976E,T-49146-00
+Ys III (USA) (Beta) (1991-08-28)|69994C44,T-49063-00
+Yu Yu Hakusho - Makyou Toitsusen (Japan)|0F041D2E,71CEAC6F,G-004122-00
+Yu Yu Hakusho - Makyou Toitsusen (Japan) (Beta) (June, 1994) (Sega Channel)|742EA744,G-004103-00
+Yu Yu Hakusho Gaiden (Japan)|7DC98176,G-5523-00
+YuYu Hakusho - Sunset Fighters (Brazil)|FE3FB8EE,G-004122-00
+Zan Yasha Enbukyoku (Japan)|637FE8F3,T-32033-00
+Zany Golf (USA) (Unl)|ED5D12EA
+Zany Golf (USA, Europe)|74ED7607,T-50036-01
+Zero the Kamikaze Squirrel (Europe)|45FF0B4B,T-15176-50
+Zero the Kamikaze Squirrel (USA)|423968DF,T-15176-00
+Zero Tolerance (USA, Europe) (Rev A)|23F603F5,T-119146-01
+Zero Wing (Europe)|89B744A3,MK-1138-50
+Zero Wing (Japan)|7E203D2B,T-40023-00
+Zhan Qi Chinese Battle Chess (Taiwan) (Unl)|9D3DDE48,0000-0001
+Zhong Guo Xiang Qi (Taiwan) (Unl)|475215A0,GTX420-8M05
+Zhuo Gui Da Shi - Ghost Hunter (Taiwan) (Unl)|76C62A8B
+Zombie High (USA) (Proto) (1992-08-11)|7BEA6194
+Zombies (Europe)|179A1AA2,T-95086-00
+Zombies Ate My Neighbors (USA)|2BF3626F,T-95086-00
+Zool - Ninja of the 'Nth' Dimension (Europe)|1EE58B03,T-50726-50
+Zool - Ninja of the 'Nth' Dimension (USA)|CB2939F1,T-83096-00
+Zoom! (World)|724D6965,G-4023-00
+Zoop (Europe)|0764139F,T-139086-50
+Zoop (USA)|FAA490DC,T-139086-00
+Zoop (USA) (Beta)|2E28C13F,T-139086-00
+Zou! Zou! Zou! Rescue Daisakusen (Japan)|1A761E67,T0106083-00

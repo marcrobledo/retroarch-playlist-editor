@@ -6,134 +6,123 @@
 	<meta name="description" content="This web app allows you to create and edit .lpl playlist files for RetroArch."/>
 	<meta name="keywords" content="retroarch, playlist, lpl, editor, builder, generator"/>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"/>
-	<link rel="shortcut icon" href="./favicon.png" type="image/png" sizes="16x16"/>
-	<link rel="shortcut icon" href="./logo192.png" type="image/png" sizes="192x192"/>
-	<link type="text/css" rel="stylesheet" href="./retroarch-playlist-editor.css" media="all"/>
-	<script type="text/javascript" src="./MarcTableSelect.min.js"></script>
-	<script type="text/javascript" src="./systems.js"></script>
-	<script type="text/javascript" src="./retroarch-playlist-editor.js"></script>
+	<link rel="shortcut icon" href="./app/assets/favicon16.png" type="image/png" sizes="16x16"/>
+	<link rel="shortcut icon" href="./app/assets/favicon128.png" type="image/png" sizes="128x128"/>
+	<link type="text/css" rel="stylesheet" href="./app/style.css" media="all"/>
+	<script type="text/javascript" src="./app/MarcDataTable.min.js"></script>
+	<script type="text/javascript" src="./app/systems.js"></script>
+	<script type="text/javascript" src="./app/retroarch-playlist-editor.js"></script>
 </head>
 <body>
 
-<!-- HEADER -->
-<div id="topbar">
-	<div>
-		<h1><img src="logo192.png" id="icon"/> RetroArch Playlist Editor <small>(beta 1.0)</small></h1>
-		<div id="topright">
-			<h2>
-				by <a href="/" class="author">Marc Robledo</a>
-			</h2>
 
-			<a href="https://github.com/marcrobledo/retroarch-playlist-editor/" target="_blank" class="extlink github"><span class="icon github"></span> See on GitHub</a>
-			<a href="https://www.paypal.me/marcrobledo/5" target="_blank" rel="nofollow" class="extlink donate"><span class="icon donate"></span> Donate</a>
+<div id="app">
+	<div id="app" class="app-columns">
+		<div class="app-rows app-fill">
+			<div id="topbar">
+				<header>
+					<h1><img src="app/assets/favicon128.png" id="icon" /> RetroArch Playlist Editor <small class="hide-for-mobile">Beta 2.0</small></h1>
+					<div id="topright">
+						<h2 class="hide-for-mobile">by <a href="/" tabindex="-1" class="author">Marc Robledo</a></h2>
+
+						<a href="https://github.com/marcrobledo/retroarch-playlist-editor/" target="_blank" tabindex="-1" class="extlink github"><img src="app/assets/icon_github.svg" class="icon" /><span class="hide-for-mobile"> See on GitHub</a></a>
+						<a href="https://www.paypal.me/marcrobledo/5" target="_blank" rel="nofollow" tabindex="-1" class="extlink donate"><img src="app/assets/icon_heart.svg" class="icon" /> Donate</a>
+					</div>
+				</header>
+
+				<div class="toolbar">
+					<div class="toolbar-left">
+						<button id="button-toolbar-select" tabindex="10" class="btn"><img src="app/assets/icon_select_none.svg" class="icon" /> Select</button>
+						<button id="button-toolbar-import" tabindex="20" class="btn"><img src="app/assets/icon_plus.svg" class="icon" /> Import content</button>
+						<button id="button-toolbar-save" tabindex="30" class="btn"><img src="app/assets/icon_download.svg" class="icon" /> Save playlist</button>
+					</div>
+					<div id="toolbar-right" class="hide">
+						<span id="selected-elements">0 elements selected</span> | 
+						<button id="button-toolbar-edit" tabindex="40" class="btn"><img src="app/assets/icon_pencil.svg" class="icon" /> Edit content</button>
+						<button id="button-toolbar-remove" tabindex="50" class="btn" title="Remove content"><img src="app/assets/icon_trash.svg" class="icon" /></button>
+					</div>
+				</div>
+			</div>
+
+			<div id="table-panel" class="app-fill unselectable" unselectable="on" onselectstart="return false">
+				<div id="playlist-table-container"></div>
+
+				<div id="drop-message" class="drop-zone">Drag and drop content/playlist here<br/>or <span onclick="openImportBrowser()" tabindex="70" class="clickable">browse content</span> in your computer</div>
+			</div>
 		</div>
 	</div>
-
-	<div id="toolbar">
-		<div id="toolbar-right">
-			<span id="selected-elements">0</span> elements selected | 
-			<button onclick="openEditBalloon()" id="button-edit"><span class="icon edit"></span> Edit content</button>
-			<button onclick="currentPlaylist.removeSelectedContent()" title="Remove content"><span class="icon trash"></span></button>
-		</div>
-		<button onclick="checkAll()" id="button-selectall"><span class="icon select"></span></button>
-		<button onclick="openImportBrowser()"><span class="icon add"></span> Import content</button>
-		<button onclick="openTweakBalloon()" id="button-tweak"><span class="icon tweak"></span> Tweak playlist</button>
-		<button onclick="openSaveBalloon()" id="button-save"><span class="icon save"></span> Save playlist</button>
-	</div>
 </div>
-
-<div class="row unselectable" id="main-panel" unselectable="on" onselectstart="return false">
-	<div class="twelve columns" id="table-panel">
-		<div id="playlist-table-container"></div>
-
-		<div id="drop-message" class="drop-zone">Drag and drop content/playlist here<br/>or <span onclick="openImportBrowser()" class="clickable">browse content</span> in your computer</div>
-	</div>
-	<div class="zero columns" id="right-panel">
-	</div>
-</div>
-
-
-
-<form id="form">
-	<input type="file" id="input-file" multiple class="hidden" onchange="readFiles(this.files)" />
-</form>
 
 
 <!-- BALLOONS -->
-<div id="balloon-save" class="balloon">
-	<div class="row">
-		<label for="input-playlist-name">Playlist name</label><br/>
-		<input type="text" id="input-playlist-name" class="full-width" oninput="currentPlaylist.setName(this.value)" />
+<div id="balloon-select" class="balloon">
+	<div class="input-container">
+		<div style="width:30%;display:inline-block">
+			<button id="button-select-none" tabindex="11" class="btn btn-active"><img src="app/assets/icon_select_none.svg" class="icon" /> None</button>
+		</div>
+		<div style="width:30%;display:inline-block">
+			<button id="button-select-inverse" tabindex="12" class="btn"><img src="app/assets/icon_select_mixed.svg" class="icon" /> Invert</button>
+		</div>
+		<div style="width:30%;display:inline-block">
+			<button id="button-select-all" tabindex="13" class="btn"><img src="app/assets/icon_select_all.svg" class="icon" /> All</button>
+		</div>
 	</div>
-	<div class="row">
-		<label for="select-core-path">Core path</label><br/>
-		<select id="select-core-path" class="full-width" onchange="setCorePath(this.value)"></select>
-	</div>
-	<div class="row text-right" id="core-path-message"></div>
 
-	<div class="buttons">
-		<label for="checkbox-json">JSON format</label><input type="checkbox" id="checkbox-json" style="width:auto;vertical-align:middle"/> <button onclick="currentPlaylist.export(!el('checkbox-json').checked);closeBalloon('save')" class="colored">Save</button>
+	<div class="input-container end">
+		<label for="input-search">Search content</label>
+		<input id="input-search" type="text" tabindex="14" />
 	</div>
 </div>
-<div id="balloon-tweak" class="balloon">
-	<div class="row">
-		<div class="twelve columns"><input type="checkbox" id="checkbox-tweak-sort" checked /> <label for="checkbox-tweak-sort">Sort content by name</label></div>
+<div id="balloon-save" class="balloon">
+	<div class="input-container">
+		<label for="input-playlist-name">Playlist name</label>
+		<input id="input-playlist-name" tabindex="31" type="text" />
 	</div>
-	<div class="row">
-		<div class="twelve columns"><input type="checkbox" id="checkbox-tweak-filter" onchange="toggleTweakFilter()" /> <label for="checkbox-tweak-filter">Filter content</label></div>
-	</div>
-	<div class="row row-tweak-toggled" id="tweak-filter">
-		<div class="row">
-			<label for="input-tweak-filter">Select content that contains</label>
-		</div>
-		<div class="row">
-			<input type="text" id="input-tweak-filter" class="full-width"/>
-		</div>
-		<div class="row">
-			<input type="checkbox" id="checkbox-tweak-filter-regex" /> <label for="checkbox-tweak-filter-regex">Regular expression</label>
-			<input type="checkbox" id="checkbox-tweak-filter-inverse" /> <label for="checkbox-tweak-filter-inverse">Invert</label>
-		</div>
-	</div>
-	<div class="row">
-		<input type="checkbox" id="checkbox-tweak-replace" onchange="toggleTweakReplace()" /> <label for="checkbox-tweak-replace">Replace content name</label>
-	</div>
-	<div class="row row-tweak-toggled" id="tweak-replace">
-		<div class="row">
-			<label for="input-tweak-replace-search">Search pattern</label>
-		</div>
-		<div class="row">
-			<input type="text" id="input-tweak-replace-search" class="full-width"/>
-		</div>
-		<div class="row">
-			<input type="checkbox" id="checkbox-tweak-replace-regex" /> <label for="checkbox-tweak-replace-regex">Regular expression</label>
-		</div>
-		<div class="row">
-			<label for="input-tweak-replace-replace">Replace by</label>
-		</div>
-		<div class="row">
-			<input type="text" id="input-tweak-replace-replace" class="full-width"/>
-		</div>
+	<div class="input-container">
+		<label for="select-core-path">Core path</label>
+		<select id="select-core-path" tabindex="32"></select>
+		<div id="core-path-message"></div>
 	</div>
 
-	<div class="buttons">
-		<button onclick="tweakCurrentPlaylist();closeBalloon('tweak');" class="colored">Tweak playlist</button>
+	<div class="text-right">
+		<label>Legacy mode <input id="checkbox-legacy" type="checkbox" tabindex="33" /></label> <button id="button-save" tabindex="34" class="btn btn-save"><img src="app/assets/icon_download.svg" class="icon" /> Save</button>
 	</div>
 </div>
 <div id="balloon-edit" class="balloon">
-	<div id="row-content-name">
-		<label for="input-content-name">Name:</label><br/><input type="text" id="input-content-name" oninput="currentPlaylist.selectedContent[0].setName(this.value);currentPlaylist.unsavedChanges=true"/>
+	<div id="edit-content-name-single" class="input-container">
+		<label for="input-content-name">Name</label>
+		<input id="input-content-name" type="text" tabindex="41" />
 	</div>
+	<div id="edit-content-name-multiple" class="input-container">
+		<label for="select-massive-rename">Massive rename</label>
+		<select id="select-massive-rename" tabindex="42"><option>- Select an action -</option></select>
+	</div>
+
+	<div class="input-container">
+		<label for="input-content-path">Path</label>
+		<input id="input-content-path" tabindex="43" type="text" value="./roms/" list="path-suggestions"/>
+	</div>
+
 	<div>
-		<label for="input-content-path">Path:</label><br/><input type="text" id="input-content-path" value="./roms/" oninput="this.value=fixContentPath(this.value);currentPlaylist.setSelectedContentPath(this.value)"/>
+		<div class="input-container end" style="width:48.5%; float:left;">
+			<label for="select-database">Database</label>
+			<select id="select-database" tabindex="44"></select>
+		</div>
+		<div class="input-container end" style="width:48.5%; float:right;">
+			<label for="select-core">Core</label>
+			<select id="select-core" tabindex="45"></select>
+		</div>
 	</div>
-	<div>
-		<label for="select-core">Core:</label><br/><select id="select-core" onchange="currentPlaylist.setSelectedContentCore(this.value);"></select>
-	</div>
-	<!-- <div class="row">
-		<label for="select-crc32">CRC32:</label><br/><select id="select-crc32"></select>
-	</div> -->
 </div>
 
+<datalist id="path-suggestions"></datalist>
 
+<div id="dialogs">
+	<div id="dialog-backdrop" onclick="UI.closeDialog()"></div>
+	<div id="dialog-scripts" class="dialog">
+		Scripts
+	</div>
+</div>
 
+<form id="form"><!-- input type="file" id="input-directory" webkitdirectory multiple class="hide" onchange="readFiles(currentPlaylist, this.files)" /> --><input type="file" id="input-file" multiple class="hide" onchange="readFiles(currentPlaylist, this.files)" /></form>
 </body></html>

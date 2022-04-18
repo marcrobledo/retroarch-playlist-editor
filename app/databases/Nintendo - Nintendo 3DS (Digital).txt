@@ -1,0 +1,948 @@
+3ds,cia
+10-in-1 - Arcade Collection (Europe) (eShop)|FEE720AB,CTR-N-JAQP
+10-in-1 - Arcade Collection (USA) (eShop)|D94A6A86,CTR-N-JAQE
+1001 Spikes (USA) (eShop)|7D2E75E2,CTR-N-JSKE
+1001 Spikes (USA) (Rev 1) (eShop)|7BF79C2B,CTR-N-JSKE
+101 Dino Pets 3D (Europe) (En,Fr,De,Es,It) (eShop)|AD50F7D8,CTR-N-JDDP
+101 Penguin Pets 3D (Europe) (En,Fr,De,Es,It) (eShop)|37D0D66E,CTR-N-JP8P
+101 Pony Pets 3D (Europe) (En,Fr,De,Es,It) (eShop)|628C0E14,CTR-N-JHDP
+2 Fast 4 Gnomz (Europe) (eShop)|9FF7ECB8,CTR-N-JT4P
+2048 (Europe) (En,Fr,De,Es,It) (eShop)|CB4D4440,CTR-N-JFEP
+2048 (USA) (eShop)|D6513220,CTR-N-JFEE
+3D After Burner II (Europe) (eShop)|0CC4F214,CTR-N-JVNP
+3D After Burner II (Japan) (eShop) (Encrypted CIA)|508CAE0C
+3D After Burner II (USA) (eShop)|2B1EA728
+3D Altered Beast (Europe) (En,Fr,De,Es,It) (eShop)|64A9E470,CTR-N-JA7P
+3D Altered Beast (USA) (eShop)|718AF82B,CTR-N-JA7E
+3D Bare Knuckle II - Shitou e no Requiem (Japan) (eShop)|1C3F553B,CTR-N-KSRJ
+3D Classics - Excitebike (Europe) (En,Fr,De,Es,It) (eShop)|3A76901F,CTR-N-SAEP
+3D Classics - Excitebike (Japan) (eShop)|D45767FA,CTR-N-SAEJ
+3D Classics - Excitebike (USA) (eShop)|0480C269,CTR-N-SAEE
+3D Classics - Excitebike (USA) (Rev 1) (eShop)|0FA60F31,CTR-N-SAEE
+3D Classics - Kid Icarus (Europe) (eShop)|43A64DA9,CTR-N-SAAP
+3D Classics - Kid Icarus (USA) (eShop)|3E8DFC97,CTR-N-SAAE
+3D Classics - Kirby's Adventure (Europe) (eShop)|BE862831,CTR-N-SAFP
+3D Classics - Kirby's Adventure (USA) (eShop)|617DC304,CTR-N-SAFE
+3D Classics - TwinBee (Europe) (eShop)|B317C86D,CTR-N-SACP
+3D Classics - TwinBee (USA) (eShop)|05E41E72,CTR-N-SACE
+3D Classics - Xevious (Europe) (eShop)|85DAC211,CTR-N-SABP
+3D Classics - Xevious (USA) (eShop)|2140E62F,CTR-N-SABE
+3D Classics Urban Champion (Europe) (eShop)|B8561C4E,CTR-N-SADP
+3D Classics Urban Champion (USA) (eShop)|E6416521,CTR-N-SADE
+3D Ecco the Dolphin (Europe) (En,Fr,De,Es,It) (eShop)|F4CDA9F6,CTR-N-JDLP
+3D Ecco the Dolphin (USA) (eShop)|2B532B66,CTR-N-JDLE
+3D Fantasy Zone (Europe) (eShop)|27272CB5,CTR-N-JF8P
+3D Fantasy Zone - Opa-Opa Bros. (Japan) (eShop)|B87AD6FE,CTR-N-JF8J
+3D Fantasy Zone - Opa-Opa Bros. (USA) (eShop)|CE4BB2F1,CTR-N-JF8E
+3D Fantasy Zone II W (Europe) (eShop)|476BDF08,CTR-N-JFCP
+3D Fantasy Zone II W (Japan) (eShop)|FF6B9BCE,CTR-N-JFCJ
+3D Galaxy Force II (USA) (En,Fr,Es) (eShop)|257E7F1C,CTR-N-JGFE
+3D Gunstar Heroes (Europe) (eShop)|9040CE8F,CTR-N-KGHP
+3D Gunstar Heroes (Japan) (eShop)|266868E6,CTR-N-KGHJ
+3D Gunstar Heroes (USA) (eShop)|6B71BC5C,CTR-N-KGHE
+3D Machine Series, The - Episode 1 (Europe) (eShop) (Video)|CD8CA122,CTR-N-MA8P
+3D Machine Series, The - Episode 2 (Europe) (eShop) (Video)|D5A402F9,CTR-N-MA9P
+3D Machine Series, The - Episode 3 (Europe) (eShop) (Video)|D90AA5D2,CTR-N-MBAP
+3D Machine Series, The - Episode 4 (Europe) (eShop) (Video)|CCE3FAE0,CTR-N-MBBP
+3D Machine Series, The - Episode 5 (Europe) (eShop) (Video)|310DC03B,CTR-N-MBCP
+3D Machine, The (Europe) (eShop) (Video)|309B42DE,CTR-N-MAAP
+3D OutRun (Europe) (eShop)|F7A10C61,CTR-N-JYRP
+3D OutRun (Japan) (eShop)|CA7F14C6,CTR-N-JYRJ
+3D Shinobi III - Return of the Ninja Master (Europe) (eShop)|A4815119,CTR-N-JSNP
+3D Solitaire (Europe) (eShop)|AE38CF72,CTR-N-JSLP
+3D Sonic the Hedgehog (Europe) (eShop)|68D4BFC0,CTR-N-JHJP
+3D Sonic the Hedgehog (USA) (eShop)|6934AD65,CTR-N-JHJE
+3D Sonic the Hedgehog 2 (Europe) (eShop)|FC2C28F8,CTR-N-KSNP
+3D Sonic the Hedgehog 2 (Japan) (eShop)|985208AC,CTR-N-KSNJ
+3D Sonic the Hedgehog 2 (USA) (eShop)|3EADB5FF,CTR-N-KSNE
+3D Space Harrier (Europe) (En,Fr,De,Es,It) (eShop)|16670EDA,CTR-N-JSHP
+3D Space Harrier (USA) (eShop)|693F3D4E,CTR-N-JSHE
+3D Streets of Rage (Europe) (En,Fr,De,Es,It) (eShop)|3D1B1351,CTR-N-JRAP
+3D Streets of Rage (USA) (En,Fr,Es) (eShop)|76FAE1E6,CTR-N-JRAE
+3D Streets of Rage 2 (Europe) (En,Fr) (eShop)|E731BA5F,CTR-N-KSRP
+3D Streets of Rage 2 (USA) (eShop)|49262579,CTR-N-KSRE
+3D Super Hang-On (USA) (eShop)|9A6A0D6D,CTR-N-JHAE
+3D Thunder Blade (Europe) (eShop)|DF36382F,CTR-N-JT7P
+3D Thunder Blade (USA) (eShop)|580FF268,CTR-N-JT7E
+3D Visual Experience (USA) (eShop)|D33F2B84,CTR-N-SPDE
+50 Pinch Barrage!! (USA) (eShop)|8FF1600D,CTR-N-KPFE
+7th Dragon III Code - VFD (USA) (eShop)|CB7A455C,CTR-P-BD7E
+A-Train - 3D City Simulator (Europe) (eShop)|7F327852,CTR-N-AALP
+Adventure Bar Story (Europe) (eShop)|F9124767,CTR-N-JFNP
+Adventure Bar Story (USA) (eShop)|5D822290,CTR-N-JFNE
+Adventure Time - Explore the Dungeon because I DON'T KNOW! - Update 1.1 (Europe)|B4A8F6F0,CTR-U-AY9P
+Aero Porter (Europe) (eShop)|038A6B88,CTR-N-JAPP
+Aero Porter (USA) (eShop)|4F274A94,CTR-N-JAPE
+AeternoBlade (Europe) (eShop)|3D6C8588,CTR-P-ACUP
+AeternoBlade (USA) (eShop)|7828FC62,CTR-N-ACUE
+AiRace Speed (Europe) (eShop)|8401CA5E,CTR-N-JARP
+AiRace Xeno (Europe) (eShop)|1D2B7F8E,CTR-N-JYSP
+AiRace Xeno (Europe) (Rev 1) (eShop)|AFD43C4F,CTR-N-JYSP
+Alien Chaos 3D (Europe) (En,Fr,De,Es,It) (eShop)|6ACE0345,CTR-N-JAEP
+Alien on the Run (USA) (eShop)|E4EB5EA2,CTR-N-JJAE
+Alphadia (USA) (eShop)|ACBDF08B,CTR-N-KAFE
+Ambassador Certificate (USA) (En,Fr,Es,Pt) (eShop)|25F61AE3,CTR-N-JC9E
+Angry Bunnies (Europe) (eShop)|481D4601,CTR-N-JANP
+Angry Video Game Nerd Adventures, The (USA) (eShop)|A2B05859,CTR-N-KNAE
+Animal Crossing - Happy Home Designer (Europe) (En,Fr,De,Es,It) (Legit CIA)|6134DAE1,CTR-P-EDHP
+Animal Crossing - New Leaf (Europe) (En,Fr,De,Es,It) (Legit CIA)|1CD27F7F,CTR-P-EGDP
+Animal Crossing - New Leaf (USA) (Legit CIA)|26E11C49,CTR-P-EGDE
+Another World - 20th Anniversary Edition (Europe) (En,Fr,De,Es,It) (eShop)|6B906EEA,CTR-N-JWTP
+Aqua Moto Racing 3D (Europe) (En,Fr,De,Es,It,Pt) (eShop)|58F3EE9F,CTR-N-JMTP
+Arc Style - Baseball 3D (Europe) (En,Fr,De,Es,It,Pt) (eShop)|76B0DCE1,CTR-N-JBSP
+Armed Blue - Gunvolt (Japan) (eShop)|C60A857C,CTR-N-JV7J
+Art of Balance TOUCH! (Europe) (En,Fr,De,Es) (eShop)|0789280B,CTR-N-JABP
+Art of Balance TOUCH! (USA) (eShop)|3E9AE8AB,CTR-N-JABE
+Attack of the Friday Monsters! A Tokyo Tale (Europe) (eShop)|420F361E,CTR-N-JKEP
+Attack of the Friday Monsters! A Tokyo Tale (USA) (eShop)|D13697AC,CTR-N-JKEE
+Attack on Titan - Humanity in Chains (USA) (eShop)|6D82C18F,CTR-N-BG2E
+ATV Wild Ride (USA) (eShop)|54AF5FC1,CTR-N-JWRE
+Azure Striker Gunvolt (Europe) (En,Fr,De,Es,It) (eShop)|F2FDD713,CTR-N-JV7P
+Azure Striker Gunvolt (USA) (eShop)|5C898C63,CTR-N-JV7E
+Balloon Fight (Europe) (Rev 1) (NES) (Virtual Console)|68C59822,CTR-N-TALP
+Balloon Fight (USA) (NES) (Virtual Console)|A76AF86A,CTR-N-TALE
+Balloon Fight (USA) (Rev 1) (NES) (Virtual Console)|4D809E79,CTR-N-TALE
+Balloon Fight (USA) (Rev 2) (NES) (Virtual Console)|9759C4A4,CTR-N-TALE
+Balloon Pop Remix (Europe) (eShop)|EE48CF7F,CTR-N-JB9P
+Banana Bliss - Jungle Puzzles (Europe) (En,Fr,De,Es,It) (eShop)|7D18F3E7,CTR-N-JSRP
+Battleminer (Europe) (eShop)|7547E34C,CTR-N-KBMP
+Battleminer (Europe) (Rev 2) (eShop)|0D56F45E,CTR-N-KBMP
+Battleminer (USA) (eShop)|1B9E4B96,CTR-N-KBME
+Baymax 3D (Japan) (eShop) (Video)|E60B03FD,CTR-N-MBUJ
+BearShark (Europe) (eShop)|1AB88093,CTR-N-JBZP
+Beet Party, The - Episode 1 - Beet Poets (Europe) (eShop) (Video)|3F2C4591,CTR-N-MBFP
+Beet Party, The - Episode 2 - Beet Scratch (Europe) (eShop) (Video)|584F6C2D,CTR-N-MAQP
+Beet Party, The - Episode 3 - Jurassic Fridge (Europe) (eShop) (Video)|77634447,CTR-N-MAMP
+Beet Party, The - Episode 4 - UnderWaterMelon (Europe) (eShop) (Video)|EC89E23B,CTR-N-MA6P
+Beet Party, The - Episode 5 - Unidentified Flying Waffle (Europe) (eShop) (Video)|EE54305B,CTR-N-MBGP
+Beet Party. The - Episode 6 - Call Me Aneek Neek (Europe) (eShop) (Video)|47F2A47C,CTR-N-MBHP
+Best of Mahjong (Europe) (En,Fr,De,Es,It) (eShop)|B46FA238,CTR-N-JVMP
+Best of Solitaire (Europe) (En,Fr,De,Es,It) (eShop)|AD0D78EF,CTR-N-JVTP
+Bijin-Tokei (Japan) (eShop)|F6E5DDAD,CTR-N-JBDJ
+Bike Rider DX (Europe) (eShop)|AFDD10DC,CTR-N-JCXP
+Bike Rider DX (USA) (eShop)|25E694A3,CTR-N-JCXE
+Bike Rider DX2 - Galaxy (Europe) (eShop)|0DAD48B2,CTR-N-JGYP
+Bike Rider DX2 - Galaxy (USA) (eShop)|810A5671,CTR-N-JGYE
+Bingo de NouTore - BinTore (Japan) (eShop)|9C2DDF14,CTR-N-KBHJ
+Bird Mania 3D (Europe) (En,Fr,De,Es,It) (eShop)|E01AC8B3,CTR-N-JT9P
+Bird Mania Christmas 3D (Europe) (En,Fr,De,Es,It) (eShop)|6A81403B,CTR-N-JXSP
+Bird Mania Christmas 3D (USA) (eShop)|68C5E168,CTR-N-JXSE
+Bit Boy!! Arcade (Europe) (eShop)|0785552F,CTR-N-JBBP
+Bit Boy!! Arcade (Europe) (Rev 1) (eShop)|D7456D33,CTR-N-JBBP
+Bit Boy!! Arcade (USA) (eShop)|3D8884B4,CTR-N-JBBE
+Blast 'Em Bunnies (USA) (eShop)|045C4A48,CTR-N-JATE
+BlazBlue - Clone Phantasma (USA) (eShop)|25F5B859,CTR-N-JB2E
+Block Factory (Europe) (En,Fr,De,Es,It) (eShop)|36F077CB,CTR-N-JBFP
+Bloo Kid 2 (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (eShop)|5855A9B7,CTR-N-KBKP
+Bloo Kid 2 (Japan) (eShop)|9C336DC9,CTR-N-KBKJ
+Bloody Vampire (Europe) (eShop)|F34961A1,CTR-N-JBLP
+Bokura no Nanokakan Sensou - Yuujou Adventure (Japan) (eShop)|1F155E53,CTR-N-KYAJ
+Bomb Monkey (USA) (eShop)|15874C2B,CTR-N-JB3E
+Boulder Dash-XL 3D (USA) (eShop)|349700D9,CTR-N-ABZZ
+BOXBOY! (Europe) (En,Fr,De,Es,It) (eShop)|D326A271,CTR-N-JCPP
+BOXBOY! (USA) (En,Fr,Es) (eShop)|58921123,CTR-N-JCPE
+Brave Tank Hero (Europe) (eShop)|5DB772BD,CTR-N-JLTP
+Brave Tank Hero (USA) (eShop)|184EA536,CTR-N-JLTE
+Bravely Default (Tappuri Muryou de Asoberu Ban) (Japan) (eShop)|93198BD0,CTR-N-KFKJ
+Breakthru Films - Fat Hamster (Europe) (eShop) (Video)|52FC7AC7,CTR-N-MA2P
+Breakthru Films - Little Postman (Europe) (eShop) (Video)|6FDF16B1,CTR-N-MAXP
+Breakthru Films - Magical Dance (Europe) (eShop) (Video)|83A52693,CTR-N-MAVP
+Breakthru Films - Papa's Boy (Europe) (eShop) (Video)|F4E7F63E,CTR-N-MAYP
+Breakthru Films - Scarecrow (Europe) (eShop) (Video)|EC752B33,CTR-N-MAWP
+Breakthru Films - Spirits of the Piano (Europe) (eShop) (Video)|860652E1,CTR-N-MAZP
+Breakthru Films - Transformation (Europe) (eShop) (Video)|65BC7005,CTR-N-MAUP
+Brunch Panic (Europe) (eShop)|B148A499,CTR-N-JAJP
+Brunch Panic (Taiwan) (eShop)|37318DC3,CTR-N-JBNW
+Brutus & Futee (Europe) (En,Fr,De) (eShop)|8ACC48A3,CTR-N-KBUP
+Bubble Pop World (Europe) (eShop)|E7B163B1,CTR-N-JB8P
+Bugs vs Tanks! (Europe) (eShop)|FD0BA227,CTR-N-JS4P
+Bukigami (Japan) (eShop)|EDF71AB9,CTR-N-KBGJ
+Carl Jiisan no Soratobu Ie 3D (Japan) (eShop) (Video)|134AA49C,CTR-N-MBXJ
+Carps & Dragons (Europe) (En,Fr,De,Es,It) (eShop)|1DB3EBA7,CTR-N-JFAP
+Castle Clout 3D (Europe) (En,Fr,De,Es,It,Pt) (eShop)|5FECA152,CTR-N-JCUP
+Castle Conqueror Defender (Europe) (eShop)|7948F0B6,CTR-N-JCDP
+Castle Conqueror Defender (USA) (eShop)|B9EC1642,CTR-N-JCDE
+Castle Conqueror EX (Europe) (eShop)|C7265002,CTR-N-KCXP
+Castle Conqueror EX (USA) (eShop)|08DFBB0F,CTR-N-KCXE
+Cave Story (Europe) (eShop)|36A7B6E1,CTR-N-JD9P
+Cave Story (USA) (eShop)|7F57F629,CTR-N-JD9E
+Cave Story (USA) (Rev 1) (eShop)|B9B80B5A,CTR-N-JD9E
+Chain Blaster (USA) (eShop)|95C036F7,CTR-N-JCBE
+Chari-Sou DX (Japan) (eShop)|5267FDCF,CTR-N-JCXJ
+Chari-Sou DX3 - Time Rider (Japan) (eShop)|9A9780DF,CTR-N-KTRJ
+Chat-A-Lot (Europe) (En,Fr,De,Es,It) (eShop)|9707CADC,CTR-N-JCTP
+Chat-A-Lot (USA) (eShop)|7D4C22DA,CTR-N-JCTE
+Chibi-Robo! Let's Go, Photo! (Europe) (En,Fr,De,Es,It) (eShop)|890E6025,CTR-N-JPMP
+Chibi-Robo! Photo Finder (USA) (eShop)|74830A6C,CTR-N-JPME
+Chibi-Robo! Photo Finder (USA) (Rev 1) (eShop)|D01F9D31,CTR-N-JPME
+Chou Kagaku Dasshutsu Story - Zekkai no Gouka Kyakusen (Japan) (eShop)|047EF84B,CTR-N-JT6J
+Christmas Wonderland 4 (Europe) (eShop)|205DE12F,CTR-N-KCWP
+Chronus Arc (Europe) (eShop)|626791BB,CTR-N-JCNP
+Citizens of Earth (Europe) (En,Fr,De,Es,It) (eShop)|0B97B9CC,CTR-N-JUYP
+Citizens of Earth (Europe) (En,Fr,De,Es,It) (Rev 1) (eShop)|C181AA4F,CTR-N-JUYP
+Citizens of Earth (USA) (En,Fr,Es) (eShop)|F2CB341F,CTR-N-JUYE
+Citizens of Earth (USA) (Rev 1) (eShop)|2C328581,CTR-N-JUYE
+Club Nintendo Picross (Japan) (eShop)|E820A125,CTR-N-JPQJ
+Club Nintendo Picross Plus (Japan) (eShop)|C8E2F388,CTR-N-KXXJ
+Coaster Creator 3D (Europe) (En,Fr,De) (eShop)|12DB92C1,CTR-N-JC2P
+Cocoro Line Defender (Europe) (En,Fr,De,Es,It) (eShop)|F884679F,CTR-N-JFBP
+Code of Princess (Europe) (eShop)|31FA9682,CTR-N-AC7P
+Color Zen (Europe) (eShop)|C0E48DC7,CTR-N-JZNP
+Color Zen (USA) (eShop)|A896E456,CTR-N-JZNE
+Color Zen Kids (Europe) (eShop)|240F64E9,CTR-N-JZKP
+Colors! 3D (Europe) (eShop)|19B12FEB,CTR-N-JCRP
+Colors! 3D (Europe) (Rev 1) (eShop)|E279C814,CTR-N-JCRP
+Colors! 3D (Japan) (eShop)|1AEC0F62,CTR-N-JCRJ
+Colors! 3D (USA) (En,Fr,Es,Pt) (Rev 1) (eShop)|B17C2678,CTR-N-JCRE
+Colors! 3D (USA) (eShop)|097BFE47,CTR-N-JCRE
+Comic Workshop (Europe) (En,Fr) (eShop)|9E575F8C,CTR-N-JWMP
+Comic Workshop (Europe) (En,Fr) (Rev 1) (eShop)|7275FE77,CTR-N-JWMP
+Comic Workshop 2 (Europe) (En,Fr) (eShop)|6CAC4335,CTR-N-KW2P
+Conception II - Children of the Seven Stars (Europe) (eShop)|1A23DACA,CTR-N-BCCP
+Cororoke no Mori Poitto (Japan) (eShop)|0F781E10,CTR-N-KRRJ
+Crash City Mayhem (Europe) (En,Fr,De,Es,It) (eShop)|E25D5E54,CTR-P-AC2P
+Crashmo (USA) (eShop)|1AD32083,CTR-N-JAUE
+Crazy Chicken - Director's Cut 3D (Europe) (En,Fr,De,Es,It) (eShop)|2C75EB93,CTR-N-JMBP
+Crazy Chicken - Pirates 3D (Europe) (En,Fr,De,Es,It) (eShop)|F5240827,CTR-N-JMNP
+Crazy Kangaroo (Europe) (eShop)|20F7392A,CTR-N-JKGP
+Crimson Shroud (Europe) (eShop)|05EA5339,CTR-N-JCZP
+Crimson Shroud (USA) (eShop)|619F113A,CTR-N-JCZE
+Cube Creator 3D (Europe) (En,Fr,De,Es) (eShop)|FA22A85F,CTR-N-KCCP
+Cube Creator 3D (Europe) (En,Fr,De,Es) (Rev 1) (eShop)|64F446BC,CTR-N-KCCP
+Cube Creator 3D (Japan) (eShop)|C1F0FED6,CTR-N-KCCJ
+Cube Creator 3D (USA) (eShop)|557815A9,CTR-N-KCCE
+Cube Creator 3D (USA) (Rev 1) (eShop)|2723F201,CTR-N-KCCE
+Cube Tactics (Europe) (En,Fr,De,Es,It) (eShop)|B652A892,CTR-N-JC4P
+Cube Tactics (USA) (eShop)|519B7F86,CTR-N-JC4E
+Cubit - The Hardcore Platformer Robot (Europe) (En,Fr,De,Es,It) (eShop)|BAAC716A,CTR-N-JQ7P
+Cubit - The Hardcore Platformer Robot (USA) (eShop)|BC0B9D8D,CTR-N-JQ7E
+Cut the Rope (USA) (eShop)|F0AB8F45,CTR-N-JC6E
+Daigasso! Band Brothers P Debut (Japan) (eShop)|33BA223A,CTR-N-KXSJ
+Darts Up 3D (USA) (eShop)|6423D93F,CTR-N-JD7E
+Dasshutsu Adventure - Akumu no Shinigami Ressha (Japan) (eShop)|6D6F76E4,CTR-N-JKQJ
+Dasshutsu Adventure - Kamioroshi no Uranai-ban (Japan) (eShop)|0A319CEC,CTR-N-KDHJ
+Dasshutsu Adventure - Kyuukousha no Shoujo (Japan) (eShop)|9B2C19B1,CTR-N-JGDJ
+Dasshutsu Adventure - Majo no Sumu Yakata (Japan) (eShop)|9C220AA8,CTR-N-JUMJ
+Dasshutsu Adventure - Noroi no Suuretsu (Japan) (eShop)|121D01CF,CTR-N-KDYJ
+Dasshutsu Adventure - Shiawase no Akai Ishi (Japan) (eShop)|1668F430,CTR-N-JVSJ
+Dasshutsu Adventure - Shuuen no Kuroi Kiri (Japan) (eShop)|8DAA07B5,CTR-N-KDSJ
+Deco Photo 3D (France) (eShop)|4189176C,CTR-N-JCVF
+Dedede's Drum Dash Deluxe (Europe) (En,Fr,De,Es,It) (eShop)|A067C815,CTR-N-JVQP
+Dedede's Drum Dash Deluxe (USA) (eShop)|39A78624,CTR-N-JVQE
+Deer Hunting King (USA) (eShop)|64B10B46,CTR-N-JCKE
+Delusions of Von Sottendorff and His Squared Mind, The (Europe) (En,Fr,De,Es,It,Pt) (eShop)|6AF9D7C6,CTR-N-JDHP
+Dementium Remastered (Europe) (eShop)|80046827,CTR-N-KDDP
+Dementium Remastered (USA) (eShop)|4E42F780,CTR-N-KDDE
+Demon King Box (Europe) (eShop)|D0529E07,CTR-N-KDKP
+Demon King Box (USA) (eShop)|52E0CC35,CTR-N-KDKE
+DENPA MEN, The - They Came By Wave (Europe) (eShop)|302D37D4,CTR-N-JD8P
+Denpa Ningen no RPG (Japan) (eShop)|19E0A341,CTR-N-JD8J
+Denpa Ningen no RPG 3 (Japan) (eShop)|6A6AA48C,CTR-N-JDRJ
+Denpa Ningen no RPG FREE! (Japan) (eShop)|CF297791,CTR-N-JF7J
+Dillon's Rolling Western (USA) (eShop)|38E63FF8,CTR-N-JAME
+Dillon's Rolling Western - The Last Ranger (Europe) (En,Fr,De,Es,It) (eShop)|CCC1FD13,CTR-N-JGWP
+Dillon's Rolling Western - The Last Ranger (USA) (eShop)|FB77F29C,CTR-N-JGWE
+Donkey Kong (USA) (GB) (Virtual Console)|BB8BD03E,CTR-N-RAHE
+Donkey Kong (USA) (Rev 1) (GB) (Virtual Console)|242513C6,CTR-N-RAHE
+Donkey Kong - Original Edition (USA) (NES) (Virtual Console)|6459C4EA,CTR-N-TAFE
+Donkey Kong Jr. (Europe) (Rev 1) (NES) (Virtual Console)|FAAA2963,CTR-N-TAKP
+Donkey Kong Jr. (USA) (NES) (Virtual Console)|469DED9F,CTR-N-TAKE
+Donkey Kong Jr. (USA) (Rev 1) (NES) (Virtual Console)|0376FDCF,CTR-N-TAKE
+Donkey Kong Jr. (USA) (Rev 2) (NES) (Virtual Console)|C943763C,CTR-N-TAKE
+DOOORS (USA) (eShop)|D415D15F,CTR-N-KDRE
+Dot Runner - Complete Edition (Europe) (eShop)|7AC192D9,CTR-N-JDNP
+Dr. Mario - Miracle Cure (World) (En,Ja,Fr,De,Es,It) (eShop)|3640B3DA,CTR-P-AX8A
+Dragon Ball Z - Extreme Butoden (Europe) (En,Fr,De,Es,It) (Legit CIA)|C0951D1F,CTR-P-BDVP
+Dragon Fantasy - The Volumes of Westeria (USA) (eShop)|1718929F,CTR-N-KDVE
+Dragon Quest X - Mezameshi Itsutsu no Shuzoku Online (Japan) (eShop)|00F38C76,CTR-N-KXNJ
+Dress to Play - Cute Witches! (Europe) (En,Fr,De,Es,It) (eShop)|F02B1525,CTR-N-JDPP
+Dress to Play - Magic Bubbles! (Europe) (En,Fr,De,Es,It) (eShop)|D81D7724,CTR-N-JA8P
+Drop Zone - Under Fire (USA) (eShop)|398F8A20,CTR-N-KDZE
+Dynamite Johnny (Japan) (eShop)|28119CAC,CTR-N-JXQJ
+Edge (Europe) (En,Fr,De,Es,It,Nl,Pt) (eShop)|134A045D,CTR-N-JEGP
+Edge (Europe) (En,Fr,De,Es,It,Nl,Pt) (Rev 1) (eShop)|6B6730F7,CTR-N-JEGP
+Edge (USA) (eShop)|76EDA094,CTR-N-JEGE
+Epic Word Search - Collection 2 (Europe)|16DD88AD,CTR-N-KEXP
+Escape From Zombie City (Europe) (eShop)|6B3CD57B,CTR-N-JZBP
+Escape From Zombie City (USA) (eShop)|91BDA4EB,CTR-N-JZBE
+escapeVektor (Europe) (eShop)|F98C10BC,CTR-N-JEVP
+escapeVektor (USA) (eShop)|1DAA3D64,CTR-N-JEVE
+European Conqueror 3D (Europe) (eShop)|7762ECC1,CTR-N-JXRP
+European Conqueror 3D (USA) (eShop)|909C0E27,CTR-N-JXRE
+Eurosport (Europe) (eShop)|25CE1E8D,CTR-N-JEWP
+Eurosport (Europe) (Rev 1) (eShop)|3F6C6E42,CTR-N-JEWP
+Excave (Europe) (En,Fr,De,Es,It) (eShop)|ED7ED911,CTR-N-JEFP
+Excave (USA) (eShop)|ABE0DD82,CTR-N-JEFE
+Excave II - Wizard of the Underworld (USA) (eShop)|2C339C54,CTR-N-JEJE
+F-Zero - Maximum Velocity (Europe) (GBA) (Virtual Console)|0C7860BD,CTR-N-PAAP
+F-Zero - Maximum Velocity (USA) (GBA) (Virtual Console)|EBCFA428,CTR-N-PAAE
+F-Zero for Game Boy Advance (Japan) (GBA) (Virtual Console)|8D6E84B7,CTR-N-PAAJ
+Fairune (Europe) (eShop)|0D743D32,CTR-N-KFRP
+Fairune (Taiwan) (eShop)|D982DD2F,CTR-N-KFRW
+Fairune (USA) (eShop)|FB65AD15,CTR-N-KFRE
+Fallblox (Europe) (eShop)|A08E6270,CTR-N-JAUP
+Family Bowling 3D (USA) (eShop)|A9705876,CTR-N-JBWE
+Family Fishing (Europe) (eShop)|5162CB57,CTR-N-JFGP
+Family Kart 3D (Europe) (En,Fr,De,Es,It,Pt) (eShop)|F66198EA,CTR-N-JKTP
+Family Tennis 3D (Europe) (En,Fr,De,Es,It,Pt) (eShop)|D175E09D,CTR-N-JK3P
+Fantasy Pirates (Europe) (En,Fr,De,Es,It) (eShop)|35FDB0F0,CTR-N-KFPP
+Final Fantasy (Japan) (eShop)|06F6D18A,CTR-N-JFFJ
+Fire Emblem - Seima no Kouseki (Japan) (GBA) (Virtual Console)|D6F2E67C,CTR-N-PAJJ
+Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It) (GBA) (Virtual Console)|688CA363,CTR-N-PAJP
+Fire Emblem - The Sacred Stones (USA) (GBA) (Virtual Console)|EBA73005,CTR-N-PAJE
+Fire Emblem Awakening (Europe) (En,Fr,De,Es,It) (Legit CIA)|65E6C44F,CTR-P-AFEP
+Fire Emblem Awakening (USA) (Legit CIA)|14007A6D,CTR-P-AFEE
+Fish On 3D (Europe) (eShop)|A4221A58,CTR-N-AFAP
+Fishdom H2O - Hidden Odyssey (Europe) (eShop)|8CC0D3B8,CTR-N-JF4P
+Flick Golf 3D (Europe) (eShop)|2ED5F588,CTR-N-JFQP
+Flipnote Studio 3D (Europe) (En,Fr,De,Es,It) (eShop)|99BC79C4,CTR-N-JKZP
+Flipnote Studio 3D (Europe) (En,Fr,De,Es,It) (Rev 1) (eShop)|0F669D81,CTR-N-JKZP
+Flipnote Studio 3D (USA) (eShop)|33A45A36,CTR-N-JKZE
+Fluidity - Spin Cycle (USA) (eShop)|50613043,CTR-N-JA2E
+Football Up 3D (Europe) (En,Fr,De,Es,It) (eShop)|A996523C,CTR-N-JSUP
+Football Up Online (Europe) (eShop)|9D0B66CC,CTR-N-JULP
+Fortified Zone (USA) (GB) (Virtual Console)|E2C56604,CTR-N-RAQE
+Fortified Zone (USA) (Rev 1) (GB) (Virtual Console)|385789FA,CTR-N-RAQE
+Foto-Zauber 3D (Germany) (eShop)|D5CCDF21,CTR-N-JCVD
+Fractured Soul (Europe) (En,Fr,De,Es,It) (eShop)|889F29F0,CTR-N-JFDP
+Freakyforms - Your Creations, Alive! (USA) (eShop)|DF4BEDF5,CTR-N-JPTE
+Freakyforms - Your Creations, Alive! (USA) (Rev 1) (eShop)|44AA7C60,CTR-N-JPTE
+Freakyforms - Your Creations, Alive! (USA) (Rev 2) (eShop)|39C77E11,CTR-N-JPTE
+Fullblox (Europe) (eShop)|001CF3F9,CTR-N-KAAP
+Fun! Fun! Minigolf Touch! (Europe) (En,Fr,De,Es) (eShop)|4B74647D,CTR-N-JF2P
+Fun! Fun! Minigolf Touch! (USA) (eShop)|D03C0303,CTR-N-JF2E
+Gekidou! Arbeiter Koji (Japan) (eShop)|10C09857,CTR-N-KAKJ
+Gekitou Senshi Nagerunder (Japan) (eShop)|37C0C87B,CTR-N-KNGJ
+Gekiyaba Runner (Taiwan) (eShop)|870CFCFE,CTR-N-JT4W
+Glory of Generals (Europe) (eShop)|E0D08055,CTR-N-KGGP
+Glory of Generals - The Pacific (Europe) (eShop)|AA74744E,CTR-N-KGPP
+Gotcha Racing (Europe) (eShop)|B368323E,CTR-N-JTQP
+Gotcha Racing (USA) (eShop)|1D0CE08E,CTR-N-JTQE
+Gourmet Dream (Japan) (eShop)|CCD666BE,CTR-N-KGDJ
+Governor of Poker (Europe) (En,Fr,De,Es,It) (eShop)|2B8DB02D,CTR-N-JGPP
+Groove Heaven (Europe) (En,Fr,De,Es,It) (eShop)|28993F2E,CTR-N-JRRP
+Guild02 - Kaijuu ga Deru Kinyoubi (Japan) (eShop)|A000EA00,CTR-N-JKEJ
+Gumman Story (Japan) (eShop)|ADF8B29C,CTR-N-JGCJ
+Gumman Story 2 (Japan) (eShop)|C98E2F8B,CTR-N-JWGJ
+Gunman Clive (Europe) (eShop)|E212FE1B,CTR-N-JGCP
+Gunman Clive (USA) (eShop)|8EB8C767,CTR-N-JGCE
+Gunman Clive (USA) (Rev 1) (eShop)|D051D8B6,CTR-N-JGCE
+Gunman Clive 2 (Europe) (eShop)|E9196730,CTR-N-JWGP
+Gunman Clive 2 (USA) (eShop)|C26A0423,CTR-N-JWGE
+Gunman Story (Taiwan) (eShop)|774BA71F,CTR-N-JGCW
+Gunslugs 2 (Europe) (eShop)|673F3F22,CTR-N-KGVP
+Gunslugs 2 (USA) (eShop)|F56A6413,CTR-N-KGVE
+Guunyan (Japan) (eShop)|BD723B29,CTR-N-KGNJ
+Gyouretsu NageLoop (Japan) (eShop)|6D0E91E2,CTR-N-JUEJ
+Hako Boy! (Japan) (eShop)|10CFCC88,CTR-N-JCPJ
+Hako Boy! Mouhito Hako (Japan) (eShop)|0E177DEE,CTR-N-KCAJ
+Hana Samurai - Art of the Sword (Europe) (eShop)|AD227702,CTR-N-JLLP
+Happy Circus (Europe) (En,Fr,De,Es,It,Pt) (eShop)|F7F54FDB,CTR-N-JH8P
+HarmoKnight (Europe) (En,Fr,De,Es,It) (eShop)|B7B74EA4,CTR-P-AQ7P
+HarmoKnight (USA) (eShop)|8C0BF98F,CTR-P-AQ7E
+Hazumi (Europe) (eShop)|DB67BD9A,CTR-N-KHZP
+Hazumi (USA) (eShop)|5E2BC82D,CTR-N-KHZE
+Heart Beaten (Europe) (En,Fr,Es,Pt) (eShop)|C55721C2,CTR-N-KHBP
+Heavy Fire - Black Arms 3D (Europe) (En,Fr,De,Es,It) (eShop)|CE220B36,CTR-N-JHVP
+Heavy Fire - Special Operations 3D (Europe) (En,Fr,De,Es,It) (eShop)|C63B2999,CTR-N-JHFP
+Hikudasu - Hippa Land (Japan) (eShop)|F8937764,CTR-N-KAAJ
+Hikuosu (Japan) (eShop)|8FA6B50D,CTR-N-JCAJ
+Hikuosu (Taiwan) (eShop)|33E5CDA1,CTR-N-JCAW
+Hikuotsu (Japan) (eShop)|1CA45E57,CTR-N-JAUJ
+Hippariinya! (Japan) (eShop)|A02EAE30,CTR-N-KHNJ
+Hitsuji no Shaun 3D - Dai-1-Maki (Japan) (eShop) (Video)|452B4EE5,CTR-N-MAJJ
+Hitsuji no Shaun 3D - Dai-2-Maki (Japan) (eShop) (Video)|529F80BE,CTR-N-MAKJ
+Hitsuji no Shaun 3D - Dai-3-Maki (Japan) (eShop) (Video)|6C1F46F5,CTR-N-MALJ
+Hitsuji no Shaun 3D - Dai-4-Maki (Japan) (eShop) (Video)|018C17E2,CTR-N-MBDJ
+Hitsuji no Shaun 3D - Dai-5-Maki (Japan) (eShop) (Video)|54564CA5,CTR-N-MBEJ
+Home Menu ni Kazareru Badge Toreru Center (Japan) (eShop)|F5646987,CTR-N-JWVJ
+Hoshi no Kirby - Kagami no Daimeikyuu (Japan) (GBA) (Virtual Console)|0543C3AE,CTR-N-PAGJ
+Hulu Plus (USA) (eShop)|53B6CF10,CTR-N-JHLE
+Hydroventure - Spin Cycle (Europe) (En,Fr,De,Es,It) (eShop)|51A2367C,CTR-N-JA2P
+I've Got to Run - Complete Edition! (USA) (eShop)|32326604,CTR-N-KRNE
+Ice Climber (USA) (NES) (Virtual Console)|20A1836F,CTR-N-TAME
+Ice Climber (USA) (Rev 1) (NES) (Virtual Console)|6C230823,CTR-N-TAME
+Ice Climber (USA) (Rev 2) (NES) (Virtual Console)|A97974DA,CTR-N-TAME
+Ikachan (USA) (eShop)|91DAD851,CTR-N-JKCE
+Illvelo Dillinjah (Japan) (eShop)|F1635D58,CTR-N-KEBJ
+Inazuma Eleven (USA) (En,Fr,Es) (eShop)|2DC7DBB3,CTR-N-JEUE
+Incredible Barbazan, The - Episode 1 - The Cabinet of Fear (Europe) (eShop) (Video)|95D154AF,CTR-N-MADP
+Incredible Barbazan, The - Episode 2 - The Fire Juggler (Europe) (eShop) (Video)|303C2EC8,CTR-N-MABP
+Incredible Barbazan, The - Episode 3 - The Human Cannonball 2 (Europe) (eShop) (Video)|D34FE329,CTR-N-MAGP
+Incredible Barbazan, The - Episode 4 - The Knife Thrower (Europe) (eShop) (Video)|50A8A962,CTR-N-MAEP
+Incredible Barbazan, The - Episode 5 - Raging Bull (Europe) (eShop) (Video)|0D9331F2,CTR-N-MAFP
+Incredible Barbazan, The - Episode 6 - Up Your Sleeve (Europe) (eShop) (Video)|A977E812,CTR-N-MAHP
+Initial D Perfect Shift Online (Japan) (eShop)|81F561EA,CTR-N-JYDJ
+Iron Combat - War in the Air (Europe) (En,Fr,De,Es,It) (eShop)|D441BA81,CTR-N-JRZP
+Iron Combat - War in the Air (USA) (eShop)|4E5CF061,CTR-N-JRZE
+IRONFALL Invasion (Europe) (eShop)|6F5EE9D2,CTR-N-KFLP
+IRONFALL Invasion (Europe) (Rev 2) (eShop)|F6ADAB4C,CTR-N-KFLP
+IRONFALL Invasion (Japan) (eShop)|757B4070,CTR-N-KFLJ
+IRONFALL Invasion (USA) (Rev 2) (eShop)|A3AB2654,CTR-N-KFLE
+Ishi Sengokuden Sadame (Japan) (eShop)|38363133,CTR-N-JFTJ
+Isshoni Photo Doubutsu no Mori (Japan) (eShop)|5BF4C463,CTR-N-JFKJ
+Isshoni Photo Pikmin (Japan) (eShop)|26B4C4E3,CTR-N-JAWJ
+Isshoni Photo Super Mario (Japan) (eShop)|71769E89,CTR-N-NACJ
+Japanese Rail Sim 3D - Journey in Suburbs #1 (USA) (eShop)|87395866,CTR-N-ARJE
+Japanese Rail Sim 3D - Journey to Kyoto (Europe) (eShop)|32A99D41,CTR-N-BEDP
+Jett Rocket II - The Wrath of Taikai (Europe) (En,Fr,De,Es) (eShop)|81BF9701,CTR-N-JRSP
+Johnny HotShot (Europe) (eShop)|FD99A57D,CTR-N-JHHP
+Johnny HotShot (USA) (eShop)|CC2D52A8,CTR-N-JHHE
+Johnny Kung Fu (Europe) (eShop)|15011C17,CTR-N-JKFP
+Johnny Kung Fu (USA) (eShop)|D842A13C,CTR-N-JKFE
+Johnny's Payday Panic (Europe) (En,Fr,De,Es,It) (eShop)|9841392E,CTR-N-KAKP
+Justice Chronicles (Europe) (eShop)|E3DD9973,CTR-N-KLNP
+Justice Chronicles (USA)|5FE2D5F7,CTR-N-KLNE
+Kaku-San-Sei Million Arthur (Japan) (eShop)|9E5A572F,CTR-N-JVWJ
+KAMI (Europe) (eShop)|BEA7C825,CTR-N-KMZP
+KAMI (Japan) (eShop)|24E65209,CTR-N-KMZJ
+KAMI (USA) (eShop)|237847DF,CTR-N-KMZE
+Karaoke JOYSOUND (Japan) (eShop)|21B72168,CTR-N-KRKJ
+Karous - The Beast of Re-Eden (Europe) (eShop)|20721C90,CTR-N-BKEP
+Keep, The (Europe) (En,Fr,De,Es,It) (eShop)|31C5268F,CTR-N-JWPP
+Keep, The (USA) (En,Fr,Es,Pt) (eShop)|1C27185F,CTR-N-JWPE
+KemonoMix Plus (USA) (eShop)|F20F9151,CTR-N-JMXE
+Kersploosh! (USA) (eShop)|8EF40A7E,CTR-N-JHSE
+Ketzal's Corridors (USA) (eShop)|E0AF1723,CTR-N-JELE
+Killca Drive (Japan) (eShop)|C9158F72,CTR-N-KLKJ
+Kirby & The Amazing Mirror (Europe) (GBA) (Virtual Console)|87A30A47,CTR-N-PAGP
+Kirby & the Amazing Mirror (USA) (GBA) (Virtual Console)|6E6DB580,CTR-N-PAGE
+Kirby - Planet Robobot (World) (En,Ja,Fr,De,Es,It) (eShop)|DCF89AA3,CTR-P-AT3A
+Kirby - Right Back At Ya! (USA) (eShop) (Video)|C4FA9582,CTR-N-SRBE
+Kirby Fighters Deluxe (Europe) (En,Fr,De,Es,It) (eShop)|03A4A840,CTR-N-JVXP
+Kirby Triple Deluxe (Europe) (En,Fr,De,Es,It) (Legit CIA)|2E088183,CTR-P-BALP
+Kirby's Block Ball (Europe) (GB) (Virtual Console)|2ECE0735,CTR-N-RBKP
+Kirby's Block Ball (USA) (GB) (Virtual Console)|9D427EA1,CTR-N-RBKE
+Kirby's Dream Land (Europe) (GB) (Virtual Console)|F061C0E6,CTR-N-RAFP
+Kirby's Dream Land (USA) (GB) (Virtual Console)|AAE4E15C,CTR-N-RAFE
+Kirby's Dream Land (USA) (Rev 1) (GB) (Virtual Console)|F3BE54F6,CTR-N-RAFE
+Kirby's Dream Land 2 (Europe) (GB) (Virtual Console)|7C66110D,CTR-N-RBNP
+Kirby's Pinball Land (Europe) (GB) (Virtual Console)|C8C5A346,CTR-N-RBZP
+Kirby's Star Stacker (Europe) (GB) (Virtual Console)|81505A54,CTR-N-RBYP
+Kiwamero! Shunkan Jump Kentei (Japan) (eShop)|122A3675,CTR-N-JU2J
+Kokuga (USA) (eShop)|10D15EDD,CTR-N-AK8E
+KORG DSN 12 (USA) (En,Fr,Es,Pt) (eShop)|2EA340C6,CTR-N-JRWE
+KORG M01D (USA) (eShop)|F96412B2,CTR-N-JKRE
+Kung Fu Rabbit (Europe) (En,Fr,De,Es,It) (eShop)|4D2CC044,CTR-N-JKVP
+Kung Fu Rabbit (USA) (eShop)|DD76E059,CTR-N-JKVE
+Layton Kyouju to Kiseki no Kamen+ (Japan) (eShop)|44126230,CTR-N-JKAJ
+League of Heroes (Europe) (eShop)|0DA452CA,CTR-N-JLHP
+League of Heroes (Japan) (eShop)|40523E16,CTR-N-JLHJ
+League of Heroes (USA) (eShop)|E1079AB0,CTR-N-JLHE
+Legend of Dark Witch 2, The (USA) (eShop)|655E0571,CTR-N-KMJE
+Legend of Dark Witch, The (USA) (eShop)|D8E24556,CTR-N-KC2E
+Legend of Dark Witch, The - Chronicle 2D ACT (Europe) (eShop)|B730D74D,CTR-N-KC2P
+Legend of Dark Witch, The - Chronicle 2D ACT (Europe) (Rev 1) (eShop)|FBF6C871,CTR-N-KC2P
+Legend of Dark Witch, The - Chronicle 2D ACT (Taiwan) (eShop)|A9D44A67,CTR-N-KC2W
+Legend of Kusakari, The - Siba Kali no Densetsu (Japan) (eShop)|6C73137E,CTR-N-KSBJ
+Legend of Zelda, The (Europe) (NES) (Virtual Console)|8A0FB8A1,CTR-N-TAEP
+Legend of Zelda, The (USA) (NES) (Virtual Console)|9A8BCFF3,CTR-N-TAEE
+Legend of Zelda, The (USA) (Rev 1) (NES) (Virtual Console)|4525C698,CTR-N-TAEE
+Legend of Zelda, The (USA) (Rev 2) (NES) (Virtual Console)|6AD4A1E5,CTR-N-TAEE
+Legend of Zelda, The - Link's Awakening DX (Europe) (GBC) (Virtual Console)|4FC9671F,CTR-N-QAAP
+Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es,It) (Legit CIA)|8D2FC35C,CTR-P-AJRP
+Legend of Zelda, The - Oracle of Ages (USA) (GBC) (Virtual Console)|2E303F3B,CTR-N-QADE
+Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It) (GBC) (Virtual Console)|AC1632E3,CTR-N-QACP
+Legend of Zelda, The - Oracle of Seasons (USA) (GBC) (Virtual Console)|9BEC2FDB,CTR-N-QACE
+Legend of Zelda, The - The Minish Cap (Europe) (En,Fr,De,Es,It) (GBA) (Virtual Console)|F0471362,CTR-N-PAKP
+Legend of Zelda, The - The Minish Cap (USA) (GBA) (Virtual Console)|C7C8DAB8,CTR-N-PAKE
+LEGO Legends of Chima - Laval's Journey - Update 1.1 (Europe)|2F469090,CTR-U-APRP
+LEGO Movie Videogame, The - Update 1.1 (Europe) (En,Fr,Es,It,Nl,Da)|077D6C64,CTR-U-AFJP
+Let's Golf 3D (USA) (eShop)|33D17A6A,CTR-N-JLGE
+Liberation Maiden (Europe) (eShop)|1E99FEE3,CTR-N-JKSP
+Liberation Maiden (USA) (eShop)|A5E4EC52,CTR-N-JKSE
+Lionel City Builder 3D - Rise of the Rails (USA) (eShop)|7E23A49B,CTR-N-KT8E
+Lola's Math Train (Europe) (En,Fr,De) (eShop)|02659BF8,CTR-N-JLMP
+Loop Line Racing (Japan) (eShop)|DA1EC09E,CTR-N-KPRJ
+Lufia - The Legend Returns (USA) (GBC) (Virtual Console)|0F68978A,CTR-N-QBEE
+Luigi's Mansion - Dark Moon (USA) (En,Fr,Es) (Legit CIA)|9CCA9654,CTR-P-AGGE
+Luigi's Mansion 2 (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Legit CIA)|769FA5DC,CTR-P-AGGP
+Mad Dog McCree (Europe) (eShop)|7975B155,CTR-N-JMAP
+Made in Wario (Japan) (GBA) (Virtual Console)|BF867CA8,CTR-N-PAFJ
+Magic Hammer, The (Europe) (eShop)|64CA6994,CTR-N-KHMP
+Magic Hammer, The (USA) (eShop)|9E343B0C,CTR-N-KHME
+Mahjong 3D - Essentials (USA) (eShop)|7296132C,CTR-N-JAXE
+Majo to Yuusha (Japan) (eShop)|5D2590CB,CTR-N-JWHJ
+Mansion Percussion (Japan) (eShop)|AC9B4C70,CTR-N-JPCJ
+Mario & Luigi - Dream Team (USA) (En,Fr,Es) (Legit CIA)|683B0601,CTR-P-AYME
+Mario & Luigi - Dream Team Bros. - Update 1.1 (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)|CB62C4A1,CTR-U-AYMP
+Mario & Sonic at the London 2012 Olympic Games - Virtual Card Album (Europe) (En,Fr,De,Es,It) (eShop)|CBC51EAE,CTR-N-JEKP
+Mario and Donkey Kong - Mini Mini Carnival (Japan) (eShop)|E2AEF8F2,CTR-N-JB7J
+Mario and Donkey Kong - Minis on the Move (Europe) (En,Fr,De,Es,It) (eShop)|63B9AD19,CTR-N-JB7P
+Mario and Donkey Kong - Minis on the Move (USA) (eShop)|F5806BC3,CTR-N-JB7E
+Mario Golf (Europe) (GBC) (Virtual Console)|E7BEE3F9,CTR-N-QAQP
+Mario Kart - Super Circuit (Europe) (GBA) (Virtual Console)|8999B8F1,CTR-N-PABP
+Mario Kart - Super Circuit (USA) (GBA) (Virtual Console)|479DE44D,CTR-N-PABE
+Mario Kart 7 (China)|B3DA3E4D,CTR-N-JMKC
+Mario Kart 7 (Europe) (En,Fr,De,Es,Nl,Pt,Ru) (Legit CIA)|765B2540,CTR-P-AMKP
+Mario Kart 7 (USA) (En,Fr,Es) (Legit CIA)|EDFEFAFF,CTR-P-AMKE
+Mario Kart 7 - Update 1.1 (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)|EEEE664F,CTR-U-AMKP
+Mario Kart Advance (Japan) (GBA) (Virtual Console)|93B299A6,CTR-N-PABJ
+Mario vs Donkey Kong - Tipping Stars (Europe) (eShop)|3850A5F2,CTR-P-JYLP
+Mario vs Donkey Kong - Tipping Stars (USA) (eShop)|A7D8ED41,CTR-P-JYLE
+Mario vs. Donkey Kong (Europe) (GBA) (Virtual Console)|463D172F,CTR-N-PAHP
+Mario vs. Donkey Kong (Japan) (GBA) (Virtual Console)|0C5056FC,CTR-N-PAHJ
+Mario vs. Donkey Kong (USA) (GBA) (Virtual Console)|AE6A7765,CTR-N-PAHE
+Marvel Pinball 3D (Europe) (En,Fr,De,Es,It) (eShop)|212407D6,CTR-N-JMVP
+Marvel Pinball 3D (USA) (eShop)|9568DCBE,CTR-N-JMVE
+Mega Man - Dr. Wily's Revenge (USA) (GB) (Virtual Console)|25918CCB,CTR-N-RAWE
+Mega Man - Dr. Wily's Revenge (USA) (Rev 1) (GB) (Virtual Console)|A9D8E346,CTR-N-RAWE
+Mega Man 2 (USA) (NES) (Virtual Console)|33916A65,CTR-N-TA5E
+Mega Man II (USA) (GB) (Virtual Console)|F731E10F,CTR-N-RCDE
+Mega Man III (USA) (GB) (Virtual Console)|4532B873,CTR-N-RCEE
+Mega Man IV (USA) (GB) (Virtual Console)|B5EFA27F,CTR-N-RCFE
+Mega Man V (USA) (GB) (Virtual Console)|598A438D,CTR-N-RCGE
+Mega Man VI (USA) (NES) (Virtual Console)|01917567,CTR-N-TBFE
+Mega Man Xtreme (USA) (GBC) (Virtual Console)|47593093,CTR-N-QAZE
+Mega Man Xtreme 2 (USA) (GBC) (Virtual Console)|90986973,CTR-N-QA2E
+Meiga to Tanoshimu - Otona no Machigai Sagashi (Japan) (eShop)|0BE909D1,CTR-N-JFWJ
+Meitantei Pikachu - Shin Combi Tanjou (Japan) (eShop)|0E7A3E9B,CTR-N-KBNJ
+Mercenaries Saga 2 (Europe) (eShop)|A3155492,CTR-N-KMTP
+Mercenaries Saga 2 (Japan) (eShop)|BE31E911,CTR-N-KMTJ
+Mes Comptines (USA) (eShop)|67B714C1,CTR-N-KCPE
+Metroid (Europe) (Rev 1) (NES) (Virtual Console)|3C81FD8C,CTR-N-TADP
+Metroid (USA) (NES) (Virtual Console)|7EE428C3,CTR-N-TADE
+Metroid (USA) (Rev 1) (NES) (Virtual Console)|EAA0C20A,CTR-N-TADE
+Metroid (USA) (Rev 2) (NES) (Virtual Console)|D55F3723,CTR-N-TADE
+Metroid Fusion (Europe) (En,Fr,De,Es,It) (GBA) (Virtual Console)|A88B261F,CTR-N-PAEP
+Metroid Fusion (Japan) (GBA) (Virtual Console)|039857FD,CTR-N-PAEJ
+Metroid Fusion (USA) (GBA) (Virtual Console)|4BFEAEB4,CTR-N-PAEE
+Metroid II - Return of Samus (USA) (GB) (Virtual Console)|432CB68C,CTR-N-RA4E
+Metroid II - Return of Samus (USA) (Rev 1) (GB) (Virtual Console)|D0974596,CTR-N-RA4E
+Mighty Final Fight (USA) (eShop)|CCBBCEF1,CTR-N-TDME
+Mighty Gunvolt (Europe) (eShop)|E6D86A03,CTR-N-KMGP
+Mighty Gunvolt (Japan) (eShop)|1618612E,CTR-N-KMGJ
+Mighty Gunvolt (USA) (eShop)|371BE932,CTR-N-KMGE
+Mighty Switch Force! (Europe) (En,Fr,De,Es,It) (eShop)|E03EFF0C,CTR-N-JMFP
+Mighty Switch Force! (USA) (eShop)|987D79EA,CTR-N-JMFE
+Mighty Switch Force! 2 (Europe) (En,Fr,De,Es,It) (eShop)|E8B51C8F,CTR-N-JMGP
+Mighty Switch Force! 2 (USA) (eShop)|22B84361,CTR-N-JMGE
+MindFeud (Europe) (En,Fr,De,Es,Nl) (eShop)|AD99B9B5,CTR-N-KMDP
+Mini-Mario & Friends - amiibo Challenge (Europe) (En,Fr,De,Es,It) (eShop)|728935D5,CTR-N-KPCP
+Mini-Mario & Friends - amiibo Challenge (Japan) (eShop)|C70D0CDA,CTR-N-KPCJ
+Mini-Mario & Friends - amiibo Challenge (USA) (En,Fr,Es) (eShop)|A0E65F2A,CTR-N-KPCE
+Minna no Decoration Card (Japan) (eShop)|547EB047,CTR-N-KGCJ
+Mononoke Tantei - Shinta no Ayakashi Jiken Chou (Japan) (eShop)|A895EA22,CTR-N-JMHJ
+Monster Combine TD (Europe) (En,Fr) (eShop)|BDE3D40C,CTR-N-JCMP
+Monster Hunter 3 Ultimate (Europe) (En,Fr,De,Es,It) (Legit CIA)|00BD5E4E,CTR-P-AMHP
+Monster Hunter 3 Ultimate Data Transfer Program (Europe) (En,Fr,De,Es,It) (eShop)|A3C164B0,CTR-N-JMUP
+Monster Hunter 3 Ultimate Data Transfer Program (USA) (En,Fr,Es) (eShop)|10E2E08F,CTR-N-JMUE
+Monster Hunter 4 Ultimate (Europe) (En,Fr,De,Es,It) (Demo) (eShop)|FAD947C4,CTR-N-KFGP
+Monster Hunter 4 Ultimate (Europe) (En,Fr,De,Es,It) (Legit CIA)|05C29425,CTR-P-BFGP
+Monster Hunter 4 Ultimate (USA) (Legit CIA)|3EF5F928,CTR-P-BFGE
+Monster Shooter (Europe) (eShop)|42B1D0F4,CTR-N-JMSP
+Moon Chronicles (USA) (eShop)|8CBB0B98,CTR-N-JURE
+Moon Chronicles (USA) (Rev 1) (eShop)|2E2E9FAF,CTR-N-JURE
+Mud Attack! Max vs Dorodoro Seijin (Japan) (eShop)|F8690E64,CTR-N-JMDJ
+Music on - Electric Guitar (Europe) (En,Fr,De,Es,It) (eShop)|559B7EBC,CTR-N-KMEP
+Musicverse - Electronic Keyboard (USA) (eShop)|BE018517,CTR-N-KMKE
+Mutant Mudds (Europe) (Demo) (eShop)|8F497C21,CTR-T-JMDP
+Mutant Mudds (Europe) (eShop)|DC7996F4,CTR-N-JMDP
+Mutant Mudds (Europe) (Rev 1) (eShop)|66DCEFDA,CTR-N-JMDP
+Mutant Mudds (USA) (eShop)|24CA3E64,CTR-N-JMDE
+Mutant Mudds - Super Challenge (Europe) (eShop)|58100857,CTR-N-KMMP
+Mutant Mudds - Super Challenge (USA) (eShop)|2D9A4311,CTR-N-KMME
+My First Songs (USA) (eShop)|6DDB43EE,CTR-N-KMSE
+My First Songs 2 (Europe) (eShop)|90AE6CB9,CTR-N-JFXP
+My Nintendo Picross - The Legend of Zelda - Twilight Princess (World) (En,Ja,Fr,De,Es,It) (eShop)|FE6D91E3,CTR-N-JHXA
+My Style Studio - Hair Salon (Europe) (eShop)|6533B9F5,CTR-N-JZ2P
+My Style Studio - Hair Salon (USA) (eShop)|5CD95AF9,CTR-N-JZ2E
+Mysterious Cities of Gold - Secret Paths, The (Europe) (En,Fr,De,Es,It,Sv,No,Pl,Ar) (Rev 1) (eShop)|4A3A9A86,CTR-N-JC5P
+Mysterious Murasame Castle, The (Europe) (NES) (Virtual Console)|101DB197,CTR-N-TCZP
+Nano Assault EX (USA) (En,Fr,Es) (eShop)|D2774DE2,CTR-N-JNAE
+Nekketsu Mahou Monogatari (Japan) (eShop)|5FD14CD0,CTR-N-JN4J
+NES Jumping Mario (Europe) (Theme)|96457200,CTR-M-HMMP
+NES Open Tournament Golf (Europe) (NES) (Virtual Console)|2B6FF2CC,CTR-N-TAHP
+NES Open Tournament Golf (Europe) (Rev 1) (NES) (Virtual Console)|D3538BBD,CTR-N-TAHP
+NES Open Tournament Golf (Europe) (Rev 2) (NES) (Virtual Console)|8F0E9397,CTR-N-TAHP
+NES Open Tournament Golf (USA) (NES) (Virtual Console)|1639BC40,CTR-N-TAHE
+NES Open Tournament Golf (USA) (Rev 1) (NES) (Virtual Console)|47E126EF,CTR-N-TAHE
+NES Open Tournament Golf (USA) (Rev 2) (NES) (Virtual Console)|F2AA2D95,CTR-N-TAHE
+Netflix (USA) (eShop)|9BDE8827,CTR-N-JFLE
+Netflix (USA) (Rev 1) (eShop)|B2ACFEEA,CTR-N-JFLE
+Netflix (USA) (Rev 2) (eShop)|E3E9FB8A,CTR-N-JFLE
+New Style Boutique - Update 1.1 (Europe) (En,Fr,De,Es,It)|172C8408,CTR-U-ACLP
+New Style Boutique 2 - Fashion Forward (Europe) (En,Fr,De,Es,It) (Legit CIA)|C5A07D14,CTR-P-ECDP
+New Super Mario Bros. 2 (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (DLC)|D3C11663,CTR-M-ABEP
+New Super Mario Bros. 2 (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (eShop)|9FFF29A0,CTR-P-ABEP
+New Super Mario Bros. 2 (Japan) (Legit CIA)|6688510F,CTR-P-ABEJ
+New Super Mario Bros. 2 (Korea) (eShop) (Encrypted CIA)|58E149A5,CTR-P-ABEK
+New Super Mario Bros. 2 Gold Edition (USA) (Legit CIA)|79F74900,CTR-P-ABEE
+New Super Mario Bros. 2 Special Edition (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Legit CIA)|5F332341,CTR-P-ABEP
+NicoNico (Japan) (eShop)|FE01A368,CTR-N-NAEJ
+NicoNico (Japan) (Rev 1) (eShop)|EB5A142C,CTR-N-NAEJ
+NightSky (Europe) (eShop)|3AAB3E58,CTR-N-JNSP
+NightSky (USA) (eShop)|16CC9A9E,CTR-N-JNSE
+Nikki no Tabisuru Quiz (Japan) (eShop)|79373AD4,CTR-N-KZBJ
+Ninja Battle Heroes (Europe) (eShop)|C6A0DB4A,CTR-N-JNNP
+Ninja Battle Heroes (USA) (eShop)|EAD053C5,CTR-N-JNNE
+Ninja Usagimaru - The Gem of Blessings (USA) (eShop)|5662FE52,CTR-N-JSPE
+Nintendo Anime Channel (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (eShop)|6E98FD6B,CTR-N-KLTP
+Nintendo Badge Arcade (Europe) (En,Fr,De,Es,It) (eShop)|4555E096,CTR-N-JWVP
+Nintendo Badge Arcade (USA) (eShop)|E176D022,CTR-N-JWVE
+Nintendo Letter Box (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (eShop)|C5E6B818,CTR-N-JFRP
+Nintendo Letter Box (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1)|082D70F8,CTR-N-JFRP
+Nintendo Letter Box (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 2) (eShop)|BB73447C,CTR-N-JFRP
+Nintendo Pocket Football Club (Europe) (En,Fr,De,Es,It) (eShop)|793B68D0,CTR-P-AHBP
+Nintendo Video (Europe) (eShop)|543336EF,CTR-N-JESP
+Nintendo Video (Europe) (Rev 1) (eShop)|1D42460B,CTR-N-JESP
+Nintendo Video (USA) (En,Fr,Es) (eShop)|52C9C76D,CTR-N-JESE
+Nisekoi Manga Vol.1 (France) (eShop)|0217E362,CTR-N-KNFF
+Ocean Runner (Europe) (En,Fr,De,Es,It) (eShop)|CAF8C7C7,CTR-N-JRUP
+Oh! Gattiman Kyuukyoku no Omega Chinpou to Momige 26 (Japan) (eShop)|59065802,CTR-N-KG6J
+Olli Olli (Europe) (En,Fr,De,Es,It) (eShop)|95C2BB54,CTR-N-KLLP
+Olli Olli (USA) (En,Fr,De,Es,It) (eShop)|B2E5FAC9,CTR-N-KLLE
+Onna Kateikyoushi Izuka Sensei to Misshitsu ni Itara Marumaru Shichau Kamoshirenai (Japan) (eShop)|6EA6021F,CTR-N-JYPJ
+Order Land! (Japan) (eShop)|297A9263,CTR-N-JKUJ
+Order Up!! (USA) (eShop)|244B63D5,CTR-N-JUPE
+Outdoors Unleashed - Africa 3D (USA) (eShop)|35118E65,CTR-N-JAFE
+Painting Workshop (Europe) (En,Fr) (eShop)|D0C02F67,CTR-N-JEQP
+Painting Workshop (Europe) (En,Fr) (Rev 1) (eShop)|00F7C648,CTR-N-JEQP
+Parascientific Escape Cruise in the Distant Seas (Europe) (eShop)|739FFCAE,CTR-N-JT6P
+Parascientific Escape Cruise in the Distant Seas (USA)|86E7C004,CTR-N-JT6E
+Parking Star 3D (Europe) (eShop)|1FD0A1DD,CTR-N-JWJP
+peakvox - Mew Mew Train (Japan) (eShop)|DE6A6808,CTR-N-JMYJ
+Petit Novel Series - Harvest December (Europe) (eShop)|CE11F56F,CTR-N-KHTP
+Petit Novel Series - Harvest December (Europe) (Rev 1) (eShop)|38FFDA9A,CTR-N-KHTP
+Petit Novel Series - Harvest December (USA) (eShop)|538944F9,CTR-N-KHTE
+Phoenix Wright - Ace Attorney - Dual Destinies (Europe) (eShop)|EC407ACC,CTR-N-AGKP
+Phoenix Wright - Ace Attorney - Dual Destinies (USA) (eShop)|A011C9DF,CTR-N-AGKE
+Phoenix Wright - Ace Attorney Trilogy (Europe) (eShop)|C3EEAB71,CTR-N-BHDP
+Phoenix Wright - Ace Attorney Trilogy (USA) (eShop)|FDE837EA,CTR-N-BHDE
+Photos with Animal Crossing (Europe) (En,Fr,De,Es,It) (eShop)|A0C78FB7,CTR-N-JFKP
+Photos with Mario (Europe) (eShop)|28C40418,CTR-N-NACP
+Photos with Mario (USA) (En,Fr,Es) (eShop)|EDFA3B95,CTR-N-NACE
+Picdun 2 - Witch's Curse (Europe) (eShop)|75DD8889,CTR-N-JPDP
+Picdun 2 - Witch's Curse (USA) (eShop)|66F0F2BC,CTR-N-JPDE
+Pick-A-Gem (Europe) (eShop)|A0267879,CTR-N-JAGP
+Picross e (Europe) (En,Fr,De,Es,It) (eShop)|C965B19F,CTR-N-JEXP
+Picross e (Japan) (eShop)|A04B3819,CTR-N-JEXJ
+Picross e (USA) (eShop)|6F246E00,CTR-N-JEXE
+Picross e2 (Europe) (En,Fr,De,Es,It) (eShop)|8907F1A8,CTR-N-JP2P
+Picross e2 (Japan) (eShop)|63A32830,CTR-N-JP2J
+Picross e2 (USA) (eShop)|7CEC086D,CTR-N-JP2E
+Picross e3 (Europe) (En,Fr,De,Es,It) (eShop)|1DCE08AE,CTR-N-JETP
+Picross e3 (Japan) (eShop)|B6B3404F,CTR-N-JETJ
+Picross e3 (USA) (eShop)|69FCAA8B,CTR-N-JETE
+Picross e4 (Japan) (eShop)|3776AB56,CTR-N-JEPJ
+Picross e4 (USA) (eShop)|DD953A9C,CTR-N-JEPE
+Picross e5 (Europe) (En,Fr,De,Es,It) (eShop)|A7AA22E1,CTR-N-KPQP
+Picross e5 (Japan) (eShop)|244128F2,CTR-N-KPQJ
+Picross e5 (USA) (En,Fr,Es) (eShop)|76A2D97B,CTR-N-KPQE
+Picross e6 (Europe) (En,Fr,De,Es,It) (eShop)|889B4EE4,CTR-N-KP6P
+Picross e6 (Japan) (eShop)|7741F8BB,CTR-N-KP6J
+Picross e6 (USA) (eShop)|D4116DF5,CTR-N-KP6E
+Picross e7 (Japan) (eShop)|5FFB8CDB,CTR-N-KPAJ
+Pikmin Short Movies 3D (Europe) (En,Fr,De,Es,It) (eShop)|B961B5F2,CTR-P-BPSP
+Pikmin Short Movies 3D (USA) (En,Fr,Es) (eShop)|8F879D26,CTR-P-BPSE
+Ping Pong Trick Shot (Japan) (eShop)|C8793037,CTR-N-KP9J
+Ping Pong Trick Shot 2 (Japan) (eShop)|2FE4ED11,CTR-N-KPWJ
+Pix3D (Europe) (eShop)|8277DEC1,CTR-N-JPXP
+PIX3D (USA) (eShop)|D52AEEC0,CTR-N-JPXE
+Planet Crashers (Europe) (En,Fr,De,Es,It) (eShop)|8004AD44,CTR-N-JPLP
+Pocket Card Jockey (Europe) (eShop)|824374F9,CTR-N-JVAP
+Pocket Card Jockey (USA) (eShop)|D88C6589,CTR-N-JVAE
+Poke Transporter (World) (En,Ja,Fr,De,Es,It,Ko) (eShop)|3D267685,CTR-N-NLMA
+Pokedex (World) (En,Fr,De,Es,It) (eShop)|225B2296,CTR-N-JRVA
+Pokedex 3D (World) (En,Fr,Es) (Rev 1) (eShop)|2B911FDB,CTR-N-JRVA
+Pokedex 3D Pro (World) (En,Ja,Fr,De,Es,It,Ko) (eShop)|87A28D8C,CTR-P-AQ9A
+Pokedex 3D Pro (World) (En,Ja,Fr,De,Es,It,Ko) (Rev 1) (eShop)|FEFC9C16,CTR-P-AQ9A
+Pokemon - Alpha Sapphire (World) (En,Ja,Fr,De,Es,It,Ko) (Legit CIA)|FE03F4E7,CTR-P-ECLA
+Pokemon - Omega Ruby (World) (En,Ja,Fr,De,Es,It,Ko) (Legit CIA)|43E37E2A,CTR-P-ECRA
+Pokemon Bank (World) (En,Ja,Fr,De,Es,It,Ko) (eShop)|BD0D1BB4,CTR-N-JTTA
+Pokemon Battle Trozei (Japan) (eShop)|C71A6F9B,CTR-N-JR8A
+Pokemon Dream Radar (Europe) (En,Ja,Fr,De,Es,It,Ko) (eShop)|065613FE,CTR-N-NCGA
+Pokemon Link - Battle! (Europe) (En,Fr,De,Es,It) (eShop)|E5DCE1ED,CTR-N-JR8P
+Pokemon Omega Ruby and Alpha Sapphire - Special Demo Version (Europe) (En,Ja,Fr,De,Es,It,Ko) (eShop)|3F9FF552,CTR-N-NAHA
+Pokemon Picross (World) (En,Ja,Fr,De,Es,It) (eShop)|57AF96CC,CTR-N-JFJA
+Pokemon Rumble World (World) (En,Ja,Fr,De,Es,It) (eShop)|7FCA2304,CTR-N-KCFA
+Pokemon Rumble World (World) (En,Ja,Fr,De,Es,It) (Rev 1) (eShop)|71792A0D,CTR-N-KCFA
+Pokemon Shuffle (World) (En,Ja,Fr,De,Es,It) (eShop)|46EBD78D,CTR-N-KRXA
+Pokemon Shuffle (World) (En,Ja,Fr,De,Es,It) (Rev 1) (eShop)|510F7637,CTR-N-KRXA
+Pokemon Shuffle (World) (En,Ja,Fr,De,Es,It) (Rev 2) (eShop)|52E21E6E,CTR-N-KRXA
+Pokemon Shuffle (World) (En,Ja,Fr,De,Es,It) (Rev 3) (eShop)|90DF668F,CTR-N-KRXA
+Pokemon Trading Card Game (Europe) (GBC) (Virtual Console)|12EB39A2,CTR-N-QBBP
+Pokemon Versione Gialla (Europe) (It) (GBC) (Virtual Console)|10AC23B4,CTR-P-QBKA
+Pokemon X (World) (En,Ja,Fr,De,Es,It,Ko) (Legit CIA)|6086CD4F,CTR-P-EKJA
+Pokemon X - Update 1.2 (World) (En,Ja,Fr,De,Es,It,Ko)|5D61D3B3,CTR-U-EKJA
+Pokemon X - Update 1.3 (World) (En,Ja,Fr,De,Es,It,Ko)|F31A9C23,CTR-U-EKJA
+Pokemon Y (World) (En,Ja,Fr,De,Es,It,Ko) (Legit CIA)|DE6DAB18,CTR-P-EK2A
+Pokemon Y - Update 1.2 (World) (En,Ja,Fr,De,Es,It,Ko)|0E2FFAB0,CTR-U-EK2A
+Pokemon Y - Update 1.3 (World) (En,Ja,Fr,De,Es,It,Ko)|96781FBD,CTR-U-EK2A
+Pong Pong Candy (USA) (eShop)|972D3CAB,CTR-N-KFSE
+Pony Pets 3D (Japan) (eShop)|70651449,CTR-N-JHDJ
+Proun+ (Europe) (eShop)|63A6F596,CTR-N-KPRP
+Puchi Noberu - Kyouiki no Ichigatsu (Japan) (eShop)|F0FDF9B0,CTR-N-JPNJ
+Puchikon No. 3 SmileBASIC (Japan) (eShop)|179A5EF4,CTR-N-JPKJ
+Pullblox (Europe) (En,Fr,De,Es,It) (eShop)|89962552,CTR-N-JCAP
+Punch-Out!! Featuring Mr. Dream (USA) (NES) (Virtual Console)|32140DB5,CTR-N-TACE
+Pure Chess (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (eShop)|92E6D4AE,CTR-N-JPAP
+Pushmo (USA) (eShop)|EB1E69DF,CTR-N-JCAE
+Pushmo (USA) (Rev 1) (eShop)|CD7F4C50,CTR-N-JCAE
+Puzzle Bottle (Japan) (eShop)|4806913F,CTR-N-KPBJ
+PUZZLEBOX Setup (Europe) (eShop)|E81F8A05,CTR-N-KPBP
+PUZZLEBOX setup (USA) (eShop)|65C619A4,CTR-N-KPBE
+Pyramids (Europe) (En,Fr,De,Es,It,Nl) (Beta) (eShop)|609E9C5B,CTR-T-JA9P
+Pyramids (Europe) (En,Fr,De,Es,It,Nl) (eShop)|97EF0485,CTR-N-JA9P
+Pyramids (USA) (eShop)|72FAADE0,CTR-N-JA9E
+Pyramids 2 (Europe) (En,Fr,De,Es,It) (eShop)|140F5B56,CTR-N-JYHP
+Pyramids 2 (USA) (En,Fr,Es) (eShop)|E6E94A92,CTR-N-JYHE
+Q (Japan) (eShop)|9806F756,CTR-N-KQRJ
+Quell Memento (Europe) (eShop)|FD9AED5D,CTR-N-JZDP
+Quell Memento (USA) (eShop)|8097E2FB,CTR-N-JZDE
+Quell Reflect (Europe) (eShop)|A364209C,CTR-N-JRYP
+Quell Reflect (USA) (eShop)|7637B182,CTR-N-JRYE
+Rabi Labi Gaiden - Witch's Cat (Japan) (eShop)|D185E449,CTR-N-JBGJ
+Rabi Laby 3 (Europe) (eShop)|49DF45B1,CTR-N-JR3P
+Rabi Laby 3 (USA) (eShop)|4BEB22B2,CTR-N-JR3E
+Rabi x Rabi - Episode 3 (Japan) (eShop)|F9DD014F,CTR-N-JR3J
+Radio Hammer (Europe) (eShop)|E310F212,CTR-N-KRHP
+Radio Hammer (Japan) (eShop)|D1B91D0E,CTR-N-KRHJ
+Rage of the Gladiator (Europe) (eShop)|9B4CE564,CTR-N-JRGP
+Rage of the Gladiator (USA) (eShop)|3607BEA5,CTR-N-JRGE
+Real Dasshutsu Game x Nintendo 3DS - Chou Hakai Keikaku Kara no Dasshutsu (Japan) (eShop)|42FF8B38,CTR-N-JCYJ
+Recochoku (Japan) (eShop)|F1BED092,CTR-N-NABJ
+Retro City Rampage - DX (Europe) (En,Fr,De,Es,It) (eShop)|869CA956,CTR-N-JRXP
+Retro City Rampage - DX (USA) (En,Fr,Es) (eShop)|2C30A91B,CTR-N-JRXE
+Return to PopoloCrois - A Story of Seasons Fairytale (Europe) (eShop)|261DAA18,CTR-N-BPPP
+Riki Densetsu (Japan) (eShop)|DF447DDB,CTR-N-JRKJ
+Rinkou no Lantse (Japan) (eShop)|CA380224,CTR-N-JRZJ
+Rising Board 3D (Europe) (En,Fr,De,Es,It) (eShop)|60FDA8BF,CTR-N-JRBP
+Rising Board 3D (USA) (eShop)|7F5D6951,CTR-N-JRBE
+Robot Rescue 3D (Europe) (En,Fr,De,Es,It) (eShop)|E0C849C0,CTR-N-JRQP
+Robot Rescue 3D (USA) (eShop)|54B1FE82,CTR-N-JRQE
+Rolling Western, The (Japan) (eShop)|9BBB6D3C,CTR-N-JAMJ
+Rolling Western, The - Saigo no Youjinbou (Japan) (eShop)|FB3251BF,CTR-N-JGWJ
+Rune Factory 4 (Europe) (eShop)|D911972D,CTR-N-AR4Z
+Runny Egg (Europe) (eShop)|849AF8AA,CTR-N-JTMP
+Runny Egg (USA) (eShop)|57997894,CTR-N-JTME
+Rusty's Real Deal Baseball (USA) (En,Fr,Es) (eShop)|85E5A34D,CTR-N-JBCE
+RV-7 My Drone (Europe) (eShop)|5F0B4808,CTR-N-KVRP
+RV-7 My Drone (USA) (eShop)|23EC3F96,CTR-N-KVRE
+Rytmik Ultimate (USA) (eShop)|6975BC39,CTR-N-KRUE
+Sadame (Europe) (eShop)|8345E657,CTR-N-JFTP
+Sadame (USA) (eShop)|52955D93,CTR-N-JFTE
+Sakura Samurai - Art of the Sword (USA) (eShop)|5F106ABF,CTR-N-JLLE
+Samurai Defender (Europe) (eShop)|C0317B2A,CTR-N-JWXP
+Samurai Defender (Japan) (eShop)|D8626E64,CTR-N-JWXJ
+Samurai Defender (USA) (eShop)|07291674,CTR-N-JWXE
+Samurai G (Europe) (eShop)|8935C79B,CTR-N-JSGP
+Samurai Sword Destiny (Europe) (eShop)|B58773DE,CTR-N-JSSP
+Samurai Sword Destiny (USA) (eShop)|7D5A8957,CTR-N-JSSE
+Samurai Warriors Chronicles 3 (USA) (eShop)|3716A32C,CTR-N-BC4E
+Sangoku Stories Ten (Japan) (eShop)|9829DF47,CTR-N-KSTJ
+Save Data Transfer Tool (World) (En,Fr,De,Es,It,Pt,Ru) (eShop)|4FD4AAFE,CTR-N-JS7A
+Sayonara Umihara Kawase (Europe) (eShop)|4886E40E,CTR-N-AUFP
+Scarygirl Illustration Kit (USA) (eShop)|9E1CF2D5,CTR-N-KSGE
+Secret Journeys - Cities of the World (USA) (eShop)|13915E4F,CTR-N-KSJE
+Secret Mysteries in London - Update 1.1 (Europe) (En,Fr,De,Nl)|A1DB905E,CTR-U-ASXP
+Senran Kagura 2 - Deep Crimson (Europe) (eShop)|72DF3B40,CTR-P-BNUP
+Senran Kagura Burst (USA) (eShop)|CCEC21A7,CTR-N-AVHE
+Shantae and the Pirate's Curse (Europe) (En,Fr,De,Es,It) (eShop)|BCA639B4,CTR-N-JSAP
+Shantae and the Pirate's Curse (USA) (En,Fr,Es) (eShop)|5B505641,CTR-N-JSAE
+Shaun the Sheep - Episode 1 - 15 + Making Of (Europe) (eShop) (Video)|6684BD70,CTR-N-MBMP
+Shaun the Sheep - Episode 1 - 5 (Europe) (eShop) (Video)|A2C65F52,CTR-N-MBJP
+Shaun the Sheep - Episode 11 - 15 (Europe) (eShop) (Video)|F375A620,CTR-N-MBLP
+Shaun the Sheep - Episode 6 - 10 (Europe) (eShop) (Video)|3F18A0D8,CTR-N-MBKP
+Shin Hyu Stone (Japan) (eShop)|739A9B8B,CTR-N-KHYJ
+Shin Megami Tensei - Devil Survivor Overclocked - Update 1.1 (Europe)|8C53DDE8,CTR-U-AMTP
+Shin Megami Tensei IV (Europe) (eShop)|D0BFDBF5,CTR-N-AMXP
+Shingeki no Kyojin - Humanity in Chains (Europe) (eShop)|76CEAD43,CTR-N-BG2P
+Shinjuku Dungeon (Japan) (eShop)|0A1084C9,CTR-N-KSDJ
+Shinobi no Pazuru (Japan) (eShop)|94592DEC,CTR-N-KPZJ
+Shippuu no Usagi-Maru - Megumi no Tama to Fuuma no Shirushi (Japan) (eShop)|54530F65,CTR-N-JSPJ
+Shippuu no Usagi-Maru - Nazo no Karakurijou (Japan) (eShop)|2DF1C5C9,CTR-N-KRBJ
+Shizuku Memory (Japan) (eShop)|79F9F609,CTR-N-JZDJ
+Shovel Knight (Europe) (eShop)|DEE6EA74,CTR-N-JK8P
+Shovel Knight (USA) (eShop)|7AFAE9B6,CTR-N-JK8E
+Shovel Knight + Shovel Knight - Plague of Shadows (Europe) (En,Fr,De,Es,It) (v2.0) (eShop)|AB50051A,CTR-N-JK8P
+Shovel Knight + Shovel Knight - Plague of Shadows (Europe) (En,Fr,De,Es,It) (v2.1) (eShop)|9AC6FDB8,CTR-N-JK8P
+Shovel Knight + Shovel Knight - Plague of Shadows (Europe) (En,Fr,De,Es,It) (v2.2) (eShop)|199CBD19,CTR-N-JK8P
+Shovel Knight + Shovel Knight - Plague of Shadows (USA) (En,Fr,De,Es,It) (Rev 2) (eShop)|C2E5E705,CTR-N-JK8E
+Shovel Knight + Shovel Knight - Plague of Shadows (USA) (En,Fr,De,Es,It) (v2.2) (eShop)|5E9B4AD8,CTR-N-JK8E
+Siesta Fiesta (Europe) (eShop)|B952A5A8,CTR-N-KSFP
+Siesta Fiesta (USA) (eShop)|AB59D763,CTR-N-KSFE
+Simple DL Series Vol. 1 - The Misshitsu Kara no Dasshutsu - Fushigina Kuma Donaru Burger Hen (Japan) (eShop)|9CAECDB1,CTR-N-JM4J
+Simple DL Series Vol. 1 - The Misshitsu Kara no Dasshutsu - Fushigina Kuma Donaru Burger Hen (Japan) (Rev 1) (eShop)|D53D205B,CTR-N-JM4J
+Simple DL Series Vol. 12 - The Dasshutsu Game - Kiken na 5-tsu no Misshitsu (Japan) (eShop)|CA7D8DD2,CTR-N-JD4J
+Simple DL Series Vol. 14 - The Dasshutsu Game - Uragiri no Misshitsu (Japan) (eShop)|4B87D7CC,CTR-N-JD5J
+Simple DL Series Vol. 24 - The Misshitsu Kara no Dasshutsu - Iyasarenai Onsen Hen (Japan) (eShop)|908ABCF5,CTR-N-JEHJ
+Simple DL Series Vol. 3 - The Misshitsu Kara no Dasshutsu - Celeb na Goutei Hen (Japan) (eShop)|3DAE6178,CTR-N-JM3J
+Simple DL Series Vol. 31 - The Misshitsu Kara no Dasshutsu - Enchou Hisshi no Karaoke Hen (Japan) (eShop)|1066AA00,CTR-N-KRDJ
+Simple DL Series Vol. 34 - The Misshitsu Kara no Dasshutsu - Fushigi Hakken! Hakubutsukan-Hen (Japan) (eShop)|C45A418D,CTR-N-KDTJ
+Simple DL Series Vol. 36 - The Misshitsu Kara no Dasshutsu - Tabi wa Michidure! Tetsudou-Hen (Japan) (eShop)|5D1EE546,CTR-N-KS3J
+Simple DL Series Vol. 37 - The Kyojin (Japan) (eShop)|49229A2C,CTR-N-KJSJ
+Simple DL Series Vol. 38 - The Item Sagashi - Joshikousei Tantei Shinjitsu no Jikenbo (Japan) (eShop)|2546569D,CTR-N-KJKJ
+Simple DL Series Vol. 39 - The Misshitsu Kara no Dasshutsu - Nou o Kitaeru Sports Gym Hen (Japan) (eShop)|6992F41E,CTR-N-KS9J
+Simple DL Series Vol. 6 - The Misshitsu Kara no Dasshutsu - Asobi no Tengoku Kuma Donaru Bowl Hen (Japan) (eShop)|14AD1C9F,CTR-N-JM6J
+Simple DL Series Vol. 9 - The Misshitsu Kara no Dasshutsu - Tv Kyoku Micchaku 24-Ji Hen (Japan) (eShop)|DA415F8C,CTR-N-JM7J
+Skater Cat (Europe) (En,Fr,De,Es,It) (eShop)|CBEB6F70,CTR-N-JMYP
+Sky Fighters - Thorium Sensou, The (Japan) (eShop)|91090F55,CTR-N-JTZJ
+SkyPeace (USA) (eShop)|8F2C5E0E,CTR-N-JKJE
+Slice It! (Europe) (eShop)|02AE9A9D,CTR-N-JL2P
+Smash Cat Heroes (USA) (eShop)|9599C68F,CTR-N-JN2E
+Smash Controller (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (eShop)|38F3AD69,CTR-N-KXCP
+Smash Controller (USA) (eShop)|088E9F9B,CTR-N-KXCE
+SmileBASIC (USA) (eShop)|6DB53541,CTR-N-JPKE
+Snow Moto Racing 3D (Europe) (En,Fr,De,Es,It,Pt) (eShop)|53C3143F,CTR-N-JYJP
+SolitiBa (Japan) (eShop)|1B3C8258,CTR-N-JVAJ
+Sonic the Hedgehog 2 (Europe) (GG) (Virtual Console)|67AF15E0,CTR-N-GAUP
+Space Lift Danger Panic! (Europe) (En,Fr,De,Es,It,Pt) (eShop)|BC794808,CTR-N-KSLP
+Space Lift Danger Panic! (USA) (En,Fr,Es) (eShop)|9957C8E1,CTR-N-KSLE
+Sparkle Snapshots 3D (Europe) (eShop)|59927B94,CTR-N-JCVP
+SpeedThru - Potzol's Puzzle (Europe) (En,Fr,De,Es,It) (eShop)|62D6C3C4,CTR-N-JELP
+SpeedX 3D (Europe) (eShop)|67CB40FD,CTR-N-JSXP
+SpeedX 3D (USA) (eShop)|738D8CDB,CTR-N-JSXE
+SpeedX 3D Hyper Edition (Europe) (eShop)|6E019AE3,CTR-N-JSYP
+SpeedX 3D Hyper Edition (USA) (eShop)|8F25AF20,CTR-N-JSYE
+Splash or Crash (Europe) (eShop)|8DAC3076,CTR-N-JHSP
+Squids Odyssey (Europe) (En,Fr,De,Es,It) (eShop)|3BAD4F11,CTR-N-JCJP
+Squids Odyssey (USA) (eShop)|4BE56179,CTR-N-JCJE
+Star Wars Pinball (USA) (En,Fr,Es) (eShop)|C320BA8B,CTR-N-JSWE
+Starship Damrey, The (Europe) (eShop)|CB9BC90E,CTR-N-JDMP
+Steamworld Dig (Europe) (eShop)|75AD1687,CTR-N-JSTP
+Steamworld Dig (USA) (eShop)|638F3C49,CTR-N-JSTE
+SteamWorld Heist (Europe) (eShop)|329F0B94,CTR-N-JY5P
+SteamWorld Heist (USA) (eShop)|F791E8F1,CTR-N-JY5E
+Steel Diver - Sub Wars (Europe) (En,Fr,De,Es,It) (eShop)|182EF0D1,CTR-N-JNUP
+Steel Diver - Sub Wars (Japan) (eShop)|624A1022,CTR-N-JNUJ
+Steel Diver - Sub Wars (USA) (En,Fr,Es) (eShop)|B2E5B3A0,CTR-N-JNUE
+Steel Diver - Update 1.1 (Europe) (En,Fr,De,Es,It)|A6CF93B7,CTR-U-JNUP
+Steel Empire (Europe) (eShop)|649C9F38,CTR-N-JPUP
+Stretchmo (USA) (eShop)|ED6E4F46,CTR-N-KAAE
+Strike Force Foxx (USA) (eShop)|DB3111B8,CTR-N-JXNE
+Sudoku by Nikoli (Europe) (En,Fr,De,Es,It) (eShop)|9C17560C,CTR-N-JH4P
+Sugar Rush 3D (Japan) (eShop) (Video)|645A538B,CTR-N-MBTJ
+Sumico (Europe) (eShop)|279B16EE,CTR-N-KSMP
+Super Dodge Ball (USA) (NES) (Virtual Console)|519A39B8,CTR-N-TB9E
+Super Little Acorns 3D Turbo (Europe) (En,Fr,De,Es,It) (eShop)|435393BA,CTR-N-JL8P
+Super Little Acorns 3D Turbo (USA) (eShop)|6EE8206C,CTR-N-JA6E
+Super Mario 3D Land (China)|3AD2972A,CTR-N-JREC
+Super Mario 3D Land (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Legit CIA)|EC5B7A9E,CTR-P-AREP
+Super Mario 3D Land (USA) (Legit CIA)|8174F92D,CTR-P-AREE
+Super Mario Advance 3 - Yoshi's Island + Mario Brothers (Japan) (GBA) (Virtual Console)|A74984CA,CTR-N-PADJ
+Super Mario Bros. (USA) (NES) (Virtual Console)|C1AFA131,CTR-N-TAAE
+Super Mario Bros. (USA) (Rev 1) (NES) (Virtual Console)|2AABCBB2,CTR-N-TAAE
+Super Mario Bros. - The Lost Levels (Europe) (NES) (Virtual Console)|2769F9D1,CTR-N-TATP
+Super Mario Bros. - The Lost Levels (USA) (NES) (Virtual Console)|63F8862A,CTR-N-TATE
+Super Mario Bros. 2 (USA) (NES) (Virtual Console)|5333FA34,CTR-N-TBME
+Super Mario Bros. 3 (Europe) (NES) (Virtual Console)|5E59AD55,CTR-N-TABP
+Super Mario Bros. 3 (Japan) (NES) (Virtual Console)|37459A09,CTR-N-TABJ
+Super Mario Bros. 3 (USA) (NES) (Virtual Console)|A9A34425,CTR-N-TABE
+Super Mario Bros. Deluxe (Europe) (GBC) (Virtual Console)|C0290711,CTR-N-QA5P
+Super Mario Bros. Deluxe (Europe) (GBC) (Virtual Console, CIA)|51170579,CTR-N-QA5P
+Super Mario Bros. Deluxe (Japan) (GBC) (Virtual Console)|494C0B97,CTR-N-QA5J
+Super Mario Land (USA) (GB) (Virtual Console)|58319D4A,CTR-N-RAAE
+Super Mario Land 2 - 6 Golden Coins (USA) (GB) (Virtual Console)|F3F4FD0C,CTR-N-RAGE
+Super Mario Land 2 - 6 Golden Coins (USA) (Rev 1) (GB) (Virtual Console)|F0A846FE,CTR-N-RAGE
+Super Smash Bros. for Nintendo 3DS (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Legit CIA)|305DA24D,CTR-P-AXCP
+Super Smash Bros. Special Demo Version (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (eShop)|E1B9D444,CTR-N-NXCP
+Super Smash Bros. Special Demo Version (USA) (En,Fr,Es) (eShop)|2B31AD09,CTR-N-NXCE
+Swapnote (USA) (En,Fr,Es,Pt) (eShop)|BE8C1837,CTR-N-JFRE
+Swapnote (USA) (En,Fr,Es,Pt) (Rev 1) (eShop)|409F3A17,CTR-N-JFRE
+Swapnote (USA) (En,Fr,Es,Pt) (Rev 2) (eShop)|E8C134B8,CTR-N-JFRE
+Sweet Memories Blackjack (Europe) (eShop)|CAD0AB2A,CTR-N-JSJP
+Swords & Darkness (Japan) (eShop)|1ADC4F7C,CTR-N-JSZJ
+Swords & Darkness (USA) (eShop)|7A188D56,CTR-N-JSZE
+Swords & Soldiers 3D (Europe) (En,Fr,De,Es,It) (eShop)|0D2E282A,CTR-N-JS2P
+TakeyariMan (Japan) (eShop)|7058E8D4,CTR-N-JTKJ
+Talking Phrasebook (Europe) (En,Fr,De,Es,It,Nl,Pt) (eShop)|E41DC12B,CTR-N-JPHP
+Tangram Attack (USA) (eShop)|492E7355,CTR-N-KTAE
+Tangram Style (Europe) (En,Fr,De,Es,It,Pt) (eShop)|388AC391,CTR-N-JT8P
+Tappingo (Europe) (eShop)|D14B3811,CTR-N-JTPP
+Tappingo (USA) (eShop)|D3B8446C,CTR-N-JTPE
+Tappingo 2 (Europe) (eShop)|30A1B4E7,CTR-N-KTPP
+Tappingo 2 (USA) (eShop)|DC14ABD4,CTR-N-KTPE
+Terraria (Europe) (eShop)|78EB8E7B,CTR-P-BTEP
+Terraria (USA) (eShop)|F283B957,CTR-P-BTEE
+Tetris (Europe) (GB) (Virtual Console)|9AB924AB,CTR-N-RBSP
+Tetris (USA) (GB) (Virtual Console)|322190BB,CTR-N-RBSE
+Tetsudou Nippon! Rosen Tabi - Nagaragawa Tetsudou Hen (Taiwan) (eShop)|23083F8D,CTR-N-ARJW
+THE DENPA MEN - They Came By Wave (USA) (eShop)|7D23663B,CTR-N-JD8E
+THE DENPA MEN 2 - Beyond the Waves (USA) (eShop)|12558ADA,CTR-N-JD2E
+THE DENPA MEN 3 - The Rise of Digitoll (USA) (eShop)|273D0D65,CTR-N-JDRE
+Thorium Wars - Attack of the Skyfighter (USA) (eShop)|56671A5A,CTR-N-JTZE
+Time Avenger (Japan) (eShop)|3D98A04F,CTR-N-ACUJ
+Tiny Games - Knights & Dragons (Europe) (En,Fr,De,Es,Nl) (eShop)|6A8220F2,CTR-N-JK9P
+Titan Attacks (Europe) (En,Fr,De,Es) (eShop)|A99C88A2,CTR-N-KTTP
+Tobidasu! Nyanko Daisensou (Japan) (eShop)|11404BF0,CTR-N-KNSJ
+Toki Tori 3D (Europe) (En,Fr,De,Es,It) (eShop)|BD367BAD,CTR-N-KT2P
+Tokyo Crash Mobs (Europe) (eShop)|68465FF9,CTR-N-JUEP
+Tokyo Crash Mobs (USA) (eShop)|84ACE9A5,CTR-N-JUEE
+Tomodachi Collection - Shin Seikatsu (Japan) (Legit CIA)|E09BD704,CTR-P-EC6J
+Tomodachi Life (Europe) (En,Fr,De,Es) (Legit CIA)|2BAD7B05,CTR-P-EC6P
+Tomodachi Life - Move-In Version (USA) (eShop)|EA10B50F,CTR-N-NC6E
+Tomodachi Life - Welcome Version (Europe) (En,Fr,De,Es,It) (eShop)|836A6154,CTR-N-NC6P
+Tomodachi Life - Welcome Version (Europe) (En,Fr,De,Es,It) (Rev 1) (eShop)|E1D423E0,CTR-N-NC6P
+Tomodachi Life - Welcome Version (Europe) (En,Fr,De,Es,It) (Rev 2) (eShop)|C074A7F2,CTR-N-NC6P
+Touch Battle Tank 3D 3 (Japan) (eShop)|5122B57A,CTR-N-KTBJ
+Touzoku to 1000-Biki no Pokemon (Japan) (eShop)|7E8739D8,CTR-N-KZAJ
+Toy Stunt Bike (Europe) (eShop)|BEC499FC,CTR-N-JTVP
+Toy Stunt Bike (USA) (eShop)|AE033E79,CTR-N-JTVE
+Toys vs Monsters (Europe) (En,Fr,De,Es,It) (eShop)|548D6305,CTR-N-KTMP
+Toys vs Monsters (USA) (eShop)|0C68F61A,CTR-N-KTME
+Treasures of the World (Barcelona, Paris, Rome) (Europe) (eShop) (Video)|3E50C3CC,CTR-N-MBSP
+True Remembrance - Kioku no Kakera (Japan) (eShop)|9BBC4F9B,CTR-N-JKKJ
+Turtle Tale (Europe) (eShop)|CD7C5AF3,CTR-N-JTLP
+Turtle Tale (USA) (Rev 1) (eShop)|A5E994B7,CTR-N-JTLE
+Ugoku Memo Chou 3D (Japan) (eShop)|B5321AA5,CTR-N-JKZJ
+Ugoku Memo Chou 3D (Japan) (Rev 2) (eShop)|F5D78E46,CTR-N-JKZJ
+Unchained Blades (USA) (eShop)|AD33FB70,CTR-N-JUCE
+Undead Bowling (Europe) (eShop)|02488E1B,CTR-N-JZGP
+Undead Bowling (USA) (eShop)|859A788F,CTR-N-JZGE
+Undead Storm Nightmare (Europe) (eShop)|61BA2BB0,CTR-N-JZQP
+Undead Storm Nightmare (USA) (eShop)|7E1F2B31,CTR-N-JZQE
+Urban Trial Freestyle (Europe) (En,Fr,De,Es,It) (eShop)|74657CA4,CTR-N-AT8P
+Urban Trial Freestyle (Japan) (eShop)|FCF29AC6,CTR-N-JUTJ
+Vacation Adventures - Park Ranger (Europe) (En,Fr,De,Es) (eShop)|FEAC3967,CTR-N-JPRP
+Vacation Adventures - Park Ranger 2 (Europe) (En,Fr,De,Es) (eShop)|2937EAE4,CTR-N-KVAP
+Vampire Sniper (Japan) (eShop)|FABFDA0C,CTR-N-JVHJ
+Van Helsing Sniper Zx100 (Europe) (En,Fr,De,Es,It) (eShop)|B4D6D1AB,CTR-N-JVHP
+VectorRacing (USA) (eShop)|19B3982E,CTR-N-JBVE
+VVVVVV (Europe) (Rev 1) (eShop)|680DEA3B,CTR-N-JVVP
+VVVVVV (USA) (eShop)|2E3B2AD3,CTR-N-JVVE
+VVVVVV (USA) (Rev 1) (eShop)|7D50A4CB,CTR-N-JVVE
+Wakedas (Europe) (eShop)|2E77C224,CTR-N-JWKP
+Wario Land 4 (Europe) (GBA) (Virtual Console)|A224C661,CTR-N-PACP
+Wario Land 4 (USA) (GBA) (Virtual Console)|311DE71F,CTR-N-PACE
+Wario Land Advance - Youki no Otakara (Japan) (GBA) (Virtual Console)|24C45362,CTR-N-PACJ
+Wario Land II (USA) (GBC) (Virtual Console)|CBAF1E58,CTR-N-QAJE
+Wario Ware, Inc - Minigame Mania (Europe) (GBA) (Virtual Console)|6E100B73,CTR-N-PAFP
+WarioWare, Inc. - Mega Microgame$! (USA) (GBA) (Virtual Console)|AD851450,CTR-N-PAFE
+Weapon Shop de Omasse (Europe) (eShop)|44D690E0,CTR-N-JBKP
+Weapon Shop de Omasse (USA) (eShop)|BEBC9C44,CTR-N-JBKE
+Wild Adventures - Ultimate Deer Hunt 3D (USA) (En,Fr) (eShop)|FA5AEE89,CTR-N-JWAE
+Witch & Hero (Europe) (eShop)|AAC818AF,CTR-N-JWHP
+Witch & Hero (Taiwan) (eShop)|357A9618,CTR-N-JWHW
+Witch & Hero (USA) (eShop)|0AE25736,CTR-N-JWHE
+Witch & Hero II (Europe) (eShop)|3ECB1B7E,CTR-N-KWHP
+Witch & Hero II (USA) (eShop)|B6161186,CTR-N-KWHE
+Woah Dave! (USA) (eShop)|F4C5691B,CTR-N-KWDE
+Word Puzzles by POWGI (USA) (eShop)|7E871463,CTR-N-KWPE
+World Conqueror 3D (Europe) (eShop)|E8AB06CA,CTR-N-JWCP
+Wrecking Crew (USA) (Rev 1) (NES) (Virtual Console)|F6928048,CTR-N-TAGE
+Xeodrifter (Europe) (eShop)|07E75B3A,CTR-N-KXEP
+Xeodrifter (USA) (eShop)|A2D83768,CTR-N-KXEE
+Yo-Kai Watch (USA) (Legit CIA)|06FE7E91,CTR-P-AYWE
+Yoshi (USA) (Rev 1) (NES) (Virtual Console)|D35F748C,CTR-N-TARE
+Yoshi's Island - Super Mario Advance 3 (Europe) (En,Fr,De,Es,It) (GBA) (Virtual Console)|A84F76FA,CTR-N-PADP
+Yoshi's Island - Super Mario Advance 3 (USA) (GBA) (Virtual Console)|B4530A00,CTR-N-PADE
+YouTube (Europe) (En,Fr,De,Es,It,Pt,Ru) (eShop)|362BA751,CTR-N-JYTP
+YouTube (Europe) (En,Fr,De,Es,It,Pt,Ru) (Rev 1) (eShop)|817EFD4B,CTR-N-JYTP
+YouTube (Europe) (En,Fr,De,Es,It,Pt,Ru) (Rev 2) (eShop)|44A07720,CTR-N-JYTP
+YouTube (Japan) (eShop)|3FD8D57D,CTR-N-JYTJ
+YouTube (USA) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1) (eShop)|3C67DEF0,CTR-N-JYTE
+YouTube (USA) (eShop)|BA9E1796,CTR-N-JYTE
+YouTube (USA) (Rev 2) (eShop)|324E2AF3,CTR-N-JYTE
+Yumi's Odd Odyssey (USA) (eShop)|3218AA00,CTR-N-AUFE
+Zelda II - The Adventure of Link (USA) (Rev 1) (NES) (Virtual Console)|65352B30,CTR-N-TANE
+Zelda no Densetsu - Fushigi no Boushi (Japan) (GBA) (Virtual Console)|DF873A43,CTR-N-PAKJ
+Zen Pinball (USA) (En,Fr,Es) (eShop)|0E7D5FAF,CTR-N-JENE
+Zen Pinball 3D (Europe) (En,Fr,De,Es,It) (eShop)|8AD97A15,CTR-N-JENP
+Zombie Incident (Europe) (En,Fr,De,Es,It,Nl) (eShop)|204E05E9,CTR-N-JUZP
+Zombie Incident (USA) (eShop)|D272775B,CTR-N-JUZE
+Zombie Panic in Wonderland DX (Europe) (En,Fr,Es) (eShop)|9E64EFBA,CTR-N-JZPP
+Zombie Panic in Wonderland DX (Japan) (eShop)|8F95D263,CTR-N-JZPJ
+Zombie Panic in Wonderland DX (USA) (En,Fr,Es) (eShop)|ABB13AE3,CTR-N-JZPE
+Zombie Slayer Diox (Europe) (eShop)|6F9D6CDD,CTR-N-JZSP
+Zombie Slayer Diox (USA) (eShop)|829CE50B,CTR-N-JZSE

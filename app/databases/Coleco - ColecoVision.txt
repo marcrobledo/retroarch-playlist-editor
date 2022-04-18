@@ -1,0 +1,194 @@
+col
+2010 - The Graphic Action Game (USA)|C575A831
+2010 - The Graphic Action Game (USA) (Beta)|3657F3CD
+A.E. (USA) (Proto)|DB845695
+Activision Decathlon, The (USA)|51FE49C8
+Adam's Musicbox Demo (USA) (Demo)|164C8C26
+Alcazar - The Forgotten Fortress (USA)|FCE3AA06
+Alphabet Zoo (USA)|4FFB4E8C,ABC-CV
+Amazing Bumpman (USA)|78A738AF
+Antarctic Adventure (USA, Europe)|275C800E
+Antarctic Adventure (USA, Europe) (Beta)|A66E5ED1
+Aquattack (USA)|947437EC
+Artillery Duel (USA)|6F88FCF0
+BC's Quest for Tires (Canada)|0AE39F2C
+BC's Quest for Tires (USA)|4359A3E5
+BC's Quest for Tires II - Grog's Revenge (Canada)|1CA853D5
+BC's Quest for Tires II - Grog's Revenge (USA)|D464E5E4
+Beamrider (USA)|7A93C6E5
+Berenstain Bears, The (USA) (Demo)|18864ABC
+Blockade Runner (USA)|DF65FC87
+Boulder Dash (USA)|9B547BA8
+Boulder Dash (USA) (Beta)|1796DE5E,TC-203
+Brain Strainers (USA)|829C967D
+Buck Rogers - Planet of Zoom (USA, Europe)|00B37475
+Bump 'n' Jump (USA, Europe)|9E1FAB59
+Bump 'n' Jump (USA, Europe) (Beta)|EB498F97
+BurgerTime (USA, Europe)|91346341
+BurgerTime (USA, Europe) (Beta)|E5C5EA20
+Cabbage Patch Kids - Adventures in the Park (USA, Europe)|6AF19E75
+Cabbage Patch Kids - Adventures in the Park (USA, Europe) (Beta 1)|BEACBFF5
+Cabbage Patch Kids - Adventures in the Park (USA, Europe) (Beta 2)|5DA13DFD
+Cabbage Patch Kids - Picture Show (USA)|75B08D99
+Campaign '84 (USA)|5AA22D66
+Carnival (USA, Europe)|70F315C2
+Castelo (Brazil) (Unl)|07A3D3DB
+CAT S.O.S. Game, The (USA) (Promo)|13886C96
+Centipede (USA)|70004,17EDBFD4
+Choplifter! (USA)|030E0D48
+Chuck Norris - Superkicks (USA)|5EEB81DE
+ColecoVision Monitor Test (USA, Europe)|71AE16ED
+Congo Bongo (USA)|4E8B4C1D
+Cosmic Avenger (USA, Europe)|39D4215B
+Cosmic Crisis (Europe)|7C2C7C41,PG901
+Dam Busters, The (Canada)|C75FAD5A
+Dam Busters, The (USA)|890682B3
+Dance Fantasy (USA)|BFF86A98
+Defender (USA)|6CF594E5
+Defender (USA) (BUG Fixed)|46A909CC
+Destructor (USA, Europe)|56C358A6
+Dig Dug (USA) (Proto)|1038E0A1
+Donkey Kong (USA)|94C4CD4A
+Donkey Kong (USA, Europe) (v1.1)|3C77198C
+Donkey Kong Junior (USA, Europe)|FD11508D
+Dr. Seuss - Fix-Up the Mix-Up Puzzler (USA)|109699E2
+Dragon's Lair (USA) (Proto)|DA521D6D
+Dragonfire (USA)|720065,DCB8F9E8
+Dukes of Hazzard, The (USA)|4025AC94
+Escape from the Mindmaster (USA) (Proto)|3678AB6F
+Evolution (Canada)|4CD4E185
+Evolution (USA) (Unl)|4C933007
+Facemaker (USA)|EC9DFB07
+Fall Guy (USA) (Proto)|8A731B38
+Fathom (USA)|B3B767AE
+Fireman (USA) (Proto)|64EC761E
+Flipper Slipper (USA) (Unl)|9788BCA7
+Flipper Slipper (USA, Europe)|2A49F507
+Fortune Builder (USA)|65BBBCB4
+Fraction Fever (USA)|964DB3BC
+Frantic Freddy (USA)|8615C6E8,SE232
+Frenzy (USA, Europe)|3CACDDFB
+Frogger (USA)|798002A2
+Frogger II - ThreeeDeep! (USA)|4229EA5A
+Front Line (USA, Europe) (Standard Controller)|D0110137
+Front Line (USA, Europe) (Super Action Controller)|E16E0917
+Galaxian (USA)|6A7A162A
+Gateway to Apshai (USA, Europe)|FDB75BE6
+Gorf (USA, Europe)|FF46BECC
+Gust Buster (USA)|29FEA563
+Gyruss (USA)|27CBF26D
+Gyruss (USA) (Beta)|B35D4DC9
+H.E.R.O. - Helicopter Emergency Rescue Operation (USA)|685AB9B5,VS-005
+Heist, The (USA)|987491CE
+Illusions (USA)|2787516D
+It's Only Rock 'N' Roll (USA)|99062,CC43EBF7
+James Bond 007 (USA)|561F2530
+Joust (USA) (Proto)|52228000
+Jukebox (USA)|A5511418
+Julius Erving and Larry Bird Go - One-on-One (USA)|EF50E1C5
+Jumpman Junior (USA, Europe)|590,060C69E8
+Jungle Hunt (USA)|58E886D2
+Ken Uston Blackjack-Poker (USA, Europe)|8C7B7803
+Keystone Kapers (USA)|69FC2966
+Lady Bug (USA, Europe)|2C3097B8
+Learning with Leeper (USA)|1641044F,LLL-901
+Linking Logic (USA)|918F12C0
+Logic Levels (USA)|D54C581B
+Looping (USA, Europe)|6A2D637B
+Lord of the Dungeon (USA) (Beta)|FEE15196
+M.A.S.H (Europe) (Proto)|FC95B302
+Matt Patrol (USA) (Proto)|90007079
+Matt Patrol (USA) (Proto) (Alt)|FBE12DE7
+Memory Manor (USA)|BAB520EA
+Meteoric Shower (Europe)|6A162C7D
+Miner 2049er Starring Bounty Bob (USA, Europe)|F37AF58C
+Miner 2049er Starring Bounty Bob (USA, Europe) (v1.1)|B24F10FD
+Monkey Academy (USA)|D92B09C8
+Monkey Academy (USA) (Beta)|D1E8DF85
+Montezuma's Revenge (USA)|CED0D16E
+Moonsweeper (USA, Europe)|8A303F5A
+Motocross Racer (USA)|99026,0F4D800A
+Mountain King (USA)|1605,C173BBEC
+Mouse Trap (USA, Europe)|DE47C29F
+Mr. Do! (USA, Europe)|461AB6AD
+Mr. Do!'s Castle (USA)|546F2C54
+Nova Blast (USA, Europe)|4491A35B
+Number Bumper (USA) (Beta)|6AF8B439
+Oil's Well (USA)|ADD10242,OWL-901
+Omega Race (USA, Europe)|0A0511C7
+Orbit (USA) (Proto)|2CC6F4AA
+Pac-Man (USA) (Proto)|A40A07E8
+Pepper II (USA, Europe)|53B85E20
+Pitfall II - Lost Caverns (USA)|851A455F,VS-008
+Pitfall! (USA)|D4F180DF,VS-001
+Pitstop (USA)|E627FCF0
+Pitstop (USA, Europe) (v1.1)|81BE4F55
+Popeye (USA)|A095454D
+Porky's (USA) (Proto)|46FC1C00
+Power Lords - Quest for Volcan (USA) (Proto)|2EBF88C4
+Q-bert (USA)|9800,532F61BA
+Q-bert's Qubes (USA)|79D90D26
+Quest for Quintana Roo (USA)|1603,EEC81C42
+River Raid (USA)|FE897F9C,VS-002
+Robin Hood (USA)|CDB8D3CF
+Roc 'N Rope (USA, Europe)|AF885D76
+Rock n' Bolt (USA)|AF49A0C3,TC-202
+Rocky - Super Action Boxing (USA, Europe)|37F144D3
+Rolloverture (USA)|0364FB81
+Root Beer Tapper (USA)|8AFD7DB2
+Sammy Lightfoot (USA)|3563286B,SLD-902
+Sector Alpha (USA)|0EC63A5C
+Sewer Sam (USA)|4591F393
+Sir Lancelot (USA)|DF84FFB5
+Skiing (USA)|B37D48BD
+Slither (USA, Europe)|2492,53D2651C
+Slurpy (USA)|8871E9FD
+Smurf - Paint 'n' Play WORKSHOP (USA, Europe)|97C0382D
+Smurf - Rescue in Gargamel's Castle (USA, Europe)|42850379
+Smurfs Save the Day (USA) (Demo)|9A3B8587
+Space Fury (USA, Europe)|DF8DE30F
+Space Panic (USA, Europe)|5BDF2997
+Spectron (USA)|A6401C46
+Spy Hunter (USA)|36478923
+Spy Hunter (USA) (Beta)|1969B9B7
+Squish'em Featuring Sam (USA)|AC92862D
+Star Fire (USA) (Unreleased)|EA3AA29E
+Star Trek - Strategic Operations Simulator (USA)|95824F1E
+Star Wars - The Arcade Game (USA)|9940,0E75B3BF
+Steamroller (USA) (Proto)|153AC4EF
+Strike It! (Europe)|D247A1C8
+Subroc (USA, Europe)|A417F25F
+Super Action Baseball (USA)|B3BCF3F9
+Super Action Football (Europe)|4D6C0458
+Super Action Football (USA)|62619DC0
+Super Cobra (USA)|9850,F84622D2
+Super Controller Tester (USA)|EB6CB4D8
+Super Cross Force (USA, Europe)|84350129
+Super DK! (USA) (Proto)|EF25AF90
+Super DK! Junior (USA) (Proto)|C2E7F0E0
+Sword and the Sorcerer, The (USA) (Demo)|8BDA7C48
+Tank Wars (Europe)|AF6BBC7E
+Tarzan (USA, Europe)|7CD7A702
+Telly Turtle (USA)|C8BC1950
+Threshold (USA)|1593F7DF,THL-901
+Time Pilot (USA, Europe)|B3A1EACB
+TOMARC the Barbarian (USA)|1E14397E
+Tournament Tennis (USA)|C1D5A702
+Tunnels & Trolls (USA) (Demo)|291A0004
+Turbo (USA, Europe)|BD6AB02A
+Tutankham (USA)|0408F58C
+Up 'n Down (USA)|FDD52CA0,009-21
+Venture (USA, Europe)|8E5A4AA3
+Victory (Europe)|B1FDA1C5
+Victory (USA)|70142655
+Video Hustler (USA) (Proto 1)|841D168F
+Video Hustler (USA) (Proto 2)|A9177B20
+War Room (USA)|261B7D56
+WarGames (USA, Europe)|FD25ADB3
+Wing War (USA)|29EC00C9
+Wizard of Id's - WizMath (USA)|B9BA2BB6,WML-900
+Word Feud (USA)|F7A29C01
+Yolk's on you, The (Europe) (Proto)|997AD8DE
+Zaxxon (Taiwan) (En) (Unl)|5B0E2ADF
+Zaxxon (USA, Europe)|8CB0891A
+Zenji (USA)|6E523E50,VS-007

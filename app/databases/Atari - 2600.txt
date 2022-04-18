@@ -1,0 +1,719 @@
+a26,WAV
+3-D Genesis (USA) (Proto)|931A0BDC
+3-D Ghost Attack (USA) (Proto)|11396D94
+3-D Havoc (USA) (Proto)|F75DDAD1
+3-D Tic-Tac-Toe (Europe)|7322EBC6
+3-D Tic-Tac-Toe (USA)|58805709
+3-D Zapper (USA) (Proto) (1982-12-15)|93C49A58
+3-D Zapper (USA) (Proto) (Earlier)|4F405595
+32 in 1 Game Cartridge (Europe)|EAEF28EA
+4 Game in One (Europe) (Bit Corporation)|23A8D1AF
+Abre-te, Sesamo! (Brazil) (Unl)|8CF511A4
+Acid Drop (Europe)|14CDDAC7
+Action Man - Action Force (Europe)|896446CF
+Actionauts (USA) (Proto) (1984-06-22)|CEDDF26B
+Activision Decathlon, The (Europe)|2452ADAB
+Activision Decathlon, The (France)|716D9D1D
+Activision Decathlon, The (USA)|3FEB39B1
+Adventure (Europe)|18DC23F9
+Adventure (USA)|A6DB4B3A
+Adventures of TRON (USA)|1B8019D6
+Air Raid (USA)|B0E53814
+Air Raiders (Europe)|42395399
+Air Raiders (USA)|BB16539D
+Air-Sea Battle (Europe)|CF7F8944
+Air-Sea Battle ~ Target Fun (Japan, USA)|1FC6C0F1
+Air-Sea Battle ~ Target Fun (Japan, USA) (Atari Anthology)|2A2A9F81
+Airlock (Europe)|A2D4390B
+Airlock (USA)|25C90CE7
+Airlock (USA) (Proto)|B6AE31C6
+Alien (Brazil) (Unl)|E61021EC
+Alien (USA)|6D61059F
+Alien's Return (Europe)|C161F53B
+Alligator People (USA) (Proto)|B3F6D395
+Alpha Beam (Europe) (Beta) (1983-06-03)|1651F45E
+Alpha Beam (Japan, USA) (Beta) (1982-12-22)|85F1CB08
+Alpha Beam with Ernie (Europe)|D1ED3112
+Alpha Beam with Ernie (Japan, USA)|27C6B897
+Amidar (Europe)|E9B05565
+Amidar (USA)|8EB5BD72
+AndroMan on the Moon (USA) (Proto)|18344A20
+Apples and Dolls (Brazil) (Unl)|E7514705
+Aquaventure (Brazil) (Proto) (Unl)|7FA61FA0
+Aquaventure (USA) (Proto) (1983-08-12)|87A8CB8B
+Armor Ambush (Europe)|C974C21A
+Armor Ambush (USA)|FC35704B
+Artillery Duel (Europe)|1708647C
+Artillery Duel (USA)|1D0F7E8D
+Assault (USA)|AB3A2B77
+Asteroids (Europe)|0A2F8288
+Asteroids (Japan, USA)|C7D64C94
+Asteroids (USA) (Atari Anthology)|70A59647
+Astroblast (Europe)|A1DF435E
+Astroblast (USA)|D214F241
+Astroblast (USA) (v1.1)|1DE25331
+Astrowar (Brazil) (Unl)|7B4B7EAF
+Atari Video Cube (USA)|272AE37F
+Atari Video Cube (USA, Europe) (Atari Anthology)|8172299E
+Atlantis (Europe)|85706802
+Atlantis (USA)|92560498
+Atlantis II (USA)|BA5566AA
+Atom Smasher (USA) (Proto)|F2456E02
+Bachelor Party (USA)|D9CD6C95
+Bachelorette Party (USA)|E8189EEB
+Backgammon (Europe)|A3D119C6
+Backgammon (USA)|E2A7FFA6
+Bank Heist (Europe)|47D4B652
+Bank Heist (USA)|7AA79D1E
+Barnstorming (Brazil) (Unl)|281736D6
+Barnstorming (Europe)|F866DBF7
+Barnstorming (USA)|4A005181
+Base Attack (Europe)|81F1E5DD
+Basic Math (Europe)|5456CDCA
+Basic Math (USA)|D48EBAC0
+BASIC Programming (Europe)|C207F43E
+BASIC Programming (USA)|26A3C844
+Basketball (Europe)|711A2340
+Basketball (USA)|B31D49F0
+Battlezone (Europe)|5CC921F6
+Battlezone (Japan, USA)|9155DD1D
+Battlezone (Japan, USA) (Beta) (1983-05-02)|C1E6D7CF
+Battlezone (Japan, USA) (Beta) (1983-05-12)|63F31AF6
+Beamrider (Europe)|6ED2E636
+Beamrider (USA)|1618565B
+Beany Bopper (Brazil) (Unl)|624C9345
+Beany Bopper (USA)|B722BC8F
+Beat'Em & Eat'Em (Brazil) (Unl)|E4F66058
+Beat'Em & Eat'Em (Europe)|461C9F2C
+Beat'Em & Eat'Em (USA)|C90D4F84
+Berenstain Bears (USA)|29D28BAF
+Bermuda Triangle (Europe)|A8C0AEC9
+Bermuda Triangle (USA)|0FCB5B94
+Berzerk (Brazil) (Unl)|F973D708
+Berzerk (Europe)|D7F66624
+Berzerk (Japan, USA)|2E8B4B5F
+Big Bird's Egg Catch (Europe)|B0555578
+Big Bird's Egg Catch (Japan, USA)|96DC9A9C
+Big Bird's Egg Catch (Japan, USA) (Beta) (1982-12-08)|9DE03520
+Big Bird's Egg Catch (Japan, USA) (Beta) (1983-05-02)|EEB65EFA
+Big Bird's Egg Catch (Japan, USA) (Beta) (1983-05-17)|3A4038AC
+Bionic Breakthrough (USA) (Proto)|928E4B47
+Black Jack (Europe)|7125A8B9
+Black Jack (USA)|4B0EE010
+Blueprint (Europe)|71139A5E
+Blueprint (USA)|DA7B9DFA
+Blueprint (USA) (Beta)|5A95A4F4
+BMX Air Master (Australia)|02838B54
+BMX Air Master (Europe)|DB722DD7
+BMX Air Master (USA)|B4017EE3
+Bobby Is Going Home (Brazil) (NTSC) (Unl)|358940E3
+Bobby Is Going Home (Brazil) (PAL) (Unl)|5C4A04C8
+Bobby Is Going Home (Europe)|F061E27F
+Bobby Is Going Home (Europe) (Beta)|3E662128
+Bobby Is Going Home (USA)|99A2A654
+Boggle (USA) (Proto) (1978-08-07)|26B6BFEF
+Boing! (Europe)|D2F06299
+Boing! (USA)|AD380487
+Bouncin' Baby Bunnies (USA) (Proto)|09A70E23
+Bowling (Europe)|C7BC1BCA
+Bowling (USA)|FEA0D6D5
+Boxen (Germany) (En)|7931C845
+Boxing (Brazil) (Unl)|0411AE6B
+Boxing (Europe)|515036F1
+Boxing (USA)|9ECE0021
+Brain Games (Europe)|EA630E68
+Brain Games (USA)|150709C2
+Breakout (Europe)|33717471
+Breakout ~ Breakaway IV (Japan, USA)|3037638C
+Bridge (Europe)|63CEEB81
+Bridge (USA)|9C71D175
+Bridge (USA) (v1.1)|8DB95D1E
+Buck Rogers - Planet of Zoom (Europe)|F8B140FA
+Buck Rogers - Planet of Zoom (USA)|2030F686
+Bugs (Europe)|D1DDB571
+Bugs (USA)|1202427C
+Bugs Bunny (USA) (Proto 1)|272B8856
+Bugs Bunny (USA) (Proto 2)|BD164019
+Bump 'n' Jump (Europe)|194F3576
+Bump 'n' Jump (USA)|0209C0E5
+Bumper Bash (Europe)|863248FC
+Bumper Bash (USA)|B1A6A23E
+BurgerTime (USA)|C183FBBC
+Burning Desire (Europe)|F2593D9B
+Burning Desire (USA)|92F91D36
+Cabbage Patch Kids - Adventures in the Park (USA) (Proto) (1984-09-13)|7025D30D
+Cakewalk (Europe)|26C5B6BD
+Cakewalk (USA)|73494211
+California Games (Europe)|C53D0352
+California Games (USA)|E9A3FDC3
+Canyon Bomber (USA)|E914B8CA
+Care Bears (USA) (Proto)|A14A81D1
+Carnival (Europe)|FB7E75A1
+Carnival (USA)|7AC3C700
+Casino (Europe)|675C7F84
+Casino ~ Poker Plus (USA)|420B8248
+Cat Trax (USA)|C847E5EC
+Cathouse Blues (USA)|3C4E3F41
+Centipede (Europe)|44D16280
+Centipede (Europe) (Beta)|AAE78B7F
+Centipede (Japan, USA)|77396102
+Challenge (Canada)|1F19AA5D
+Challenge of.... NEXAR, The (Europe)|44EF0404
+Challenge of.... NEXAR, The (USA)|74CC37D4
+Championship Soccer (Europe)|BE28F033
+Championship Soccer ~ Soccer (USA)|3F59BB60
+Chase the Chuck Wagon (USA)|63E4FC7F
+Checkers (USA)|E74F1B59
+China Syndrome (Europe)|7690B0C3
+China Syndrome (USA)|A714E79C
+Chopper Command (Europe)|6BE865A5
+Chopper Command (USA)|1DFA64DF
+Chuck Norris Superkicks (USA)|96210C6C
+Circus Atari (Europe)|95C9FE2B
+Circus Atari (Japan, USA)|D2A330A3
+Coco Nuts (USA)|B3E44E5C
+Codebreaker (Europe)|B1CB7CDC
+Codebreaker (USA)|947EDB18
+Col 'N' (Europe) (Unl)|6E493F49
+Color Bar Generator (USA)|19B52142
+Colors (Europe) (Proto)|4D8A1F6B
+Colours (USA, Europe) (Atari Anthology)|30464C79
+Combat (Europe)|7BEE5800
+Combat (USA, Europe) (Atari Anthology)|0D64A9C5
+Combat Two (USA) (Proto)|8CABE1FD
+Combat ~ Tank-Plus (USA)|9C326A97
+Commando (Europe)|B898762D
+Commando (USA)|8D3025DC
+Commando (USA) (Alt)|2C698B31
+Commando Raid (Europe)|A3EE754E
+Commando Raid (USA)|E46583E6
+Communist Mutants from Space (Europe)|E8C4DC94
+Communist Mutants from Space (Europe) (Beta)|D1A5B3BB
+Communist Mutants from Space (USA)|D64EC816
+Communist Mutants from Space (USA) (Beta)|CA6BB788
+Computer Chess (USA) (Proto)|0C44D49A
+Condor Attack (USA)|B6C582EB
+Confrontation (USA) (Proto)|C2DBCEFE
+Congo Bongo (USA)|3F6E7E0C
+Cookie Monster Munch (USA)|97BA488F
+Cosmic Ark (USA)|CB374F0E
+Cosmic Commuter (USA)|4939BA40
+Cosmic Creeps (USA)|47AAA2DD
+Cosmic Swarm (USA)|27F1AE48
+Crack'ed (USA) (Proto)|1B5E52A7
+Crackpots (USA)|ECD891B3
+Crash Dive (USA)|59FE4666
+Crazy Climber (USA)|A3A3C009
+Cross Force (USA)|41B0D615
+Crossbow (USA)|1F233140
+Crypts of Chaos (USA)|C5B29962
+Crystal Castles (USA)|9007B5AC
+Cubicolor (USA) (Proto)|D5D43A7A
+Custer's Revenge (USA)|21283941
+Dancing Plate (USA)|250C4E3F
+Dark Cavern (USA)|0481078C
+Dark Chambers (USA)|83900281
+Deadly Duck (USA)|F33A9A2D
+Death Trap (USA)|FDF79A60
+Defender (USA)|0DF43D8E
+Demolition Herby (USA)|E9305AE2
+Demon Attack (USA) (Rev 1)|31C9DF5E
+Demons to Diamonds (USA)|9B97C3DA
+Depth Charge (USA) (Proto)|442D6289
+Desert Falcon (USA)|CAA0054E
+Dice Puzzle (Europe)|F691B853
+Dice Puzzle (USA)|8D05D61B
+Dig Dug (USA)|EE7B80D1
+Dishaster (USA)|C8150316
+Dodge 'Em (Europe)|10CFC6C0
+Dodge 'Em ~ Dodger Cars (USA)|0C74479B
+Dolphin (USA)|9E38A7B9
+Donald Duck's Speedboat (USA) (Proto)|8DB92C76
+Donkey Kong (USA)|F331B069
+Donkey Kong Junior (USA)|9EF649E5
+Double Dragon (USA)|8320BB37
+Double Dunk (USA)|208F6C20
+Dragon Defender (Europe)|0D57E23D
+Dragonfire (USA)|BA5DC02C
+Dragonstomper (USA)|291F7F92
+Dragster (USA)|4042D3AB
+Dukes of Hazzard (USA) (Proto)|2DB406DC
+Dumbo's Flying Circus (USA) (Proto)|AE915725
+Dune (USA) (Proto)|F01F7C55
+E.T. - The Extra-Terrestrial (USA)|6D0A475F
+Earth Dies Screaming, The (USA)|8A6C65F0
+Eggomania (USA)|C78EC927
+Elevator Action (USA) (Proto)|DC5A9D77
+Elf Adventure (USA) (Proto)|91647218
+Eli's Ladder (USA)|2C5E6932
+Elk Attack (USA) (Proto)|02DDDE9F
+Encounter at L-5 (USA)|E78FE552
+Enduro (USA)|2EF17B2E
+Entity, The (USA) (Proto)|3366CCB7
+Entombed (USA)|E48EC9DC
+Escape from the Mindmaster (USA)|FD0C8BFC
+Espial (USA)|1F95351A
+Exocet (Europe)|5CC39028
+Extra Terrestrials (USA)|3889D018
+Fantastic Voyage (USA)|A60E153F
+Farmyard Fun (USA)|73474B03
+Fast Eddie (USA)|0C0A7A02
+Fast Food (USA)|62388455
+Fatal Run (Europe)|991D2348
+Fatal Run (USA)|60B08497
+Fathom (USA)|93DA13CC
+Final Approach (USA)|FF23F469
+Fire Fighter (USA)|E361FB42
+Fire Fly (USA)|7A8E4EC7
+Fire Spinner (USA)|F497456E
+Fireball (USA)|B32AE162
+Fishing Derby (USA)|204C928F
+Flag Capture ~ Capture (USA)|8AA1C41E
+Flash Gordon (USA)|0D61CE7D
+Football (USA)|3B73EE02
+Forest (Europe)|1AAAB749
+Frankenstein's Monster (USA)|AD44DFF9
+Freeway (USA)|B13EC413
+Frisco (USA)|C4F16D4D
+Frog Demo (Europe)|EC5FF220
+Frog Pond (USA) (Proto)|5874385A
+Frogger (USA)|F5E1AF92
+Frogger II - Threeedeep! (USA)|3BA0D9BF
+Frogs and Flies (USA)|6476C136
+Front Line (USA)|C352F290
+Frostbite (USA)|B61BE7A3
+Funky Fish (USA) (Proto)|B53B33F1
+G.I. Joe - Cobra Strike (USA)|6BCBCD37
+Galaxian (USA)|4E9FE271
+Gamma-Attack (USA)|D1EFE8BB
+Gangster Alley (USA)|03C2452C
+Garfield (USA) (Proto)|F20CADCF
+Gas Hog (USA)|40699CA5
+Gauntlet (USA)|C7AC23C7
+Ghost Manor (USA)|6FC46219
+Ghostbusters (USA)|45443D13
+Ghostbusters II (Europe)|A3C342B8
+Gigolo (USA)|4E16A8DC
+Glacier Patrol (USA)|44E77FD6
+Glib - Video Word Game (USA)|50BB03A4
+Going-Up (USA) (Proto)|CB864B21
+Golf (USA)|46A9F200
+Good Luck, Charlie Brown (USA) (Proto)|B89AAEAF
+Gopher (USA)|AC8321D8
+Gorf (USA)|9BD137AA
+Grand Prix (USA)|E855273D
+Gravitar (USA)|C87FCCBE
+Great Escape (Europe)|58010BE3
+Great Escape (USA)|99C240C1
+Gremlins (USA)|48D5991F
+Grover's Music Maker (USA) (Proto)|E1372B28
+Guardian (USA)|121738F5
+Gyruss (USA)|0D78E8A9
+H.E.R.O. (USA)|721E95B7
+Halloween (USA)|B1B11806
+Hangman ~ Spelling (USA)|C2BCC789
+Hard-Head (USA) (Proto)|5C009EA0
+Harem (USA) (Proto)|E4466537
+Haunted House (USA)|AA62D961
+Hell Driver (Europe)|18954066
+Hole Hunter (USA)|66D5CE67
+Holey Moley (USA) (Proto)|3BB2E71D
+Home Run ~ Baseball (USA)|45ACE998
+Human Cannonball ~ Cannon Man (USA)|F05A41E1
+Hunt & Score ~ Memory Match (USA)|17DE8070
+I Want My Mommy (USA)|57908550
+I.Q. 180 (USA)|4DC2A674
+I.Q. Memory Teaser (Europe)|75AB6BA8
+Ice Hockey (USA)|ADAB8CDF
+Ikari Warriors (USA)|5B7CE555
+Immies & Aggies (USA) (Proto)|86244C24
+Indy 500 ~ Race (USA)|B43DA2A3
+Infiltrate (USA)|612BD4DA
+International Soccer (USA)|B9D549A2
+IQ 180 (USA)|5EA5D7E3
+Ixion (USA) (Proto)|B311E13F
+James Bond 007 (USA)|34D3FFC8
+Jawbreaker (USA)|FC11BF67
+Journey Escape (USA)|52FF8027
+Joust (USA)|A07B3304
+Jr. Pac-Man (USA)|5C345BAC
+Jungle Fever (USA)|0123617B
+Jungle Hunt (USA)|9C3E8734
+Kabobber (USA) (Proto)|9517EE0E
+Kaboom! (USA)|813F00F6
+Kamikaze Saucers (USA) (Proto)|85CB187C
+Kangaroo (USA)|B9AB57E6
+Karate (USA)|AC0A9CE0
+Keystone Kapers (USA)|3E55F3A1
+Killer Satellites (USA)|BDD932DC
+King Kong (USA)|CB6F5617
+Klax (Europe)|A8AAF68B
+Klax (USA)|6BC47721
+Knight on the Town (USA)|ACEA70A6
+Kool-Aid Man (USA)|D9BD009B
+Krull (USA)|1A67E6ED
+Kung-Fu Master (USA)|5FEA6E51
+KVSHARED|FFF1FB4D
+Kyphus (USA) (Proto)|79BD22E2
+Laaser Voley (Europe) (Pirate)|DC1D3627
+Lady in Wading (USA)|F197BBCC
+Laser Blast (USA)|99365F26
+Laser Gates (USA)|4B7865AF
+Lasercade (USA) (Proto)|EF4FF656
+Lilly Adventure (Europe)|3544C6D6
+Lilly Adventure (USA)|C6D30567
+Lochjaw (USA)|B2A2FF31
+Lock 'n' Chase (USA)|7994BF16
+London Blitz (USA)|D23CD66C
+Looping (USA) (Proto)|F9B23F09
+Lord of the Rings, The - Journey to Rivendell (USA) (Proto)|59B96DB3
+Lost Luggage (USA)|551BDD37
+M.A.D. (USA)|5CB68FE5
+M.A.S.H (USA)|13E1C83D
+MagiCard (USA)|14F126C0
+Malagai (USA)|65790EF9
+Mangia' (USA)|B807B775
+Marauder (USA)|F8A8B470
+Marine Wars (USA)|4D281EE3
+Mario Bros. (USA)|8FBF7E90
+Master Builder (USA)|DD196D6C
+Masters of the Universe - The Power of He-Man (USA)|0603E177
+Math Gran Prix (USA)|CCC90C98
+Maze Craze - A Game of Cops 'n Robbers ~ Maze Mania - A Game of Cops 'n Robbers (USA)|0098E428
+Mazy Match (USA) (Proto)|95C37983
+McDonald's - Golden Arches Adventure (USA) (Proto)|ADD0115D
+Mega Force (USA)|9E6AE8C2
+MegaBoy (USA)|26914CE0
+MegaMania - A Space Nightmare (USA)|33EDC33E
+Mein Weg (Germany) (En)|420FF853
+Meltdown (USA) (Proto)|7955B3BE
+Midnight Magic (USA)|5C5447B9
+Millipede (USA)|CCC82DD0
+Mind Maze (USA)|7CC6C991
+Miner 2049er - Starring Bounty Bob (USA)|19F9EF1C
+Miner 2049er Volume II (USA)|71E814E9
+Mines of Minos (USA)|C799E944
+Miniature Golf ~ Arcade Golf (USA)|28562315
+Miss Piggy's Wedding (USA) (Proto)|B1497E10
+Missile Command (USA)|CFF14904
+Missile Control (Europe)|AC80976B
+Missile War ~ Astro War (Europe)|E83F5848
+Mission 3,000 A.D. (Europe)|55B140FE
+Mission 3,000 A.D. (USA)|B959A92F
+Mission Survive (Europe)|B70F52DC
+Mogul Maniac (USA)|50AFE04B
+Monster Cise (USA) (Proto)|AB0F6091
+Montezuma's Revenge - Featuring Panama Joe (USA)|E680A1C9
+Moon Patrol (USA)|D641EF2D
+Moonsweeper (USA)|450B5C57
+Morse Code Tutor (USA)|022CBE5F
+Motocross (USA)|36FEB44C
+Motocross Racer (USA)|0D1BC1CB
+MotoRodeo (USA)|89998E29
+Mountain King (USA)|ED778991
+Mouse Trap (Europe)|18B3C907
+Mouse Trap (USA)|9DDD45D3
+Mr. Do! (USA)|860A47A1
+Mr. Do!'s Castle (USA)|2CBBF3FE
+Mr. Postman (Europe)|16980CB8
+Mr. Postman (USA)|A7B03AA5
+Ms. Pac-Man (USA)|B2D08FC9
+Music Machine, The (USA)|BD133D59
+My Golf (Europe)|0D2CBD53
+Mysterious Thief, A (USA) (Proto)|8755C57C
+Name This Game (USA)|A86E1AD8
+Night Driver (USA)|600D8A96
+Nightmare (Europe)|B733F921
+No Escape! (USA)|8941CAEA
+Nuts (Europe)|D76D5F14
+Nuts (USA)|9B443896
+O Monstro Marinho (Europe)|3A1A392B
+Obelix (USA)|29A51EA4
+Off the Wall (USA)|A09779EA
+Off Your Rocker (USA) (Proto)|066EC995
+Official Frogger, The (USA)|1228E48C
+Oink! (USA)|86F99B5E
+Omega Race (USA)|E9876116
+Open Sesame (Europe) (Bit Corporation)|0D12FD9B
+Open Sesame (Europe) (Goliath)|D01B5A1F
+Oscar's Trash Race (USA)|34721D7B
+Othello (USA)|171AE72F
+Out of Control (USA)|CA4D03FB
+Outlaw (Europe)|64F136D2
+Outlaw ~ Gunslinger (USA)|68DD7ACD
+Pac-Man (USA)|DDC9A881
+Panda Chase (Europe)|AF417A00
+Parachute (Europe)|40E4BC6A
+Party Mix (USA)|8B8AE545
+Peek-A-Boo (USA) (Proto)|07594314
+Pengo (USA)|7667E739
+Pete Rose Baseball (USA)|D0C6FC32
+Peter Penguin (Europe)|5B47448C
+Phantom Tank (Europe)|9213493B
+Phantom UFO (USA)|69D3ABC5
+Pharaoh's Curse (Europe)|C6B82FC6
+Pharaoh's Curse (USA)|C17C5F64
+Phaser Patrol (USA)|EAF31BD7
+Phoenix (USA)|6AE1B66C
+Pick 'n' Pile (Europe)|CB76A9D4
+Pick Up (USA) (Proto)|0CDD8475
+Picnic (USA)|1D507A61
+Piece o' Cake (USA)|40355166
+Pigs in Space - Starring Miss Piggy (USA)|27673D7C
+Pitfall II - Lost Caverns (USA)|097CE7AD
+Pitfall! - Pitfall Harry's Jungle Adventure (USA)|42AD47BF
+Pizza Chef (USA) (Proto)|A240F751
+Planet of the Apes (USA) (Proto)|EEA8B688
+Planet Patrol (USA)|1E8EBB51
+Plaque Attack (USA)|D5A5EB9E
+Pleiades (USA) (Proto)|35589CEC
+Polaris (USA)|25B78F89
+Pole Position (USA)|BD822518
+Polo (USA) (Proto)|8C0B57D9
+Pompeii (USA) (Proto)|83D8A362
+Pooyan (USA)|FE24BE60
+Popeye (USA)|7D287F20
+Porky's (USA)|ADD0B98A
+Power Lords (USA) (Proto)|6EB0D178
+Pressure Cooker (USA)|CCF597D8
+Private Eye (USA)|EA3BFF1C
+Pursuit of the Pink Panther (USA) (Proto)|7BEF6258
+Pygmy (Europe)|6F22448D
+Q-bert (USA)|54142E3E
+Q-bert's Qubes (USA)|D9F499C5
+Quadrun (USA)|8D3C887B
+Quadrun (USA, Europe) (Atari Anthology)|35592D43
+Quest for Quintana Roo (USA)|F9F58DD3
+Quick Step! (USA)|057440FE
+Rabbit Transit (USA)|517E5561
+Racer (USA) (Proto)|794ED26D
+Racing Car (USA)|F78489B0
+Racquetball (USA)|7EEF9AC0
+Radar (USA)|5161A246
+Radar Lock (USA)|C29F7285
+Raft Rider (USA)|3D1292F8
+Raiders of the Lost Ark (USA)|E05FE273
+Ram It (USA)|582D5B62
+Rampage! (USA)|F0B446AC
+Raumpatrouille (USA)|3DFEE54B
+Reactor (USA)|1619E222
+RealSports Baseball (USA)|3C5A1B5F
+RealSports Basketball (Europe) (Proto)|364FEAA6
+RealSports Boxing (USA)|3398A1B2
+RealSports Football (USA)|F89F64EF
+RealSports Soccer (USA)|02D89819
+RealSports Tennis (USA)|379001A0
+RealSports Volleyball (USA)|54FC9EB2
+Red Sea Crossing (USA)|E81E232A
+Rescue Terra I (USA)|A509AD53
+Revenge of the Beefsteak Tomatoes (USA)|243A36DF
+Riddle of the Sphinx (USA)|183A87E3
+River Patrol (USA)|C820BD75
+River Raid (USA)|C3EB7E1E
+River Raid II (USA)|27D2DF2C
+Road Runner (USA)|CB79C061
+Robin Hood (USA)|DF96102B
+Robot Tank (USA)|E127C012
+Roc 'n Rope (USA)|9D51C969
+Rocky & Bullwinkle (USA) (Proto)|91434DC6
+Room of Doom (USA)|F27FC3BE
+Rubik's Cube (USA)|37F23CB8
+Rubik's Cube 3-D (USA) (Proto)|47BFD42C
+Rush Hour (USA) (Proto)|E681F62E
+S.A.C. Alert (USA) (Proto)|79D3B1E6
+Saboteur (USA) (Proto)|7EFE0286
+Save Mary! (USA) (Proto)|01E18F53
+Save Our Ship (Europe)|C422160A
+Save our Ship (USA)|C15A66E7
+Save the Whales (USA) (Proto)|9A346CE2
+SCRMNN (USA) (Proto)|6B0672A6
+Sea Battle (USA)|83B4EB19
+Sea Hawk (USA)|5224DC7B
+Sea Hunt ~ Scuba Diver (USA)|F94A8AEC
+Sea Monster (USA)|D6490BF3
+Seahawk (Europe)|5D3C699E
+Seaquest (USA)|8658E8D9
+Secret Agent (USA) (Proto)|D16C45F9
+Secret Quest (USA)|93C9EB47
+See Saw (Europe)|6C6C3249
+Sentinel (USA)|D457B245
+Shootin' Gallery (USA)|B89AFF8B
+Shooting Arcade (USA) (Proto)|6F6FB3D6
+Shuttle Orbiter (USA)|253D6396
+Sinistar (USA) (Proto)|8E81A2A4
+Sir Lancelot (USA)|EB792891
+Six Pack (USA) (Proto)|0748817D
+Skate Boardin' (USA)|6EE721F7
+Skeet Shoot (USA)|57D69B13
+Ski Hunt (Europe)|5DF00A09
+Ski Run (Europe)|E20A00B3
+Ski Run (USA)|D6634A09
+Skiing (USA)|35F80A22
+Skindiver (Europe)|9A98888C
+Sky Alien ~ Assault (Europe)|A23EAAC5
+Sky Diver ~ Dare Diver (USA)|00312EA9
+Sky Jinks (USA)|96F8CF59
+Sky Patrol (USA) (Proto)|A1ECDF0E
+Sky Skipper (USA)|CC6E0F22
+Slot Machine ~ Slots (USA)|CB378D95
+Slot Racers ~ Maze (USA)|177DBDF8
+Smurf - Rescue in Gargamel's Castle (USA)|E0624A7F
+Smurfs Save the Day (USA)|AD89C697
+Snail Against Squirrel (Europe)|5C5B9E1A
+Sneak 'n Peek (USA)|93B17C39
+Snoopy and the Red Baron (USA)|D1039967
+Snow White and the Seven Dwarfs (USA) (Proto)|38598A9A
+Solar Fox (USA)|D2CA6CE8
+Solar Storm (USA)|A970B3E3
+Solaris (USA)|2B87850E
+Sorcerer (USA)|C7734BE6
+Sorcerer's Apprentice (USA)|E5DBFED1
+Sound (USA, Europe) (Atari Anthology)|31372FB1
+Space Attack (USA)|B34A3E57
+Space Cavern (USA)|3B0FFD89
+Space Invaders (USA)|A6E867B3
+Space Jockey (USA)|AB24D73E
+Space Shuttle - A Journey into Space (USA)|DD210CF3
+Space Tunnel (USA)|1B62E1B8
+Space War ~ Space Combat (USA)|65622F2A
+Spacechase (USA)|2954D22D
+SpaceMaster X-7 (USA)|E554D7D0
+Spider Fighter (USA)|BF0941F6
+Spider Maze (USA)|FBC1911D
+Spider-Man (USA)|4DFEA848
+Spike's Peak (USA)|50EFEA8D
+Spinning Fireball (USA) (Proto)|FA40C6D3
+Spitfire Attack (USA)|093507D8
+Springer (USA)|DD183A4F
+Sprint Master (USA)|C495904E
+Spy Hunter (USA)|4F804E49
+Squeeze Box (USA)|D37F3FB3
+Squirrel ~ O Esquilo (USA)|AC2920EF
+Squoosh (USA) (Proto)|B4212ADB
+Sssnake (USA)|1B5B0212
+Stampede (USA)|740800F3
+Star Fox (USA)|915EC040
+Star Raiders (USA)|2AE193EE
+Star Ship ~ Outer Space (USA)|6609267E
+Star Strike (USA)|936A596D
+Star Trek - Strategic Operations Simulator (USA)|820EA8A2
+Star Voyager (USA)|4FE8477F
+Star Wars - Jedi Arena (USA)|9E36D347
+Star Wars - Return of the Jedi - Death Star Battle (USA)|0886A55D
+Star Wars - Return of the Jedi - Ewok Adventure (USA) (Proto)|939550E7
+Star Wars - The Arcade Game (USA)|65C31CA4
+Star Wars - The Empire Strikes Back (USA)|EE8C9A89
+Stargate (USA)|CDE3530E
+Stargunner (USA)|FCA9C17B
+StarMaster (USA)|25248B4B
+Steeplechase (Europe)|6AAD3F22
+Steeplechase (USA)|5F6C32C3
+Stellar Track (USA)|A76E93BF
+Stone Age (USA)|8BCDB222
+Strategy X (USA)|2AF91A81
+Strawberry Shortcake - Musical Match-Ups (USA)|FB29E31F
+Street Racer ~ Speedway II (USA)|47592880
+Stronghold (USA)|BB91FFA6
+Stunt Cycle (USA) (Proto)|6354FF4C
+Stunt Man (USA)|EA30CDD5
+Sub-Scan (USA)|5069D7DA
+Submarine Commander (USA)|3262960A
+Subterranea (USA)|2AB951F7
+Suicide Mission (USA)|B92C49E3
+Summer Games (USA)|B9CD3F86
+Super Baseball (USA)|C3704B73
+Super Baseball (USA, Europe) (Atari Anthology)|2245F170
+Super Breakout (USA)|B0F20D31
+Super Breakout (USA, Europe) (Atari Anthology)|171DBE92
+Super Challenge Baseball (USA)|F7E88EC2
+Super Challenge Football (USA)|55F02EFE
+Super Cobra (USA)|DE97103D
+Super Football (USA)|C9B16F3C
+Superman (USA)|AFD7317B
+Surf's Up (USA) (Proto)|0CFD04D9
+Surfer's Paradise - But Danger Below! (Europe)|8C68F2AE
+Surround ~ Chase (USA)|DCB11F23
+Survival Island (USA)|8AB91D6B
+Survival Run (USA)|8C0EEA30
+Survival Run (USA) (Proto)|8E888F3E
+Sweat! The Decathalon Game (USA)|F24B44E3
+Sword of Saros (USA)|D96A3632
+Swordfight (USA)|F1AD77BE
+SwordQuest - EarthWorld (USA)|9031A479
+SwordQuest - EarthWorld (USA, Europe) (Atari Anthology)|D5E21B79
+SwordQuest - FireWorld (USA)|6AE46A0C
+SwordQuest - WaterWorld (USA)|CA7B4685
+Tac-Scan (USA)|A2A42BEC
+Tank AI (USA, Europe)|A7CEEA56
+Tanks But no Tanks (USA)|4ADBB1F9
+Tapeworm (USA)|D63474B3
+Tapper (USA)|D28AFB2C
+Tax Avoiders (USA)|468D734C
+Taz (USA)|C9D7EC9B
+Telepathy (USA) (Proto)|A0996A0D
+Tempest (USA) (Proto)|711647F6
+Tempest (USA) (Proto) (Atari Anthology)|E6DABC1B
+Tennis (USA)|0A42515B
+Texas Chainsaw Massacre, The (USA)|EC389CAA
+Texas Chainsaw Massacre, The (USA) (Beta)|EA9A4268
+Threshold (USA)|CE5097FD
+Thunderground (USA)|9E67C699
+Thwocker (USA) (Proto)|B60AB310
+Time Pilot (USA)|21EE7DB4
+Time Warp (Europe)|551E2144
+Time Warp (USA)|E5BC054D
+Title Match Pro Wrestling (USA)|EF708C03
+Tomarc the Barbarian (USA)|B5B5AC84
+Tomcat - The F-14 Fighter Simulator (USA)|8987C473
+Tooth Protectors (USA)|FD8C81E5
+Towering Inferno (USA)|2C7B86B8
+Track and Field (USA)|21827056
+Treasure Below (Europe)|D2CEA797
+Treasure Island (Europe)|907F1D90
+Trick Shot (USA)|D1CE4634
+TRON - Deadly Discs (USA)|D35B22F9
+Tunnel de L'Espace, Le (Europe)|28BC5A4D
+Tunnel Runner (USA)|A02745F8
+Turbo (USA) (Proto)|50EB43D3
+Turmoil (USA)|8C65298A
+Tutankham (USA)|EC959BF2
+Universal Chaos (USA)|25EFA169
+Up 'n Down (USA)|C04C2B58
+Vanguard (USA)|C4BEC521
+Vault Assault (USA) (Unl)|856A6EFB
+Venetian Blinds Demo (USA)|1F0D3562
+Venture (USA)|85E0CA62
+Video Checkers ~ Checkers (USA)|3DF33335
+Video Chess (USA)|B6226A54
+Video Jogger (USA)|28FA8D77
+Video Life (USA)|34B0B5C2
+Video Olympics ~ Pong Sports (USA)|E4BC89C4
+Video Pinball ~ Arcade Pinball (USA)|10D95426
+Video Reflex (USA)|77B8B0D1
+Vogel Flieh (Europe)|1CA034CA
+Wabbit (USA)|2D07ED77
+Walker ~ Schussel, der Polizistenschreck (Europe)|DA8E49FB
+Wall Ball (USA)|9AC6A295
+Wall Break (Europe)|727408CD
+Wall-Defender (USA)|6841D2A7
+Warlords (USA)|CF174B57
+Warplock (USA)|6531D4E1
+Wing War (Europe)|CFEBEF9E
+Wings (USA) (Proto)|5E89B8AF
+Winter Games (USA)|DDFF6850
+Wizard (USA) (Proto)|A0BCC502
+Wizard of Wor (USA)|926F6F11
+Word Zapper (USA)|A11EEEAB
+Words-Attack (Europe) (Proto)|77975BAA
+World End (Europe)|DCC36508
+World End (USA)|9BE88ADA
+Worm War I (USA)|97B83A54
+X-Man (USA)|91659AF1
+Xenophobe (USA)|F875C406
+Xevious (USA) (1983-08-02) (Proto)|2EF09F4A
+Xevious (USA) (1984-01-18) (Proto)|F5802A6C,CX2695
+Yars' Revenge (USA)|DFA1C825
+Z-Tack (USA)|42A76F54
+Zaxxon (USA)|265AA87F
+Zoo Fun (USA)|C1DA05F6
+Zoo Keeper Sounds (USA) (Proto)|AE15C45D

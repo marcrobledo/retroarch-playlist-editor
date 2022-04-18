@@ -1,0 +1,9 @@
+<svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+<mask id="checkMask">
+	<!-- Everything under a white pixel will be visible -->
+	<rect x="0" y="0" width="16" height="16" fill="white" />
+	<!-- Everything under a black pixel will be invisible -->
+	<path stroke="black" stroke-width="2.5" fill="none" d="M 3.72,7.46 C 6.95,10.70 6.96,10.71 6.96,10.71 L 12.61,5.05"/>
+</mask>
+<rect x="0.975" y="0.975" width="14" height="14" rx="1.8" stroke="white" fill="white" stroke-width="1.95" mask="url(#checkMask)" />
+</svg>

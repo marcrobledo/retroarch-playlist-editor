@@ -1,0 +1,12 @@
+ndd,z64
+Dezaemon DD (Japan) (Proto)|07A920F7,DEZA
+F-Zero X - Expansion Kit (Japan)|78295A68,EFZJ
+Kyojin no Doshin (Japan)|14ACD221,DKDJ
+Mario Artist - Communication Kit (Japan)|3BF36EDA,DMBJ
+Mario Artist - Paint Studio (Japan)|B732C3AD,DMPJ
+Mario Artist - Paint Studio (Japan) (Beta) (1999-02-11)|5CB44F5D
+Mario Artist - Polygon Studio (Japan)|AC304109,DMGJ
+Mario Artist - Talent Studio (Japan)|649BBCB1,DMTJ
+Nintendo 64 Modem (Japan) (Add-on)|77D7B7E3,CMDJ
+SimCity 64 (Japan)|163456CA,DSCJ
+Super Mario 64 - Disk Version (Japan) (Proto)|11589525

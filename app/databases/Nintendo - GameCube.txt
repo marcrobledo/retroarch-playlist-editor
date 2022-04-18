@@ -1,0 +1,2843 @@
+iso,m3u,chd,gcz
+007 - Agent im Kreuzfeuer (Germany)|DL-DOL-GW7D-NOE,43C1D6A0
+007 - Agent Under Fire (Europe)|DL-DOL-GW7P-EUR,E3B90F14
+007 - Agent Under Fire (USA) (Rev 1)|DL-DOL-GW7E-USA,E9A1E1B2
+007 - Alles oder Nichts (Germany)|DL-DOL-GEND-NOE,DL-DOL-GEND-NOE-01,FC49C6BD
+007 - Bons Baisers de Russie (France)|DL-DOL-GLZF-FRA,AF7F5FAA
+007 - Espion pour Cible (France)|DL-DOL-GW7F-FRA,970521DE
+007 - Everything or Nothing (Europe) (En,It,Nl,Sv)|DL-DOL-GENP-EUR,F0356F22
+007 - Everything or Nothing (Japan)|DL-DOL-GENJ-JPN,GENJ13,6E9A34B3
+007 - Everything or Nothing (USA)|DL-DOL-GENE-USA,6C5E9AC5
+007 - From Russia with Love (Europe)|DL-DOL-GLZP-EUT,DL-DOL-GLZP-UKV,2002F5BA
+007 - From Russia with Love (USA)|DL-DOL-GLZE-USA,D2FD9A69
+007 - Liebesgruesse aus Moskau (Germany)|DL-DOL-GLZD-NOE,13B37CD3
+007 - Nightfire (Europe) (En,It,Nl,Sv)|DL-DOL-GO7P-EUR,A94B37E8
+007 - Nightfire (France)|DL-DOL-GO7F-FRA,72CA3F54
+007 - Nightfire (Germany)|DL-DOL-GO7D-NOE,DL-DOL-GO7D-NOE-01,1BFA78A6
+007 - Nightfire (Spain)|DL-DOL-GO7S-ESP,8FAD7F86
+007 - Nightfire (USA)|DL-DOL-GO7E-USA,737977CF
+007 - Quitte ou Double (France)|DL-DOL-GENF-FRA,43AE8049
+007 - Todo o Nada (Spain)|DL-DOL-GENS-ESP,8B9AF943
+007: Everything or Nothing (USA)|GENE69
+007: From Russia With Love (USA)|GLZE69
+007: NightFire (USA)|GO7E69
+1080 Avalanche (Europe) (En,Fr,De,Es,It)|DL-DOL-GTEP-EUR,32C98B7F
+1080 Avalanche (Korea)|DL-DOL-GTEW-KOR,DCCC98A2
+1080 Avalanche (USA)|DL-DOL-GTEE-USA-01,2C37CF08
+1080 Silver Storm (Japan)|DL-DOL-GTEJ-JPN,5E6C9506
+1080° Avalanche (Europe)|GTEP01
+1080° Avalanche (USA)|GTEE01
+1080° Silver Storm (Japan)|GTEJ01
+18 Wheeler - American Pro Trucker (Europe) (En,Fr,De,Es)|DL-DOL-GWEP-EUR,FA022ACD
+18 Wheeler - American Pro Trucker (Japan)|DL-DOL-GWEJ-JPN,AD289205
+18 Wheeler - American Pro Trucker (USA)|DL-DOL-GWEE-USA,F827AB43
+18 Wheeler American Pro Trucker (Europe)|GWEP8P
+18 Wheeler: American Pro Trucker (Japan)|GWEJB0
+18 Wheeler: American Pro Trucker (USA)|GWEE51
+2 Games in 1 - Bob L'eponge - Le Film + Tak 2 - Le Sceptre des Reves (France) (Disc 1) (Bob L'eponge - Le Film)|DL-DOL-GU3X-0-FAH,DL-DOL-GU3X-0-FAH-0,3CB489D7
+2 Games in 1 - Bob L'eponge - Le Film + Tak 2 - Le Sceptre des Reves (France) (Disc 2) (Tak 2 - Le Sceptre des Reves)|DL-DOL-GU3X-1-FAH,DL-DOL-GU3X-1-FAH-1,601795EE
+2 Games in 1 - Disney-Pixar Die Unglaublichen + Disney-Pixar Findet Nemo (Germany) (Disc 1)|DL-DOL-GU2D-0-NOE,DL-DOL-GU2D-0-NOE-0,30127B72
+2 Games in 1 - Disney-Pixar Die Unglaublichen + Disney-Pixar Findet Nemo (Germany) (Disc 2)|DL-DOL-GU2D-1-NOE,DL-DOL-GU2D-1-NOE-1,E5D67D74
+2 Games in 1 - Disney-Pixar Les Indestructibles + Disney-Pixar Le Monde de Nemo (France) (Disc 1) (Les Indestructibles)|DL-DOL-GU2F-0-FRA,DL-DOL-GU2F-0-FRA-0,6A6E66EE
+2 Games in 1 - Disney-Pixar Les Indestructibles + Disney-Pixar Le Monde de Nemo (France) (Disc 2) (Le Monde de Nemo)|DL-DOL-GU2F-1-FRA,DL-DOL-GU2F-1-FRA-1,F957EE96
+2 Games in 1 - Nickelodeon SpongeBob Schwammkopf - Der Film + Nickelodeon SpongeBob Schwammkopf - Schlacht um Bikini Bottom (Germany) (Disc 1)|DL-DOL-GU4Y-0-NOE,DL-DOL-GU4Y-0-NOE-0,977E170B
+2 Games in 1 - Nickelodeon SpongeBob Schwammkopf - Der Film + Nickelodeon SpongeBob Schwammkopf - Schlacht um Bikini Bottom (Germany) (Disc 2)|DL-DOL-GU4Y-1-NOE,DL-DOL-GU4Y-1-NOE-1,893397AE
+2 Games in 1 - Nickelodeon SpongeBob Schwammkopf - Der Film + Nickelodeon Tak 2 - Der Stab der Traeume (Germany) (Disc 1)|DL-DOL-GU3D-0-NOE,DL-DOL-GU3D-0-NOE-0,2F1904A8
+2 Games in 1 - Nickelodeon SpongeBob Schwammkopf - Der Film + Nickelodeon Tak 2 - Der Stab der Traeume (Germany) (Disc 2)|DL-DOL-GU3D-1-NOE,DL-DOL-GU3D-1-NOE-1,58E2C01D
+2 Games in 1: The Incredibles / Finding Nemo (Europe)|GU2D78,GU2F78
+2 Games in 1: The SpongeBob SquarePants Movie / Battle for Bikini Bottom (Europe)|GU4Y78
+2 Games in 1: The SpongeBob SquarePants Movie / Tak 2: The Staff of Dreams (Europe)|GU3D78,GU3X78
+2002 FIFA World Cup (Europe)|DL-DOL-GFSP-EUR,GFSD69,GFSF69,GFSP69,GFSX69,510C6864
+2002 FIFA World Cup (Europe) (Fr,Nl)|DL-DOL-GFSX-FAH,5980022F
+2002 FIFA World Cup (France)|DL-DOL-GFSF-FRA,F3DE87A7
+2002 FIFA World Cup (Germany)|DL-DOL-GFSD-NOE,3508278D
+2002 FIFA World Cup (Japan)|DL-DOL-GFIJ-JPN,GFIJ13,352435DE
+2002 FIFA World Cup (USA)|DL-DOL-GFIE-USA,GFIE69,0F793A29
+2006 FIFA World Cup (Europe)|G6FD69,G6FF69,G6FP69
+2006 FIFA World Cup (USA)|G6FE69
+4 Fantastiques, Les (France)|DL-DOL-GF4F-FRA,4C7BB703
+4x4 Evo 2 (USA)|DL-DOL-GE4E-USA,GE4E7D,9D473312
+Ace Golf (Europe)|GWGP4F
+Ace Golf (Europe) (En,Fr)|DL-DOL-GWGP-EUR,C4E54BEE
+Action Replay|DTLX01
+Aggressive Inline (Europe)|GILP51
+Aggressive Inline (Europe) (En,Fr,De,Es)|DL-DOL-GILP-EUR,BA889F64
+Aggressive Inline (USA)|DL-DOL-GILE-USA,GILE51,5D9F46F1
+Alien Hominid (USA)|DL-DOL-GAHE-USA,GAHEGG,D5371E2D
+All-Star Baseball 2002 (USA)|DL-DOL-GA2E-USA,GA2E51,B7A4726C
+All-Star Baseball 2003 (Japan)|GA3J51
+All-Star Baseball 2003 (USA)|GA3E51
+All-Star Baseball 2003 featuring Derek Jeter (Japan)|DL-DOL-GA3J-JPN,128E5B27
+All-Star Baseball 2003 featuring Derek Jeter (USA)|DL-DOL-GA3E-USA,3FA2CD5E
+All-Star Baseball 2004 (USA)|GA4E51
+All-Star Baseball 2004 featuring Derek Jeter (USA)|DL-DOL-GA4E-USA,5DD1CBE5
+Amazing Island (USA)|DL-DOL-GKAE-USA,GKAE8P,200F5305
+American Chopper 2 - Full Throttle (USA)|DL-DOL-GAPE-USA,GAPE52,569086D0
+Animal Crossing (Australia)|DL-DOL-GAFU-AUS,06CAA2EE
+Animal Crossing (Europe)|GAFP01,GAFU01
+Animal Crossing (Europe) (En,Fr,De,Es,It)|DL-DOL-GAFP-EUR,37B56050
+Animal Crossing (USA)|DL-DOL-GAFE-USA,GAFE01,7BE72542
+Animal Forest + (Japan)|GAFJ01
+Animaniacs - The Great Edgar Hunt (Europe) (En,Fr,De,Es,It)|DL-DOL-GANP-EUR,DL-DOL-GANP-UKV,F3EB5044
+Animaniacs - The Great Edgar Hunt (USA)|DL-DOL-GANE-USA,EFA60854
+Animaniacs: The Great Edgar Hunt (Europe)|GANP7U
+Animaniacs: The Great Edgar Hunt (USA)|GANE7U
+Ant Bully, The (USA) (En,Fr)|DL-DOL-GAXE-USA,82E88BC9
+Aquaman - Battle for Atlantis (USA)|DL-DOL-GAQE-USA,E3D04CB9
+Aquaman: Battle of Atlantis (USA)|GAQE6S
+Army Men - Air Combat - The Elite Missions (USA)|DL-DOL-GACE-USA,C7BDBCBA
+Army Men - RTS (USA)|DL-DOL-GARE-USA,98867BA8
+Army Men - Sarge's War (USA)|DL-DOL-GAME-USA,378153A0
+Army Men Sarge's War (USA)|GAME5H
+Army Men: Air Combat The Elite Missions (USA)|GACE5H
+Army Men: RTS (USA)|GARE5H
+Asterix & Obelix XXL (Europe)|GAGP70
+Asterix & Obelix XXL (Europe) (En,Fr,De,Es,It)|DL-DOL-GAGP-EUR,E1BBDE8F
+Atsumare!! Made in Wario (Japan)|DL-DOL-GZWJ-JPN,GZWJ01,E3338CA2
+ATV - Quad Power Racing 2 (Europe) (En,Fr,De,Es,It)|DL-DOL-GATP-EUR,D16161B8
+ATV - Quad Power Racing 2 (USA)|DL-DOL-GATE-USA,8AF3EED7
+ATV Quad Power Racing 2 (Europe)|GATP51
+ATV Quad Power Racing 2 (USA)|GATE51
+Auto Modellista (USA)|DL-DOL-GAUE-USA,GAUE08,AB80ECFB
+Auto Modellista - U.S.-tuned (Japan)|DL-DOL-GAUJ-JPN,FA116FDD
+Auto Modellista: U.S.-tuned (Japan)|GAUJ08
+Avatar The Last Airbender (USA)|GAVE78
+Avatar: The Legend of Aang (Europe)|GAVY78
+Backyard Baseball (USA)|DL-DOL-GBKE-USA,GBKE70,252D25EA
+Backyard Football (USA)|DL-DOL-GBFE-USA,GBFE70,A00EB5C8
+Backyard Sports - Baseball 2007 (USA)|DL-DOL-GA7E-USA,81D63AA4
+Backyard Sports Baseball 2007 (USA)|GA7E70
+Bad Boys - Miami Takedown (USA)|DL-DOL-GOBE-USA,1A5ADDAF
+Bad Boys II (Europe)|GOBP7N
+Bad Boys II (Europe) (En,Fr,De,Es,It)|DL-DOL-GOBP-EUR,A2286865
+Bad Boys: Miami Takedown (USA)|GOBE4Z
+Bakuten Shoot Beyblade 2002 - Nettou! Magne Tag Battle! (Japan)|DL-DOL-GBTJ-JPN,6CFC23FF
+Bakuten Shoot Beyblade 2002: Nettou! Magne Tag Battle (Japan)|GBTJA7
+Baldur's Gate - Dark Alliance (Europe) (Rev 1)|DL-DOL-GDEP-UKV,26225B33
+Baldur's Gate - Dark Alliance (France)|DL-DOL-GDEF-FRA,3C7DE362
+Baldur's Gate - Dark Alliance (Germany)|DL-DOL-GDED-NOE,35730D05
+Baldur's Gate - Dark Alliance (USA)|DL-DOL-GDEE-USA,D942D22A
+Baldur's Gate Dark Alliance (Europe)|GDED71,GDEP71
+Baldur's Gate: Dark Alliance (Europe)|GDEF71
+Baldur's Gate: Dark Alliance (USA)|GDEE71
+Barnyard (Europe)|GYAD78,GYAP78,GYAX78
+Barnyard (USA)|GYAE78
+Baseball 2003, The - Battle Ball Park Sengen Perfect Play Pro Yakyuu (Japan)|DL-DOL-GBPJ-JPN,E4592FF5
+Baten Kaitos - Eternal Wings and the Lost Ocean (Europe) (En,Fr,De,Es,It) (Disc 1)|DL-DOL-GKBP-0-EUR,DL-DOL-GKBP-0-EUR-0,33313506
+Baten Kaitos - Eternal Wings and the Lost Ocean (Europe) (En,Fr,De,Es,It) (Disc 2)|DL-DOL-GKBP-1-EUR,DL-DOL-GKBP-1-EUR-1,89CA97C6
+Baten Kaitos - Eternal Wings and the Lost Ocean (USA) (Disc 1)|DL-DOL-GKBE-0-USA,DL-DOL-GKBE-0-USA-0,045B4A8D
+Baten Kaitos - Eternal Wings and the Lost Ocean (USA) (Disc 2)|DL-DOL-GKBE-1-USA,DL-DOL-GKBE-1-USA-1,C5CF7B30
+Baten Kaitos - Owaranai Tsubasa to Ushinawareta Umi (Japan) (Disc 1)|DL-DOL-GKBJ-0-JPN,DL-DOL-GKBJ-0-JPN-0,1E35CABF
+Baten Kaitos - Owaranai Tsubasa to Ushinawareta Umi (Japan) (Disc 2)|DL-DOL-GKBJ-1-JPN,DL-DOL-GKBJ-1-JPN-1,97F827DD
+Baten Kaitos - Owaranai Tsubasa to Ushinawareta Umi (Japan) (Special Taiken Disc)|DL-DOL-D66J-DIS,E5643FC5
+Baten Kaitos Eternal Wings and the Lost Ocean (USA)|GKBEAF
+Baten Kaitos II - Hajimari no Tsubasa to Kamigami no Shishi (Japan) (Disc 1) (Rev 2)|DL-DOL-GK4J-0-JPN,DL-DOL-GK4J-0-JPN-0,225424B7
+Baten Kaitos II - Hajimari no Tsubasa to Kamigami no Shishi (Japan) (Disc 2) (Rev 2)|DL-DOL-GK4J-1-JPN,DL-DOL-GK4J-1-JPN-1,20EE6E34
+Baten Kaitos II: Hajimari no Tsubasa to Kamigami no Shishi (Japan)|GK4J01
+Baten Kaitos Origins (USA)|GK4E01
+Baten Kaitos Origins (USA) (Disc 1)|DL-DOL-GK4E-0-USA,DL-DOL-GK4E-0-USA-0,ADF9FCB3
+Baten Kaitos Origins (USA) (Disc 2)|DL-DOL-GK4E-1-USA,DL-DOL-GK4E-1-USA-1,B835FE56
+Baten Kaitos: Eternal Wings and the Lost Ocean (Europe)|GKBPAF
+Baten Kaitos: Eternal Wings and the Lost Ocean - Special Experience Disc (Japan)|D66JAF
+Baten Kaitos: Owaranai Tsubasa to Ushinawareta Umi (Japan)|GKBJAF
+Batman - Dark Tomorrow (Europe) (En,Fr,De,Es,It) (Rev 1)|DL-DOL-GBMP-EUR,67E11667
+Batman - Dark Tomorrow (Japan)|DL-DOL-GBMJ-JPN,E46515F8
+Batman - Dark Tomorrow (USA) (Rev 1)|DL-DOL-GBME-USA,C30991FA
+Batman - Rise of Sin Tzu (Europe) (En,Fr,De,Es,It)|DL-DOL-GUZP-EUR,A640902D
+Batman - Rise of Sin Tzu (USA) (En,Fr,Es)|DL-DOL-GUZE-USA,E9A1B02C
+Batman - Vengeance (Europe) (En,Fr,De,Es,It)|DL-DOL-GBVP-EUR,66ACEF15
+Batman - Vengeance (USA) (En,Fr,Es)|DL-DOL-GBVE-USA,E566702E
+Batman Begins (Europe)|GINX69
+Batman Begins (Europe) (En,Fr,De,Es,Nl)|DL-DOL-GINX-EUR,DL-DOL-GINX-UKV,02018D7B
+Batman Begins (USA)|DL-DOL-GINE-USA,GINE69,1201B031
+Batman Rise of Sin Tzu (Europe)|GUZP41
+Batman Vengeance (Europe)|GBVP41
+Batman: Dark Tomorrow (Europe)|GBMP7F
+Batman: Dark Tomorrow (Japan)|GBMJ28
+Batman: Dark Tomorrow (USA)|GBME7F
+Batman: Rise of Sin Tzu (USA)|GUZE41
+Batman: Vengeance (USA)|GBVE41
+Battalion Wars (Europe)|G8WP01
+Battalion Wars (Europe) (En,Fr,De,Es,It)|DL-DOL-G8WP-EUR,8910AB71
+Battalion Wars (USA)|DL-DOL-G8WE-USA,G8WE01,F697E65A
+Battle Houshin (Japan)|DL-DOL-GBHJ-JPN,GBHJC8,192601B2
+Battle Stadium D.O.N (Japan)|DL-DOL-G8SJ-JPN,G8SJAF,B86CBA75
+Beach Spikers - Virtua Beach Volleyball (Europe) (En,Fr,De,Es,It)|DL-DOL-GBSP-EUR,35D1D351
+Beach Spikers - Virtua Beach Volleyball (Japan) (Rev 1)|DL-DOL-GBSJ-JPN,A71E628A
+Beach Spikers - Virtua Beach Volleyball (Japan) (Taikenban)|DL-DOL-DBSJ-DIS,E90CBB5B
+Beach Spikers - Virtua Beach Volleyball (USA)|DL-DOL-GBSE-USA,7BD812C3
+Beach Spikers: Virtua Beach Volleyball (Europe)|GBSP8P
+Beach Spikers: Virtua Beach Volleyball (Japan)|GBSJ8P
+Beach Spikers: Virtua Beach Volleyball (USA)|GBSE8P
+Beyblade VForce - Super Tournament Battle (Europe)|GBTP70
+Beyblade VForce - Super Tournament Battle (Europe) (En,Fr,De,Es,It)|DL-DOL-GBTP-EUR,2BEA03A0
+Beyblade VForce - Super Tournament Battle (USA)|DL-DOL-GBTE-USA,GBTE70,1474062C
+Beyond Good & Evil (Europe)|GGEP41,GGEX41,GGEY41
+Beyond Good & Evil (Europe) (De,It)|DL-DOL-GGEX-EUU,4BC001E0
+Beyond Good & Evil (Europe) (En,Es)|DL-DOL-GGEP-EUR,469F7FE8
+Beyond Good & Evil (Europe) (Fr,Nl)|DL-DOL-GGEY-FAH,4D4A10FE
+Beyond Good & Evil (USA)|GGEE41
+Beyond Good & Evil (USA) (En,Es)|DL-DOL-GGEE-USA,0D246034
+Big Air Freestyle (Europe)|GMRP70
+Big Air Freestyle (Europe) (En,Fr,De,Es,It)|DL-DOL-GMRP-EUR,ACA384D7
+Big Air Freestyle (USA)|DL-DOL-GMRE-USA,GMRE70,3FBEFC7C
+Big Mutha Truckers (Europe)|GT8P7N
+Big Mutha Truckers (Europe) (En,Fr,De,Es,It)|DL-DOL-GT8P-EUR,11FF3E59
+Big Mutha Truckers (USA)|DL-DOL-GT8E-USA,GT8E78,5A141367
+Billy Hatcher and the Giant Egg (Demo) (Europe)|DEZP8P
+Billy Hatcher and the Giant Egg (Europe)|GEZP8P
+Billy Hatcher and the Giant Egg (Europe) (Demo)|DL-DOL-DEZP-EUR,097DA801
+Billy Hatcher and the Giant Egg (Europe) (En,Ja,Fr,De,Es,It)|DL-DOL-GEZP-EUR,CA8761D7
+Billy Hatcher and the Giant Egg (Japan)|GEGJ8P
+Billy Hatcher and the Giant Egg (USA)|DL-DOL-GEZE-USA,GEZE8P,894DDFF0
+Biohazard (Japan)|GBIJ08
+Biohazard (Japan) (Disc 1)|DL-DOL-GBIJ-0-JPN,DL-DOL-GBIJ-0-JPN-0,15108252
+Biohazard (Japan) (Disc 2)|DL-DOL-GBIJ-1-JPN,DL-DOL-GBIJ-1-JPN-1,99C1D130
+Biohazard (Japan) (Movie Demo Disc)|DL-DOL-DBIJ-DIS,194081B1
+Biohazard (Japan) (Tokubetsu-ban)|DL-DOL-DBJJ-DIS,4435E4BF
+Biohazard - Code - Veronica - Kanzenban (Japan) (Disc 1)|DL-DOL-GCDJ-0-JPN,DL-DOL-GCDJ-0-JPN-0,2D513956
+Biohazard - Code - Veronica - Kanzenban (Japan) (Disc 2)|DL-DOL-GCDJ-1-JPN,DL-DOL-GCDJ-1-JPN-1,5A30D35B
+Biohazard - Movie Demo Disc (Japan)|DBIJ08
+Biohazard 0 (Japan)|GBZJ08
+Biohazard 2 (Japan)|DL-DOL-GHAJ-JPN,GHAJ08,98616697
+Biohazard 3 - Last Escape (Japan)|DL-DOL-GLEJ-JPN,414AACC2
+BioHazard 3: Last Escape (Japan)|GLEJ08
+Biohazard 4 (Demo) (Japan)|P4BJ08
+Biohazard 4 (Japan)|G4BJ08
+Biohazard 4 (Japan) (Disc 1)|DL-DOL-G4BJ-0-JPN,DL-DOL-G4BJ-0-JPN-0,561A7D27
+Biohazard 4 (Japan) (Disc 2)|DL-DOL-G4BJ-1-JPN,DL-DOL-G4BJ-1-JPN-1,F2174AA9
+Biohazard 4 (Japan) (Taikenban)|DL-DOL-P4BJ-JPN,496E2B76
+Biohazard Code: Veronica Complete (Japan)|GCDJ08
+Biohazard Zero (Japan) (Disc 1)|DL-DOL-GBZJ-0-JPN,DL-DOL-GBZJ-0-JPN-0,EEEE4E93
+Biohazard Zero (Japan) (Disc 2)|DL-DOL-GBZJ-1-JPN,DL-DOL-GBZJ-1-JPN-1,FB5B204A
+Biohazard Zero - Trial Edition (Japan)|DL-DOL-DBZJ-DIS,C089501E
+Biohazard Zero: Trial Edition (Japan)|DBZJ08
+Biohazard: Special Edition (Demo) (Japan)|DBJJ08
+Bionicle (Europe)|GVOP69
+Bionicle (Europe) (En,Fr,De,Es,It,Da)|DL-DOL-GVOP-EUR,DL-DOL-GVOP-NOE,B2B57C1C
+Bionicle (USA)|DL-DOL-GVOE-USA,GVOE69,3A2944D5
+Bionicle Heroes (USA)|GVHE4F
+Bionicle Heroes (USA) (Rev 1)|DL-DOL-GVHE-USA,A9AD9601
+Black & Bruised (Europe)|G2BP7D
+Black & Bruised (Europe) (En,Fr,De)|DL-DOL-G2BP-EUR,D28DEDBC
+Black & Bruised (USA)|DL-DOL-G2BE-USA,G2BE5G,73C2BBB8
+Bleach GC - Tasogare ni Mamieru Shinigami (Japan)|DL-DOL-GIGJ-JPN,C586CF28
+Bleach GC: Tasogare Ni Mamieru Shinigami (Japan)|GIGJ8P
+Blood Omen 2 - The Legacy of Kain Series (Europe)|DL-DOL-GO2P-EUR,D6983B59
+Blood Omen 2 - The Legacy of Kain Series (France)|DL-DOL-GO2F-FRA,5BAB6A3B
+Blood Omen 2 - The Legacy of Kain Series (Germany)|DL-DOL-GO2D-NOE,68BB4D6E
+Blood Omen 2 - The Legacy of Kain Series (USA)|DL-DOL-GO2E-USA,5DDED798
+Blood Omen 2: The Legacy of Kain Series (Europe)|GO2D4F,GO2F4F,GO2P4F
+Blood Omen 2: The Legacy of Kain Series (USA)|GO2E4F
+BloodRayne (Europe)|DL-DOL-GBDP-UKV,GBDF7D,GBDP7D,GBDS7D,6D9F7B7B
+BloodRayne (France)|DL-DOL-GBDF-FRA,AC9C713F
+BloodRayne (Spain)|DL-DOL-GBDS-ESP,45A67C7C
+BloodRayne (USA)|DL-DOL-GBDE-USA,GBDE5G,EDA1FD05
+Bloody Roar - Extreme (Japan)|DL-DOL-GBRJ-JPN,9EBECF47
+Bloody Roar - Primal Fury (Europe)|DL-DOL-GBLP-EUR,99EC3ADC
+Bloody Roar - Primal Fury (USA)|DL-DOL-GBLE-USA,677C5C12
+Bloody Roar Extreme (Japan)|GBRJ18
+Bloody Roar: Primal Fury (Europe)|GBLP52
+Bloody Roar: Primal Fury (USA)|GBLE52
+Blowout (USA)|DL-DOL-GWOE-USA,GWOE5G,5C683D53
+BMX XXX (Europe)|GB3P51
+BMX XXX (Europe) (En,Fr,De,Es)|DL-DOL-GB3P-EUR,FB96B569
+BMX XXX (USA)|DL-DOL-GB3E-USA,GB3E51,E84D9BD6
+Bobobo-bo Bo-bobo Dassutsu! Hajike Royale (Japan)|G8OJ18
+Boboboubo Boubobo - Dasshutsu!! Hajike Royale (Japan)|DL-DOL-G8OJ-JPN,FE7AF832
+Bokujou Monogatari - Shiawase no Uta (Japan)|G4AJ99
+Bokujou Monogatari - Shiawase no Uta (Japan) (Rev 1)|DL-DOL-G4AJ-JPN,C79DE776
+Bokujou Monogatari - Shiawase no Uta for World (Japan)|DL-DOL-G4WJ-JPN,G4WJ99,DFAD36D4
+Bokujou Monogatari - Wonderful Life (Japan) (Rev 1)|DL-DOL-GYWJ-JPN,41BBCD6E
+Bokujou Monogatari - Wonderful Life for Girl (Japan)|DL-DOL-G4GJ-JPN,49F6AC56
+Bokujou Monogatari - Wonderful Life for Girls (Japan)|G4GJ99
+Bokujou Monogatari: Wonderful Life (Japan)|GYWJ99
+Bomberman Generation (Europe)|GBGP7D
+Bomberman Generation (Europe) (En,Fr,De)|DL-DOL-GBGP-EUR,D46FAFF3
+Bomberman Generation (Japan)|DL-DOL-GBGJ-JPN,GBGJ18,B4C2505D
+Bomberman Generation (USA)|GBGE5G
+Bomberman Generation (USA) (Rev 1)|DL-DOL-GBGE-USA,14CA15D0
+Bomberman Jetters (Japan)|DL-DOL-GJBJ-JPN,GJBJ18,CD233D37
+Bomberman Jetters (USA)|DL-DOL-GJBE-USA,GJBE18,GJBE5G,A1389149
+Bomberman Land 2 (Japan)|DL-DOL-GB2J-JPN,GB2J18,37A12B37
+Bratz - Forever Diamondz (Europe) (En,Fr)|DL-DOL-GVDP-UKV,5AA84E06
+Bratz - Forever Diamondz (USA)|DL-DOL-GVDE-USA,D6452C30
+Bratz - Rock Angelz (Europe)|DL-DOL-GR6P-UKV,52D2054C
+Bratz - Rock Angelz (France)|DL-DOL-GR6F-FRA,C7C89409
+Bratz - Rock Angelz (Germany)|DL-DOL-GR6D-NOE,7218D1AB
+Bratz - Rock Angelz (USA)|DL-DOL-GR6E-USA,DEFE192A
+Bratz Forever Diamondz (Europe)|GVDP78
+Bratz Forever Diamondz (USA)|GVDE78
+Bratz: Rock Angelz (Europe)|GR6D78,GR6F78,GR6P78
+Bratz: Rock Angelz (USA)|GR6E78
+Buffy contre les Vampires - Chaos Bleeds (France)|DL-DOL-GCQF-FRA,BEDAAC80
+Buffy im Bann der Daemonen - Chaos Bleeds (Germany)|DL-DOL-GCQD-NOE,388C65D2
+Buffy the Vampire Slayer - Chaos Bleeds (Europe)|DL-DOL-GCQP-UKV,46E25097
+Buffy the Vampire Slayer - Chaos Bleeds (USA)|DL-DOL-GCQE-USA,E81553BD
+Buffy The Vampire Slayer Chaos Bleeds (Europe)|GCQD7D,GCQF7D,GCQP7D
+Buffy the Vampire Slayer: Chaos Bleeds (USA)|GCQE7D
+Burnout (Europe)|GBOP51
+Burnout (Europe) (En,Fr,De,Es,It)|DL-DOL-GBOP-EUR,34FE6355
+Burnout (USA)|DL-DOL-GBOE-USA,GBOE51,B1A16069
+Burnout 2 - Point of Impact (Europe) (En,Fr,De,Es,It)|DL-DOL-GB4P-EUR,BCCFE680
+Burnout 2 - Point of Impact (USA)|DL-DOL-GB4E-USA,58BE54D3
+Burnout 2: Point of Impact (Europe)|GB4P51
+Burnout 2: Point of Impact (USA)|GB4E51
+Bust-A-Move 3000 (USA)|DL-DOL-G3SE-USA,G3SE41,A612CB3C
+Butt-Ugly Martians - Zoom or Doom! (Europe) (En,Fr,De,Es,It)|DL-DOL-GZMP-EUR,6D8D3BD4
+Butt-Ugly Martians Zoom or Doom (Europe)|GZMP7D
+Cabela's Big Game Hunter 2005 (USA)|GG5E52
+Cabela's Big Game Hunter 2005 Adventures (USA)|DL-DOL-GG5E-USA,5BCF4946
+Cabela's Dangerous Hunts 2 (USA)|DL-DOL-GVKE-USA,GVKE52,F389716C
+Cabela's Outdoor Adventures (USA)|DL-DOL-GOAE-USA,GOAE52,4B9E0CB2
+Call of Duty - Finest Hour (Europe)|DL-DOL-GCOP-EUR,47920848
+Call of Duty - Finest Hour (France)|DL-DOL-GCOF-FRA,14093CCF
+Call of Duty - Finest Hour (Germany)|DL-DOL-GCOD-NOE,D3ABFB57
+Call of Duty - Finest Hour (USA)|DL-DOL-GCOE-USA,23F77E19
+Call of Duty 2 - Big Red One (Europe)|DL-DOL-GQCP-EUR,11D6B1F0
+Call of Duty 2 - Big Red One (France)|DL-DOL-GQCF-FRA,DD77B4CC
+Call of Duty 2 - Big Red One (Germany)|DL-DOL-GQCD-NOE,EC60E3B5
+Call of Duty 2 - Big Red One (Italy)|DL-DOL-GQCI-ITA,177F8B36
+Call of Duty 2 - Big Red One (Spain)|DL-DOL-GQCS-ESP,84EC74B5
+Call of Duty 2 - Big Red One (USA)|DL-DOL-GQCE-USA,F6C12C86
+Call of Duty 2: Big Red One (Europe)|GQCD52,GQCF52,GQCI52,GQCP52,GQCS52
+Call of Duty 2: Big Red One (USA)|GQCE52
+Call of Duty: Finest Hour (Europe)|GCOD52,GCOF52,GCOP52
+Call of Duty: Finest Hour (USA)|GCOE52
+Capcom vs. SNK 2 EO (Japan) (Rev 1)|DL-DOL-GEOJ-JPN,B2C307E1
+Capcom vs. SNK 2 EO (Japan) (Tentou Taikenban)|DL-DOL-DEOJ-DIS,FFF31CF8
+Capcom vs. SNK 2 EO (USA)|DL-DOL-GEOE-USA,GEOE08,5F03B7D8
+Capcom vs. SNK 2 EO - Millionaire Fighting 2001 (Europe)|DL-DOL-GEOP-EUR,FF84C3D3
+Capcom vs. SNK 2 EO: Millionaire Fighting 2001 (Europe)|GEOP08
+Capcom vs. SNK 2 EO: Millionaire Fighting 2001 (Japan)|GEOJ08
+Captain Tsubasa - Ougon Sedai no Chousen (Japan) (Rev 1)|DL-DOL-GKTJ-JPN,1743BB98
+Captain Tsubasa: Ougon Sedai no Chousen (Japan)|GKTJA4
+Carmen Sandiego - The Secret of the Stolen Drums (Europe) (De,Es)|DL-DOL-G3DX-EUR,9BC4436E
+Carmen Sandiego - The Secret of the Stolen Drums (Europe) (En,Fr)|DL-DOL-G3DP-EUR,5C63CDD1
+Carmen Sandiego - The Secret of the Stolen Drums (USA) (En,Fr)|DL-DOL-G3DE-USA,EE1DAB3F
+Carmen Sandiego: The Secret of the Stolen Drums (Europe)|G3DP6L,G3DX6L
+Carmen Sandiego: The Secret of the Stolen Drums (USA)|G3DE6L
+Cars (Europe)|GKJD78,GKJF78,GKJH78,GKJP78,GKJS78
+Cars (Japan)|GKJJ78
+Cars (USA)|GKJE78
+Casper - Spirit Dimensions (Europe) (En,Fr,De,Es,It)|DL-DOL-GCPP-EUR,3CAF68B2
+Casper - Spirit Dimensions (USA)|DL-DOL-GCPE-USA,AFAE94CD
+Casper: Spirit Dimensions (Europe)|GCPP6S
+Casper: Spirit Dimensions (USA)|GCPE6S
+Castleween (Europe)|GCWP6X
+Castleween (Europe) (En,Fr,De,Es,It)|DL-DOL-GCWP-EUR,DL-DOL-GCWP-NOE,363AFCFB
+Catwoman (Europe)|GCZP69
+Catwoman (Europe) (En,Fr,De,Es,It,Nl)|DL-DOL-GCZP-EUR,CB9EB3FA
+Catwoman (USA)|DL-DOL-GCZE-USA,GCZE69,210C61E4
+Cel Damage (Europe)|DL-DOL-GCLP-EUR,GCLP69,53528776
+Cel Damage (USA)|DL-DOL-GCLE-USA,GCLE69,C2D8F5AA
+Chaos Field (USA)|DL-DOL-GKFE-USA,GKFEGG,00A68227
+Chaos Field Expanded (Japan)|GKFJ8P,GKFJMS
+Chaos Field Expanded (Japan) (Rev 2)|DL-DOL-GKFJ-JPN,C2B02EFD
+Charinko Hero (Japan)|GTHJD9
+Charinko Hero (Japan) (Rev 1)|DL-DOL-GTHJ-JPN,B558797D
+Charlie and the Chocolate Factory (Europe)|G4CP54
+Charlie and the Chocolate Factory (Europe) (En,Fr,Es,Nl)|DL-DOL-G4CP-EUR,ACA26A5F
+Charlie and the Chocolate Factory (USA)|DL-DOL-G4CE-USA,G4CE54,6C712650
+Charlie's Angels (Europe)|GCGP41
+Charlie's Angels (Europe) (En,Fr,De)|DL-DOL-GCGP-EUR,020FEB8E
+Charlie's Angels (USA)|GCGE41
+Charlie's Angels (USA) (En,Fr)|DL-DOL-GCGE-USA,E51AA467
+Chibi-Robo! (Europe)|GGTP01
+Chibi-Robo! (Europe) (En,Fr,De,Es,It)|DL-DOL-GGTP-EUR,88080C8F
+Chibi-Robo! (Japan)|GGTJ01
+Chibi-Robo! (USA)|GGTE01
+Chibi-Robo! Plug into Adventure! (USA)|DL-DOL-GGTE-USA,DB4C3C85
+ChibiRobo! (Japan) (Rev 1)|DL-DOL-GGTJ-JPN,D3A3126F
+Chicken Little (Europe)|GHCD4Q,GHCF4Q,GHCP4Q
+Chicken Little (Japan)|GHCJG9
+Chicken Little (USA)|GHCE4Q
+Choro Q! (Japan)|DL-DOL-GQAJ-JPN,GQAJA7,986E00EB
+Chronicles of Narnia, The - The Lion, the Witch and the Wardrobe (Europe)|DL-DOL-GLVP-UKV,AD622E09
+Chronicles of Narnia, The - The Lion, the Witch and the Wardrobe (USA)|DL-DOL-GLVE-USA,1BF8A4CE
+Chroniken von Narnia, Die - Der Koenig von Narnia (Germany)|DL-DOL-GLVD-NOE,18535D7F
+City Racer (USA)|DL-DOL-GRQE-USA,GRQE41,BCF7B772
+Club Nintendo Original e-Catalog 2004 (Japan)|D89J01,DL-DOL-D89J-DIS,643E910F
+Cocoto Funfair (Europe)|GOUPNK
+Cocoto Funfair (Europe) (En,Fr,De,Es,It)|DL-DOL-GOUP-EUR,0F06B965
+Cocoto Kart Racer (Europe) (En,Fr,De,Es,It)|DL-DOL-GC5P-EUR,2600E2C1
+Cocoto Platform Jumper (Europe)|GC7PNK
+Cocoto Platform Jumper (Europe) (En,Fr,De,Es,It)|DL-DOL-GC7P-EUR,D244CC6B
+Cocoto: Kart Racer (Europe)|GC5PNK
+Codename - Kids Next Door - Operation - V.I.D.E.O.G.A.M.E. (Europe)|DL-DOL-GKZP-UKV,DE4EB118
+Codename - Kids Next Door - Operation - V.I.D.E.O.G.A.M.E. (USA)|DL-DOL-GKZE-USA,1B596FBD
+Codename - Kids Next Door - Operation - V.I.D.E.O.S.P.I.E.L. (Germany)|DL-DOL-GKZD-NOE,D9393C54
+Codename Kids Next Door - Operation V.I.D.E.O.G.A.M.E (Europe)|GKZP54
+Codename Kids Next Door - Operation V.I.D.E.O.G.A.M.E (USA)|GKZE9G
+Codename: Kids Next Door - Operation: V.I.D.E.O.G.A.M.E. (Europe)|GKZD54
+Conan (Europe)|GC9P6S
+Conan (Europe) (En,Fr,De,Es,It) (Disc 1)|DL-DOL-GC9P-0-EUR,DL-DOL-GC9P-0-EUR-0,308B036B
+Conan (Europe) (En,Fr,De,Es,It) (Disc 2)|DL-DOL-GC9P-1-EUR,DL-DOL-GC9P-1-EUR-1,86238EF4
+Conflict - Desert Storm (Europe) (En,Fr,De,Es,It)|DL-DOL-GCFP-EUR,981B490B
+Conflict - Desert Storm (USA) (Rev 1)|DL-DOL-GCFE-USA,F8ABEF1F
+Conflict - Desert Storm II (Europe) (En,Fr,De,Es,It)|DL-DOL-GC2P-EUR-01,97B5DE11
+Conflict - Desert Storm II - Back to Baghdad (USA)|DL-DOL-GC2E-USA,0EEB2191
+Conflict: Desert Storm (Europe)|GCFP75
+Conflict: Desert Storm (USA)|GCFE9G
+Conflict: Desert Storm II: Back to Baghdad (Europe)|GC2P75
+Conflict: Desert Storm II: Back to Baghdad (USA)|GC2E9G
+Crash Bandicoot - Bakusou! Nitro Kart (Japan)|DL-DOL-GC8J-JPN,3AF534B9
+Crash Bandicoot - Gatchanko World (Japan)|DL-DOL-G9RJ-JPN,B0ACBB9D
+Crash Bandicoot - The Wrath of Cortex (Europe) (En,Fr,De,Es,It,Nl)|DL-DOL-GCBP-EUR,148178ED
+Crash Bandicoot - The Wrath of Cortex (Europe) (En,Fr,De,Es,It,Nl) (Rev 1)|DL-DOL-GCBP-EUR-01,4C383054
+Crash Bandicoot - The Wrath of Cortex (USA)|DL-DOL-GCBE-USA,ADCC7698
+Crash Bandicoot 4 - Sakuretsu! Majin Power (Japan)|DL-DOL-GCBJ-JPN,B7F7E3BC
+Crash Bandicoot 4: Sakuretsu! Majin Power (Japan)|GCBJA4
+Crash Bandicoot Gacchanko World (Japan)|G9RJ7D
+Crash Bandicoot: Bakusou! Nitro Kart (Japan)|GC8JA4
+Crash Bandicoot: The Wrath of Cortex (Europe)|GCBP7D
+Crash Bandicoot: The Wrath of Cortex (USA)|GCBE7D
+Crash Nitro Kart (Europe)|DL-DOL-GCNP-EUR,DL-DOL-GCNP-UKV,GCNP7D,0C6080C9
+Crash Nitro Kart (USA)|DL-DOL-GCNE-USA,GCNE7D,D172937B
+Crash Tag Team Racing (Europe)|G9RD7D,G9RF7D,G9RH7D,G9RP7D
+Crash Tag Team Racing (Europe, Australia)|DL-DOL-G9RP-AUS,DL-DOL-G9RP-UKV,30016797
+Crash Tag Team Racing (France)|DL-DOL-G9RF-FRA,5D694E8D
+Crash Tag Team Racing (Germany)|DL-DOL-G9RD-NOE,B90D3D2C
+Crash Tag Team Racing (Netherlands)|DL-DOL-G9RH-HOL,3BC2A113
+Crash Tag Team Racing (USA)|DL-DOL-G9RE-USA,G9RE7D,FB527D10
+Crazy Taxi (Europe)|GCTP51
+Crazy Taxi (Europe) (En,Fr,De,Es)|DL-DOL-GCTP-EUR,7F951E48
+Crazy Taxi (Japan)|DL-DOL-GCTJ-JPN,GCTJ8P,647F948D
+Crazy Taxi (USA)|DL-DOL-GCTE-USA,GCTE51,6CEF11A9
+Croket Banking no Kikiwosukue (Japan)|GK6JA4
+Croket! Ban-King no Kiki o Sukue (Japan) (Rev 1)|DL-DOL-GK6J-JPN,9BA1D8B0
+Cubivore - Survival of the Fittest (USA)|DL-DOL-GCVE-USA,0B2E2939
+Cubivore: Survival of the Fittest (USA)|GCVEEB
+Cubix Robots for Everyone - Showdown (USA)|DL-DOL-GCAE-USA,F4B0546E
+Cubix: Robots for Everyone Showdown (USA)|GCAE5H
+Curious George (USA)|DL-DOL-G3JE-USA,G3JEAF,76119441
+Custom Robo (USA)|DL-DOL-GXCE-USA,GXCE01,C450109C
+Custom Robo - Battle Revolution (Japan)|DL-DOL-GXCJ-JPN,4DF76B35
+Custom Robo: Battle Revolution (Japan)|GXCJ01
+Dabi Tsuku 3 - Derby-ba o Tsukurou! (Japan)|DL-DOL-G3TJ-JPN,1FA08988
+Dairantou Smash Brothers DX (Demo) (Japan)|DALJ01
+Dairantou Smash Brothers DX (Japan)|GALJ01
+Dairantou Smash Brothers DX (Japan) (En,Ja) (Rev 2)|DL-DOL-GALJ-JPN,85F37345
+Dairantou Smash Brothers DX (Japan) (Taikenban)|DL-DOL-DALJ-DIS,D8954DAE
+Dakar 2 (Europe) (En,Fr,De,Es,It)|DL-DOL-GPDP-EUR,010D1982
+Dakar 2 - The World's Ultimate Rally (USA) (En,Fr,De,Es,It)|DL-DOL-GPDE-USA,FD421F87
+Dakar 2: The World's Ultimate Rally (Europe)|GPDP51
+Dakar 2: The World's Ultimate Rally (USA)|GPDE51
+Dance Dance Revolution - Mario Mix (USA) (Rev 1)|DL-DOL-GWZE-USA,B6AC6014
+Dance Dance Revolution with Mario (Japan)|DL-DOL-GWZJ-JPN,416CBC19
+Dance Dance Revolution: Mario Mix (Japan)|GWZJ01
+Dance Dance Revolution: Mario Mix (USA)|GWZE01
+Dancing Stage Mario Mix (Europe)|GWZP01
+Dancing Stage Mario Mix (Europe) (En,Fr,De,Es,It)|DL-DOL-GWZP-EUR,AD8AB59A
+Dark Summit (Europe)|GDSP78
+Dark Summit (Europe) (En,Fr,De)|DL-DOL-GDSP-EUR,73A6DC10
+Dark Summit (USA)|DL-DOL-GDSE-USA,GDSE78,7CC1BF12
+Darkened Skye (Europe)|GDQP6S
+Darkened Skye (Europe) (En,Fr,De)|DL-DOL-GDQP-EUR-01,13827F09
+Darkened Skye (USA)|DL-DOL-GDQE-USA,GDQE7L,086F3589
+Dave Mirra Freestyle BMX 2 (Europe)|DL-DOL-GBXP-EUR,GBXP51,F9BA4E10
+Dave Mirra Freestyle BMX 2 (USA)|DL-DOL-GBXE-USA,GBXE51,528BB8E8
+Dead to Rights (Europe)|GDRP69
+Dead to Rights (Europe) (En,Fr,Es,It)|DL-DOL-GDRP-EUR,CE19D0CA
+Dead to Rights (USA)|DL-DOL-GDRE-USA,GDREAF,F5EA2ABF
+Def Jam - Fight for NY (Europe) (En,Fr)|DL-DOL-GNWP-EUR,DL-DOL-GNWP-NOE,6C3BF428
+Def Jam - Fight for NY (USA)|DL-DOL-GNWE-USA,6B67D4D7
+Def Jam - Vendetta (Europe)|DL-DOL-GDTP-NOE,DL-DOL-GDTP-UKV,C8BB393A
+Def Jam - Vendetta (USA)|DL-DOL-GDTE-USA,D5F430C5
+Def Jam Vendetta (Europe)|GDTP69
+Def Jam Vendetta (USA)|GDTE69
+Def Jam: Fight For NY (Europe)|GNWP69
+Def Jam: Fight For NY (USA)|GNWE69
+Defender (USA)|DL-DOL-GDFE-USA,GDFE5D,53AE96A5
+Defender - For All Mankind (Europe) (En,Fr,De,Es,It)|DL-DOL-GDFP-EUR,EB7EE458
+Defender: For All Mankind (Europe)|GDFP5D
+Densetsu no Quiz Ou Ketteisen (Japan)|GQZJ01
+Densetsu no Quiz-ou Kettei-sen (Japan)|DL-DOL-GQZJ-JPN,D62F1303
+Derby Tsuku 3: Derby Uma O Tsukurou! (Japan)|G3TJ8P
+Desastreuses Aventures des Orphelins Baudelaire, Les - D'Apres Lemony Snicket (France)|DL-DOL-GLCF-FRA,A57A35CA
+Die Hard - Vendetta (Europe) (En,Fr)|DL-DOL-GDIP-EUR,2DDF499B
+Die Hard - Vendetta (Europe) (Es,It)|DL-DOL-GDIY-EUU,9D941C40
+Die Hard - Vendetta (Germany) (En,De)|DL-DOL-GDIX-EUB,044E194B
+Die Hard - Vendetta (USA)|DL-DOL-GDIE-USA,956EA8A8
+Die Hard: Vendetta (Europe)|GDIP7D,GDIX7D,GDIY7D
+Die Hard: Vendetta (USA)|GDIE7D
+Digimon Battle Chronicle (Japan)|DL-DOL-G2DJ-JPN,G2DJB2,B937BB5D
+Digimon Rumble Arena 2 (Europe)|GD6P70
+Digimon Rumble Arena 2 (Europe) (En,Fr,De,Es)|DL-DOL-GD6P-EUR,29A225DF
+Digimon Rumble Arena 2 (USA)|DL-DOL-GD6E-USA,GD6EB2,0D75E917
+Digimon World 4 (USA)|DL-DOL-GDJE-USA,GDJEB2,9E152CBC
+Digimon World X (Japan)|DL-DOL-GDJJ-JPN,GDJJB2,88CF0D84
+Dinotopia - The Sunstone Odyssey (USA)|DL-DOL-GD4E-USA,GD4E6S,17330304
+Disney Chicken Little (France)|DL-DOL-GHCF-FRA,DF75B9D0
+Disney Extreme Skate Adventure (Europe)|GEXP52,GEXY52
+Disney Les Aventures de Porcinet (France)|DL-DOL-GPLF-FRA,CB9FC502
+Disney no Magical Park (Japan)|GMTJ18
+Disney Sports - American Football (Japan)|DL-DOL-GDWJ-JPN,GDWJA4,7225D2EA
+Disney Sports - Basketball (Europe) (En,Fr,De,Es,It)|DL-DOL-GDLP-EUR,28782FBC
+Disney Sports - Basketball (Japan)|DL-DOL-GDLJ-JPN,9D0B3393
+Disney Sports - Basketball (USA)|DL-DOL-GDLE-USA,02407581
+Disney Sports - Football (Europe) (En,Fr,De,Es,It)|DL-DOL-GDKP-EUR,460D7017
+Disney Sports - Football (USA)|DL-DOL-GDWE-USA,609BCFC4
+Disney Sports - Skateboarding (Europe) (En,Fr,De,Es,It)|DL-DOL-GDXP-EUR,1700CAE2
+Disney Sports - Skateboarding (Japan)|DL-DOL-GDXJ-JPN,5C30C8AE
+Disney Sports - Skateboarding (USA)|DL-DOL-GDXE-USA,B769EDFF
+Disney Sports - Soccer (Japan)|DL-DOL-GDKJ-JPN,AEBD0B85
+Disney Sports - Soccer (USA)|DL-DOL-GDKE-USA,16BE950F
+Disney Sports Football (USA)|GDWEA4
+Disney Sports Skateboarding (Europe)|GDXPA4
+Disney Sports Skateboarding (Japan)|GDXJA4
+Disney Sports Skateboarding (USA)|GDXEA4
+Disney Sports: Basketball (Europe)|GDLPA4
+Disney Sports: Basketball (Japan)|GDLJA4
+Disney Sports: Basketball (USA)|GDLEA4
+Disney Sports: Football (Europe)|GDKPA4
+Disney Sports: Soccer (Japan)|GDKJA4
+Disney Sports: Soccer (USA)|GDKEA4
+Disney's Chicken Little (Europe)|DL-DOL-GHCP-UKV,0444CE35
+Disney's Chicken Little (Japan)|DL-DOL-GHCJ-JPN,46CBF564
+Disney's Chicken Little (USA)|DL-DOL-GHCE-USA,8124D7B4
+Disney's Donald Duck - Goin' Quackers (USA) (En,Fr)|DL-DOL-GDDE-USA,F8769F5D
+Disney's Donald Duck - Quack Attack (Europe) (En,Fr,De,Es,It)|DL-DOL-GDDP-EUR,C70D859D
+Disney's Donald Duck PK (Europe)|GDOP41
+Disney's Donald Duck PK (Europe) (En,Fr,De,Es,It)|DL-DOL-GDOP-EUR,B265EA6E
+Disney's Donald Duck: Goin' Quackers (USA)|GDDE41
+Disney's Donald Duck: Qu@ck Att@ck (Europe)|GDDP41
+Disney's Extreme Skate Adventure (Europe)|DL-DOL-GEXP-UKV,GEXX52,119F3B75
+Disney's Extreme Skate Adventure (Europe) (Es,It)|DL-DOL-GEXY-EUR,5F08972A
+Disney's Extreme Skate Adventure (Europe) (Fr,De)|DL-DOL-GEXX-EUR,3544F0B0
+Disney's Extreme Skate Adventure (USA)|DL-DOL-GEXE-USA,GEXE52,940C7C23
+Disney's Hide & Sneak (Europe)|GHVP08
+Disney's Hide & Sneak (Europe) (En,Fr,De)|DL-DOL-GHVP-EUR,DL-DOL-GHVP-NOE,F79900FF
+Disney's Hide & Sneak (USA)|GHVE08
+Disney's Hide & Sneak (USA) (Rev 1)|DL-DOL-GHVE-USA,489321AF
+Disney's Magical Mirror Starring Mickey Mouse (Europe)|GDMP01
+Disney's Magical Mirror Starring Mickey Mouse (Europe) (En,Fr,De,Es,It)|DL-DOL-GDMP-EUR,AF3FBCA8
+Disney's Magical Mirror Starring Mickey Mouse (USA)|DL-DOL-GDME-USA,GDME01,61F36FFD
+Disney's Magical Park (Japan)|DL-DOL-GMTJ-JPN,424A87E4
+Disney's Magical Park (Japan) (Jitsuen-you Sample)|DL-DOL-DMTJ-DIS,9F17E51E
+Disney's Mickey & Minnie Trick & Chase (Japan)|GAAJ08
+Disney's Mickey Mouse no Fushigi na Kagami (Japan)|GDMJ01
+Disney's Mickey Mouse no Fushigi na Kagami (Japan) (Rev 1)|DL-DOL-GDMJ-JPN,650BBC8C
+Disney's Mickey to Minnie Trick & Chase (Japan)|DL-DOL-GAAJ-JPN,583D116E
+Disney's Party (Europe)|GMTP69
+Disney's Party (Europe) (En,Fr,De,Es,It)|DL-DOL-GMTP-NOE,7A5C5BE0
+Disney's Party (USA)|DL-DOL-GMTE-USA,GMTE69,DCAEF127
+Disney's Piglet's Big Game (Europe)|DL-DOL-GPLP-UKV,9945CB3D
+Disney's Piglet's Big Game (USA)|DL-DOL-GPLE-USA,03134803
+Disney's PK - Out of the Shadows (USA) (En,Fr,De,It)|DL-DOL-GPKE-USA,DA5F53DD
+Disney's PK Out of the Shadows (USA)|GPKE41
+Disney's Tarzan - Freeride (Europe) (En,Fr,De,Es,It)|DL-DOL-GTZP-EUR,251AD1E8
+Disney's Tarzan - Untamed (USA) (En,Fr)|DL-DOL-GTZE-USA,EF54571A
+Disney's The Haunted Mansion (USA)|DL-DOL-GHYE-USA,457B6B08
+Disney's Winnie the Pooh's Rumbly Tumbly Adventure (Europe) (En,Fr,De,Es,It,Nl)|DL-DOL-GWHP-EUR,27252F80
+Disney's Winnie the Pooh's Rumbly Tumbly Adventure (USA) (En,Fr,Es)|DL-DOL-GWHE-USA,87234A2B
+Disney-Pixar Buscando a Nemo (Spain)|DL-DOL-GNES-ESP,1695C621
+Disney-Pixar Cars (Europe)|DL-DOL-GKJP-EUR,9805F682
+Disney-Pixar Cars (France)|DL-DOL-GKJF-FRA,C2D22A58
+Disney-Pixar Cars (Germany)|DL-DOL-GKJD-NOE,59C7E6B6
+Disney-Pixar Cars (Japan)|DL-DOL-GKJJ-JPN,8E0CC9C2
+Disney-Pixar Cars (Netherlands)|DL-DOL-GKJH-HOL,F455D131
+Disney-Pixar Cars (Spain)|DL-DOL-GKJS-ESP,E7068BDE
+Disney-Pixar Cars (USA)|DL-DOL-GKJE-USA,E4C276F2
+Disney-Pixar Die Unglaublichen (Germany)|DL-DOL-GICD-NOE,1C65DB37
+Disney-Pixar Findet Nemo (Germany)|DL-DOL-GNED-NOE,80C21A71
+Disney-Pixar Finding Nemo (Europe)|DL-DOL-GNEP-UKV,B0BEC04E
+Disney-Pixar Finding Nemo (Japan)|DL-DOL-GFNJ-JPN,03D07259
+Disney-Pixar Finding Nemo (Korea)|DL-DOL-GNEK-KOR,312420A2
+Disney-Pixar Finding Nemo (USA) (Rev 1)|DL-DOL-GNEE-USA,AE9836EC
+Disney-Pixar Le Monde de Nemo (France)|DL-DOL-GNEF-FRA,F2152A1C
+Disney-Pixar Les Indestructibles (France)|DL-DOL-GICF-FRA,15011304
+Disney-Pixar Monsters, Inc. - Scream Arena (Europe) (En,Fr,De,Es,It)|DL-DOL-GMNP-EUR,1B8EABA2
+Disney-Pixar Monsters, Inc. - Scream Arena (USA)|DL-DOL-GMNE-USA,325879B5
+Disney-Pixar Mr. Incredible (Japan)|DL-DOL-GICJ-JPN,E0ADDB4C
+Disney-Pixar Mr. Incredible - Kyouteki Underminer Toujou (Japan)|DL-DOL-GIQJ-JPN,9C0AEFD7
+Disney-Pixar Ratatouille (France)|DL-DOL-GLLF-FRA,A881872B
+Disney-Pixar Ratatouille (USA)|DL-DOL-GLLE-USA,B8FC1DD1
+Disney-Pixar The Incredibles (Europe)|DL-DOL-GICP-ESP,DL-DOL-GICP-EUR,DL-DOL-GICP-UKV,BACA665A
+Disney-Pixar The Incredibles (Netherlands)|DL-DOL-GICH-HOL,65D638F6
+Disney-Pixar The Incredibles (USA)|DL-DOL-GICE-USA,E1023994
+Disney-Pixar The Incredibles - Rise of the Underminer (Europe) (En,Fr)|DL-DOL-GIQX-EUU,66C57057
+Disney-Pixar The Incredibles - Rise of the Underminer (Europe) (Fr,De)|DL-DOL-GIQY-EUR,F1FAFFB9
+Disney-Pixar The Incredibles - Rise of the Underminer (USA)|DL-DOL-GIQE-USA,539E1CA6
+Disneys Ferkels grosses Abenteuer-Spiel (Germany)|DL-DOL-GPLD-NOE,6C4440FB
+Disneys Himmel und Huhn (Germany)|DL-DOL-GHCD-NOE,2D91C0D7
+Dokapon DX (Japan)|GDNJE8
+Dokapon DX - Wataru Sekai wa Oni Darake (Japan)|DL-DOL-GDNJ-JPN,96804941
+Donkey Kong Jungle Beat (Europe) (En,Fr,De,Es,It)|DL-DOL-GYBP-EUR,1D591587
+Donkey Kong Jungle Beat (Japan)|DL-DOL-GYBJ-JPN,GYBJ01,40C1C2D2
+Donkey Kong Jungle Beat (USA)|DL-DOL-GYBE-USA,F2A9E980
+Donkey Kong: Jungle Beat (Europe)|GYBP01
+Donkey Kong: Jungle Beat (USA)|GYBE01
+Donkey Konga (Europe)|GKGP01
+Donkey Konga (Europe) (En,Fr,De,Es,It)|DL-DOL-GKGP-EUR,16342FB3
+Donkey Konga (Japan)|DL-DOL-GKGJ-JPN,GKGJ01,9D8C527B
+Donkey Konga (USA)|DL-DOL-GKGE-USA,GKGE01,31A8AD20
+Donkey Konga 2 (Europe)|GY2P01
+Donkey Konga 2 (Europe) (En,Fr,De,Es,It)|DL-DOL-GY2P-EUR,17BADC37
+Donkey Konga 2 (Japan)|GY2J01
+Donkey Konga 2 (USA)|DL-DOL-GY2E-USA,GY2E01,2E31A3DE
+Donkey Konga 2 - Hit Song Parade (Japan)|DL-DOL-GY2J-JPN,83D4B6B7
+Donkey Konga 3 (Japan)|GY3J01
+Donkey Konga 3 - Tabehoudai! Haru Mogitate 50-kyoku (Japan)|DL-DOL-GY3J-JPN,27C4E790
+Dora the Explorer: Journey to the Purple Planet (Europe)|GQLP54
+Dora the Explorer: Journey to the Purple Planet (USA)|GQLE9G
+Doraemon - Minna de Asobou! Miniland (Japan)|DL-DOL-GDAJ-JPN,7A183211
+Doraemon Minna De Asobou! (Japan)|GDAJE5
+Doshin the Giant (Europe)|GKDP01
+Doshin the Giant (Europe) (En,Fr,De,Es,It)|DL-DOL-GKDP-EUR,10F7328A
+Doubutsu Bancho (Japan)|GDBJ01
+Doubutsu Banchou (Japan)|DL-DOL-GDBJ-JPN,865ABEC9
+Doubutsu no Mori + (Japan) (Rev 1)|DL-DOL-GAFJ-JPN,F7811720
+Doubutsu no Mori e+ (Japan) (Rev 1)|DL-DOL-GAEJ-JPN,26621F87
+Doubutu no Mori e+ (Japan)|GAEJ01
+Dr. Muto (USA)|DL-DOL-GMUE-USA,GMUE5D,699C292A
+Dragon Ball Z (Japan)|DL-DOL-GZBJ-JPN,GZBJB2,5421B026
+Dragon Ball Z - Budokai (Europe) (En,Fr,De,Es,It)|DL-DOL-GD7P-EUR,A4997206
+Dragon Ball Z - Budokai (USA)|DL-DOL-GD7E-USA,DL-DOL-GD7E-USA-01,GD7E70,D1CC6810
+Dragon Ball Z - Budokai 2 (Europe) (En,Fr,De,Es,It)|DL-DOL-GZ3P-EUR,764D492D
+Dragon Ball Z - Budokai 2 (USA)|DL-DOL-GZ3E-USA,460F66FE
+Dragon Ball Z - Sagas (USA)|DL-DOL-GZEE-USA,5E44ABC8
+Dragon Ball Z: Budokai (Europe)|GD7PB2
+Dragon Ball Z: Budokai 2 (Europe)|GZ3PB2
+Dragon Ball Z: Budokai 2 (USA)|GZ3E70
+Dragon Ball Z: Sagas (USA)|GZEE70
+Dragon Drive - D-Masters Shot (Japan)|DL-DOL-GD5J-JPN,D8613785
+Dragon Drive - D-Masters Shot (Japan) (Anime Disc)|DL-DOL-PD5J-JPN,DA779B93
+Dragon Drive: D-Masters Shot (Anime Disc) (Japan)|PD5JB2
+Dragon Drive: D-Masters Shot (Japan)|GD5JB2
+Dragon's Lair 3D - Return to the Lair (USA)|DL-DOL-GDGE-USA,605E9E95
+Dragon's Lair 3D - Special Edition (Europe) (En,Fr,De,Es,It)|DL-DOL-GDGP-EUR,DL-DOL-GDGP-NOE,6CEC873A
+Dragon's Lair 3D Special Edition (Europe)|GDGP78
+Dragon's Lair 3D: Return to the Lair (USA)|GDGE7H
+Dream Mix TV - World Fighters (Japan)|DL-DOL-GKWJ-JPN,8583A998
+DreamMix TV World Fighters (Japan)|GKWJ18
+DreamWorks & Aardman Flushed Away (Europe) (En,Fr,De,Es,It)|DL-DOL-GLHP-EUR,DE37599D
+DreamWorks & Aardman Flushed Away (USA)|DL-DOL-GLHE-USA,F8CBFB44
+DreamWorks Ab durch die Hecke (Germany)|DL-DOL-GH5D-NOE,93155C68
+DreamWorks Gang de Requins (France)|DL-DOL-G9TF-FRA,AF6C0A7B
+DreamWorks Grosse Haie - Kleine Fische (Germany)|DL-DOL-G9TD-NOE,6A893530
+DreamWorks Madagascar (Europe) (Fr,De)|DL-DOL-GGZX-NOE,E89D6C09
+DreamWorks Madagascar (Italy)|DL-DOL-GGZI-ITA,47252652
+DreamWorks Madagascar (Japan)|DL-DOL-GGZJ-JPN,52DE05ED
+DreamWorks Madagascar (Netherlands)|DL-DOL-GGZH-HOL,3425434F
+DreamWorks Madagascar (Spain)|DL-DOL-GGZS-ESP,36410399
+DreamWorks Madagascar (UK)|DL-DOL-GGZP-UKV,41F0CB68
+DreamWorks Madagascar (USA) (Rev 1)|DL-DOL-GGZE-USA,DL-DOL-GGZE-USA-01,DEC444A2
+DreamWorks Nos Voisins, les Hommes (France)|DL-DOL-GH5F-FRA,59B8BD1B
+DreamWorks Over the Hedge (Europe)|DL-DOL-GH5P-UKV,03D01B8F
+DreamWorks Over the Hedge (USA)|DL-DOL-GH5E-USA,E13DE317
+DreamWorks Shark Tale (Europe)|DL-DOL-G9TP-UKV,6BA364C4
+DreamWorks Shark Tale (Italy)|DL-DOL-G9TI-ITA,459E3EB9
+DreamWorks Shark Tale (Japan)|DL-DOL-G9TJ-JPN,3DE4F014
+DreamWorks Shark Tale (USA)|DL-DOL-G9TE-USA,968600D1
+DreamWorks Shrek - Smash n' Crash Racing (Europe) (En,Fr,De)|DL-DOL-G4IP-EUR,13005004
+DreamWorks Shrek - Smash n' Crash Racing (USA)|DL-DOL-G4IE-USA,5BC554BD
+DreamWorks Shrek - SuperSlam (Europe)|DL-DOL-G3YP-UKV,A5B27EE8
+DreamWorks Shrek - SuperSlam (Europe) (En,Fr,Es,It)|DL-DOL-G3YX-EUR,2BD507C3
+DreamWorks Shrek - SuperSlam (Germany)|DL-DOL-G3YY-EUU,BA48943A
+DreamWorks Shrek - SuperSlam (USA)|DL-DOL-G2RE-USA,CE6E3F54
+Driven (Europe)|GDVP6L
+Driven (Europe) (En,Fr,De,Es,It)|DL-DOL-GDVP-EUR,10AA713D
+Driven (USA)|GDVE6L
+Driven (USA) (En,Fr,De,Es,It)|DL-DOL-GDVE-USA,D3ECBAC7
+Drome Racers (Europe)|GD9P69
+Drome Racers (Europe) (En,Fr,De,Es,It,Nl,Sv,Da)|DL-DOL-GD9P-NOE,C3FFAF21
+Drome Racers (USA)|DL-DOL-GD9E-USA,GD9E69,85B18FCB
+Duel Masters - Nettou! Battle Arena (Japan)|DL-DOL-GDUJ-JPN,083490EF
+Duel Masters: Nettou! Battle Arena (Japan)|GDUJA7
+Ed, Edd n Eddy - The Mis-Edventures (USA) (En,Fr)|DL-DOL-GE9E-USA,F0AF8DC3
+Ed, Edd n Eddy: The Mis-Edventures (USA)|GE9E5D
+Egg Mania - Eggstreme Madness (USA) (Rev 1)|DL-DOL-GEME-USA,7E2A4243
+Egg Mania - Tsukande! Mawashite! Dossun Puzzle!! (Japan) (Rev 1)|DL-DOL-GEMJ-JPN,86DB9A9F
+Egg Mania: Eggstreme Madness (USA)|GEME7F
+Eggo Mania (Europe)|GEMP7F
+Eggo Mania (Europe) (En,Fr,De)|DL-DOL-GEMP-EUR,DF626911
+Eisei Meijin VI (Japan)|DL-DOL-GE6J-JPN,GE6JA4,2E9C1E53
+Enter The Matrix (Europe)|GMXP70
+Enter the Matrix (Europe) (En,Fr,De,Es,It) (Disc 1)|DL-DOL-GMXP-0-EUR,DL-DOL-GMXP-0-EUR-0,7F8C8D91
+Enter the Matrix (Europe) (En,Fr,De,Es,It) (Disc 2)|DL-DOL-GMXP-1-EUR,DL-DOL-GMXP-1-EUR-1,6F934586
+Enter The Matrix (Japan)|GMXJB2
+Enter the Matrix (Japan) (Disc 1)|DL-DOL-GMXJ-0-JPN,DL-DOL-GMXJ-0-JPN-0,11314349
+Enter the Matrix (Japan) (Disc 2)|DL-DOL-GMXJ-1-JPN,DL-DOL-GMXJ-1-JPN-1,9E503207
+Enter the Matrix (Korea) (Disc 1)|DL-DOL-GMXE-0-KOR,DL-DOL-GMXE-0-KOR-0,EE604D09
+Enter the Matrix (Korea) (Disc 2)|DL-DOL-GMXE-1-KOR,DL-DOL-GMXE-1-KOR-1,ECC136A2
+Enter The Matrix (USA)|GMXE70
+Enter the Matrix (USA) (Disc 1)|DL-DOL-GMXE-0-USA,DL-DOL-GMXE-0-USA-0,A43514DD
+Enter the Matrix (USA) (Disc 2)|DL-DOL-GMXE-1-USA,DL-DOL-GMXE-1-USA-1,65531D54
+ESPN International Winter Sports (Europe)|GWSPA4
+ESPN International Winter Sports (Europe) (En,Fr,De,It)|DL-DOL-GWSP-EUR,6709E88E
+ESPN International Winter Sports 2002 (USA)|DL-DOL-GWSE-USA,GWSEA4,6F3BC227
+ESPN MLS ExtraTime 2002 (USA)|DL-DOL-GMLE-USA,GMLEA4,D16F9ED3
+Eternal Arcadia Legends (Japan)|DL-DOL-GEAJ-JPN,GEAJ8P,3DA0E910
+Eternal Darkness - Manekareta 13-nin (Japan)|DL-DOL-GEDJ-JPN,AF4D0E9E
+Eternal Darkness - Sanity's Requiem (Europe) (En,Fr,De,Es,It)|DL-DOL-GEDP-EUR,FAE4D261
+Eternal Darkness - Sanity's Requiem (Korea)|DL-DOL-GEDW-KOR,6BF6ECEA
+Eternal Darkness - Sanity's Requiem (USA)|DL-DOL-GEDE-USA,1987A637
+Eternal Darkness: Manekareta 13-nin (Japan)|GEDJ01
+Eternal Darkness: Sanity's Requiem|GEDW01
+Eternal Darkness: Sanity's Requiem (Europe)|GEDP01
+Eternal Darkness: Sanity's Requiem (USA)|GEDE01
+Evolution Skateboarding (Europe)|GESPA4
+Evolution Skateboarding (Europe) (En,Fr,De)|DL-DOL-GESP-EUR,B591A35F
+Evolution Skateboarding (Japan)|DL-DOL-GESJ-JPN,GESJA4,B729EB39
+Evolution Skateboarding (USA)|DL-DOL-GESE-USA,GESEA4,46E6E286
+Evolution Snowboarding (Europe)|GEBPA4
+Evolution Snowboarding (Europe) (En,Fr,De)|DL-DOL-GEBP-EUR,A8D158FF
+Evolution Snowboarding (USA)|DL-DOL-GEBE-USA,GEBEA4,A18D2B49
+Evolution Worlds (Europe)|DL-DOL-GEWP-EUR,GEWP41,7388F4F9
+Evolution Worlds (USA)|DL-DOL-GEWE-USA,GEWE41,BFCB4D4F
+F-Zero GX (Europe)|GFZP01
+F-Zero GX (Europe) (En,Fr,De,Es,It)|DL-DOL-GFZP-EUR,7065FD23
+F-Zero GX (Japan)|DL-DOL-GFZJ-JPN,GFZJ01,EFE948C7
+F-Zero GX (Korea)|DL-DOL-GFZE-KOR,BD7EA65C
+F-Zero GX (USA)|DL-DOL-GFZE-USA,GFZE01,3186FCBE
+F1 2002 (Europe)|GF2P69
+F1 2002 (Europe) (En,Fr,De,It)|DL-DOL-GF2P-EUR,969D34F8
+F1 2002 (USA)|GF2E69
+F1 2002 (USA) (En,Fr,De,It)|DL-DOL-GF2E-USA,5283D6B6
+F1 Career Challenge (Europe)|GFCP69
+F1 Career Challenge (Europe) (En,Fr,De,It)|DL-DOL-GFCP-EUR,361F47D5
+Fairly OddParents, The - Breakin' da Rules (USA)|DL-DOL-GFWE-USA,2F1368F6
+Fairly OddParents, The - Shadow Showdown (USA)|DL-DOL-GFOE-USA,97194E38
+Family Stadium 2003 (Japan)|DL-DOL-GFMJ-JPN,GFMJAF,69B9E609
+Fantastic 4 (Europe)|DL-DOL-GF4P-UKV,GF4D52,GF4F52,GF4H52,GF4I52,GF4P52,GF4S52,F621DCBD
+Fantastic 4 (Germany)|DL-DOL-GF4D-NOE,C57A318D
+Fantastic 4 (Netherlands)|DL-DOL-GF4H-HOL,BB91F33D
+Fantastic 4 (Spain)|DL-DOL-GF4S-ESP,167A9CA6
+Fantastic 4 (USA)|DL-DOL-GF4E-USA,GF4E52,68AE5965
+Fantastici 4, I (Italy)|DL-DOL-GF4I-ITA,9AFBEE92
+FIFA 06 (Europe)|DL-DOL-GF6P-UKV,GF6D69,GF6F69,GF6H69,GF6I69,GF6P69,GF6S69,4D1A4B15
+FIFA 06 (France)|DL-DOL-GF6F-FRA,AA0C4CDF
+FIFA 06 (Germany)|DL-DOL-GF6D-NOE,912E44B4
+FIFA 06 (Italy)|DL-DOL-GF6I-ITA,4AA1EE85
+FIFA 06 (Netherlands)|DL-DOL-GF6H-HOL,80F35332
+FIFA 06 (Spain)|DL-DOL-GF6S-ESP,9B8602F3
+FIFA 07 (Europe)|DL-DOL-G4FP-UKV,G4FD69,G4FF69,G4FP69,3A7FB361
+FIFA 07 (France)|DL-DOL-G4FF-FRA,EB78EBCA
+FIFA 07 (Germany)|DL-DOL-G4FD-NOE,414D14C6
+FIFA 2002 - Road to FIFA World Cup (Japan)|DL-DOL-GFSJ-JPN,84711D48
+FIFA 2003 (Japan)|DL-DOL-GFAJ-JPN,GFAJ13,7085DCF5
+FIFA Football 2003 (Europe)|DL-DOL-GFAP-UKV,GFAD69,GFAF69,GFAI69,GFAP69,GFAS69,60DB66FA
+FIFA Football 2003 (France)|DL-DOL-GFAF-FRA,0F05CFEF
+FIFA Football 2003 (Germany)|DL-DOL-GFAD-NOE,DL-DOL-GFAD-NOE-01,2D1BC6DC
+FIFA Football 2003 (Italy)|DL-DOL-GFAI-ITA,5530E06E
+FIFA Football 2003 (Spain)|DL-DOL-GFAS-ESP,A69E1A79
+FIFA Football 2004 (Europe)|DL-DOL-GXFP-UKV,GXFD69,GXFF69,GXFI69,GXFP69,GXFS69,62F6C8E5
+FIFA Football 2004 (France)|DL-DOL-GXFF-FRA,2BD1F339
+FIFA Football 2004 (Germany)|DL-DOL-GXFD-NOE,3DE6FDEF
+FIFA Football 2004 (Italy)|DL-DOL-GXFI-ITA,1CF67D77
+FIFA Football 2004 (Spain)|DL-DOL-GXFS-ESP,3DB8288C
+FIFA Football 2005 (Europe)|DL-DOL-GF5P-UKV,GF5D69,GF5F69,GF5H69,GF5I69,GF5P69,GF5S69,8AD89CF9
+FIFA Football 2005 (France)|DL-DOL-GF5F-FRA,F8D59705
+FIFA Football 2005 (Germany)|DL-DOL-GF5D-NOE,49F80C2F
+FIFA Football 2005 (Italy)|DL-DOL-GF5I-ITA,B94AC12C
+FIFA Football 2005 (Netherlands)|DL-DOL-GF5H-HOL,98E0EAB6
+FIFA Football 2005 (Spain)|DL-DOL-GF5S-ESP,B1F61DD4
+FIFA Fussball-Weltmeisterschaft Deutschland 2006 (Germany)|DL-DOL-G6FD-NOE,10DC663F
+FIFA Soccer 06 (USA)|DL-DOL-GF6E-USA,GF6E69,CF5816A2
+FIFA Soccer 07 (USA)|G4FE69
+FIFA Soccer 07 (USA) (En,Es)|DL-DOL-G4FE-USA,0446245A
+FIFA Soccer 2002 (Japan)|GFSJ13
+FIFA Soccer 2002 (USA)|DL-DOL-GFSE-USA,GFSE69,4D8D0766
+FIFA Soccer 2003 (USA)|DL-DOL-GFAE-USA,GFAE69,8C59699F
+FIFA Soccer 2004 (USA)|DL-DOL-GXFE-USA,GXFE69,2F6E97AD
+FIFA Soccer 2005 (USA)|GF5E69
+FIFA Soccer 2005 (USA) (En,Es)|DL-DOL-GF5E-USA,D018F726
+FIFA Street (Europe)|GF8P69
+FIFA Street (Europe) (En,Fr,De)|DL-DOL-GF8P-EUR,A66856F5
+FIFA Street (USA)|GF8E69
+FIFA Street (USA) (En,Es)|DL-DOL-GF8E-USA,FF647575
+FIFA Street 2 (Europe)|GFYP69
+FIFA Street 2 (Europe) (En,Fr,De)|DL-DOL-GFYP-EUR,DL-DOL-GFYP-NOE,71F33BAC
+FIFA Street 2 (USA)|GFYE69
+FIFA Street 2 (USA) (En,Es)|DL-DOL-GFYE-USA,57DA4A2E
+FIFA World Cup Germany 2006 (Europe)|DL-DOL-G6FP-UKV,A9E2B9F5
+FIFA World Cup Germany 2006 (France)|DL-DOL-G6FF-FRA,2EC09CB9
+FIFA World Cup Germany 2006 (USA)|DL-DOL-G6FE-USA,89B553BF
+Fight Night Round 2 (Europe)|GEYP69
+Fight Night Round 2 (Europe) (En,Fr,De)|DL-DOL-GEYP-EUR,DL-DOL-GEYP-NOE,A2FEDCE2
+Fight Night Round 2 (Japan)|DL-DOL-GEYJ-JPN,GEYJ13,DD300B2D
+Fight Night Round 2 (USA)|DL-DOL-GEYE-USA,GEYE69,87E690E3
+Final Fantasy Crystal Chronicles (Europe)|GCCP01
+Final Fantasy Crystal Chronicles (Europe) (En,Fr,De,Es,It)|DL-DOL-GCCP-EUR,1C68474C
+Final Fantasy Crystal Chronicles (Japan)|DL-DOL-GCCJ-JPN,GCCJ01,GCCJGC,8E6BC496
+Final Fantasy Crystal Chronicles (USA)|DL-DOL-GCCE-USA,GCCE01,141AEAC0
+Finding Nemo (Europe)|GNED78,GNEF78,GNEP78,GNES78
+Finding Nemo (Japan)|GFNJG2
+Finding Nemo (USA)|GNEE78
+Fire Emblem - Path of Radiance (Europe) (En,Fr,De,Es,It)|DL-DOL-GFEP-EUR,AD6508BD
+Fire Emblem - Path of Radiance (USA)|DL-DOL-GFEE-USA,F24CB38A
+Fire Emblem - Souen no Kiseki (Japan)|DL-DOL-GFEJ-JPN,AC406EF9
+Fire Emblem: Path of Radiance (Europe)|GFEP01
+Fire Emblem: Path of Radiance (USA)|GFEE01
+Fire Emblem: Souen no Kiseki (Japan)|GFEJ01
+Fireblade (Europe)|GFBP5D
+FireBlade (Europe) (En,Fr,De,Es,It)|DL-DOL-GFBP-EUR,10A3DE38
+FireBlade (USA)|DL-DOL-GFBE-USA,GFBE5D,88F6FA17
+Flushed Away (Europe)|GLHPG9
+Flushed Away (USA)|GLHEG9
+Franklin - Un anniversaire surprise (France)|DL-DOL-GQFF-FRA,9F54BA04
+Franklin: A Birthday Surprise (Europe)|GQFFFK
+Freaky Flyers (USA)|GFFE5D
+Freaky Flyers (USA) (Disc 1)|DL-DOL-GFFE-0-USA,DL-DOL-GFFE-0-USA-0,889A6F5D
+Freaky Flyers (USA) (Disc 2)|DL-DOL-GFFE-1-USA,DL-DOL-GFFE-1-USA-1,8FEFF47C
+Freedom Fighters (Europe)|DL-DOL-GFDP-UKV,GFDD69,GFDF69,GFDP69,9CC5B41E
+Freedom Fighters (France)|DL-DOL-GFDF-FRA,EFB3EF9F
+Freedom Fighters (Germany)|DL-DOL-GFDD-NOE,672C3D6A
+Freedom Fighters (USA)|DL-DOL-GFDE-USA,GFDE69,35E87D53
+Freekstyle (Europe)|GFKP69
+Freekstyle (Europe) (En,Fr,De)|DL-DOL-GFKP-EUR,BB4D7B8B
+Freekstyle (USA)|DL-DOL-GFKE-USA,GFKE69,63737D85
+Freestyle Metal X (USA)|DL-DOL-GFXE-USA,GFXE5D,7B59A773
+Freestyle Street Soccer (USA)|DL-DOL-GUVE-USA,GUVE51,F6E1AC8C
+Frogger (Japan)|DL-DOL-GFGJ-JPN,GFGJA4,D42140E1
+Frogger - Ancient Shadow (USA) (En,Es)|DL-DOL-GFPE-USA,232FFDD4
+Frogger Beyond (Europe)|GFGPA4
+Frogger Beyond (Europe) (En,Fr,De,Es,It)|DL-DOL-GFGP-EUR-01,BCF58CB2
+Frogger Beyond (USA)|DL-DOL-GFGE-USA,GFGEA4,D1D8B3E4
+Frogger's Adventures - The Rescue (USA)|DL-DOL-GFQE-USA,72D21A8E
+Frogger's Adventures: The Rescue (USA)|GFQEA4
+Frogger: Ancient Shadow (USA)|GFPEA4
+From TV Animation One Piece - Treasure Battle! (Japan)|DL-DOL-GOTJ-JPN,81039A96
+Future Tactics - The Uprising (Europe) (En,Fr,De,Es,It)|DL-DOL-GFUP-NOE,123FD890
+Future Tactics - The Uprising (USA)|DL-DOL-GFUE-USA,0C4D4061
+Future Tactics: The Uprising (Europe)|GFUP6V
+Future Tactics: The Uprising (USA)|GFUE4Z
+Gadget Racers (Europe)|GROP7J
+Gadget Racers (Europe) (En,Fr,De,Es,It)|DL-DOL-GROP-EUR,E04A0EBA
+Gakuen Toshi Vara Noir Roses (Japan)|DL-DOL-GVWJ-JPN,GVWJDQ,CF6D0AA5
+Game Boy Player (Europe)|UGPP01
+Game Boy Player (Japan)|UGPJ01
+Game Boy Player (USA)|UGPE01
+Game Boy Player Start-Up Disc (Europe) (En,Fr,De,Es,It,Nl) (Rev 2)|DL-DOL-UGPP-EUR,1E26380C
+Game Boy Player Start-Up Disc (Japan) (Rev 3)|DL-DOL-UGPJ-JPN,DFF567CB
+Game Boy Player Start-Up Disc (Korea) (Rev 1)|DL-DOL-UGPE-KOR,1E6560ED
+Game Boy Player Start-Up Disc (USA) (Rev 3)|DL-DOL-UGPE-USA,E502DC79
+Game Taikai Yuushou Kinen - Tokusei SmaBro DX Movie Disc (Japan)|DL-DOL-D23J-DIS,385BDC6A
+Game Taikai Yuushou Kinen: Tokusei SmaBro DX Movie Disc (Japan)|D23J01
+GameCube Preview Disc (USA)|D87E01
+GameCube Service Disc (USA)|301E01
+Gauntlet - Dark Legacy (Europe) (En,Fr,De)|DL-DOL-GUNP-EUR,038B400A
+Gauntlet - Dark Legacy (USA) (Rev 1)|DL-DOL-GUNE-USA,7D84DBFA
+Gauntlet: Dark Legacy (Europe)|GUNP5D
+Gauntlet: Dark Legacy (USA)|GUNE5D
+Geist (Europe)|GITP01
+Geist (Europe) (En,Fr,De,Es,It)|DL-DOL-GITP-EUR,DL-DOL-GITP-UKV,B484B0B0
+Geist (USA)|DL-DOL-GITE-USA,GITE01,2B606740
+Gekitou Pro Yakyuu (Japan)|GMYJ8P
+Gekitou Pro Yakyuu - Mizushima Shinji All Stars vs. Pro Yakyuu (Japan)|DL-DOL-GMYJ-JPN,1758503B
+Gekituisenki - Zero Fighter (Japan)|GZFJBP
+Gekkan Nintendo Tentou Demo 2002.10.1 (Japan)|DL-DOL-D39J-DIS,182F38EB
+Gekkan Nintendo Tentou Demo 2002.11.1 (Japan) (Disc A)|DL-DOL-D42J-0-DIS,343BACD7
+Gekkan Nintendo Tentou Demo 2002.11.1 (Japan) (Disc B)|DL-DOL-D42J-1-DIS,802B5A01
+Gekkan Nintendo Tentou Demo 2002.12.1 (Japan)|DL-DOL-D44J-DIS,1B5A2934
+Gekkan Nintendo Tentou Demo 2002.5.1 (Japan)|DL-DOL-D29J-DIS,87E9B682
+Gekkan Nintendo Tentou Demo 2002.6.1 (Japan)|DL-DOL-D32J-DIS,8C63ED7D
+Gekkan Nintendo Tentou Demo 2002.7.1 (Japan)|DL-DOL-D33J-DIS,86DACAB6
+Gekkan Nintendo Tentou Demo 2002.7.10 (Japan)|DL-DOL-D34J-DIS,878C6DEA
+Gekkan Nintendo Tentou Demo 2002.9.1 (Japan)|DL-DOL-D38J-DIS,56B9951A
+Gekkan Nintendo Tentou Demo 2003.1.1 (Japan)|D46J01
+Gekkan Nintendo Tentou Demo 2003.1.1 (Japan) (Disc A)|DL-DOL-D46J-0-DIS,B85A653F
+Gekkan Nintendo Tentou Demo 2003.1.1 (Japan) (Disc B)|DL-DOL-D46J-1-DIS,5E02B591
+Gekkan Nintendo Tentou Demo 2003.10.1 (Japan) (Rev 1)|DL-DOL-D64J-DIS,029014E4
+Gekkan Nintendo Tentou Demo 2003.12.1 (Japan) (Disc A)|DL-DOL-D67J-0-DIS,7156FAB4
+Gekkan Nintendo Tentou Demo 2003.12.1 (Japan) (Disc B)|DL-DOL-D67J-1-DIS,CF438497
+Gekkan Nintendo Tentou Demo 2003.2.1 (Japan)|DL-DOL-D47J-DIS,3F9F3D4B
+Gekkan Nintendo Tentou Demo 2003.3.1 (Japan)|DL-DOL-D48J-DIS,FF30336D
+Gekkan Nintendo Tentou Demo 2003.4.1 (Japan)|DL-DOL-D49J-DIS,C489F920
+Gekkan Nintendo Tentou Demo 2003.5.1 (Japan)|DL-DOL-D52J-DIS,49C07FAB
+Gekkan Nintendo Tentou Demo 2003.6.1 (Japan)|DL-DOL-D54J-DIS,66CF670B
+Gekkan Nintendo Tentou Demo 2003.7.1 (Japan)|DL-DOL-D59J-DIS,C94E79A4
+Gekkan Nintendo Tentou Demo 2003.8.1 (Japan) (Disc A)|DL-DOL-D62J-0-DIS,632EB575
+Gekkan Nintendo Tentou Demo 2003.8.1 (Japan) (Disc B)|DL-DOL-D62J-1-DIS,2CBA3D86
+Gekkan Nintendo Tentou Demo 2004-2005 Nenmatsunenshi-gou (Japan)|DL-DOL-D92J-DIS,F5F31D5D
+Gekkan Nintendo Tentou Demo 2004.1.1 (Japan)|DL-DOL-D68J-DIS,F0E6589B
+Gekkan Nintendo Tentou Demo 2004.10.1 (Japan)|DL-DOL-D86J-DIS,CE786E78
+Gekkan Nintendo Tentou Demo 2004.11.1 (Japan)|DL-DOL-D87J-DIS,1583164A
+Gekkan Nintendo Tentou Demo 2004.12.1 (Japan)|DL-DOL-D88J-DIS,176D8ADA
+Gekkan Nintendo Tentou Demo 2004.2.1 (Japan)|DL-DOL-D73J-DIS,A595A9B7
+Gekkan Nintendo Tentou Demo 2004.3.1 (Japan)|DL-DOL-D75J-DIS,CE1687C2
+Gekkan Nintendo Tentou Demo 2004.4.1 (Japan)|DL-DOL-D77J-DIS,B562D84F
+Gekkan Nintendo Tentou Demo 2004.5.1 (Japan)|DL-DOL-D78J-DIS,161888CF
+Gekkan Nintendo Tentou Demo 2004.6.1 (Japan)|DL-DOL-D79J-DIS,9271D581
+Gekkan Nintendo Tentou Demo 2004.7.1 (Japan)|DL-DOL-D82J-DIS,5F8A38ED
+Gekkan Nintendo Tentou Demo 2004.8.1 (Japan)|DL-DOL-D84J-DIS,1A678EC5
+Gekkan Nintendo Tentou Demo 2004.9.1 (Japan)|DL-DOL-D85J-DIS,F1A32E8B
+Gekkan Nintendo Tentou Demo 2005.10.1 (Japan)|DL-DOL-E24J-DIS,14683962
+Gekkan Nintendo Tentou Demo 2005.11.1 (Japan)|DL-DOL-E25J-DIS,4C905D86
+Gekkan Nintendo Tentou Demo 2005.2.1 (Japan)|DL-DOL-D94J-DIS,7070BD13
+Gekkan Nintendo Tentou Demo 2005.5.1 (Japan)|DL-DOL-D97J-DIS,87382C12
+Gekkan Nintendo Tentou Demo 2006.1.1 (Japan)|DL-DOL-E27J-DIS,0B3CDF9B
+Gekkan Nintendo Tentou Demo 2006.4.1 (Japan)|DL-DOL-E32J-DIS,E3D27B56
+Gekkan Nintendo Tentou Demo 2006.6.1 (Japan)|DL-DOL-E34J-DIS,0F9852A4
+Gekkan Nintendo Tentou Demo 2006.7.1 (Japan)|DL-DOL-E35J-DIS,8B58BD1D
+Gekkan Nintendo Tentou Demo 2006.8.1 (Japan)|DL-DOL-E36J-DIS,78927D2F
+Gekkan Nintendo Tentou Demo 2006.9.1 (Japan)|DL-DOL-E37J-DIS,241FE2D0
+Generation of Chaos Exceed (Japan)|GIFJDQ
+Generation of Chaos Exceed - Yami no Koujo Roze (Japan)|DL-DOL-GIFJ-JPN,A02C9488
+Giant Egg - Billy Hatcher no Daibouken (Japan) (Rev 1)|DL-DOL-GEGJ-JPN,55AD7DE7
+GiFTPiA (Japan)|GGFJ01
+Giftpia (Japan)|DL-DOL-GGFJ-JPN,C06AB1AF
+Gladius (Europe)|GLSD64,GLSF64,GLSP64
+Gladius (Europe) (En,Es,It)|DL-DOL-GLSP-EUR,B52A7368
+Gladius (France)|DL-DOL-GLSF-FRA,7AF9EC4E
+Gladius (Germany)|DL-DOL-GLSD-NOE,FC4F3434
+Gladius (USA)|DL-DOL-GLSE-USA,GLSE64,FB5F6C4F
+Go! Go! Hypergrind (USA)|DL-DOL-GHGE-USA,GHGEEB,C5AA4628
+Goblin Commander - Unleash the Horde (Europe) (En,Fr,De)|DL-DOL-GGCP-EUR,59F0535C
+Goblin Commander - Unleash the Horde (USA)|DL-DOL-GGCE-USA,B2398C14
+Goblin Commander: Unleash the Horde (Europe)|GGCP0A
+Goblin Commander: Unleash The Horde (USA)|GGCE0A
+Godzilla - Destroy All Monsters Melee (Europe) (En,Fr,De,Es,It)|DL-DOL-GZDP-EUR,54E53D5A
+Godzilla - Destroy All Monsters Melee (USA)|DL-DOL-GZDE-USA,95C6DF8F
+Godzilla - Kaijuu Dairantou (Japan)|DL-DOL-GZDJ-JPN,8C5EFD4D
+Godzilla: Destroy all Monsters Melee (Europe)|GZDP70
+Godzilla: Destroy all Monsters Melee (USA)|GZDE70
+Godzilla: Kaijuu Dairantou (Japan)|GZDJ70
+GoldenEye - Agente Corrupto (Spain) (Disc 1)|DL-DOL-GOYS-0-ESP,DL-DOL-GOYS-0-ESP-0,8A1122D6
+GoldenEye - Agente Corrupto (Spain) (Disc 2)|DL-DOL-GOYS-1-ESP,DL-DOL-GOYS-1-ESP-1,6F6DD988
+GoldenEye - Dark Agent (Japan)|GGIJ13
+GoldenEye - Dark Agent (Japan) (Disc 1)|DL-DOL-GGIJ-0-JPN,DL-DOL-GGIJ-0-JPN-0,667A54F1
+GoldenEye - Dark Agent (Japan) (Disc 2)|DL-DOL-GGIJ-1-JPN,DL-DOL-GGIJ-1-JPN-1,AE9EB914
+GoldenEye - Rogue Agent (Europe) (En,It,Nl,Sv) (Disc 1)|DL-DOL-GOYP-0-EUR,DL-DOL-GOYP-0-EUR-0,6467EC57
+GoldenEye - Rogue Agent (Europe) (En,It,Nl,Sv) (Disc 2)|DL-DOL-GOYP-1-EUR,DL-DOL-GOYP-1-EUR-1,638836F2
+GoldenEye - Rogue Agent (France) (Disc 1)|DL-DOL-GOYF-0-FRA,DL-DOL-GOYF-0-FRA-0,4564BB01
+GoldenEye - Rogue Agent (France) (Disc 2)|DL-DOL-GOYF-1-FRA,DL-DOL-GOYF-1-FRA-1,DBA8AA7F
+GoldenEye - Rogue Agent (Germany) (Disc 1)|DL-DOL-GOYD-0-NOE,DL-DOL-GOYD-0-NOE-0,0E162916
+GoldenEye - Rogue Agent (Germany) (Disc 2)|DL-DOL-GOYD-1-NOE,DL-DOL-GOYD-1-NOE-1,F1E31557
+GoldenEye - Rogue Agent (USA) (Disc 1)|DL-DOL-GOYE-0-USA,DL-DOL-GOYE-0-USA-0,C9C97E97
+GoldenEye - Rogue Agent (USA) (Disc 2)|DL-DOL-GOYE-1-USA,DL-DOL-GOYE-1-USA-1,22E8D92B
+GoldenEye: Rogue Agent (Europe)|GOYD69,GOYF69,GOYP69,GOYS69
+GoldenEye: Rogue Agent (USA)|GOYE69
+Gotcha Force (Europe)|GG4P08
+Gotcha Force (Europe) (En,Fr,De)|DL-DOL-GG4P-EUR,DL-DOL-GG4P-NOE,5531245A
+Gotcha Force (Japan)|DL-DOL-GG4J-JPN,GG4J08,62D97378
+Gotcha Force (USA)|DL-DOL-GG4E-USA,GG4E08,DD429377
+Grim Adventures of Billy & Mandy, The (USA)|DL-DOL-GGNE-USA,7540BD03
+Groove Adventure Rave - Fighting Live (Japan)|DL-DOL-GRVJ-JPN,GRVJA4,92C7291F
+Grooverider - Slot Car Thunder (USA)|DL-DOL-GVRE-USA,9DD1131E
+Grooverider Slot Car Thunder (USA)|GVRE7H
+GT Cube (Japan)|DL-DOL-GTCJ-JPN,GTCJBL,9D548E41
+GT Cube (Japan) (Rev 1)|DL-DOL-GTCJ-JPN-01,7DB76A36
+Gun (Europe)|GUMD52,GUMP52
+Gun (Europe) (En,Fr,Es,It)|DL-DOL-GUMP-EUR,DL-DOL-GUMP-UKV,AA652D0D
+Gun (Germany) (En,De)|DL-DOL-GUMD-NOE,FD40CA10
+Gun (USA)|DL-DOL-GUME-USA,GUME52,F06EE11B
+Happy Feet (USA)|GH7E5D
+Happy Feet (USA) (En,Fr)|DL-DOL-GH7E-USA,3C4BE722
+Harry Potter - Quidditch World Cup (Europe) (En,Nl,Sv)|DL-DOL-GQWP-EUR,8D4011E2
+Harry Potter - Quidditch World Cup (Europe) (Fr,De,Es,It)|DL-DOL-GQWX-EUU,D123DC76
+Harry Potter - Quidditch World Cup (Japan)|DL-DOL-GQWJ-JPN,C74B831C
+Harry Potter - Quidditch World Cup (USA) (En,Fr,Es)|DL-DOL-GQWE-USA,7A4816B9
+Harry Potter and the Chamber of Secrets (Europe)|DL-DOL-GHSP-UKV,GHSP69,GHSX69,GHSY69,97D0FBB3
+Harry Potter and the Chamber of Secrets (Europe) (En,Fr,De)|DL-DOL-GHSY-EUR,E97541B4
+Harry Potter and the Chamber of Secrets (Europe) (Es,It,Pt)|DL-DOL-GHSX-EUR,EA3A774B
+Harry Potter and the Chamber of Secrets (USA)|DL-DOL-GHSE-USA,GHSE69,115F3228
+Harry Potter and the Goblet of Fire (Europe)|DL-DOL-GH4P-UKV,GH4D69,GH4F69,GH4H69,GH4I69,GH4M69,GH4P69,GH4S69,AD2D1A78
+Harry Potter and the Goblet of Fire (USA)|DL-DOL-GH4E-USA,GH4E69,66E3A8F7
+Harry Potter and the Philosopher's Stone (Europe)|GHLP69,GHLX69
+Harry Potter and the Philosopher's Stone (Europe) (En,Nl) (Rev 1)|DL-DOL-GHLP-EUR,643145C6
+Harry Potter and the Philosopher's Stone (Europe) (En,Sv) (Rev 1)|DL-DOL-GHLX-EUU,F3CC9D08
+Harry Potter and the Philosopher's Stone (Europe) (Es,It) (Rev 1)|DL-DOL-GHLZ-EUT,8A9850F1
+Harry Potter and the Philosopher's Stone (Europe) (Fr,De) (Rev 1)|DL-DOL-GHLY-EUB,DL-DOL-GHLY-NOE,777B2324
+Harry Potter and the Prisoner of Azkaban (Europe)|DL-DOL-GAZP-UKV,GAZD69,GAZF69,GAZH69,GAZI69,GAZM69,GAZP69,GAZS69,1084D213
+Harry Potter and the Prisoner of Azkaban (USA)|DL-DOL-GAZE-USA,GAZE69,9ADB1F47
+Harry Potter and the Sorcerer's Stone (Europe)|GHLY69,GHLZ69
+Harry Potter and the Sorcerer's Stone (USA)|GHLE69
+Harry Potter and the Sorcerer's Stone (USA) (En,Es) (Rev 1)|DL-DOL-GHLE-USA,3D08DD19
+Harry Potter e il Calice di Fuoco (Italy)|DL-DOL-GH4I-ITA,6EFA63F0
+Harry Potter e il Prigioniero di Azkaban (Italy)|DL-DOL-GAZI-ITA,36EEAC38
+Harry Potter en de gevangene van Azkaban (Netherlands)|DL-DOL-GAZH-HOL,87B6039C
+Harry Potter en de Vuurbeker (Netherlands)|DL-DOL-GH4H-HOL,D169B5CC
+Harry Potter et la Coupe de Feu (France)|DL-DOL-GH4F-FRA,1479B2D3
+Harry Potter et le Prisonnier d'Azkaban (France)|DL-DOL-GAZF-FRA,84E0D67F
+Harry Potter och den flammande baegaren (Sweden)|DL-DOL-GH4M-SWE,9CAA2A38
+Harry Potter och fangen fran Azkaban (Sweden)|DL-DOL-GAZM-SWE,7508A0E4
+Harry Potter to Azkaban no Shuujin (Japan)|DL-DOL-GAZJ-JPN,GAZJ13,BD1BB981
+Harry Potter to Himitsu no Heya (Japan)|DL-DOL-GHSJ-JPN,GHSJ13,1A09BB28
+Harry Potter to Honoo no Goblet (Japan)|DL-DOL-GH4J-JPN,GH4J13,7B3E25E3
+Harry Potter to Kenja no Ishi (Japan)|GHLJ13
+Harry Potter to Kenja no Ishi (Japan) (En,Ja)|DL-DOL-GHLJ-JPN,8F5B7B5E
+Harry Potter und der Feuerkelch (Germany)|DL-DOL-GH4D-NOE,2A5ECF3A
+Harry Potter und der Gefangene von Askaban (Germany)|DL-DOL-GAZD-NOE,397A6B4B
+Harry Potter World Cup (Japan)|GQWJ13
+Harry Potter y el Caliz de Fuego (Spain)|DL-DOL-GH4S-ESP,0F9F1B03
+Harry Potter y el prisionero de Azkaban (Spain)|DL-DOL-GAZS-ESP,53801CE4
+Harry Potter: Quidditch World Cup (Europe)|GQWP69,GQWX69
+Harry Potter: Quidditch World Cup (USA)|GQWE69
+Harvest Moon - A Wonderful Life (Europe)|DL-DOL-GYWP-UKV,877AEB09
+Harvest Moon - A Wonderful Life (Germany)|DL-DOL-GYWD-NOE,E439A68B
+Harvest Moon - A Wonderful Life (USA)|DL-DOL-GYWE-USA,D5C265C1
+Harvest Moon - Another Wonderful Life (USA)|DL-DOL-G4GE-USA,2BE7EA37
+Harvest Moon - Magical Melody (USA)|DL-DOL-G4AE-USA,02778D03
+Harvest Moon: A Wonderful Life (Europe)|GYWDE9,GYWPE9
+Harvest Moon: A Wonderful Life (USA)|GYWEE9
+Harvest Moon: Another Wonderful Life (USA)|G4GEE9
+Harvest Moon: Magical Melody (USA)|G4AEE9
+Hello Kitty - Roller Rescue (Europe) (En,Fr,De,Es,It)|DL-DOL-GH6P-EUR,B4C6D6D1
+Hello Kitty - Roller Rescue (USA)|DL-DOL-GH6E-USA,D5946E12
+Hello Kitty: Roller Rescue (Europe)|GH6P7N
+Hello Kitty: Roller Rescue (USA)|GH6EAF
+Herr der Ringe, Der - Das dritte Zeitalter (Germany) (Disc 1)|DL-DOL-G3AD-0-NOE,DL-DOL-G3AD-0-NOE-0,7D2F408E
+Herr der Ringe, Der - Das dritte Zeitalter (Germany) (Disc 2)|DL-DOL-G3AD-1-NOE,DL-DOL-G3AD-1-NOE-1,AD4FF1D8
+Herr der Ringe, Der - Die Rueckkehr des Koenigs (Germany)|DL-DOL-GKLD-NOE,014FFA71
+Herr der Ringe, Der - Die zwei Tuerme (Germany)|DL-DOL-GLOD-NOE,32129813
+Hikaru No Go 3 (Japan)|GHTJA4
+Hikaru no Go 3 (Japan)|DL-DOL-GHTJ-JPN,9E36503D
+Hitman 2 - Silent Assassin (Europe)|DL-DOL-GHMP-UKV,3477A697
+Hitman 2 - Silent Assassin (France)|DL-DOL-GHMF-FRA,B9DD012B
+Hitman 2 - Silent Assassin (Germany)|DL-DOL-GHMD-NOE,8F650EEC
+Hitman 2 - Silent Assassin (USA)|DL-DOL-GHME-USA,23D81915
+Hitman 2: Silent Assassin (Europe)|GHMD4F,GHMF4F,GHMP4F
+Hitman 2: Silent Assassin (USA)|GHME4F
+Hobbit, The - The Prelude to the Lord of the Rings (Europe) (En,Fr,De,Es,It)|DL-DOL-GHBP-EUR,DL-DOL-GHBP-FRA,41EBFF57
+Hobbit, The - The Prelude to the Lord of the Rings (USA)|DL-DOL-GHBE-USA,54EBDA42
+Home Run King (USA)|DL-DOL-GLBE-USA,GLBE8P,E76B8A96
+Homeland (Japan)|GHEJ91
+Homeland (Japan) (Rev 1)|DL-DOL-GHEJ-JPN,741CDE5F
+Homeland (Japan) (Test Disc)|DL-DOL-PHEJ-JPN,00D4BC6D
+Homeland Test Disc (Japan)|PHEJ91
+Hot Wheels - Velocity X (Europe)|DL-DOL-GHWP-EUR,8C0A8A48
+Hot Wheels - Velocity X (USA)|DL-DOL-GHWE-USA,F13412CE
+Hot Wheels - World Race (Europe)|DL-DOL-GHRP-UKV,EFD2E2C1
+Hot Wheels - World Race (USA) (Rev 1)|DL-DOL-GHRE-USA,A0FD866B
+Hot Wheels: Velocity X (Europe)|GHWP78
+Hot Wheels: Velocity X (USA)|GHWE78
+Hot Wheels: World Race (Europe)|GHRP78
+Hot Wheels: World Race (USA)|GHRE78
+Hudson Selection Vol. 1 - Cubic Lode Runner (Japan)|DL-DOL-GQRJ-JPN,E887EF9B
+Hudson Selection Vol. 1: Cubic Lode Runner (Japan)|GQRJ18
+Hudson Selection Vol. 2 - Star Soldier (Japan)|DL-DOL-GJSJ-JPN,6E7DAB62
+Hudson Selection Vol. 2: Star Soldier (Japan)|GJSJ18
+Hudson Selection Vol. 3 - PC Genjin - Pithecanthropus Computerurus (Japan)|DL-DOL-GP4J-JPN,E2549D61
+Hudson Selection Vol. 3: Bonk's Adventure (Japan)|GP4J18
+Hudson Selection Vol. 4 - Takahashi-Meijin no Boukenjima (Japan)|DL-DOL-GTNJ-JPN,93933829
+Hudson Selection Vol. 4: Adventure Island (Japan)|GTNJ18
+Hulk (Europe)|DL-DOL-GHKP-EUR,DL-DOL-GHKP-UKV,GHKD7D,GHKF7D,GHKP7D,GHKS7D,FFDABE9B
+Hulk (France)|DL-DOL-GHKF-FRA,D99457A8
+Hulk (Germany)|DL-DOL-GHKD-NOE,CED72E4B
+Hulk (Spain)|DL-DOL-GHKS-ESP,6A1FF38E
+Hulk (USA)|DL-DOL-GHKE-USA,GHKE7D,451CF050
+Hunter - The Reckoning (Europe) (En,Fr,De)|DL-DOL-GHNX-EUR,2305710C
+Hunter - The Reckoning (USA)|DL-DOL-GHNE-USA,24FA0328
+Hunter: The Reckoning (Europe)|GHNX71
+Hunter: The Reckoning (USA)|GHNE71
+Hyper Sports 2002 Winter (Japan)|DL-DOL-GWSJ-JPN,GWSJA4,6A33B92E
+I-Ninja (USA)|DL-DOL-GNJE-USA,GNJEAF,46D100B8
+Ice Age 2 - The Meltdown (Europe) (En,Fr,De)|DL-DOL-GIAP-EUR,A7E661DA
+Ice Age 2 - The Meltdown (USA)|DL-DOL-GIAE-USA,FFA77E19
+Ice Age 2: The Meltdown (Europe)|GIAP7D
+Ice Age 2: The Meltdown (USA)|GIAE7D
+Ikaruga (Europe)|DL-DOL-GIKP-UKV-01,GIKP70,8B34852B
+Ikaruga (Japan)|DL-DOL-GIKJ-JPN,GIKJ70,03AFAF7E
+Ikaruga (USA)|DL-DOL-GIKE-USA,GIKE70,B150985F
+Incredible Hulk, The - Ultimate Destruction (Europe) (En,Es,It)|DL-DOL-GHUP-EUR,C9C8E10B
+Incredible Hulk, The - Ultimate Destruction (France)|DL-DOL-GHUF-FRA,CECED05C
+Incredible Hulk, The - Ultimate Destruction (USA)|DL-DOL-GHUE-USA,88186314
+Intellivision Lives (USA)|GIVE4Z
+Intellivision Lives! (USA)|DL-DOL-GIVE-USA,A28BD52F
+Interactive Disc Catalog Summer 2003 (Japan)|D55J01
+Interactive Multi Game Demo Disc - September 2002 (Europe)|G97P01
+Interactive Multi-Game Demo Disc - April 2003 (Europe)|D93P01
+Interactive Multi-Game Demo Disc - April 2005 (Europe)|D82P01
+Interactive Multi-Game Demo Disc - April 2006 (Europe)|D77P01
+Interactive Multi-Game Demo Disc - August 2002 (USA)|DL-DOL-G94E-USA,G94E01,C29882E1
+Interactive Multi-Game Demo Disc - December 2002 (Europe)|D95P01
+Interactive Multi-Game Demo Disc - February 2003 (Europe)|D94P01
+Interactive Multi-Game Demo Disc - February 2005 (Europe)|D83P01
+Interactive Multi-Game Demo Disc - January 2002 (USA)|DL-DOL-G98E-USA,G98E01,D0F3EA0A
+Interactive Multi-Game Demo Disc - July 2002 (USA)|DL-DOL-G95E-USA,G95E01,3101DB76
+Interactive Multi-Game Demo Disc - July 2004 (Europe)|D85P01
+Interactive Multi-Game Demo Disc - June 2002 (USA)|DL-DOL-G96E-USA,G96E01,4F2CDF12
+Interactive Multi-Game Demo Disc - June 2003 (Europe)|D92P01
+Interactive Multi-Game Demo Disc - March 2002 (Europe)|G99P01
+Interactive Multi-Game Demo Disc - March 2002 (USA)|DL-DOL-G97E-USA,G97E01,5892C570
+Interactive Multi-Game Demo Disc - March 2004 (Europe)|D87P01
+Interactive Multi-Game Demo Disc - May 2002 (Europe)|G98P01
+Interactive Multi-Game Demo Disc - May 2004 (Europe)|D86P01
+Interactive Multi-Game Demo Disc - May 2005 (Europe)|D79P01
+Interactive Multi-Game Demo Disc - November 2002 (Europe)|G96P01
+Interactive Multi-Game Demo Disc - November 2003 (Europe)|D88P01
+Interactive Multi-Game Demo Disc - November 2004 (Europe)|D84P01
+Interactive Multi-Game Demo Disc - October 2001 (USA)|DL-DOL-G99E-USA,G99E01,2942CD97
+Interactive Multi-Game Demo Disc - October 2005 (Europe)|D78P01
+Interactive Multi-Game Demo Disc - September 2002 (Europe)|G97U01
+Interactive Multi-Game Demo Disc - September 2003 (Europe)|D89P01
+Interactive Multi-Game Demo Disc - Version 10 (USA)|D88E01
+Interactive Multi-Game Demo Disc - Version 11 (USA)|D86E01
+Interactive Multi-Game Demo Disc - Version 12 (USA)|D85E01
+Interactive Multi-Game Demo Disc - Version 13 (USA)|D84E01
+Interactive Multi-Game Demo Disc - Version 14 (USA)|D83E01
+Interactive Multi-Game Demo Disc - Version 15 (USA)|D82E01
+Interactive Multi-Game Demo Disc - Version 16 (USA)|D79E01
+Interactive Multi-Game Demo Disc - Version 17 (USA)|D78E01
+Interactive Multi-Game Demo Disc - Version 18 (USA)|D77E01
+Interactive Multi-Game Demo Disc - Version 19 (USA)|D76E01
+Interactive Multi-Game Demo Disc - Version 20 (USA)|D75E01
+Interactive Multi-Game Demo Disc - Version 21 (USA)|D74E01
+Interactive Multi-Game Demo Disc - Version 22 (USA)|D73E01
+Interactive Multi-Game Demo Disc - Version 23 (USA)|D72E01
+Interactive Multi-Game Demo Disc - Version 24 (USA)|D69E01
+Interactive Multi-Game Demo Disc - Version 25 (USA)|D68E01
+Interactive Multi-Game Demo Disc - Version 26 (USA)|D67E01
+Interactive Multi-Game Demo Disc - Version 27 (USA)|D66E01
+Interactive Multi-Game Demo Disc - Version 28 (USA)|D65E01
+Interactive Multi-Game Demo Disc - Version 29 (USA)|D64E01
+Interactive Multi-Game Demo Disc - Version 30 (USA)|D63E01
+Interactive Multi-Game Demo Disc - Version 31 (USA)|D62E01
+Interactive Multi-Game Demo Disc - Version 32 (USA)|D59E01
+Interactive Multi-Game Demo Disc - Version 33 (USA)|D58E01
+Interactive Multi-Game Demo Disc - Version 34 (USA)|D57E01
+Interactive Multi-Game Demo Disc - Version 35 (USA)|D56E01
+Interactive Multi-Game Demo Disc - Version 7 (USA)|D93E01
+Interactive Multi-Game Demo Disc - Version 8 (USA)|D92E01
+Interactive Multi-Game Demo Disc - Version 9 (USA)|D89E01
+Interactive Multi-Game Demo Disc Version 10 (USA)|DL-DOL-D88E-USA,7D7C372E
+Interactive Multi-Game Demo Disc Version 11 (USA)|DL-DOL-D86E-USA,5CF265C9
+Interactive Multi-Game Demo Disc Version 12 (USA)|DL-DOL-D85E-USA,27BE9F92
+Interactive Multi-Game Demo Disc Version 13 (USA)|DL-DOL-D84E-USA,641AD4DE
+Interactive Multi-Game Demo Disc Version 14 (USA)|DL-DOL-D83E-USA,96537575
+Interactive Multi-Game Demo Disc Version 15 (USA)|DL-DOL-D82E-USA,42966702
+Interactive Multi-Game Demo Disc Version 16 (USA)|DL-DOL-D79E-USA,6B3DF446
+Interactive Multi-Game Demo Disc Version 17 (USA)|DL-DOL-D78E-USA,C0F9768A
+Interactive Multi-Game Demo Disc Version 18 (USA)|DL-DOL-D77E-USA,D3A5251F
+Interactive Multi-Game Demo Disc Version 19 (USA)|DL-DOL-D76E-USA,486465C7
+Interactive Multi-Game Demo Disc Version 20 (USA)|DL-DOL-D75E-USA,8AE77C83
+Interactive Multi-Game Demo Disc Version 21 (USA)|DL-DOL-D74E-USA,06B3D6F3
+Interactive Multi-Game Demo Disc Version 22 (USA)|DL-DOL-D73E-USA,CE3FDC74
+Interactive Multi-Game Demo Disc Version 23 (USA)|DL-DOL-D72E-USA,04EE6C59
+Interactive Multi-Game Demo Disc Version 24 (USA)|DL-DOL-D69E-USA,9CF6404C
+Interactive Multi-Game Demo Disc Version 25 (USA)|DL-DOL-D68E-USA,1810DC0B
+Interactive Multi-Game Demo Disc Version 26 (USA)|DL-DOL-D67E-USA,F2675688
+Interactive Multi-Game Demo Disc Version 27 (USA)|DL-DOL-D66E-USA,87B8ADD6
+Interactive Multi-Game Demo Disc Version 28 (USA)|DL-DOL-D65E-USA,052A45B7
+Interactive Multi-Game Demo Disc Version 29 (USA)|DL-DOL-D64E-USA,D936A2C2
+Interactive Multi-Game Demo Disc Version 30 (USA)|DL-DOL-D63E-USA,509003FB
+Interactive Multi-Game Demo Disc Version 31 (USA)|DL-DOL-D62E-USA,7F831187
+Interactive Multi-Game Demo Disc Version 32 (USA)|DL-DOL-D59E-USA,76819E81
+Interactive Multi-Game Demo Disc Version 33 (USA)|DL-DOL-D58E-USA,60574C2C
+Interactive Multi-Game Demo Disc Version 34 (USA)|DL-DOL-D57E-USA,47B7F19C
+Interactive Multi-Game Demo Disc Version 35 (USA)|DL-DOL-D56E-USA,616D2B99
+Interactive Multi-Game Demo Disc Version 7 (USA)|DL-DOL-D93E-USA,DE89FC11
+Interactive Multi-Game Demo Disc Version 8 (USA)|DL-DOL-D92E-USA,21613E61
+Interactive Multi-Game Demo Disc Version 9 (USA)|DL-DOL-D89E-USA,C4E004CB
+Interactive Multi-Game Demo Disk - April 2002 (Japan)|D28J01
+Interactive Multi-Game Demo Disk - April 2003 (Australia) (En,Fr,De,Es,It)|DL-DOL-D95U-AUS,3271381A
+Interactive Multi-Game Demo Disk - April 2003 (Europe) (En,Fr,De,Es,It)|DL-DOL-D93P-EUR,5400521F
+Interactive Multi-Game Demo Disk - April 2005 (Europe) (En,Fr,De,Es,It)|DL-DOL-D82P-EUR,7A9846E0
+Interactive Multi-Game Demo Disk - April 2006 (Europe) (En,Fr,De,Es,It)|DL-DOL-D77P-EUR,37045253
+Interactive Multi-Game Demo Disk - December 2002 (Europe) (En,Fr,De,Es,It)|DL-DOL-D95P-EUR,271B16D3
+Interactive Multi-Game Demo Disk - February 2003 (Europe) (En,Fr,De,Es,It)|DL-DOL-D94P-EUR,76A3D320
+Interactive Multi-Game Demo Disk - February 2005 (Australia) (En,Fr,De,Es,It)|DL-DOL-D87U-AUS,F5928085
+Interactive Multi-Game Demo Disk - February 2005 (Europe) (En,Fr,De,Es,It)|DL-DOL-D83P-EUR,579544DB
+Interactive Multi-Game Demo Disk - July 2004 (Europe) (En,Fr,De,Es,It)|DL-DOL-D85P-EUR,3789AD2C
+Interactive Multi-Game Demo Disk - June 2003 (Europe) (En,Fr,De,Es,It)|DL-DOL-D92P-EUR,65D22D6B
+Interactive Multi-Game Demo Disk - March 2002 (Europe) (En,Fr,De,Es,It)|DL-DOL-G99P-EUR,84A48D07
+Interactive Multi-Game Demo Disk - March 2004 (Australia)|DL-DOL-D92U-AUS,0FE4A588
+Interactive Multi-Game Demo Disk - March 2004 (Europe) (En,Fr,De,Es,It)|DL-DOL-D87P-EUR,382EC0D8
+Interactive Multi-Game Demo Disk - May 2002 (Europe) (En,Fr,De,Es,It)|DL-DOL-G98P-EUR,7E940A6B
+Interactive Multi-Game Demo Disk - May 2004 (Australia)|DL-DOL-D89U-AUS,69AEF6C7
+Interactive Multi-Game Demo Disk - May 2004 (Europe) (En,Fr,De,Es,It)|DL-DOL-D86P-EUR,4F06CA18
+Interactive Multi-Game Demo Disk - May 2005 (Europe) (En,Fr,De,Es,It)|DL-DOL-D79P-EUR,F356E64C
+Interactive Multi-Game Demo Disk - November 2002 (Europe) (En,Fr,De,Es,It)|DL-DOL-D96P-EUR,DL-DOL-G96P-EUR,E29F67F7
+Interactive Multi-Game Demo Disk - November 2003 (Australia) (En,Fr,De,Es,It)|DL-DOL-D93U-AUS,F4740C7E
+Interactive Multi-Game Demo Disk - November 2003 (Europe) (En,Fr,De,Es,It)|DL-DOL-D88P-EUR,FB77F000
+Interactive Multi-Game Demo Disk - November 2004 (Australia) (En,Fr,De,Es,It)|DL-DOL-D88U-AUS,30507DF6
+Interactive Multi-Game Demo Disk - November 2004 (Europe) (En,Fr,De,Es,It)|DL-DOL-D84P-EUR,0EED226F
+Interactive Multi-Game Demo Disk - October 2005 (Australia) (En,Fr,De,Es,It)|DL-DOL-D86U-AUS,44EE94DC
+Interactive Multi-Game Demo Disk - October 2005 (Europe) (En,Fr,De,Es,It)|DL-DOL-D78P-EUR,158E12F2
+Interactive Multi-Game Demo Disk - September 2002 (Australia) (En,Fr,De,Es,It)|DL-DOL-G97U-AUS,25FCCA0F
+Interactive Multi-Game Demo Disk - September 2002 (Europe) (En,Fr,De,Es,It)|DL-DOL-G97P-EUR,E38C117C
+Interactive Multi-Game Demo Disk - September 2003 (Australia)|DL-DOL-D94U-AUS,2435A8F1
+Interactive Multi-Game Demo Disk - September 2003 (Europe) (En,Fr,De,Es,It)|DL-DOL-D89P-EUR,55FB8878
+International Superstar Soccer 2 (Europe)|GJ2PA4
+International Superstar Soccer 2 (Europe) (En,Fr,De,Es,It)|DL-DOL-GJ2P-EUR,1D4A5F3E
+International Superstar Soccer 3 (Europe)|GJ3PA4
+International Superstar Soccer 3 (Europe) (En,Fr,De,Es,It)|DL-DOL-GJ3P-EUR,9C44D6FF
+Italian Job, The (Europe) (En,Fr,De,Es,It)|DL-DOL-GIBP-NOE,4BBF11BC
+Italian Job, The (USA)|DL-DOL-GIBE-USA,7F6469AB
+James Bond 007 in Agent Under Fire (Europe)|GW7D69,GW7F69,GW7P69
+James Bond 007 in Agent Under Fire (USA)|GW7E69
+James Bond 007: Everything or Nothing (Europe)|GENF69,GENS69
+James Bond 007: Everything Or Nothing (Europe)|GEND69,GENP69
+James Bond 007: From Russia With Love (Europe)|GLZD69,GLZF69,GLZP69
+James Bond 007: NightFire (Europe)|GO7D69,GO7F69,GO7P69,GO7S69
+Jeremy McGrath SuperCross World (Europe)|GSCP51
+Jeremy McGrath Supercross World (Europe) (En,Fr,De,Es,It)|DL-DOL-GSCP-EUR,323BE88C
+Jeremy McGrath SuperCross World (USA)|GSCE51
+Jeremy McGrath Supercross World (USA)|DL-DOL-GSCE-USA,0A74F23A
+Jikkyou Powerful Major League (Japan)|DL-DOL-GYMJ-JPN,GYMJA4,69BEB71D
+Jikkyou Powerful Pro Yakyuu 10 (Japan)|DL-DOL-GPJJ-JPN,GPJJCM,16E40639
+Jikkyou Powerful Pro Yakyuu 10 Chou Ketteiban - 2003 Memorial (Japan)|DL-DOL-GIOJ-JPN,GIOJCM,81A05981
+Jikkyou Powerful Pro Yakyuu 11 (Japan)|DL-DOL-GJPJ-JPN,GJPJCM,A9F89B28
+Jikkyou Powerful Pro Yakyuu 11 Chou Ketteiban (Japan)|DL-DOL-GEJJ-JPN,GEJJCM,E838BED2
+Jikkyou Powerful Pro Yakyuu 12 (Japan)|DL-DOL-GKPJ-JPN,GKPJA4,A7AC5DF7
+Jikkyou Powerful Pro Yakyuu 12 - Ketteiban (Japan)|DL-DOL-GKEJ-JPN,16FAA65B
+Jikkyou Powerful Pro Yakyuu 12 Ketteiban (Japan)|GKEJA4
+Jikkyou Powerful Pro Yakyuu 9 (Japan)|DL-DOL-GPPJ-JPN,GPPJCM,9B7268C4
+Jikkyou Powerful Pro Yakyuu 9 - Ketteiban (Japan)|DL-DOL-G9KJ-JPN,G9KJCM,FA09AF6E
+Jikkyou World Soccer 2002 (Japan)|DL-DOL-GJ2J-JPN,GJ2JCM,4229CFF9
+Jimmy Neutron Boy Genius (Europe)|GJNP78
+Jimmy Neutron Boy Genius (USA)|GJNE78
+Jimmy Neutron Boy Genius: Attack of the Twonkies (Europe)|GJYP78
+Jimmy Neutron Jet Fusion (Europe)|GJFP78
+Jimmy Neutron Jet Fusion (USA)|GJFE78
+Jimmy Neutron: Attack of the Twonkies (USA)|GJYE78
+Jimmy Neutron: Boy Genius (Europe)|GJND78
+Judge Dredd - Dredd vs. Death (Europe) (En,Fr)|DL-DOL-GJDY-EUU,39D04D0A
+Judge Dredd - Dredd vs. Death (Germany) (En,De)|DL-DOL-GJDX-EUR,638F2200
+Judge Dredd - Dredd vs. Death (USA)|DL-DOL-GJDE-USA,19FA8D6C
+Judge Dredd: Dredd vs. Death (Europe)|GJDX7D,GJDY7D
+Judge Dredd: Dredd vs. Death (USA)|GJDE5S
+Kaijuu no Shima - Amazing Island (Japan)|DL-DOL-GKAJ-JPN,45401A74
+Kaijuu no Shima: Amazing Island (Japan)|GKAJ8P
+Kao the Kangaroo - Round 2 (Europe) (En,Fr,De,Es,It)|DL-DOL-GKOP-NOE,2894392A
+Kao the Kangaroo - Round 2 (USA)|DL-DOL-GKOE-USA,3C858664
+Kao The Kangaroo Round 2 (Europe)|GKOP6V
+Kao The Kangaroo Round 2 (USA)|GKOE70
+Karaoke Revolution Party (USA)|DL-DOL-GK9E-USA,GK9EA4,AF292DDC
+Kelly Slater's Pro Surfer (Europe)|DL-DOL-GKSP-UKV,GKSP52,GKSX52,81976BF2
+Kelly Slater's Pro Surfer (Europe) (En,Fr,De)|DL-DOL-GKSX-EUR,DL-DOL-GKSX-EUU,B4709CC4
+Kelly Slater's Pro Surfer (USA)|DL-DOL-GKSE-USA,GKSE52,3EE8A0DA
+Kero Kero King DX (Japan)|DL-DOL-GKRJ-JPN,GKRJB2,8C8F0EF3
+Kidou Senshi Gundam - Gundam vs. Z Gundam (Japan)|DL-DOL-G2GJ-JPN,AD128A51
+Kidou Senshi Gundam - Senshi-tachi no Kiseki (Japan)|DL-DOL-GGAJ-JPN,53ED327B
+Kidou Senshi Gundam - Senshi-tachi no Kiseki (Japan) (Special Disc)|DL-DOL-DGAJ-DIS,05458FAD
+Kidou Senshi Gundam - Senshi-tachi no Kiseki - Kadokawa Shoten Rengou Kikaku Tokubetsu-hen (Japan)|DL-DOL-GKCJ-JPN,FE5B5A53
+Kidou Senshi Gundam - Senshitachi no Kiseki Special Disc (Japan)|DGAJB2
+Killer 7 (Europe)|GK7P08
+Killer7 (Europe) (En,Fr,De) (Disc 1)|DL-DOL-GK7P-0-EUR,DL-DOL-GK7P-0-EUR-0,77AEC1E7
+Killer7 (Europe) (En,Fr,De) (Disc 2)|DL-DOL-GK7P-1-EUR,DL-DOL-GK7P-1-EUR-1,C0A57674
+Killer7 (Japan)|GK7J08
+Killer7 (Japan) (Disc 1) (Rev 2)|DL-DOL-GK7J-0-JPN,DL-DOL-GK7J-0-JPN-0,F5B8313F
+Killer7 (Japan) (Disc 2) (Rev 2)|DL-DOL-GK7J-1-JPN,DL-DOL-GK7J-1-JPN-1,D24AC1B5
+Killer7 (USA)|GK7E08
+Killer7 (USA) (Disc 1) (Rev 1)|DL-DOL-GK7E-0-USA,DL-DOL-GK7E-0-USA-0,64F21D40
+Killer7 (USA) (Disc 2) (Rev 1)|DL-DOL-GK7E-1-USA,DL-DOL-GK7E-1-USA-1,3D830B55
+King Arthur (Europe)|GKHPA4
+King Arthur (Europe) (En,Fr,De,Es,It)|DL-DOL-GKHP-EUR,EE3C9CF7
+King Arthur (USA)|DL-DOL-GKHE-USA,GKHEA4,CC22363F
+Kinnikuman Nisei - Shinsedai Choujin vs. Densetsu Choujin (Japan)|DL-DOL-GKNJ-JPN,DF30F976
+Kinnikuman Nisei: Shinsedai Choujin vs Densetsu Choujin (Japan)|GKNJB2
+Kirby Air Ride (Europe)|GKYP01
+Kirby Air Ride (Europe) (En,Fr,De,Es,It)|DL-DOL-GKYP-EUR,FB84BFC5
+Kirby Air Ride (Korea)|DL-DOL-GKYE-KOR,7D5BBD40
+Kirby Air Ride (USA)|DL-DOL-GKYE-USA,GKYE01,F1A3E7A2
+Kirby's Airride (Japan)|DL-DOL-GKYJ-JPN,GKYJ01,03186E58
+Kiwame Mahjong DX II - The 4th MONDO21Cup Competition (Japan)|DL-DOL-GKXJ-JPN,2583BE45
+Kiwame Mahjong DX2 (Japan)|GKXJE7
+Knights of the Temple - Infernal Crusade (Europe) (En,Fr,De,Es)|DL-DOL-GTPP-EUR,3114D1C4
+Knights Of The Temple: Infernal Crusade (Europe)|GTPP6S
+Knockout Kings 2003 (Europe)|GKKP69
+Knockout Kings 2003 (Europe) (En,Fr,De)|DL-DOL-GKKP-EUR,EE59E1DB
+Knockout Kings 2003 (USA)|DL-DOL-GKKE-USA,GKKE69,119D506E
+Konjiki no Gashbell!! Go! Go! Mamono Fight!! (Japan)|DL-DOL-GABJ-JPN,GABJB2,06FA3328
+Konjiki no Gashbell!! Yuujou Tag Battle - Full Power (Japan)|DL-DOL-GGKJ-JPN,GGKJB2,658027E8
+Konjiki no Gashbell!! Yuujou Tag Battle 2 (Japan)|DL-DOL-GYKJ-JPN,GYKJB2,B6F18A4A
+Kururin Squash! (Japan)|DL-DOL-GKQJ-JPN,GKQJ01,8BE76FA2
+Kyojin no Doshin (Japan)|DL-DOL-GKDJ-JPN,GKDJ01,21FC1CA2
+Lara Croft Tomb Raider - Legend (Europe)|DL-DOL-GL8P-UKV,B9ECF301
+Lara Croft Tomb Raider - Legend (France)|DL-DOL-GL8F-FRA,FC703CB9
+Lara Croft Tomb Raider - Legend (Germany)|DL-DOL-GL8D-NOE,AC2DF000
+Lara Croft Tomb Raider - Legend (USA)|DL-DOL-GL8E-USA,A5F49142
+Lara Croft Tomb Raider: Legend (Europe)|GL8D4F,GL8F4F,GL8P4F
+Lara Croft Tomb Raider: Legend (USA)|GL8E4F
+Largo Winch - Empire Under Threat (Europe) (En,Fr,De,Es,It)|DL-DOL-GLGP-EUR,CE0A38B3
+Largo Winch: Empire Under Threat (Europe)|GLGP41
+Legend of Golfer (Japan)|DL-DOL-GLXJ-JPN,GLXJ29,EAAA2990
+Legend of Spyro, The - A New Beginning (Europe) (En,Fr,De,Es,It,Nl)|DL-DOL-G6SP-EUR,23D400CB
+Legend of Spyro, The - A New Beginning (USA)|DL-DOL-G6SE-USA,8B1A3DFF
+Legend of Zelda, The - Collector's Edition (Europe) (En,Fr,De,Es,It)|DL-DOL-PZLP-EUR,667329D4
+Legend of Zelda, The - Collector's Edition (USA)|DL-DOL-PZLE-USA,8D2141CF
+Legend of Zelda, The - Four Swords Adventures (Europe) (En,Fr,De,Es,It)|DL-DOL-G4SP-EUR,D99F34E4
+Legend of Zelda, The - Four Swords Adventures (USA)|DL-DOL-G4SE-USA,AFB151E4
+Legend of Zelda, The - Ocarina of Time & Master Quest (Australia) (En,Fr,De)|DL-DOL-D43U-AUS,2DE26446
+Legend of Zelda, The - Ocarina of Time & Master Quest (Europe) (En,Fr,De)|DL-DOL-D43P-EUR,DL-DOL-D43P-EUR-1,089B978D
+Legend of Zelda, The - Ocarina of Time & Master Quest (Korea)|DL-DOL-D43W-KOR,9724CCC4
+Legend of Zelda, The - Ocarina of Time & Master Quest (USA)|DL-DOL-D43E-USA,C1719A28
+Legend of Zelda, The - The Wind Waker (Europe) (En,Fr,De,Es,It)|DL-DOL-GZLP-EUR,DL-DOL-GZLP-EUR-01,61FC5423
+Legend of Zelda, The - The Wind Waker (Korea)|DL-DOL-GZLE-KOR,79706BF2
+Legend of Zelda, The - The Wind Waker (USA)|DL-DOL-GZLE-USA,AD21C2BA
+Legend of Zelda, The - Twilight Princess (Europe) (En,Fr,De,Es,It)|DL-DOL-GZ2P-EUR,61FE14DA
+Legend of Zelda, The - Twilight Princess (USA)|DL-DOL-GZ2E-USA,0AB54D43
+Legends of Wrestling (Europe)|DL-DOL-GLWP-EUR,GLWP51,D61D8252
+Legends of Wrestling (USA)|DL-DOL-GLWE-USA,GLWE51,A1E7B7F3
+Legends of Wrestling II (Europe)|DL-DOL-GL2P-EUR,GL2P51,99CA4717
+Legends of Wrestling II (USA)|DL-DOL-GL2E-USA,GL2E51,C1F26489
+LEGO Star Wars - The Video Game (Europe)|DL-DOL-GL5P-UKV,0D2CA119
+LEGO Star Wars - The Video Game (Europe) (Fr,De)|DL-DOL-GL5X-EUR,D43D1D0E
+LEGO Star Wars - The Video Game (USA)|DL-DOL-GL5E-USA,8416D40E
+LEGO Star Wars II - The Original Trilogy (Europe) (En,Fr,De,Da) (Rev 1)|DL-DOL-GL7P-EUR,8A5483E9
+LEGO Star Wars II - The Original Trilogy (USA)|DL-DOL-GL7E-USA,CEA162CD
+LEGO Star Wars II: The Original Trilogy (Europe)|GL7P64
+LEGO Star Wars II: The Original Trilogy (USA)|GL7E64
+LEGO Star Wars: The Video Game (Europe)|GL5P4F,GL5X4F
+LEGO Star Wars: The Video Game (USA)|GL5E4F
+Lemony Snicket - Raetselhafte Ereignisse (Germany)|DL-DOL-GLCD-NOE,63B66FF7
+Lemony Snicket's A Series of Unfortunate Events (Europe)|DL-DOL-GLCP-UKV,77D6CA5F
+Lemony Snicket's A Series of Unfortunate Events (USA)|DL-DOL-GLCE-USA,7C5AEE12
+Lemony Snickets A Series Of Unfortunate Events (Europe)|GLCD52,GLCF52,GLCP52,GLCS52
+Lemony Snickets A Series Of Unfortunate Events (USA)|GLCE52
+Looney Tunes - Back in Action (Europe) (En,Fr,De,Es,It)|DL-DOL-GLNP-EUR,127250F2
+Looney Tunes - Back in Action (USA) (Rev 1)|DL-DOL-GLNE-USA,2A5BBD66
+Looney Tunes: Back in Action (Europe)|GLNP69
+Looney Tunes: Back in Action (USA)|GLNE69
+Lord of the Rings - Futatsu no Tou (Japan)|DL-DOL-GLOJ-JPN,GLOJ13,5CA96026
+Lord of the Rings - Nakatsu Kuni Daisanki (Japan)|G3AJ13
+Lord of the Rings - Nakatsu Kuni Daisanki (Japan) (Disc 1)|DL-DOL-G3AJ-0-JPN,DL-DOL-G3AJ-0-JPN-0,EC243C47
+Lord of the Rings - Nakatsu Kuni Daisanki (Japan) (Disc 2)|DL-DOL-G3AJ-1-JPN,DL-DOL-G3AJ-1-JPN-1,62CD531E
+Lord of the Rings - Ou no Kikan (Japan)|DL-DOL-GKLJ-JPN,084083C2
+Lord of the Rings, The - The Return of the King (Europe) (En,Nl,Sv)|DL-DOL-GKLP-EUR,E44886CE
+Lord of the Rings, The - The Return of the King (USA)|DL-DOL-GKLE-USA,9CAA554A
+Lord of the Rings, The - The Third Age (Europe) (Disc 1)|DL-DOL-G3AP-0-UKV,DL-DOL-G3AP-0-UKV-0,D82E7757
+Lord of the Rings, The - The Third Age (Europe) (Disc 2)|DL-DOL-G3AP-1-UKV,DL-DOL-G3AP-1-UKV-1,DD886D7C
+Lord of the Rings, The - The Third Age (USA) (Disc 1)|DL-DOL-G3AE-0-USA,DL-DOL-G3AE-0-USA-0,D1F2B4B3
+Lord of the Rings, The - The Third Age (USA) (Disc 2)|DL-DOL-G3AE-1-USA,DL-DOL-G3AE-1-USA-1,5EBF714E
+Lord of the Rings, The - The Two Towers (Europe) (En,Nl)|DL-DOL-GLOP-EUR,221F5B1B
+Lord of the Rings, The - The Two Towers (USA)|DL-DOL-GLOE-USA,B47E9571
+Lost Kingdoms (Europe)|GRNP52
+Lost Kingdoms (Europe) (En,Fr)|DL-DOL-GRNP-EUR,DL-DOL-GRNP-UKV,258C7E46
+Lost Kingdoms (USA)|DL-DOL-GRNE-USA,GRNE52,CE6B2479
+Lost Kingdoms 2 (Europe)|GR2P52
+Lost Kingdoms II (Europe) (En,Fr,De)|DL-DOL-GR2P-EUR-01,5487D388
+Lost Kingdoms II (USA)|DL-DOL-GR2E-USA,GR2E52,116D9C73
+Lotus Challenge (USA)|DL-DOL-GLUE-USA,GLUE7U,0B125F9D
+Luigi Mansion (Japan)|DL-DOL-GLMJ-DIS,DL-DOL-GLMJ-JPN,A98BE430
+Luigi's Mansion (Europe)|GLMP01
+Luigi's Mansion (Europe) (En,Fr,De,Es,It) (Rev 1)|DL-DOL-GLMP-EUR,9A75E03A
+Luigi's Mansion (Japan)|GLMJ01
+Luigi's Mansion (USA)|DL-DOL-GLME-USA,DL-DOL-GLME-USA-01,GLME01,0B0C339D
+Lupin III - Umi ni Kieta Hihou (Japan) (Disc 1)|DL-DOL-GL3J-0-JPN,DL-DOL-GL3J-0-JPN-0,172C7836
+Lupin III - Umi ni Kieta Hihou (Japan) (Disc 2)|DL-DOL-GL3J-1-JPN,DL-DOL-GL3J-1-JPN-1,83C059EB
+Lupin The Third - Umi Ni Kieta Hihou (Japan)|GL3JE8
+Madagascar (Europe)|GGZH52,GGZI52,GGZP52,GGZS52,GGZX52
+Madagascar (Japan)|GGZJB2
+Madagascar (USA)|GGZE52
+Madden NFL 06 (Europe)|DL-DOL-G6MP-UKV,G6MP69,4BDF0ADD
+Madden NFL 06 (USA)|DL-DOL-G6ME-USA,G6ME69,202067FD
+Madden NFL 07 (USA)|DL-DOL-G7ME-USA,G7ME69,43560925
+Madden NFL 08 (USA)|DL-DOL-GQ8E-USA,GQ8E69,AF33D165
+Madden NFL 2002 (USA)|DL-DOL-GMDE-USA,GMDE69,8F2AE860
+Madden NFL 2003 (Europe)|DL-DOL-GM3P-EUR,GM3P69,3AD4FBCD
+Madden NFL 2003 (USA)|DL-DOL-GM3E-USA,GM3E69,A1719769
+Madden NFL 2004 (Europe)|DL-DOL-GQXP-EUR,DL-DOL-GQXP-UKV,GQXP69,461FC5F9
+Madden NFL 2004 (USA)|GQXE69
+Madden NFL 2004 (USA) (Rev 1)|DL-DOL-GQXE-USA,ECEF8D57
+Madden NFL 2005 (Europe)|DL-DOL-GNQP-EUR,DL-DOL-GNQP-UKV,GNQP69,328E3A00
+Madden NFL 2005 (USA)|DL-DOL-GNQE-USA,GNQE69,6C027878
+Mahou no Pumpkin - An to Greg no Daibouken (Japan)|DL-DOL-GCWJ-JPN,GCWJBL,5E7C586A
+Major League Baseball 2K6 (USA)|DL-DOL-G62E-USA,G62E54,412B04D1
+Mario Golf - Family Tour (Japan)|DL-DOL-GFTJ-JPN,D23EAE99
+Mario Golf - Toadstool Tour (Europe) (En,Fr,De,Es,It)|DL-DOL-GFTP-EUR,126A6DB1
+Mario Golf - Toadstool Tour (Korea)|DL-DOL-GFTE-KOR,B4503876
+Mario Golf - Toadstool Tour (USA)|DL-DOL-GFTE-USA,38A86294
+Mario Golf: Family Tour (Japan)|GFTJ01
+Mario Golf: Toadstool Tour (Europe)|GFTP01
+Mario Golf: Toadstool Tour (USA)|GFTE01
+Mario Kart - Double Dash!! (Europe) (En,Fr,De,Es,It)|DL-DOL-GM4P-EUR,A211EDB6
+Mario Kart - Double Dash!! (Japan)|DL-DOL-GM4J-JPN,B87F0038
+Mario Kart - Double Dash!! (Korea)|DL-DOL-GM4E-KOR,8566768F
+Mario Kart - Double Dash!! (USA)|DL-DOL-GM4E-USA,099E2C6D
+Mario Kart - Double Dash!! (USA) (Bonus Disc)|DL-DOL-PM4E-USA,7C7068A9
+Mario Kart: Double Dash!! (Europe)|GM4P01
+Mario Kart: Double Dash!! (Japan)|GM4J01
+Mario Kart: Double Dash!! (USA)|GM4E01
+Mario Kart: Double Dash!! Bonus Disc (USA)|PM4E01
+Mario Party 4 (Europe)|GMPP01
+Mario Party 4 (Europe) (En,Fr,De,Es,It)|DL-DOL-GMPP-EUR,BDD1556F
+Mario Party 4 (Europe) (En,Fr,De,Es,It) (Rev 2)|DL-DOL-GMPP-EUR-01,FAD57787
+Mario Party 4 (Japan)|DL-DOL-GMPJ-JPN,GMPJ01,2BF0295A
+Mario Party 4 (Korea)|DL-DOL-GMPE-KOR,0C7A88DC
+Mario Party 4 (USA)|GMPE01
+Mario Party 4 (USA) (Rev 1)|DL-DOL-GMPE-USA,06AE54F0
+Mario Party 5 (Europe)|GP5P01
+Mario Party 5 (Europe) (En,Fr,De,Es,It)|DL-DOL-GP5P-EUR,AFC58F78
+Mario Party 5 (Japan)|DL-DOL-GP5J-JPN,GP5J01,2F14B6EE
+Mario Party 5 (Korea)|DL-DOL-GP5W-KOR,C77497E4
+Mario Party 5 (USA)|DL-DOL-GP5E-USA,GP5E01,099BB35A
+Mario Party 6 (Europe)|GP6P01
+Mario Party 6 (Europe) (En,Fr,De,Es,It)|DL-DOL-GP6P-EUR,E1DDA2C9
+Mario Party 6 (Japan)|DL-DOL-GP6J-JPN,GP6J01,0FADBA1E
+Mario Party 6 (USA)|DL-DOL-GP6E-USA,GP6E01,ABC622EC
+Mario Party 7 (Europe)|GP7P01
+Mario Party 7 (Europe) (En,Fr,De,Es,It)|DL-DOL-GP7P-EUR,A543ADBC
+Mario Party 7 (Japan)|DL-DOL-GP7J-JPN,GP7J01,78C91BB8
+Mario Party 7 (USA)|GP7E01
+Mario Party 7 (USA) (Rev 1)|DL-DOL-GP7E-USA,8582361B
+Mario Power Tennis (Europe)|GOMP01
+Mario Power Tennis (Europe) (En,Fr,De,Es,It)|DL-DOL-GOMP-EUR,1523102B
+Mario Power Tennis (USA)|GOME01
+Mario Power Tennis (USA) (Rev 1)|DL-DOL-GOME-USA,EF719371
+Mario Smash Football (Europe)|G4QP01
+Mario Smash Football (Europe) (En,Fr,De,Es,It)|DL-DOL-G4QP-EUR,77677E49
+Mario Superstar Baseball (Europe)|DL-DOL-GYQP-EUR,GYQP01,FA1CCFC7
+Mario Superstar Baseball (USA)|DL-DOL-GYQE-USA,GYQE01,89CDB7B7
+Mario Tennis GC (Japan)|GOMJ01
+Mario Tennis GC (Japan) (Rev 1)|DL-DOL-GOMJ-JPN,9264A2EC
+Mark Davis Pro Bass Challenge (USA)|DL-DOL-G9BE-USA,G9BEE9,89BC8C9F
+Marvel Nemesis - L'Avenement des Imparfaits (France)|DL-DOL-GVLF-FRA,C7F6C9F1
+Marvel Nemesis - Rise of the Imperfects (Europe)|DL-DOL-GVLP-UKV,6E534882
+Marvel Nemesis - Rise of the Imperfects (Germany)|DL-DOL-GVLD-NOE,64AB1401
+Marvel Nemesis - Rise of the Imperfects (USA)|DL-DOL-GVLE-USA,A3776354
+Marvel Nemesis: Rise of the Imperfects (Europe)|GVLD69,GVLF69,GVLP69
+Marvel Nemesis: Rise of the Imperfects (USA)|GVLE69
+Mary-Kate and Ashley - Sweet 16 - Licensed to Drive (Europe)|DL-DOL-GMAP-EUR,2B432841
+Mary-Kate and Ashley - Sweet 16 - Licensed to Drive (USA)|DL-DOL-GMAE-USA,817D3137
+Mary-Kate and Ashley: Sweet 16 Licensed to Drive (Europe)|GMAP51
+Mary-Kate and Ashley: Sweet 16 Licensed to Drive (USA)|GMAE51
+Mat Hoffman's Pro BMX 2 (Europe)|DL-DOL-GMHP-EUR,GMHP52,7DD73EB3
+Mat Hoffman's Pro BMX 2 (USA)|DL-DOL-GMHE-USA,CDFAD5B1
+Matt Hoffman's Pro BMX 2 (USA)|GMHE52
+MC Groovz Dance Craze (Europe)|GR4PMZ
+MC Groovz Dance Craze (Europe) (En,Fr,De,Es,It)|DL-DOL-GR4P-EUR,EC6ED5AE
+MC Groovz Dance Craze (USA)|DL-DOL-GR4E-USA,GR4EMZ,9B5DFF04
+Medabots Infinity (Europe)|GM6PE9
+Medabots Infinity (Europe) (En,Fr,De,Nl)|DL-DOL-GM6P-EUR,0C2A51EC
+Medabots Infinity (USA)|GM6EE9
+Medabots Infinity (USA) (Rev 1)|DL-DOL-GM6E-USA,257D7250
+Medal of Honor - En Premiere Ligne (France)|DL-DOL-GMFF-FRA,70286E7B
+Medal of Honor - Europa Kyoushuu (Japan)|DL-DOL-GONJ-JPN,D1237E99
+Medal of Honor - European Assault (Europe)|DL-DOL-GONP-EUR,2852D9B5
+Medal of Honor - European Assault (Germany)|DL-DOL-GOND-NOE,E8069949
+Medal of Honor - European Assault (USA)|DL-DOL-GONE-USA,B8925A76
+Medal of Honor - Frontline (Europe)|DL-DOL-GMFP-UKV,2430A324
+Medal of Honor - Frontline (Germany)|DL-DOL-GMFD-NOE,8707598D
+Medal of Honor - Frontline (Italy)|DL-DOL-GMFI-ITA,580DBD0A
+Medal of Honor - Frontline (Spain)|DL-DOL-GMFS-ESP,315BB8BA
+Medal of Honor - Frontline (USA)|DL-DOL-GMFE-USA,33295DF7
+Medal of Honor - Les Faucons de Guerre (France)|DL-DOL-GONF-FRA,49E17288
+Medal of Honor - Rising Sun (Europe) (En,Es,It,Nl,Sv) (Disc 1)|DL-DOL-GR8P-0-EUR,DL-DOL-GR8P-0-EUR-0,92481F32
+Medal of Honor - Rising Sun (Europe) (En,Es,It,Nl,Sv) (Disc 2)|DL-DOL-GR8P-1-EUR,DL-DOL-GR8P-1-EUR-1,B2B5A18F
+Medal of Honor - Rising Sun (Germany) (Disc 1)|DL-DOL-GR8D-0-NOE,DL-DOL-GR8D-0-NOE-0,2C73EC74
+Medal of Honor - Rising Sun (Germany) (Disc 2)|DL-DOL-GR8D-1-NOE,DL-DOL-GR8D-1-NOE-1,8E136FE4
+Medal of Honor - Rising Sun (Japan) (Disc 1)|DL-DOL-GRZJ-0-JPN,DL-DOL-GRZJ-0-JPN-0,23AD9EFC
+Medal of Honor - Rising Sun (Japan) (Disc 2)|DL-DOL-GRZJ-1-JPN,DL-DOL-GRZJ-1-JPN-1,36BF719E
+Medal of Honor - Rising Sun (USA) (Disc 1)|DL-DOL-GR8E-0-USA,DL-DOL-GR8E-0-USA-0,2F2F6F2A
+Medal of Honor - Rising Sun (USA) (Disc 2)|DL-DOL-GR8E-1-USA,DL-DOL-GR8E-1-USA-1,7572A915
+Medal of Honor - Soleil Levant (France) (Disc 1)|DL-DOL-GR8F-0-FRA,DL-DOL-GR8F-0-FRA-0,210DA06D
+Medal of Honor - Soleil Levant (France) (Disc 2)|DL-DOL-GR8F-1-FRA,DL-DOL-GR8F-1-FRA-1,BF4C34F9
+Medal of Honor: Europa Kyoushuu (Japan)|GONJ13
+Medal of Honor: European Assault (Europe)|GOND69,GONF69,GONP69
+Medal of Honor: European Assault (USA)|GONE69
+Medal of Honor: Frontline (Europe)|GMFD69,GMFF69,GMFI69,GMFP69,GMFS69
+Medal of Honor: Frontline (USA)|GMFE69
+Medal of Honor: Rising Sun (Europe)|GR8D69,GR8F69,GR8P69
+Medal of Honor: Rising Sun (Japan)|GRZJ13
+Medal of Honor: Rising Sun (USA)|GR8E69
+Medarot Brave (Japan)|GM6JE9
+Medarot Brave (Japan) (Rev 1)|DL-DOL-GM6J-JPN,CEC865C6
+Meet the Robinsons (USA)|GQTE4Q
+Mega Man Anniversary Collection (USA)|G6QE08
+Mega Man Anniversary Collection (USA) (Rev 1)|DL-DOL-G6QE-USA,0B24EA35
+Mega Man Network Transmission (Europe)|DL-DOL-GREP-UKV,GREP08,FAEBCDF1
+Mega Man Network Transmission (USA)|DL-DOL-GREE-USA,GREE08,17D7A329
+Mega Man X - Command Mission (Europe) (En,Fr,De)|DL-DOL-GXRP-EUR,D2C90D02
+Mega Man X - Command Mission (USA)|DL-DOL-GXRE-USA,82115BD2
+Mega Man X Collection (USA)|DL-DOL-GXGE-USA,GXGE08,DD9FE721
+Mega Man X: Command Mission (Europe)|GXRP08
+Mega Man X: Command Mission (USA)|GXRE08
+Men in Black II - Alien Escape (Europe) (En,Fr,De,Es,It)|DL-DOL-GMEP-EUR,08D61684
+Men in Black II - Alien Escape (USA)|DL-DOL-GMEE-USA,7B0C45DE
+Men In Black II:  Alien Escape (Europe)|GMEP70
+Men In Black II:  Alien Escape (USA)|GMEE70
+Metal Arms - Glitch in the System (Europe)|DL-DOL-GM5P-UKV,363EA2C2
+Metal Arms - Glitch in the System (France)|DL-DOL-GM5F-FRA,D60A61F5
+Metal Arms - Glitch in the System (Germany)|DL-DOL-GM5D-NOE,874C290C
+Metal Arms - Glitch in the System (USA)|DL-DOL-GM5E-USA,239A5474
+Metal Arms: Glitch in the System (Europe)|GM5D7D,GM5F7D,GM5P7D
+Metal Arms: Glitch in the System (USA)|GM5E7D
+Metal Gear Solid - The Twin Snakes (Europe) (En,Fr,De,Es,It) (Disc 1)|DL-DOL-GGSP-0-EUR,DL-DOL-GGSP-0-EUR-0,09BF72F6
+Metal Gear Solid - The Twin Snakes (Europe) (En,Fr,De,Es,It) (Disc 2)|DL-DOL-GGSP-1-EUR,DL-DOL-GGSP-1-EUR-1,95986481
+Metal Gear Solid - The Twin Snakes (Japan) (En,Ja) (Disc 1)|DL-DOL-GGSJ-0-JPN,DL-DOL-GGSJ-0-JPN(A),DL-DOL-GGSJ-0-JPN(A)-0,DL-DOL-GGSJ-0-JPN-0,DL-DOL-GGSJ-0-JPN-01,DL-DOL-GGSJ-0-JPN-01-0,DC5C4E83
+Metal Gear Solid - The Twin Snakes (Japan) (En,Ja) (Disc 2)|DL-DOL-GGSJ-1-JPN,DL-DOL-GGSJ-1-JPN(A),DL-DOL-GGSJ-1-JPN(A)-1,DL-DOL-GGSJ-1-JPN-01,DL-DOL-GGSJ-1-JPN-01-1,DL-DOL-GGSJ-1-JPN-1,7D103293
+Metal Gear Solid - The Twin Snakes (USA) (Disc 1)|DL-DOL-GGSE-0-USA,DL-DOL-GGSE-0-USA-0,02AB12F2
+Metal Gear Solid - The Twin Snakes (USA) (Disc 2)|DL-DOL-GGSE-1-USA,DL-DOL-GGSE-1-USA-1,FF7BCD0A
+Metal Gear Solid - The Twin Snakes - Special Disc (Japan)|DL-DOL-PGSJ-JPN,PGSJ01,7697E706
+Metal Gear Solid: The Twin Snakes (Europe)|GGSPA4
+Metal Gear Solid: The Twin Snakes (Japan)|GGSJA4
+Metal Gear Solid: The Twin Snakes (USA)|GGSEA4
+Metroid Prime (Europe)|GM8P01
+Metroid Prime (Europe) (En,Fr,De,Es,It)|DL-DOL-GM8P-EUR,DL-DOL-GM8P-EUR-01,AED8BC02
+Metroid Prime (Japan)|DL-DOL-GM8J-JPN,GM8J01,E3DAEA72
+Metroid Prime (Korea)|DL-DOL-GM8E-KOR,890AD3BE
+Metroid Prime (USA)|GM8E01
+Metroid Prime (USA) (Rev 2)|DL-DOL-GM8E-USA,61592372
+Metroid Prime 2 - Dark Echoes (Japan)|DL-DOL-G2MJ-JPN,0EE92A35
+Metroid Prime 2 - Echoes (Europe) (En,Fr,De,Es,It)|DL-DOL-G2MP-EUR,CF4EAE03
+Metroid Prime 2 - Echoes (USA)|DL-DOL-G2ME-USA,F9BC88B6
+Metroid Prime 2 - Echoes (USA) (Bonus Disc)|DL-DOL-P2ME-USA,2DB1D1B2
+Metroid Prime 2: Dark Echoes (Japan)|G2MJ01
+Metroid Prime 2: Echoes (Bonus Disc) (USA)|P2ME01
+Metroid Prime 2: Echoes (Europe)|G2MP01
+Metroid Prime 2: Echoes (USA)|G2ME01
+Micro Machines (Europe)|GMOP70
+Micro Machines (Europe) (En,Fr,De,Es,It)|DL-DOL-GMOP-EUR,A8F0CE2F
+Midway Arcade Treasures (USA)|DL-DOL-GAKE-USA,GAKE5D,884BF5C1
+Midway Arcade Treasures 2 (USA)|DL-DOL-GAYE-USA,GAYE5D,865FE16E
+Midway Arcade Treasures 3 (USA)|DL-DOL-GE3E-USA,GE3E5D,22FA1D1D
+Minority Report - Everybody Runs (Europe)|DL-DOL-GMWP-UKV,F2604C79
+Minority Report - Everybody Runs (Germany)|DL-DOL-GMWD-NOE,AD25B7E6
+Minority Report - Everybody Runs (USA)|DL-DOL-GMWE-USA,0E4372A9
+Minority Report - Le Futur vous Rattrape (France)|DL-DOL-GMWF-FRA,8C2B0BBF
+Minority Report: Everybody Runs (Europe)|GMWD52,GMWF52,GMWP52
+Minority Report: Everybody Runs (USA)|GMWE52
+Mission - Impossible - Operation Surma (Europe) (En,Fr,De,Es,It)|DL-DOL-GMIP-EUR,610EE714
+Mission - Impossible - Operation Surma (Japan)|DL-DOL-GMIJ-JPN,GMIJ70,4FD53BC6
+Mission - Impossible - Operation Surma (USA)|DL-DOL-GMIE-USA,5595D6BB
+Mission Impossible: Operation Surma (Europe)|GMIP70
+Mission Impossible: Operation Surma (USA)|GMIE70
+MLB SlugFest 2003 (USA)|DL-DOL-GSGE-USA,GSGE5D,A1AAB9D9
+MLB SlugFest 2004 (USA)|DL-DOL-GS7E-USA,GS7E5D,71C33AB7
+Mobile Suit Gundam: Gundam vs. Z Gundam (Japan)|G2GJB2
+Mobile Suit Gundam: The Ace Pilot (Japan)|GGAJB2
+Momotarou Dentetsu 11 (Japan)|GIIJ18
+Momotarou Dentetsu 11 - Black Bombee Shutsugen! no Maki (Japan)|DL-DOL-GIIJ-JPN,11AAA0D2
+Momotarou Dentetsu 12 (Japan)|GI2J18
+Momotarou Dentetsu 12 - Nishi Nihon Hen mo Arimasse! (Japan)|DL-DOL-GI2J-JPN,E5BAE879
+Monde de Narnia, Le - Chapitre 1 - Le Lion, la Sorciere Blanche et l'Armoire Magique (France)|DL-DOL-GLVF-FRA,A2AC5B8A
+Monopoly - Mezase!! Daifugou Jinsei!! (Japan) (Rev 1)|DL-DOL-GRMJ-JPN,2B31868C
+Monopoly Party (Europe)|GMQP70
+Monopoly Party (Europe) (En,Fr,De,Es,It)|DL-DOL-GMQP-EUR,1BE3D91C
+Monopoly Party (USA)|DL-DOL-GMQE-USA,GMQE70,62CA8DA8
+Monopoly: Mezase!! Daifugou Jinsei!! (Japan)|GRMJDA
+Monster 4x4 - Masters of Metal (USA)|DL-DOL-GMZE-USA,4BF445BC
+Monster 4x4: Masters Of Metal (USA)|GMZE41
+Monster House (Europe)|DL-DOL-GK5P-UKV,GK5P78,GK5X78,1AD234DF
+Monster House (Europe) (En,Fr,De,Es,It)|DL-DOL-GK5X-NOE,7C687243
+Monster House (USA)|GK5E78
+Monster House (USA) (En,Fr)|DL-DOL-GK5E-USA,135D4207
+Monster Jam - Maximum Destruction (Europe)|DL-DOL-GMJP-EUR,A60CC9B0
+Monster Jam - Maximum Destruction (USA)|DL-DOL-GMJE-USA,5E022327
+Monster Jam: Maximum Destruction (Europe)|GMJP41
+Monster Jam: Maximum Destruction (USA)|GMJE41
+Monsters, Inc. Scream Arena (Europe)|GMNP78
+Monsters, Inc. Scream Arena (USA)|GMNE78
+Monthly Nintendo Shop Demo - December 2003 (Japan)|D67J01
+Monthly Nintendo Shop Demo - January 2004 (Japan)|D68J01
+Monthly Nintendo Shop Demo - July 2002 (Japan)|D33J01,D34J01
+Monthly Nintendo Shop Demo - July 2004 (Japan)|D82J01
+Monthly Nintendo Shop Demo - June 2002 (Japan)|D32J01
+Monthly Nintendo Shop Demo - May 2002 (Japan)|D29J01
+Monthly Nintendo Shop Demo - May 2003 (Japan)|D53J01
+Monthly Nintendo Shop Demo - May 2004 (Japan)|D78J01
+Monthly Nintendo Shop Demo - November 2002 (Japan)|D42J01
+Monthly Nintendo Shop Demo - October 2002 (Japan)|D39J01
+Monthly Nintendo Shop Demo - October 2004 (Japan)|D86J01
+Monthly Nintendo Shop Demo - September 2002 (Japan)|D38J01
+Mortal Kombat - Deadly Alliance (Europe) (En,Fr,De,Es,It)|DL-DOL-GMKP-EUR,EA7DBBBC
+Mortal Kombat - Deadly Alliance (Germany) (En,Fr,De,Es,It)|DL-DOL-GMKD-NOE,6B8D9169
+Mortal Kombat - Deadly Alliance (USA) (Rev 1)|DL-DOL-GMKE-USA,0E77F296
+Mortal Kombat - Deception (USA)|DL-DOL-GQNE-USA,AA45D0B6
+Mortal Kombat: Deadly Alliance (Europe)|GMKD5D,GMKP5D
+Mortal Kombat: Deadly Alliance (USA)|GMKE5D
+Mortal Kombat: Deception (USA)|GQNE5D
+Mr. Driller - Drill Land (Japan)|DL-DOL-GDPJ-JPN,A643B38E
+Mr. Driller: Drill Land (Japan)|GDPJAF
+Mr. Inkurediburu (Japan)|GICJG9
+Muppets - Party Cruise (USA)|DL-DOL-GM9E-USA,50C0281C
+Muppets Party Cruise (USA)|GM9E6S
+Muscle Champion - Kinniku-jima no Kessen (Japan)|DL-DOL-GCMJ-JPN,EE359D36
+Muscle Champion ~Battle of Muscle Island~ (Japan)|GCMJA4
+Mutsu To Nohohon (Japan)|GTMJDA
+Mutsu to Nohohon (Japan)|DL-DOL-GTMJ-JPN,D9BEDE37
+MVP Baseball 2004 (USA)|DL-DOL-GVPE-USA,GVPE69,24E7E406
+MVP Baseball 2005 (USA)|DL-DOL-GV4E-USA,GV4E69,1906A04E
+MX SuperFly (Europe)|DL-DOL-GSVP-EUR-01,E32D18D8
+MX SuperFly (USA)|DL-DOL-GSVE-USA,94F77878
+MX Superfly featuring Ricky Carmichael (Europe)|GSVP78
+MX Superfly featuring Ricky Carmichael (USA)|GSVE78
+Mystic Heroes (Europe)|DL-DOL-GBHP-EUR,GBHDC8,GBHFC8,GBHPC8,68446D9D
+Mystic Heroes (France)|DL-DOL-GBHF-FRA,B6BFB5BC
+Mystic Heroes (Germany)|DL-DOL-GBHD-NOE,E737555B
+Mystic Heroes (USA)|DL-DOL-GBHE-USA,GBHEC8,080D3384
+Namco Museum (USA)|DL-DOL-GNME-USA,GNMEAF,316232A1
+Namco Museum 50th Anniversary (Europe)|G5NP69
+Namco Museum 50th Anniversary (Europe) (En,Fr,De,Es,It)|DL-DOL-G5NP-NOE,361FCD95
+Namco Museum 50th Anniversary (USA)|DL-DOL-G5NE-USA,G5NEAF,DB8A8831
+Naruto - Clash of Ninja (USA)|DL-DOL-GNRE-USA,6853771D
+Naruto - Clash of Ninja - European Version (Europe) (En,Fr,De,Es,It)|DL-DOL-GNUP-EUR,E8E1DCB8
+Naruto - Clash of Ninja 2 (USA)|DL-DOL-GNUE-USA,81A9F11D
+Naruto - Clash of Ninja 2 (USA) (Demo)|DL-DOL-DNUE-USA,A58B7BF7
+Naruto - Gekitou Ninja Taisen! (Japan)|DL-DOL-GNRJ-JPN,D4D66A59
+Naruto - Gekitou Ninja Taisen! 2 (Japan) (Rev 1)|DL-DOL-GNUJ-JPN,B49EC944
+Naruto - Gekitou Ninja Taisen! 3 (Japan) (Rev 1)|DL-DOL-G3NJ-JPN,B1493F38
+Naruto - Gekitou Ninja Taisen! 4 (Japan)|DL-DOL-G4NJ-JPN,60AEFA3E
+Naruto - Gekitou Ninja Taisen! 4 (Japan) (Taikai Sen'you Disc) (Rev 1)|DL-DOL-G4NJ-JPN(A),735AB44E
+Naruto Clash of Ninja (USA)|GNREDA
+Naruto Clash of Ninja 2 (Demo) (USA)|DNUEDA
+Naruto Clash of Ninja 2 (USA)|GNUEDA
+Naruto Collection (Demo) (Japan)|PNRJ01
+Naruto Collection (Japan)|DL-DOL-PNRJ-JPN,435E70EC
+Naruto: Clash of Ninja - European Version (Europe)|GNUPDA
+Naruto: Gekitou Ninja Taisen! 2 (Japan)|GNUJDA
+Naruto: Gekitô Ninja Taisen! (Japan)|GNRJDA
+Naruto: Gekitô Ninja Taisen! 3 (Japan)|G3NJDA
+Naruto: Gekitô Ninja Taisen! 4 (Japan)|G4NJDA
+NASCAR - Dirt to Daytona (USA)|DL-DOL-GN2E-USA,700FDF19
+NASCAR 2005 - Chase for the Cup (USA)|DL-DOL-GN4E-USA,59D346EF
+NASCAR 2005: Chase for the Cup (USA)|GN4E69
+Nascar Thunder 2003 (USA)|GNCE69
+NASCAR Thunder 2003 (USA)|DL-DOL-GNCE-USA,DEF6D55D
+Nascar: Dirt To Daytona (USA)|GN2E70
+NBA 2K2 (USA)|DL-DOL-GBAE-USA,GBAE8P,099A0FC4
+NBA 2K3 (Europe)|DL-DOL-GK3P-EUR,GK3P8P,14362AC2
+NBA 2K3 (USA)|DL-DOL-GK3E-USA,GK3E8P,89DF66D0
+NBA Courtside 2002 (Europe)|DL-DOL-GNBP-EUR,GNBP01,58EF59FD
+NBA Courtside 2002 (Japan)|DL-DOL-GNBJ-JPN,GNBJ01,3B0D9C54
+NBA Courtside 2002 (USA)|DL-DOL-GNBE-USA,GNBE01,ED55D776
+NBA Live 06 (Europe)|G6NP69
+NBA Live 06 (Europe) (En,Fr)|DL-DOL-G6NP-EUR,DL-DOL-G6NP-NOE,BA493C66
+NBA Live 06 (USA)|DL-DOL-G6NE-USA,G6NE69,545FDF09
+NBA Live 2003 (Europe)|GNLP69
+NBA Live 2003 (Europe) (En,Fr,De,Es,It)|DL-DOL-GNLP-EUR,3BAE0BA4
+NBA Live 2003 (USA)|DL-DOL-GNLE-USA,GNLE69,901BAA7D
+NBA Live 2004 (Europe)|GN8P69
+NBA Live 2004 (Europe) (En,Fr,De,Es,It)|DL-DOL-GN8P-EUR,1F937A8E
+NBA Live 2004 (USA)|DL-DOL-GN8E-USA,GN8E69,06EEB2E0
+NBA Live 2005 (Europe)|GLYP69
+NBA Live 2005 (Europe) (En,Fr)|DL-DOL-GLYP-EUR,DL-DOL-GLYP-NOE,D3D92020
+NBA Live 2005 (USA)|DL-DOL-GLYE-USA,GLYE69,F2ECE8E7
+NBA Street (Japan)|DL-DOL-GNSJ-JPN,GNSJ13,7D074B15
+NBA Street (USA)|DL-DOL-GNSE-USA,GNSE69,DC7A2DA4
+NBA Street V3 (Europe) (En,Fr,De)|DL-DOL-G3VP-EUR,DL-DOL-G3VP-NOE,42BE441B
+NBA Street V3 (USA)|DL-DOL-G3VE-USA,8A0E96CB
+NBA Street V3 - Mario de Dunk (Japan)|DL-DOL-G3VJ-JPN,G3VJ13,9F4DCBDD
+NBA Street Vol. 2 (Europe) (En,Fr)|DL-DOL-GNZP-EUR,48BCA6CC
+NBA Street Vol. 2 (USA)|DL-DOL-GNZE-USA,C099C71E
+NBA Street Vol.2 (Europe)|GNZP69
+NBA Street Vol.2 (USA)|GNZE69
+NBA Street Vol.3 (Europe)|G3VP69
+NBA Street Vol.3 (USA)|G3VE69
+NCAA College Basketball 2K3 (USA)|DL-DOL-GNKE-USA,GNKE8P,561D5E32
+NCAA College Football 2K3 (USA)|DL-DOL-GNAE-USA,GNAE8P,024F098D
+NCAA Football 2003 (USA)|DL-DOL-GNGE-USA,GNGE69,78433638
+NCAA Football 2004 (USA)|DL-DOL-GNXE-USA,GNXE69,87EDC790
+NCAA Football 2005 (USA)|DL-DOL-GCUE-USA,GCUE69,2D24164C
+Need for Speed - Carbon (Europe)|DL-DOL-GW5P-UKV,00052F80
+Need for Speed - Carbon (France)|DL-DOL-GW5F-FRA,582270B0
+Need for Speed - Carbon (Germany)|DL-DOL-GW5D-NOE,FD7813FF
+Need for Speed - Carbon (USA)|DL-DOL-GW5E-USA,FF139C62
+Need for Speed - Hot Pursuit 2 (Europe) (En,Fr,De)|DL-DOL-GH2P-EUR,39FE6D58
+Need for Speed - Hot Pursuit 2 (USA)|DL-DOL-GH2E-USA,6E9F4AFE
+Need for Speed - Most Wanted (Europe)|DL-DOL-GOWP-EUR,9713EEC0
+Need for Speed - Most Wanted (France)|DL-DOL-GOWF-FRA,37196F5A
+Need for Speed - Most Wanted (Germany)|DL-DOL-GOWD-NOE,FC0C00E1
+Need for Speed - Most Wanted (Japan)|DL-DOL-GOWJ-JPN,538A5ED9
+Need for Speed - Most Wanted (USA)|DL-DOL-GOWE-USA,D9F1D3E5
+Need for Speed - Underground (Europe) (Alt)|DL-DOL-GNDP-UKV,3873B78F
+Need for Speed - Underground (France)|DL-DOL-GNDF-FRA,1952782E
+Need for Speed - Underground (Germany)|DL-DOL-GNDD-NOE,89160C7C
+Need for Speed - Underground (Japan)|DL-DOL-GNDJ-JPN,GNDJ13,836CFEDA
+Need for Speed - Underground (USA)|DL-DOL-GNDE-USA,01C154BA
+Need for Speed - Underground 2 (Europe)|DL-DOL-GUGP-EUR,DL-DOL-GUGP-UKV,1D8AB780
+Need for Speed - Underground 2 (France)|DL-DOL-GUGF-FRA,FA76DF3A
+Need for Speed - Underground 2 (Germany)|DL-DOL-GUGD-NOE,83B3C758
+Need for Speed - Underground 2 (Japan)|DL-DOL-G2NJ-JPN,G2NJ13,909806FF
+Need for Speed - Underground 2 (USA)|DL-DOL-GUGE-USA,5E49B1D7
+Need for Speed: Carbon (Europe)|GW5D69,GW5F69,GW5P69
+Need for Speed: Carbon (USA)|GW5E69
+Need for Speed: Hot Pursuit 2 (Europe)|GH2P69
+Need for Speed: Hot Pursuit 2 (USA)|GH2E69
+Need for Speed: Most Wanted (Europe)|GOWD69,GOWF69,GOWP69
+Need for Speed: Most Wanted (Japan)|GOWJ13
+Need for Speed: Most Wanted (USA)|GOWE69
+Need for Speed: Underground (Europe)|GNDD69,GNDF69,GNDP69
+Need for Speed: Underground (USA)|GNDE69
+Need for Speed: Underground 2 (Europe)|GUGD69,GUGF69,GUGP69
+Need for Speed: Underground 2 (USA)|GUGE69
+Neighbours from Hell (Europe)|GFHP6V
+Neighbours from Hell (Europe) (En,Fr,De,Es,It)|DL-DOL-GFHP-NOE,DABC41E2
+NFL 2K3 (Europe)|DL-DOL-GF3P-EUR,GF3P8P,0DC826BE
+NFL 2K3 (USA)|DL-DOL-GF3E-USA,GF3E8P,AEDF964D
+NFL Blitz 2002 (USA)|DL-DOL-GNFE-USA,GNFE5D,5DEBB376
+NFL Blitz 2003 (USA)|DL-DOL-GO3E-USA,GO3E5D,3F4D220C
+NFL Blitz Pro (USA)|DL-DOL-GFVE-USA,GFVE5D,F2C785CD
+NFL QB Club 2002 (USA)|DL-DOL-GQBE-USA,535FF7F0
+NFL Quarterback Club 2002 (USA)|GQBE51
+NFL Street (Europe)|DL-DOL-GNNP-NOE,GNNP69,40B4ED94
+NFL Street (USA)|DL-DOL-GNNE-USA,GNNE69,1864E9AC
+NFL Street 2 (Europe)|DL-DOL-GN7P-UKV,GN7P69,9E2AE981
+NFL Street 2 (USA)|DL-DOL-GN7E-USA,GN7E69,2909D1B7
+NHK Tensai Bit-kun - Glamon Battle (Japan)|DL-DOL-GTBJ-JPN,C8F2AD10
+NHK Tensai Bit-Kun - Gramon Battle (Japan)|GTBJC0
+NHL 06 (Europe)|GN6P69
+NHL 06 (Europe) (En,Fr)|DL-DOL-GN6P-EUR,DL-DOL-GN6P-NOE,860DE55B
+NHL 06 (USA)|GN6E69
+NHL 06 (USA) (En,Fr)|DL-DOL-GN6E-USA,5687BFE7
+NHL 2003 (Europe)|GH3P69
+NHL 2003 (Europe) (En,Fr,De,Sv,Fi,Cs)|DL-DOL-GH3P-EUR,4DEAFC44
+NHL 2003 (USA)|DL-DOL-GH3E-USA,GH3E69,8C3011FB
+NHL 2004 (Europe)|GNVP69
+NHL 2004 (Europe) (En,Fr,De,Sv,Fi)|DL-DOL-GNVP-EUR,DL-DOL-GNVP-NOE,86334735
+NHL 2004 (USA)|DL-DOL-GNVE-USA,GNVE69,F5946439
+NHL 2005 (Europe)|GN5P69
+NHL 2005 (Europe) (En,Fr,De)|DL-DOL-GN5P-EUR,ADCDE0A7
+NHL 2005 (USA)|GN5E69
+NHL 2005 (USA) (En,Fr)|DL-DOL-GN5E-USA,B17FAA37
+NHL 2K3 (Europe)|DL-DOL-G2KP-EUR,G2KP8P,60090FC9
+NHL 2K3 (USA)|DL-DOL-G2KE-USA,G2KE8P,CB7879B1
+NHL Hitz 20-02 (Europe)|GNHP5D
+NHL Hitz 2002 (Europe) (Rev 1)|DL-DOL-GNHP-EUR,F8F19D9C
+NHL Hitz 2002 (USA)|DL-DOL-GNHE-USA,GNHE5d,53F2137A
+NHL Hitz 2003 (Europe)|DL-DOL-GN3P-EUR,GN3P5D,F1A17A9D
+NHL Hitz 2003 (USA)|DL-DOL-GN3E-USA,GN3E5D,BB9FC845
+NHL Hitz Pro (USA)|DL-DOL-GHZE-USA,GHZE5D,83791CE1
+Nick Jr. Dora the Explorer - Journey to the Purple Planet (Europe) (En,Fr)|DL-DOL-GQLP-EUR,278087CC
+Nick Jr. Dora the Explorer - Journey to the Purple Planet (USA)|DL-DOL-GQLE-USA,7C1E032A
+Nick SpongeBob Schwammkopf - Die Kreatur aus der Krossen Krabbe (Germany)|DL-DOL-GQ4D-NOE,07EDB498
+Nickelodeon Avatar - The Last Airbender (USA)|DL-DOL-GAVE-USA,31F0C2EC
+Nickelodeon Avatar - The Legend of Aang (Europe) (En,Fr,Nl)|DL-DOL-GAVY-EUU,44884718
+Nickelodeon Barnyard (Europe)|DL-DOL-GYAP-UKV,5DED17AC
+Nickelodeon Barnyard (Europe) (Fr,Es,It,Nl)|DL-DOL-GYAX-EUR,81BB3B5A
+Nickelodeon Barnyard (USA)|DL-DOL-GYAE-USA,6BC16C42
+Nickelodeon Bob L'eponge - La Creature du Crabe Croustillant (France)|DL-DOL-GQ4F-FRA,B41EAA06
+Nickelodeon Bob L'eponge - Silence on Tourne! (France)|DL-DOL-GQQF-FRA,8B0E1254
+Nickelodeon Jimmy Neutron - Boy Genius (Europe)|DL-DOL-GJNP-EUR,DDE140E6
+Nickelodeon Jimmy Neutron - Boy Genius (USA)|DL-DOL-GJNE-USA,8988C485
+Nickelodeon Jimmy Neutron - Boy Genius - Attack of the Twonkies (Europe)|DL-DOL-GJYP-UKV,FC40D4C4
+Nickelodeon Jimmy Neutron - Boy Genius - Attack of the Twonkies (USA)|DL-DOL-GJYE-USA,76D5E3E5
+Nickelodeon Jimmy Neutron - Der mutige Erfinder (Germany)|DL-DOL-GJND-NOE,7B8E27A0
+Nickelodeon Les Razmoket - La Rancon Royale (France)|DL-DOL-GRRF-FRA,ABD8768A
+Nickelodeon Party Blast (Europe)|GNPP70
+Nickelodeon Party Blast (Europe) (En,Fr,De,Es,It)|DL-DOL-GNPP-EUR,934DA42F
+Nickelodeon Party Blast (USA)|DL-DOL-GN9E-USA,GN9E70,E84CC90B
+Nickelodeon Rocket Power - Beach Bandits (Europe)|DL-DOL-GBQP-EUR,DD16DA20
+Nickelodeon Rocket Power - Beach Bandits (USA)|DL-DOL-GBQE-USA,8BE53CE8
+Nickelodeon Rugrats - Royal Ransom (Europe)|DL-DOL-GRRP-UKV,98D0769B
+Nickelodeon Rugrats - Royal Ransom (USA)|DL-DOL-GRRE-USA,118A3804
+Nickelodeon SpongeBob Schwammkopf - Der Film (Germany)|DL-DOL-GGVD-NOE,2E2565BB
+Nickelodeon SpongeBob Schwammkopf - Film ab! (Germany)|DL-DOL-GQQD-NOE,400DF3AF
+Nickelodeon SpongeBob SquarePants - Battle for Bikini Bottom (Europe)|DL-DOL-GQPP-NOE,DC6D2747
+Nickelodeon SpongeBob SquarePants - Battle for Bikini Bottom (USA)|DL-DOL-GQPE-USA,658F36BC
+Nickelodeon SpongeBob SquarePants - Creature from the Krusty Krab (Europe)|DL-DOL-GQ4P-UKV,5DCF1734
+Nickelodeon SpongeBob SquarePants - Creature from the Krusty Krab (USA)|DL-DOL-GQ4E-USA,85535B74
+Nickelodeon SpongeBob SquarePants - Creatuur van de Krokante Krab (Netherlands)|DL-DOL-GQ4H-HOL,58DC71D7
+Nickelodeon SpongeBob SquarePants - Licht uit, Camera aan! (Netherlands)|DL-DOL-GQQH-HOL,C94DA0AA
+Nickelodeon SpongeBob SquarePants - Lights, Camera, Pants! (Europe)|DL-DOL-GQQP-UKV,EBF5A0BB
+Nickelodeon SpongeBob SquarePants - Lights, Camera, Pants! (USA)|DL-DOL-GQQE-USA,135F55E4
+Nickelodeon SpongeBob SquarePants - Revenge of the Flying Dutchman (Europe)|DL-DOL-GSQP-UKV,354BE7E2
+Nickelodeon SpongeBob SquarePants - Revenge of the Flying Dutchman (USA)|DL-DOL-GSQE-USA,F2FACF74
+Nickelodeon SpongeBob SquarePants - The Movie (Europe)|DL-DOL-GGVP-UKV,334AAC70
+Nickelodeon SpongeBob SquarePants - The Movie (Europe) (Fr,Nl)|DL-DOL-GGVX-FAH,084EA086
+Nickelodeon SpongeBob SquarePants - The Movie (USA) (Rev 1)|DL-DOL-GGVE-USA,77BE3CC6
+Nickelodeon SpongeBob SquarePants and Friends Unite! (Europe) (En,Fr,De,Nl)|DL-DOL-GNOX-EUR,A8FF9C4F
+Nickelodeon Tak - The Great Juju Challenge (Europe) (En,De)|DL-DOL-GJWP-EUR,287C43EA
+Nickelodeon Tak - The Great Juju Challenge (USA)|DL-DOL-GJWE-USA,080AC649
+Nickelodeon Tak 2 - Der Stab der Traeume (Germany)|DL-DOL-G2FD-NOE,A72F2241
+Nickelodeon Tak 2 - Le Sceptre des Reves (France)|DL-DOL-G2FF-FRA,B2D3BD98
+Nickelodeon Tak 2 - The Staff of Dreams (Europe)|DL-DOL-G2FP-UKV,D6A7895C
+Nickelodeon Tak 2 - The Staff of Dreams (USA)|DL-DOL-G2FE-USA,CA5ADA0F
+Nickelodeon The Adventures of Jimmy Neutron - Boy Genius - Jet Fusion (Europe)|DL-DOL-GJFP-UKV,EE46773D
+Nickelodeon The Adventures of Jimmy Neutron - Boy Genius - Jet Fusion (USA)|DL-DOL-GJFE-USA,71CE8ACF
+Nicktoons - Battle for Volcano Island (USA)|DL-DOL-GU6E-USA,GU6E78,A66A86F7
+Nicktoons Unite! (USA)|DL-DOL-GNOE-USA,GNOE78,C0BDA1F6
+Nintendo - GameCube|0
+Nintendo GameCube Preview Disc - May 2003 (USA)|DL-DOL-D87E-USA,D45C8C07
+Nintendo GameCube Service Disc Version 1.0-03 (USA)|DL-DOL-301E-USA,BE031BBE
+Nintendo GameCube Soft e-Catalog 2003 Enjoy Plus-ban (Japan)|DL-DOL-D55J-DIS,E938E1DF
+Nintendo GameCube Soft e-Catalog 2003 Haru (Japan)|DL-DOL-D53J-DIS,D38BDBD7
+Nintendo Puzzle Collection (Japan)|DL-DOL-GPZJ-JPN,GPZJ01,496105D8
+Odama (Europe)|GOOP01
+Odama (Europe) (En,Fr,De,Es,It)|DL-DOL-GOOP-EUR,54960550
+Odama (Japan)|GOOJ01
+Odama (Japan) (Rev 1)|DL-DOL-GOOJ-JPN,E90214A2
+Odama (USA)|GOOE01
+Odama (USA) (Rev 1)|DL-DOL-GOOE-USA,489F7C1A
+Ohenro-San - Hosshin no Dojo (Awa Kuni) Hen (Japan)|DL-DOL-GODJ-JPN,7ADA6106
+Ohenro-San: Hosshin no Dojo (Japan)|GODJGA
+One Piece - Grand Battle! 3 (Japan)|DL-DOL-GOGJ-JPN,4690825C
+One Piece - Grand Battle! Rush (Japan)|DL-DOL-GOPJ-JPN,6AAE2DFB
+One Piece - Pirates Carnival (Japan)|DL-DOL-GIPJ-JPN,D959D086
+One Piece: Grand Adventure (USA)|GOQE82
+One Piece: Grand Battle! 3 (Japan)|GOGJB2
+One Piece: Grand Battle! Rush (Japan)|GOPJB2
+One Piece: Treasure Battle! (Japan)|GOTJB2
+Open Season (Europe)|GOSP41,GOSX41
+Open Season (Europe) (En,Fr,De,Es,It)|DL-DOL-GOSX-EUU,310C93FC
+Open Season (Europe) (En,Fr,Es)|DL-DOL-GOSP-EUR,F80E5AED
+Open Season (USA)|GOSE41
+Open Season (USA) (En,Fr,Es)|DL-DOL-GOSE-USA,59D09EA9
+Outlaw Golf (Europe)|GOFP6S
+Outlaw Golf (Europe) (En,Fr,De)|DL-DOL-GOFP-EUR-01,5BB255FD
+Outlaw Golf (USA)|DL-DOL-GOFE-USA,GOFE7L,3054D0FD
+Over The Hedge (Europe)|GH5D52,GH5F52,GH5P52
+Over The Hedge (USA)|GH5E52
+P.N. 03 (Europe) (En,Fr,De,Es,It)|DL-DOL-GPNP-EUR,DL-DOL-GPNP-NOE,E8FCFD60
+P.N. 03 (Europe) (En,Fr,De,Es,It) (Demo)|DL-DOL-DPNP-EUR,965F3101
+P.N. 03 (Japan)|DL-DOL-GPNJ-JPN,EB535A34
+P.N. 03 (Japan) (Demo Eizou)|DL-DOL-DPNJ-DIS,4E8EB4F0
+P.N. 03 (USA)|DL-DOL-GPNE-USA,24061157
+P.N.03 (Europe)|GPNP08
+P.N.03 (Japan)|GPNJ08
+P.N.03 (Promo) (Europe)|DPNP08
+P.N.03 (USA)|GPNE08
+Pac Man Fever (USA)|GPMEAF
+Pac-Man Fever (USA)|DL-DOL-GPME-USA,2E6425F3
+Pac-Man vs. (Europe)|PRJP01
+Pac-Man Vs. (Europe) (En,Fr,De,Es,It)|DL-DOL-PRJP-EUR,46748A09
+Pac-Man vs. (Japan)|PRJJ01
+Pac-Man Vs. (Japan)|DL-DOL-PRJJ-JPN,93A80006
+Pac-Man Vs. (Japan) (Club Nintendo Genteiban)|DL-DOL-PCPJ-JPN,FC20E594
+Pac-Man vs. (USA)|PRJE01
+Pac-Man Vs. (USA)|DL-DOL-PRJE-USA,CE5317C4
+Pac-Man World 2 (Europe)|GP2P69
+Pac-Man World 2 (Europe) (En,Fr,De,Es,It)|DL-DOL-GP2P-EUR,EF936793
+Pac-Man World 2 (USA)|DL-DOL-GP2E-USA,GP2EAF,3E95583A
+Pac-Man World 3 (Europe)|GP8P69
+Pac-Man World 3 (Europe) (En,Fr,De,Es,It)|DL-DOL-GP8P-NOE,5AD70CD5
+Pac-Man World 3 (USA)|DL-DOL-GP8E-USA,GP8EAF,694B5E2D
+Pac-Man World Rally (USA)|DL-DOL-G89E-USA,G89EAF,C2E521A7
+Paper Mario - The Thousand-Year Door (Europe) (En,Fr,De,Es,It)|DL-DOL-G8MP-EUR,A624277B
+Paper Mario - The Thousand-Year Door (USA)|DL-DOL-G8ME-USA,5A682160
+Paper Mario RPG|G8MK01
+Paper Mario RPG (Japan)|DL-DOL-G8MJ-JPN,G8MJ01,0F35E6ED
+Paper Mario: The Thousand-Year Door (Europe)|G8MP01
+Paper Mario: The Thousand-Year Door (USA)|G8ME01
+Peter Jackson's King Kong - The Official Game of the Movie (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)|DL-DOL-GWKP-EUR,974EAEBF
+Peter Jackson's King Kong - The Official Game of the Movie (USA) (En,Fr,Es)|DL-DOL-GWKE-USA,EEFFA5EB
+Peter Jackson's King Kong: The Official Game of the Movie (Europe)|GWKP41
+Peter Jackson's King Kong: The Official Game of the Movie (USA)|GWKE41
+Phantasy Star Online Episode I & II (Europe) (En,Ja,Fr,De,Es)|DL-DOL-GPOP-EUR,DL-DOL-GPOP-EUR-01,C9C7FBFE
+Phantasy Star Online Episode I & II (Japan)|GPOJ8P
+Phantasy Star Online Episode I & II (Japan) (En,Ja,Fr,De,Es) (Rev 2)|DL-DOL-GPOJ-JPN,15652426
+Phantasy Star Online Episode I & II (Japan) (Rev 3)|DL-DOL-GPOJ-JPN-01,930FEE66
+Phantasy Star Online Episode I & II (USA)|GPOE8P
+Phantasy Star Online Episode I & II (USA) (En,Ja,Fr,De,Es) (Rev 1)|DL-DOL-GPOE-USA,98E98759
+Phantasy Star Online Episode I & II - Trial Edition (Japan) (Taikenban)|DL-DOL-DPOJ-DIS,53A6F59C
+Phantasy Star Online Episode I & II Plus (Japan) (En,Ja,Fr,De,Es) (Rev 4)|DL-DOL-GPOJ-JPN-02,BD048B3F
+Phantasy Star Online Episode I & II Plus (Japan) (En,Ja,Fr,De,Es) (Rev 5)|DL-DOL-GPOJ-JPN-03,42C1FEBD
+Phantasy Star Online Episode I & II Plus (USA) (En,Ja,Fr,De,Es) (Rev 2)|DL-DOL-GPOE-USA-01,CDC9BC9A
+Phantasy Star Online Episode I & II Trial Edition (Demo) (Japan)|DPOJ8P
+Phantasy Star Online Episode I&II (Europe)|GPOP8P
+Phantasy Star Online Episode III - C.A.R.D. Revolution (Europe) (En,Ja,Fr,De,Es)|DL-DOL-GPSP-EUR,DL-DOL-GPSP-UKV,C09FFB89
+Phantasy Star Online Episode III - C.A.R.D. Revolution (Japan)|DL-DOL-GPSJ-JPN,37F76934
+Phantasy Star Online Episode III - C.A.R.D. Revolution (USA) (En,Ja)|DL-DOL-GPSE-USA,45F216FE
+Phantasy Star Online Episode III - C.A.R.D. Revolution - Trial Edition (Japan) (Taikenban)|DL-DOL-DPSJ-DIS,230570E1
+Phantasy Star Online Episode III: C.A.R.D. Revolution (Demo) (Japan)|DPSJ8P
+Phantasy Star Online Episode III: C.A.R.D. Revolution (Europe)|GPSP8P
+Phantasy Star Online Episode III: C.A.R.D. Revolution (Japan)|GPSJ8P
+Phantasy Star Online Episode III: C.A.R.D. Revolution (USA)|GPSE8P
+Piglet's Big Game (Europe)|GPLD9G,GPLF9G,GPLP9G
+Piglet's Big Game (USA)|GPLE9G
+Pikmin (Demo) (Japan)|DPIJ01
+Pikmin (Europe)|GPIP01
+Pikmin (Europe) (En,Fr,De,Es,It)|DL-DOL-GPIP-EUR,07AE1F8B
+Pikmin (Japan)|GPIJ01
+Pikmin (Japan) (Jitsuen-you Sample)|DL-DOL-DPIJ-DIS,D38F1968
+Pikmin (Japan) (Rev 2)|DL-DOL-GPIJ-JPN,3145AFBC
+Pikmin (USA)|GPIE01
+Pikmin (USA) (Rev 1)|DL-DOL-GPIE-USA,5C680247
+Pikmin 2 (Europe)|GPVP01
+Pikmin 2 (Europe) (En,Fr,De,Es,It)|DL-DOL-GPVP-EUR,9B7D1623
+Pikmin 2 (Japan)|DL-DOL-GPVJ-JPN,GPVJ01,157317E3
+Pikmin 2 (USA)|DL-DOL-GPVE-USA,GPVE01,3541416B
+Pinball Hall of Fame - The Gottlieb Collection (USA)|DL-DOL-GHFE-USA,AA588203
+Pinball Hall of Fame: The Gottlieb Collection (USA)|GHFE4Z
+Pitfall - The Lost Expedition (Europe)|DL-DOL-GPHP-UKV,99A36B91
+Pitfall - The Lost Expedition (France)|DL-DOL-GPHF-FRA,0C3F3C9C
+Pitfall - The Lost Expedition (Germany)|DL-DOL-GPHD-NOE,FA416892
+Pitfall - The Lost Expedition (USA)|DL-DOL-GPHE-USA,A692D9D0
+Pitfall: The Lost Expedition (Europe)|GPHD52,GPHF52,GPHP52
+Pitfall: The Lost Expedition (USA)|GPHE52
+Pokemon Box - Ruby & Sapphire (Europe) (En,Fr,De,Es,It) (Rev 1)|DL-DOL-GPXP-EUR,E927919F
+Pokemon Box - Ruby & Sapphire (Japan)|DL-DOL-GPXJ-JPN,A25EAD61
+Pokemon Box - Ruby & Sapphire (USA) (Rev 1)|DL-DOL-GPXE-USA,CF0B538F
+Pokemon Box: Ruby & Sapphire (Europe)|GPXP01
+Pokemon Box: Ruby & Sapphire (Japan)|GPXJ01
+Pokemon Box: Ruby & Sapphire (USA)|GPXE01
+Pokemon Channel (Australia)|DL-DOL-GPAU-AUS,BBDA6E33
+Pokemon Channel (Bonus Disc) (Japan)|D56J01
+Pokemon Channel (Europe)|GPAP01,GPAU01
+Pokemon Channel (Europe) (En,Fr,De,Es,It)|DL-DOL-GPAP-EUR,58AE95AA
+Pokemon Channel (Japan)|GPAJ01
+Pokemon Channel (USA)|DL-DOL-GPAE-USA,GPAE01,5D1BB3F9
+Pokemon Channel - Bangumi Kakuchou Pack (Japan)|DL-DOL-D56J-JPN,092CB122
+Pokemon Channel - Pikachu to Issho! (Japan)|DL-DOL-GPAJ-JPN,D1AE9F88
+Pokemon Colosseum (Europe)|GC6P01
+Pokemon Colosseum (Europe) (En,Fr,De,Es,It)|DL-DOL-GC6P-EUR,D53438C1
+Pokemon Colosseum (Japan)|DL-DOL-GC6J-JPN,GC6J01,3A421D80
+Pokemon Colosseum (USA)|DL-DOL-GC6E-USA,GC6E01,0704554F
+Pokemon Colosseum (USA) (Bonus Disc)|DL-DOL-PC6E-USA,147F54C9
+Pokemon Colosseum - Kakuchou Disc (Japan)|DL-DOL-PCKJ-JPN,9CD57878
+Pokemon Colosseum - Nintendo Tokusei Disc (Japan)|DL-DOL-PCSJ-JPN,82E211C1
+Pokemon Colosseum Bonus Disc (Japan)|PCSJ01
+Pokemon Colosseum Bonus Disc (USA)|PC6E01
+Pokemon Colosseum: Kakuchou Disc (Bonus Disc) (Japan)|PCKJ01
+Pokemon XD - Gale of Darkness (Europe) (En,Fr,De,Es,It)|DL-DOL-GXXP-EUR,0850DDB9
+Pokemon XD - Gale of Darkness (USA)|DL-DOL-GXXE-USA,C0F69D18
+Pokemon XD - Yami no Kaze Dark Lugia (Japan)|DL-DOL-GXXJ-JPN,46387BE4
+Pokemon XD: Gale of Darkness (Europe)|GXXP01
+Pokemon XD: Gale of Darkness (USA)|GXXE01
+Pokemon XD: Yami no Kaze Dark Lugia (Japan)|GXXJ01
+Polar Express, The (Europe) (En,Fr,De,Es,It)|DL-DOL-GP3P-NOE,3E9F084D
+Polar Express, The (USA)|DL-DOL-GP3E-USA,347E9DA2
+Pool Edge (Japan)|DL-DOL-GPEJ-JPN,GPEJ2Q,1A3C500F
+Pool Paradise (Europe)|GPRP7U
+Pool Paradise (Europe) (En,Fr,De,Es,It)|DL-DOL-GPRP-EUR,9A489B25
+Pool Paradise (USA)|DL-DOL-GPRE-USA,GPRE7U,53BB0B9C
+Power Rangers - Dino Thunder (Europe)|DL-DOL-GRUP-UKV,55177F51
+Power Rangers - Dino Thunder (USA)|DL-DOL-GRUE-USA,E8DAC398
+Power Rangers - Dino Tonnerre (France)|DL-DOL-GRUF-FRA,56EE64FA
+Power Rangers Dino Thunder (Europe)|GRUF78,GRUP78
+Power Rangers Dino Thunder (USA)|GRUE78
+Powerpuff Girls, The - Relish Rampage - Pickled Edition (Europe) (En,Fr,De,Es)|DL-DOL-GPQP-EUR,4E9CDE37
+Powerpuff Girls, The - Relish Rampage - Pickled Edition (USA)|DL-DOL-GPQE-USA,BF42CBFA
+Prince of Persia - The Sands of Time (Europe) (En,Fr,De,Es,It)|DL-DOL-GPTP-EUR,17E54B61
+Prince of Persia - The Sands of Time (USA) (En,Fr,Es) (Rev 1)|DL-DOL-GPTE-USA,67C8C2A5
+Prince of Persia - The Two Thrones (Europe) (En,Fr,De,Es,It) (Rev 1)|DL-DOL-GKMP-EUR,A9E03774
+Prince of Persia - The Two Thrones (USA) (En,Fr,Es)|DL-DOL-GKME-USA,22DEB1F0
+Prince of Persia - Warrior Within (Europe) (En,Fr,De,Es,It,Nl)|DL-DOL-G2OP-EUR,33ABCB80
+Prince of Persia - Warrior Within (USA) (En,Fr,Es)|DL-DOL-G2OE-USA,546484D5
+Prince of Persia: The Sands of Time (Europe)|GPTP41
+Prince of Persia: The Sands of Time (USA)|GPTE41
+Prince of Persia: The Two Thrones (Europe)|GKMP41
+Prince of Persia: The Two Thrones (USA)|GKME41
+Prince of Persia: Warrior Within (Europe)|G2OP41
+Prince of Persia: Warrior Within (USA)|G2OE41
+Pro Rally (Europe)|GRLP41
+Pro Rally (USA)|GRLE41
+Pro Rally 2002 (Europe) (En,Fr,De,Es,It)|DL-DOL-GRLP-EUR,63698A7C
+Pro Rally 2002 (Europe) (En,Fr,De,Es,It) (Rev 1)|DL-DOL-GRLP-EUR-01,D83C5372
+Pro Rally 2002 (USA) (En,Fr,Es)|DL-DOL-GRLE-USA,9D11E4F0
+Pro Tennis WTA Tour (Europe)|DL-DOL-GWTP-EUR,GWTPA4,4EB8DED2
+Puyo Pop Fever (Europe)|GPUP8P
+Puyo Pop Fever (Europe) (En,Fr,De,Es,It)|DL-DOL-GPUP-EUR,8FA68FAD
+Puyo Pop Fever (Japan)|GPYJ8P
+Puyo Pop Fever (USA)|GPUE8P
+Puyo Pop Fever (USA) (En,Ja,Fr,De,Es,It)|DL-DOL-GPUE-USA,E3B99E37
+Puyo Puyo Fever (Japan) (En,Ja,Fr,De,Es,It)|DL-DOL-GPYJ-JPN,7ABAC8B4
+R-Racing (Europe) (En,Fr,De,Es,It)|DL-DOL-GRJP-EUR,DL-DOL-GRJP-NOE,CFF4D68A
+R-Racing Evolution (USA)|DL-DOL-GRJE-USA,059E8CCE
+R-Racing Evolution - Life in the Fast Lane (Japan)|DL-DOL-GRJJ-JPN,B4D639F9
+R: Racing (Europe)|GRJP69
+R: Racing Evolution (USA)|GRJEAF
+R: Racing Evolution: Life in the Fast Lane (Japan)|GRJJAF
+Radirgy (Japan)|GLJJMS
+Radirgy Generic (Japan)|DL-DOL-GLJJ-JPN,E02444FA
+Rally Championship (Europe)|GRAP75
+Rally Championship (Europe) (En,Fr,De,Es,It) (Rev 1)|DL-DOL-GRAP-UKV,EA136912
+Rally Championship (USA)|DL-DOL-GRAE-USA,GRAE5Z,DF1F2AFA
+Rampage - Total Destruction (USA)|DL-DOL-GXNE-USA,98C550D1
+Rampage Total Destruction (USA)|GXNE5D
+Ratatouille (Europe)|GLLF78
+Ratatouille (USA)|GLLE78
+Rave Master (USA)|DL-DOL-GRVE-USA,GRVEA4,FA90D92A
+Rayman 3 - Hoodlum Havoc (Europe) (En,Fr,De,Es,It)|DL-DOL-GRHP-EUR,DL-DOL-GRHP-EUR-01,7337E8C2
+Rayman 3 - Hoodlum Havoc (USA) (En,Fr,De,Es,It)|DL-DOL-GRHE-USA,913D67A3
+Rayman 3: Hoodlum Havoc (Europe)|GRHP41
+Rayman 3: Hoodlum Havoc (USA)|GRHE41
+Rayman Arena (USA)|GRYE41
+Rayman Arena (USA) (En,Fr,Es)|DL-DOL-GRYE-USA,E0F783ED
+Red Card 2003 (USA)|GR3E5D
+Red Faction II (Europe)|DL-DOL-GRFP-EUR,GRFD78,GRFF78,GRFP78,CB9F3974
+Red Faction II (France)|DL-DOL-GRFF-FRA,D4444C50
+Red Faction II (Germany)|DL-DOL-GRFD-NOE,8B868C6D
+Red Faction II (USA)|DL-DOL-GRFE-USA,GRFE78,33C916C8
+RedCard (Europe)|GRDP5D
+RedCard (Europe) (En,Fr,De,Es,It)|DL-DOL-GRDP-EUR,FA4D2F9B
+RedCard 20-03 (USA)|DL-DOL-GR3E-USA,F07387D3
+Rei Fighter Gekitsui Senki (Japan)|DL-DOL-GZFJ-JPN,FB1C32E3
+Reign of Fire (Europe)|GR9P6L
+Reign of Fire (Europe) (En,Fr,De,Es,It)|DL-DOL-GR9P-EUR,E6F3C841
+Reign of Fire (USA)|DL-DOL-GR9E-USA,GR9E6L,D4E87138
+Resident Evil (Europe)|GBIP08
+Resident Evil (Europe) (En,Fr,De,Es,It) (Disc 1)|DL-DOL-GBIP-0-EUR,DL-DOL-GBIP-0-EUR-0,DL-DOL-GBIP-0-NOE,DL-DOL-GBIP-0-NOE-0,3431E6F1
+Resident Evil (Europe) (En,Fr,De,Es,It) (Disc 2)|DL-DOL-GBIP-1-EUR,DL-DOL-GBIP-1-EUR-1,DL-DOL-GBIP-1-NOE,DL-DOL-GBIP-1-NOE-1,E68566AC
+Resident Evil (USA)|GBIE08
+Resident Evil (USA) (Disc 1)|DL-DOL-GBIE-0-USA,DL-DOL-GBIE-0-USA-0,24519740
+Resident Evil (USA) (Disc 2)|DL-DOL-GBIE-1-USA,DL-DOL-GBIE-1-USA-1,8E5597C1
+Resident Evil - Code - Veronica X (Europe) (En,Fr,De,Es,It) (Disc 1)|DL-DOL-GCDP-0-EUR,DL-DOL-GCDP-0-EUR-0,DL-DOL-GCDP-0-UKV,DL-DOL-GCDP-0-UKV-0,048E89B3
+Resident Evil - Code - Veronica X (Europe) (En,Fr,De,Es,It) (Disc 2)|DL-DOL-GCDP-1-EUR,DL-DOL-GCDP-1-EUR-1,DL-DOL-GCDP-1-UKV,DL-DOL-GCDP-1-UKV-1,CED63059
+Resident Evil - Code - Veronica X (USA) (Disc 1)|DL-DOL-GCDE-0-USA,DL-DOL-GCDE-0-USA-0,4BFE0A5C
+Resident Evil - Code - Veronica X (USA) (Disc 2)|DL-DOL-GCDE-1-USA,DL-DOL-GCDE-1-USA-1,17270B07
+Resident Evil 2 (Europe)|GHAP08
+Resident Evil 2 (Europe) (En,Fr,De,Es,It)|DL-DOL-GHAP-EUR,7B211913
+Resident Evil 2 (USA)|DL-DOL-GHAE-USA,GHAE08,B93A8A1F
+Resident Evil 3 - Nemesis (Europe) (En,Fr,De,Es,It)|DL-DOL-GLEP-EUR,6C368EF2
+Resident Evil 3 - Nemesis (USA)|DL-DOL-GLEE-USA,075FADB6
+Resident Evil 3: Nemesis (Europe)|GLEP08
+Resident Evil 3: Nemesis (USA)|GLEE08
+Resident Evil 4 (Australia) (En,Fr,De,Es,It) (Bonus Disc)|DL-DOL-D4BU-AUS,1D369CDA
+Resident Evil 4 (Europe)|G4BD08,G4BP08
+Resident Evil 4 (Europe) (En,Fr,De,Es,It) (Bonus Disc)|DL-DOL-D4BP-EUR,DL-DOL-D4BP-UKV,99B43C29
+Resident Evil 4 (Europe) (En,Fr,De,Es,It) (Disc 1)|DL-DOL-G4BP-0-EUR,DL-DOL-G4BP-0-EUR-0,DL-DOL-G4BP-0-EUR-01,DL-DOL-G4BP-0-EUR-01-0,DL-DOL-G4BP-0-UKV,DL-DOL-G4BP-0-UKV-0,977D78FB
+Resident Evil 4 (Europe) (En,Fr,De,Es,It) (Disc 2)|DL-DOL-G4BP-1-EUR,DL-DOL-G4BP-1-EUR-01,DL-DOL-G4BP-1-EUR-01-1,DL-DOL-G4BP-1-EUR-1,DL-DOL-G4BP-1-UKV,DL-DOL-G4BP-1-UKV-1,D84695AE
+Resident Evil 4 (Germany) (En,Fr,De,Es,It) (Bonus Disc)|DL-DOL-D4BD-NOE,0F00E8A1
+Resident Evil 4 (Germany) (En,Fr,De,Es,It) (Disc 1)|DL-DOL-G4BD-0-NOE,DL-DOL-G4BD-0-NOE-0,18960ECF
+Resident Evil 4 (Germany) (En,Fr,De,Es,It) (Disc 2)|DL-DOL-G4BD-1-NOE,DL-DOL-G4BD-1-NOE-1,F7D97A76
+Resident Evil 4 (USA)|G4BE08
+Resident Evil 4 (USA) (Disc 1)|DL-DOL-G4BE-0-USA,DL-DOL-G4BE-0-USA-0,F5C51B40
+Resident Evil 4 (USA) (Disc 2)|DL-DOL-G4BE-1-USA,DL-DOL-G4BE-1-USA-1,6C83A5FF
+Resident Evil 4 (USA) (Preview Disc)|DL-DOL-D4BE-USA,B5612163
+Resident Evil 4: Bonus Disc (Europe)|D4BP01,D4BU01
+Resident Evil 4: Preview Disc (USA)|D4BE08
+Resident Evil Code: Veronica X (Europe)|GCDP08
+Resident Evil Code: Veronica X (USA)|GCDE08
+Resident Evil Zero (Europe)|GBZP08
+Resident Evil Zero (Europe) (En,Fr,De,Es,It) (Disc 1)|DL-DOL-GBZP-0-EUR,DL-DOL-GBZP-0-EUR-0,DDA63A9F
+Resident Evil Zero (Europe) (En,Fr,De,Es,It) (Disc 2)|DL-DOL-GBZP-1-EUR,DL-DOL-GBZP-1-EUR-1,4970460D
+Resident Evil Zero (USA)|GBZE08
+Resident Evil Zero (USA) (Disc 1)|DL-DOL-GBZE-0-USA,DL-DOL-GBZE-0-USA-0,BCC348BF
+Resident Evil Zero (USA) (Disc 2)|DL-DOL-GBZE-1-USA,DL-DOL-GBZE-1-USA-1,4DAF0830
+Ribbit King (Europe)|GKRPB2
+Ribbit King (Europe) (En,Fr,De,Es,It)|DL-DOL-GKRP-EUR,B4CF112F
+Ribbit King (USA)|GKREB2
+Ribbit King (USA) (En,Es)|DL-DOL-GKRE-0-USA,E46D465D
+Ribbit King Plus! (USA) (Bonus Disc)|DL-DOL-GKRE-1-USA,E5E731EB
+Road Trip - The Arcade Edition (USA)|DL-DOL-GROE-USA,550D6FE7
+Road Trip: The Arcade Edition (USA)|GROE5Z
+RoadKill (USA)|DL-DOL-GOCE-USA,GOCE5D,097F4736
+RoboCop - Aratanaru Kiki (Japan)|DL-DOL-GR5J-JPN,BFC3AED4
+Robocop: Aratanaru Kiki (Japan)|GR5J1K
+Robotech - Battlecry (Europe) (En,Fr,De,Es,It)|DL-DOL-GRBP-EUR,AF5C6F08
+Robotech - Battlecry (USA)|DL-DOL-GRBE-USA,6EE515DC
+Robotech: Battlecry (Europe)|GRBP6S
+Robotech: Battlecry (USA)|GRBE6S
+Robots (Europe)|GZQP7D
+Robots (Europe) (En,Fr,De,Es,It)|DL-DOL-GZQP-EUR,22360576
+Robots (Japan)|DL-DOL-GZQJ-JPN,GZQJ7D,DD7888ED
+Robots (USA)|DL-DOL-GZQE-USA,GZQE7D,F978CA04
+Rocket Power: Beach Bandits (Europe)|GBQP78
+Rocket Power: Beach Bandits (USA)|GBQE78
+RockMan EXE Transmission (Japan)|GREJ08
+Rockman EXE Transmission (Japan) (Rev 1)|DL-DOL-GREJ-JPN,F470A6F4
+Rockman X - Command Mission (Japan)|DL-DOL-GXRJ-JPN,179CF63B
+Rockman X: Command Mission (Japan)|GXRJ08
+Rocky (Europe)|GRKP7G
+Rocky (Europe) (En,Fr,De,Es,It)|DL-DOL-GRKP-EUR,7875F632
+Rocky (USA)|DL-DOL-GRKE-USA,GRKE41,F7DF84B4
+Rogue Ops (Europe)|GP9P7F
+Rogue Ops (Europe) (En,Fr,De,Es,It,Nl) (Rev 1)|DL-DOL-GP9P-NOE,131C7666
+Rogue Ops (Japan)|DL-DOL-GP9J-JPN,GP9J28,692B809D
+Rogue Ops (USA)|DL-DOL-GP9E-USA,GP9E7F,2913AEE5
+Rugrats: Royal Ransom (Europe)|GRRF78,GRRP78
+Rugrats: Royal Ransom (USA)|GRRE78
+Rune (Japan)|DL-DOL-GRNJ-JPN,GRNJCQ,1A3E593E
+Rune II - Koruten no Kagi no Himitsu (Japan)|DL-DOL-GR2J-JPN,DA18DC25
+Rune II - Koruten no Kagi no Himitsu (Japan) (Taikenban)|DL-DOL-DR2J-DIS,E3295A1A
+Rune II: Koruten no Kagi no Himitsu (Demo) (Japan)|DR2JCQ
+Rune II: Koruten no Kagi no Himitsu (Japan)|GR2JCQ
+Samurai Jack - The Shadow of Aku (Europe) (En,Fr,De,Es,It)|DL-DOL-GJCP-EUR,3ADE38F4
+Samurai Jack - The Shadow of Aku (USA)|DL-DOL-GJCE-USA,7DAC3582
+Samurai Jack: The Shadow of Aku (Europe)|GJCP8P
+Samurai Jack: The Shadow of Aku (USA)|GJCE8P
+Scaler (USA)|GKUE9G
+Scaler (USA) (En,Fr)|DL-DOL-GKUE-USA,80A156C2
+Scooby-Doo!  Night of 100 Frights (Europe)|GIHD78,GIHP78
+Scooby-Doo!  Night of 100 Frights (USA)|GIHE78
+Scooby-Doo! - Unmasked (Europe)|G5DP78
+Scooby-Doo! - Unmasked (USA)|G5DE78
+Scooby-Doo! Fluch der Folianten (Germany)|DL-DOL-GC3D-NOE,586DC955
+Scooby-Doo! La Nuit des 100 Frissons (France)|DL-DOL-GIHF-FRA,DE0ABF46
+Scooby-Doo! Le Livre des Tenebres (France)|DL-DOL-GC3F-FRA,1DC2DACE
+Scooby-Doo! Mystery Mayhem (Europe)|DL-DOL-GC3P-UKV,GC3D78,GC3F78,44786C13
+Scooby-Doo! Mystery Mayhem (USA)|DL-DOL-GC3E-USA,FBEC80E6
+Scooby-Doo! Nacht der 100 Schrecken (Germany)|DL-DOL-GIHD-NOE,A7A3DACE
+Scooby-Doo! Night of 100 Frights (Europe)|DL-DOL-GIHP-UKV,GIHF78,AC9948A6
+Scooby-Doo! Night of 100 Frights (USA) (Rev 1)|DL-DOL-GIHE-USA,B29A2A47
+Scooby-Doo! Unmasked (Europe) (En,Fr,Es,It)|DL-DOL-G5DP-EUR,CC68C3C1
+Scooby-Doo! Unmasked (USA) (En,Fr)|DL-DOL-G5DE-USA,7A5A6F45
+Scooby-Doo!: Mystery Mayhem (Europe)|GC3P78
+Scooby-Doo!: Mystery Mayhem (USA)|GC3E78
+Scorpion King, The - Rise of the Akkadian (Europe) (En,Fr,De,Es,It)|DL-DOL-GSKP-EUR,88143199
+Scorpion King, The - Rise of the Akkadian (USA)|DL-DOL-GSKE-USA,9E55240C
+SD Gundam - Gashapon Wars (Japan)|DL-DOL-GGPJ-JPN,D5F67251
+SD Gundam - Gashapon Wars (Japan) (Taikenban)|DL-DOL-PGPJ-JPN,1644B443
+SD Gundam Gashapon Wars (Japan)|GGPJAF,GGPJB2
+SD Gundam Trial (Japan)|PGPJB2
+SeaWorld Adventure Parks - Shamu's Deep Sea Adventures (Europe)|DL-DOL-GJZP-EUR,5CDAFBC1
+SeaWorld Adventure Parks - Shamu's Deep Sea Adventures (USA)|DL-DOL-GJZE-USA,BACF314C
+SeaWorld Adventure Parks: Shamu's Deep Sea Adventures (Europe)|GJZP52
+SeaWorld Adventure Parks: Shamu's Deep Sea Adventures (USA)|GJZE52
+Second Sight (Europe)|GISP36
+Second Sight (Europe) (En,Fr,De,Es,It)|DL-DOL-GISP-EUR,224B2525
+Second Sight (USA)|DL-DOL-GISE-USA,GISE36,FE31F0BF
+Sega Soccer Slam (Europe)|DL-DOL-GSSP-EUR,GSSP8P,4FD440C5
+Sega Soccer Slam (Japan)|DL-DOL-GSSJ-JPN,GSSJ8P,DE99A222
+Sega Soccer Slam (USA)|DL-DOL-GSSE-USA,GSSE8P,887F3876
+Seigneur des Anneaux, Le - Le Retour du Roi (France)|DL-DOL-GKLF-FRA,2010369A
+Seigneur des Anneaux, Le - Le Tiers Age (France) (Disc 1)|DL-DOL-G3AF-0-FRA,DL-DOL-G3AF-0-FRA-0,D71B4319
+Seigneur des Anneaux, Le - Le Tiers Age (France) (Disc 2)|DL-DOL-G3AF-1-FRA,DL-DOL-G3AF-1-FRA-1,C155E76F
+Seigneur des Anneaux, Le - Les Deux Tours (France)|DL-DOL-GLOF-FRA,A1D07587
+Senor de los Anillos, El - El Retorno del Rey (Spain)|DL-DOL-GKLS-ESP,0767AAC0
+Senor de los Anillos, El - La Tercera Edad (Spain) (Disc 1)|DL-DOL-G3AS-0-ESP,DL-DOL-G3AS-0-ESP-0,54B81CA5
+Senor de los Anillos, El - La Tercera Edad (Spain) (Disc 2)|DL-DOL-G3AS-1-ESP,DL-DOL-G3AS-1-ESP-1,8D4652EE
+Senor de los Anillos, El - Las Dos Torres (Spain)|DL-DOL-GLOS-ESP,66265042
+Serious Sam - Next Encounter (Europe) (En,Fr,De)|DL-DOL-G3BP-EUR,37E669A7
+Serious Sam - Next Encounter (USA) (Rev 1)|DL-DOL-G3BE-USA,2CAEC8B9
+Serious Sam: Next Encounter (Europe)|G3BP9G
+Serious Sam: Next Encounter (USA)|G3BE9G
+Shadow the Hedgehog (Europe)|GUPP8P
+Shadow the Hedgehog (Europe) (En,Ja,Fr,De,Es,It)|DL-DOL-GUPP-EUR,DB7D8CD9
+Shadow the Hedgehog (Japan)|GUPJ8P
+Shadow the Hedgehog (Japan) (En,Ja,Fr,De,Es,It)|DL-DOL-GUPJ-JPN,529BAA3A
+Shadow the Hedgehog (USA)|GUPE8P
+Shadow the Hedgehog (USA) (En,Ja,Fr,De,Es,It)|DL-DOL-GUPE-USA,F582CF1E
+Shaman King - Soul Fight (Japan) (Rev 1)|DL-DOL-GSEJ-JPN,7863705E
+Shaman King: Soul Fight (Japan)|GSEJB2
+Shark Tale (Europe)|G9TD52,G9TF52,G9TI52,G9TP52
+Shark Tale (Japan)|G9TJC0
+Shark Tale (USA)|G9TE52
+Shikigami no Shiro II (Japan)|DL-DOL-G2SJ-JPN,G2SJGE,03641EB3
+Shinki Sekai Evolutia (Japan)|DL-DOL-GEVJ-JPN,GEVJ0M,8F6F5F3E
+Shinseiki GPX Cyber Formula - Road to the Evolution (Japan)|DL-DOL-GC4J-JPN,6FAEBF04
+Shinseiki GPX Cyber Formula Road To The EVOLUTION (Japan)|GC4JBN
+Shonen Jump's One Piece - Grand Adventure (USA)|DL-DOL-GOQE-USA,AF0FBD81
+Shonen Jump's One Piece - Grand Battle (USA)|DL-DOL-GOPE-USA,08B36FE0
+Shonen Jump's One Piece - Pirates' Carnival (USA)|DL-DOL-GIPE-USA,83911F16
+Shonen Jump's One Piece: Grand Adventure (USA)|GOQEAF
+Shonen Jump's One Piece: Grand Battle (USA)|GOPEB2
+Shonen Jump's One Piece: Pirates Carnival (Japan)|GIPJB2
+Shonen Jump's One Piece: Pirates Carnival (USA)|GIPEAF
+Shrek 2 (Europe)|G3RD52,G3RF52,G3RM52,G3RP52
+Shrek 2 (Europe) (Rev 1)|DL-DOL-G3RP-UKV,6E42D3AE
+Shrek 2 (France)|DL-DOL-G3RF-FRA,B7ED13F2
+Shrek 2 (Germany)|DL-DOL-G3RD-NOE,38C20D67
+Shrek 2 (Sweden)|DL-DOL-G3RM-SWE,7BA40525
+Shrek 2 (USA)|DL-DOL-G3RE-USA,DL-DOL-G3RE-USA-02,G3RE52,D1B56156
+Shrek Extra Large (Europe)|GS9P6S
+Shrek Extra Large (Europe) (En,Fr,De,Es,It)|DL-DOL-GS9P-EUR,001D987B
+Shrek Extra Large (USA)|DL-DOL-GS9E-USA,GS9E6S,F2B6E2C1
+Shrek Smash n' Crash Racing (Europe)|G4IP52
+Shrek Smash n' Crash Racing (USA)|G4IE52
+Shrek Super Party (Europe) (En,Fr,De,Es,It)|DL-DOL-GSYP-EUR,7675F608
+Shrek Super Party (USA)|DL-DOL-GSYE-USA,2C34401A
+Shrek Super Slam (Europe)|G3YP52,G3YX52,G3YY52
+Shrek SuperSlam (USA)|G2RE52
+Shrek: Super Party (Europe)|GSYP6S
+Shrek: Super Party (USA)|GSYE6S
+Signore degli Anelli, Il - Il ritorno del Re (Italy)|DL-DOL-GKLI-ITA,DAEBBD65
+Signore degli Anelli, Il - Le Due Torri (Italy)|DL-DOL-GLOI-ITA,61CB1CCE
+Simpsons, The - Hit & Run (Europe) (En,Fr,De)|DL-DOL-GHQP-EUR,FCFF3D0A
+Simpsons, The - Hit & Run (USA)|DL-DOL-GHQE-USA,DA7CE8DF
+Simpsons, The - Road Rage (Europe) (En,Fr,De)|DL-DOL-GSPP-EUR,4C36E9E4
+Simpsons, The - Road Rage (USA)|DL-DOL-GSPE-USA,18DD3B5A
+Sims 2, The (Europe) (En,Fr,De,Nl)|DL-DOL-G4ZP-EUR,E9BB9D5E
+Sims 2, The (USA)|DL-DOL-G4ZE-USA,44DD3B94
+Sims 2, The - Pets (Europe) (En,Fr,De)|DL-DOL-G4OP-EUR,0032356D
+Sims 2, The - Pets (USA)|DL-DOL-G4OE-USA,BE2B127C
+Sims, The (Europe) (En,Fr,De,Es,It)|DL-DOL-GCIP-EUR,DL-DOL-GCIP-NOE,F9AFDBA2
+Sims, The (Japan)|DL-DOL-G4PJ-JPN,81D29446
+Sims, The (USA)|DL-DOL-GCIE-USA-01,019589C8
+Sims, The - Bustin' Out (Europe) (En,Fr,De,Es,It,Nl)|DL-DOL-G4MP-EUR-01,DL-DOL-G4MP-NOE,DL-DOL-G4MP-UKV,F6EEDF9A
+Sims, The - Bustin' Out (USA)|DL-DOL-G4ME-USA,6939BBC4
+Skies of Arcadia Legends (Europe)|GEAP8P
+Skies of Arcadia Legends (Europe) (En,Fr,De,Es)|DL-DOL-GEAP-EUR,A8E18C76
+Skies of Arcadia Legends (USA)|DL-DOL-GEAE-USA,GEAE8P,23E347B6
+SmaBro DX Event-you Disc (Japan)|D24J01,DL-DOL-D24J-DIS,0DD683CE
+Smashing Drive (USA)|DL-DOL-GSDE-USA,GSDEAF,A25ABF5F
+Smuggler's Run - Warzones (Europe) (En,Fr,De,It)|DL-DOL-GSRP-EUR,8E13C356
+Smuggler's Run - Warzones (USA)|DL-DOL-GSRE-USA,F2E1766B
+Smuggler's Run: Warzones (Europe)|GSRP7S
+Smuggler's Run: Warzones (USA)|GSRE7S
+Sonic Adventure 2 - Battle (Europe) (En,Ja,Fr,De,Es)|DL-DOL-GSNP-EUR,DL-DOL-GSNP-EUR-01,C576B909
+Sonic Adventure 2 - Battle (Japan) (En,Ja,Fr,De,Es)|DL-DOL-GSBJ-JPN,6FAE7E27
+Sonic Adventure 2 - Battle (USA) (En,Ja,Fr,De,Es)|DL-DOL-GSNE-USA,024F4F8F
+Sonic Adventure 2: Battle (Europe)|GSNP8P
+Sonic Adventure 2: Battle (Japan)|GSBJ8P
+Sonic Adventure 2: Battle (USA)|GSNE8P
+Sonic Adventure DX (Japan)|GASJ8P
+Sonic Adventure DX (Japan) (En,Ja,Fr,De,Es)|DL-DOL-GASJ-JPN,DF558413
+Sonic Adventure DX - Director's Cut (Europe) (En,Ja,Fr,De,Es) (Rev 1)|DL-DOL-GXSP-EUR,9BA7F3AF
+Sonic Adventure DX - Director's Cut (USA) (En,Ja,Fr,De,Es)|DL-DOL-GXSE-USA,F4E4E141
+Sonic Adventure DX: Director's Cut (Europe)|GXSP8P
+Sonic Adventure DX: Director's Cut (USA)|GXSE8P
+Sonic Gems Collection (Europe)|G2XP8P
+Sonic Gems Collection (Europe) (En,Fr,De,Es,It)|DL-DOL-G2XP-EUR,89D239B3
+Sonic Gems Collection (Japan)|DL-DOL-G2XJ-JPN,G2XJ8P,8266D5C5
+Sonic Gems Collection (USA)|DL-DOL-G2XE-USA,G2XE8P,FFF7EC04
+Sonic Heroes (Europe)|G9SP8P
+Sonic Heroes (Europe) (En,Ja,Fr,De,Es,It)|DL-DOL-G9SP-EUR,C27A3CAC
+Sonic Heroes (Japan)|G9SJ8P
+Sonic Heroes (Japan) (En,Ja,Fr,De,Es,It)|DL-DOL-G9SJ-JPN,B4923D04
+Sonic Heroes (USA)|G9SE8P
+Sonic Heroes (USA) (En,Ja,Fr,De,Es,It)|DL-DOL-G9SE-USA,48CE3C79
+Sonic Mega Collection (Europe)|GSOP8P
+Sonic Mega Collection (Europe) (En,Fr,De,Es,It)|DL-DOL-GSOP-EUR,DL-DOL-GSOP-EUR-01,9AA972FC
+Sonic Mega Collection (Japan)|DL-DOL-GSOJ-JPN,GSOJ8P,545F93A6
+Sonic Mega Collection (USA)|DL-DOL-GSOE-USA,GSOE8P,01B52739
+Sonic Riders (Europe)|GXEP8P
+Sonic Riders (Europe) (En,Ja,Fr,De,Es,It)|DL-DOL-GXEP-EUR,F8EA461E
+Sonic Riders (Japan)|GXEJ8P
+Sonic Riders (Japan) (En,Ja,Fr,De,Es,It)|DL-DOL-GXEJ-JPN,24529150
+Sonic Riders (USA)|GXEE8P
+Sonic Riders (USA) (En,Ja,Fr,De,Es,It)|DL-DOL-GXEE-USA,1DABE6EE
+Soulcalibur II (Demo) (USA)|DRSEAF
+SoulCalibur II (Europe)|GRSPAF
+Soulcalibur II (Europe) (En,Fr,De,Es,It)|DL-DOL-GRSP-EUR,7D1B46D7
+SoulCalibur II (Japan)|GRSJAF
+Soulcalibur II (Japan) (Rev 1)|DL-DOL-GRSJ-JPN,D4899B21
+SoulCalibur II (USA)|GRSEAF
+Soulcalibur II (USA)|DL-DOL-GRSE-USA,89779810
+Soulcalibur II (USA) (Demo)|DL-DOL-DRSE-USA,989E11D9
+Space Raiders|GIJKC0
+Space Raiders (Japan)|DL-DOL-GIJJ-JPN,GIJJC0,AAE6405B
+Space Raiders (Korea)|DL-DOL-GIJK-KOR,C0C2035B
+Space Raiders (USA)|DL-DOL-GIJE-USA,GIJEFP,834BDAF9
+Spartan - Total Warrior (Europe) (En,Es,It)|DL-DOL-GWAP-EUR,5BF65ABE
+Spartan - Total Warrior (France)|DL-DOL-GWAF-FRA,6EE2AB41
+Spartan - Total Warrior (Germany)|DL-DOL-GWAD-NOE,F4B2A045
+Spartan - Total Warrior (USA)|DL-DOL-GWAE-USA,4E26FE50
+Spartan Total Warrior (Europe)|GWAD8P,GWAF8P,GWAP8P
+Spartan Total Warrior (USA)|GWAE8P
+Spawn - Armageddon (Europe) (En,Fr,De,Es,It)|DL-DOL-GPWP-EUR,2DCB5258
+Spawn - Armageddon (USA)|DL-DOL-GPWE-USA,27DF6BEC
+Spawn: Armageddon (Europe)|GPWP69
+Spawn: Armageddon (USA)|GPWEAF
+Special Jinsei Game (Japan)|DL-DOL-GLIJ-JPN,GLIJA7,10557CF7
+Speed Challenge - Jacques Villeneuve's Racing Vision (Europe) (En,Fr)|DL-DOL-GSZP-EUR,E649640A
+Speed Challenge: Jacques Villeneuve Racing Vision (Europe)|GSZP41
+Speed Kings (Europe)|GDCP51
+Speed Kings (Europe) (En,Fr,De,Es,It)|DL-DOL-GDCP-EUR,6D62D060
+Speed Kings (USA)|DL-DOL-GDCE-USA,GDCE51,390B126B
+Sphinx and the Cursed Mummy (Europe)|GXPP78
+Sphinx and the Cursed Mummy (Europe) (En,Fr,De,Es,It)|DL-DOL-GXPP-EUR,DL-DOL-GXPP-NOE,4E830E05
+Sphinx and the Cursed Mummy (USA)|DL-DOL-GXPE-USA,GXPE78,242F4FF4
+Spider-Man (Europe)|DL-DOL-GSMP-EUR,GSMD52,GSMF52,GSMP52,F517D49E
+Spider-Man (Europe) (Rev 1)|DL-DOL-GSMP-UKV,CD46590A
+Spider-Man (France)|DL-DOL-GSMF-FRA,D2F5D804
+Spider-Man (Germany)|DL-DOL-GSMD-NOE,67AC4BB0
+Spider-Man (Japan)|DL-DOL-GSMJ-JPN,2FC9CD32
+Spider-Man (USA) (Rev 1)|DL-DOL-GSME-USA,F3FED5BE
+Spider-Man 2 (Europe)|DL-DOL-GK2P-UKV,GK2D52,GK2F52,GK2I52,GK2P52,69B4F5F6
+Spider-Man 2 (France)|DL-DOL-GK2F-FRA,F4C10A62
+Spider-Man 2 (Germany)|DL-DOL-GK2D-NOE,4C9579DA
+Spider-Man 2 (Italy)|DL-DOL-GK2I-ITA,8D6E693B
+Spider-Man 2 (USA)|DL-DOL-GK2E-USA,GK2E52,08964518
+Spider-Man: The Movie (Japan)|GSMJ08
+Spider-Man: The Movie (USA)|GSME52
+Spirits & Spells (USA)|DL-DOL-G2PE-USA,G2PE6U,81E06CB9
+Spongebob Squarepants & Friends: Unite! (Europe)|GNOX78
+SpongeBob Squarepants: Battle For Bikini Bottom (Europe)|GQPP78
+SpongeBob SquarePants: Battle for Bikini Bottom (USA)|GQPE78
+SpongeBob SquarePants: Creature from the Krusty Krab (Europe)|GQ4D78,GQ4F78,GQ4P78
+SpongeBob SquarePants: Creature from the Krusty Krab (USA)|GQ4E78
+SpongeBob SquarePants: Creatuur van de Krokante Krab (Europe)|GQ4H78
+SpongeBob SquarePants: Lights, Camera, Pants! (Europe)|GQQH78,GQQP78
+SpongeBob SquarePants: Lights, Camera, PANTS! (Europe)|GQQD78,GQQF78
+SpongeBob SquarePants: Lights, Camera, Pants! (USA)|GQQE78
+SpongeBob SquarePants: Revenge of the Flying Dutchman (Europe)|GSQP78
+SpongeBob SquarePants: Revenge of the Flying Dutchman (USA)|GSQE78
+Spongebob Squarepants: The Movie (Europe)|GGVD78,GGVP78,GGVX78
+SpongeBob SquarePants: The Movie (USA)|GGVE78
+SpyHunter (Europe)|GSHP5D
+SpyHunter (Europe) (En,Fr,De,Es,It)|DL-DOL-GSHP-EUR,6E368BCC
+SpyHunter (USA)|DL-DOL-GSHE-USA,GSHE5D,5048DA05
+Spyro - A Hero's Tail (Europe) (En,Fr,De,Es,It,Nl)|DL-DOL-G5SP-EUR,B1C3B03C
+Spyro - A Hero's Tail (USA)|DL-DOL-G5SE-USA,57708149
+Spyro - Enter the Dragonfly (Europe) (En,Fr,De,Es,It,Nl)|DL-DOL-GS8P-EUR,DL-DOL-GS8P-EUR-01,C413DE23
+Spyro - Enter the Dragonfly (USA)|DL-DOL-GS8E-USA,0956A8DF
+Spyro: A Hero's Tail (Europe)|G5SP7D
+Spyro: A Hero's Tail (USA)|G5SE7D
+Spyro: Enter the Dragonfly (Europe)|GS8P7D
+Spyro: Enter the Dragonfly (USA)|GS8E7D
+SRS - Street Racing Syndicate (Europe) (En,Fr,De,Es,It) (Rev 1)|DL-DOL-GCSP-EUR,8DD1D444
+SRS - Street Racing Syndicate (USA)|DL-DOL-GCSE-USA,718F9112
+SSX 3 (Europe)|GXBP69
+SSX 3 (Europe) (En,Fr,De,Es)|DL-DOL-GXBP-NOE,DL-DOL-GXBP-UKV,8EB360C9
+SSX 3 (Japan)|DL-DOL-GXBJ-JPN,GXBJ13,281EE750
+SSX 3 (USA)|DL-DOL-GXBE-USA,GXBE69,BD94FD62
+SSX On Tour (Europe)|DL-DOL-GXOP-EUR,GXOP69,GXOX69,D8E0133A
+SSX On Tour (Europe) (En,Fr,De)|DL-DOL-GXOX-FRA,886DEFD6
+SSX on Tour (USA)|GXOE69
+SSX On Tour (USA)|DL-DOL-GXOE-USA,4E61B495
+SSX On Tour with Mario (Japan)|DL-DOL-GXOJ-JPN,GXOJ13,9A452794
+SSX Tricky (Europe)|GSTP69
+SSX Tricky (Europe) (En,Fr,De)|DL-DOL-GSTP-EUR,E0E8B174
+SSX Tricky (Japan)|DL-DOL-GSTJ-JPN,GSTJ13,A0F36492
+SSX Tricky (USA)|DL-DOL-GSTE-USA,GSTE69,753173C7
+Star Fox - Assault (Europe) (En,Fr,De,Es,It)|DL-DOL-GF7P-EUR,EE2D4247
+Star Fox - Assault (Japan)|DL-DOL-GF7J-JPN,089208F3
+Star Fox - Assault (USA)|DL-DOL-GF7E-USA,07166D23
+Star Fox Adventures (Europe) (En,Fr,De,Es,It) (Rev 1)|DL-DOL-GSAP-EUR,DL-DOL-GSAP-EUR-01,3CD4BE1C
+Star Fox Adventures (Japan) (Rev 1)|DL-DOL-GSAJ-JPN,9781203A
+Star Fox Adventures (USA) (Rev 1)|DL-DOL-GSAE-USA,477BF336
+Star Fox: Adventures (Europe)|GSAP01
+Star Fox: Adventures (Japan)|GSAJ01
+Star Fox: Adventures (USA)|GSAE01
+Star Fox: Assault (Europe)|GF7P01
+Star Fox: Assault (Japan)|GF7J01
+Star Fox: Assault (USA)|GF7E01
+Star Wars - Bounty Hunter (Europe)|DL-DOL-GBWP-UKV,3A77A561
+Star Wars - Bounty Hunter (France)|DL-DOL-GBWF-FRA,D4205184
+Star Wars - Bounty Hunter (Germany)|DL-DOL-GBWD-NOE,F2A5E260
+Star Wars - Bounty Hunter (Italy)|DL-DOL-GBWI-ITA,391CE39D
+Star Wars - Bounty Hunter (Spain)|DL-DOL-GBWS-ESP,3C24BE94
+Star Wars - Bounty Hunter (USA)|DL-DOL-GBWE-USA,9E0E33DE
+Star Wars - Jedi Knight II - Jedi Outcast (Europe)|DL-DOL-GJKP-EUR,DL-DOL-GJKP-UKV,D127D5AD
+Star Wars - Jedi Knight II - Jedi Outcast (France)|DL-DOL-GJKF-FRA,609A01A6
+Star Wars - Jedi Knight II - Jedi Outcast (Germany)|DL-DOL-GJKD-NOE,0E217C55
+Star Wars - Jedi Knight II - Jedi Outcast (USA)|DL-DOL-GJKE-USA,80308DA6
+Star Wars - La Guerra dei Cloni (Italy)|DL-DOL-GSXI-ITA,B42082A1
+Star Wars - Las Guerras Clon (Spain)|DL-DOL-GSXS-ESP,7F6214A4
+Star Wars - Rogue Squadron II (Japan)|DL-DOL-GSWJ-JPN,EB88DDF3
+Star Wars - Rogue Squadron II (Japan) (Jitsuen-you Sample)|DL-DOL-DSWJ-DIS,913AE6A5
+Star Wars - Rogue Squadron II - Rogue Leader (Europe)|DL-DOL-GSWP-UKV,51FC19E0
+Star Wars - Rogue Squadron II - Rogue Leader (France)|DL-DOL-GSWF-FRA,3F7B5726
+Star Wars - Rogue Squadron II - Rogue Leader (Germany)|DL-DOL-GSWD-NOE,9B78462D
+Star Wars - Rogue Squadron II - Rogue Leader (Italy)|DL-DOL-GSWI-ITA,147F219D
+Star Wars - Rogue Squadron II - Rogue Leader (Spain)|DL-DOL-GSWS-ESP,C5A234D5
+Star Wars - Rogue Squadron II - Rogue Leader (USA)|DL-DOL-GSWE-USA,E9D4823D
+Star Wars - Rogue Squadron III (Japan)|DL-DOL-GWXJ-JPN,496A6823
+Star Wars - Rogue Squadron III - Rebel Strike (Europe) (En,Fr,De,Es,It)|DL-DOL-GLRP-EUR,54CA6364
+Star Wars - Rogue Squadron III - Rebel Strike (Europe) (En,Fr,De,Es,It) (Demo)|DL-DOL-DLSP-EUR,3657BA07
+Star Wars - Rogue Squadron III - Rebel Strike (France)|DL-DOL-GLRF-FRA,E4438BB0
+Star Wars - Rogue Squadron III - Rebel Strike (Germany)|DL-DOL-GLRD-NOE,220C4EA3
+Star Wars - Rogue Squadron III - Rebel Strike (USA)|DL-DOL-GLRE-USA,040A6155
+Star Wars - Rogue Squadron III - Rebel Strike (USA) (Limited Edition Preview Disc)|DL-DOL-DLSE-USA,1621D87A
+Star Wars - The Clone Wars (Europe)|DL-DOL-GSXP-EUR,5350B404
+Star Wars - The Clone Wars (France)|DL-DOL-GSXF-FRA,44621664
+Star Wars - The Clone Wars (Germany)|DL-DOL-GSXD-NOE,0A8F3265
+Star Wars - The Clone Wars (Japan)|DL-DOL-GSXJ-JPN,24A75A9E
+Star Wars - The Clone Wars (USA)|DL-DOL-GSXE-USA,DL-DOL-GSXE-USA-01,8D24A2C1
+Star Wars Bounty Hunter (Europe)|GBWP64
+Star Wars Jedi Knight II: Jedi Outcast (Europe)|GJKD52,GJKF52,GJKP52
+Star Wars Jedi Knight II: Jedi Outcast (USA)|GJKE52
+Star Wars Rogue Leader: Rogue Squadron II (Europe)|GSWD64,GSWS64
+Star Wars Rogue Squadron II (Japan)|GSWJ13
+Star Wars Rogue Squadron II: Rogue Leader (Europe)|GSWF64,GSWI64,GSWP64
+Star Wars Rogue Squadron II: Rogue Leader (USA)|GSWE64
+Star Wars Rogue Squadron III: Rebel Strike (Europe)|GLRD64,GLRF64,GLRP64
+Star Wars Rogue Squadron III: Rebel Strike (Japan)|GWXJ13
+Star Wars Rogue Squadron III: Rebel Strike (USA)|GLRE64
+Star Wars: Bounty Hunter (Europe)|GBWD64,GBWF64,GBWI64,GBWS64
+Star Wars: Bounty Hunter (USA)|GBWE64
+Star Wars: Clone Sensou (Japan)|GSXJ13
+Star Wars: Rogue Squadron II (Demo) (Japan)|DSWJ13
+Star Wars: Rogue Squadron III: Rebel Strike: Limited Edition Bonus Disc (Demo) (Europe)|DLSP64
+Star Wars: Rogue Squadron III: Rebel Strike: Limited Edition Bonus Disc (Demo) (USA)|DLSE64
+Star Wars: The Clone Wars (Europe)|GSXD64,GSXF64,GSXI64,GSXP64,GSXS64
+Star Wars: The Clone Wars (USA)|GSXE64
+Starsky & Hutch (Europe)|GT5P7N
+Starsky & Hutch (Europe) (En,Fr,De,Es,It)|DL-DOL-GT5P-EUR,636CC433
+Starsky & Hutch (USA)|DL-DOL-GT5E-USA,GT5E7N,9295EC63
+Street Hoops (USA)|DL-DOL-GHPE-USA,GHPE52,7B36751E
+Street Racing Syndicate (Europe)|GCSPAF
+Street Racing Syndicate (USA)|GCSEAF
+Strike Force Bowling (USA)|DL-DOL-G5BE-USA,G5BE4Z,64629BFD
+Sum of All Fears, The (Europe) (En,Fr,De,Es,It)|DL-DOL-G3MP-EUR,796A1AB7
+Sum of All Fears, The (USA)|DL-DOL-G3ME-USA,BD2704B3
+Summoner - A Goddess Reborn (Europe)|DL-DOL-GS2P-EUR,F4B5818E
+Summoner - A Goddess Reborn (Germany)|DL-DOL-GS2D-NOE,53939196
+Summoner - A Goddess Reborn (USA)|DL-DOL-GS2E-USA,72B8B6F4
+Summoner - La Deesse Reincarnee (France)|DL-DOL-GS2F-FRA,30CF1029
+Summoner: A Goddess Reborn (Europe)|GS2D78,GS2P78
+Summoner: A Goddess Reborn (USA)|GS2E78
+Summoner: La Deesse Reincarnee (Europe)|GS2F78
+Super Bubble Pop (USA)|DL-DOL-GBYE-USA,GBYE0A,3E57A93C
+Super Bust-A-Move All Stars (Europe)|GVMP41
+Super Bust-A-Move All Stars (Europe) (En,Fr,De,Es,It)|DL-DOL-GVMP-EUR-01,2BB79FA6
+Super Mario Stadium - Miracle Baseball (Japan)|DL-DOL-GYQJ-JPN,81B98D0B
+Super Mario Stadium Miracle Baseball (Japan)|GYQJ01
+Super Mario Strikers (Japan)|DL-DOL-G4QJ-JPN,G4QJ01,1737FCE3
+Super Mario Strikers (USA)|DL-DOL-G4QE-USA,G4QE01,2EC051CF
+Super Mario Sunshine (Europe)|GMSP01
+Super Mario Sunshine (Europe) (En,Fr,De,Es,It)|DL-DOL-GMSP-EUR,DL-DOL-GMSP-EUR-01,4C1D3641
+Super Mario Sunshine (Japan)|GMSJ01
+Super Mario Sunshine (Japan) (Rev 1)|DL-DOL-GMSJ-JPN,11F48191
+Super Mario Sunshine (Korea)|DL-DOL-GMSE-KOR,1E1CD796
+Super Mario Sunshine (USA)|DL-DOL-GMSE-USA,GMSE01,771AD977
+Super Monkey Ball (Europe)|GMBP8P
+Super Monkey Ball (Europe) (En,Fr,De,Es,It)|DL-DOL-GMBP-EUR,8B7A5754
+Super Monkey Ball (Japan)|GMBJ8P
+Super Monkey Ball (Japan) (Rev 2)|DL-DOL-GMBJ-JPN,DL-DOL-GMBJ-JPN-01,D35205B7
+Super Monkey Ball (USA)|DL-DOL-GMBE-USA,GMBE8P,7726C879
+Super Monkey Ball 2 (Demo) (Japan)|DM2J8P
+Super Monkey Ball 2 (Europe)|GM2P8P
+Super Monkey Ball 2 (Europe) (En,Fr,De,Es,It)|DL-DOL-GM2P-EUR,DL-DOL-GM2P-EUR-01,2F726B39
+Super Monkey Ball 2 (Japan)|DL-DOL-GM2J-JPN,GM2J8P,EEF3B2D8
+Super Monkey Ball 2 (Japan) (Taikenban)|DL-DOL-DM2J-DIS,A589AF5A
+Super Monkey Ball 2 (USA)|DL-DOL-GM2E-USA,GM2E8P,C54E40E8
+Super Monkey Ball Adventure (Europe)|G3LP8P
+Super Monkey Ball Adventure (Europe) (En,Fr,De,Es,It)|DL-DOL-G3LP-EUR,F23F2654
+Super Monkey Ball Adventure (USA)|DL-DOL-G3LE-USA,G3LE8P,29E4CA79
+Super Puzzle Bobble All Stars|G3SWC0
+Super Puzzle Bobble All Stars (Japan)|DL-DOL-G3SJ-JPN,G3SJC0,32D6F96A
+Super Puzzle Bobble All Stars (Korea)|DL-DOL-G3SW-KOR,11765D45
+Super Robot Taisen GC (Japan)|DL-DOL-GRWJ-JPN,GRWJD9,0CC8F2BF
+Super Smash Bros. Melee (Europe)|GALP01
+Super Smash Bros. Melee (Europe) (En,Fr,De,Es,It)|DL-DOL-GALP-EUR,DL-DOL-GALP-EUR-01,0FD01424
+Super Smash Bros. Melee (Korea) (En,Ja)|DL-DOL-GALE-KOR,7DBB2EED
+Super Smash Bros. Melee (USA)|GALE01
+Super Smash Bros. Melee (USA) (En,Ja) (Rev 2)|DL-DOL-GALE-USA,5365C84B
+Superman - Shadow of Apokolips (Europe) (En,Fr,De,Es,It)|DL-DOL-GSUP-EUR,9C5E9810
+Superman - Shadow of Apokolips (USA)|DL-DOL-GSUE-USA,5B91235C
+Superman: Shadow of Apokolips (Europe)|GSUP70
+Superman: Shadow of Apokolips (USA)|GSUE70
+Surf's Up (USA)|GXUE41
+Surf's Up (USA) (En,Fr,Es)|DL-DOL-GXUE-USA,6BBEB345
+Swingerz Golf (Korea)|DL-DOL-GWGE-KOR,7ECF7840
+Swingerz Golf (USA)|DL-DOL-GWGE-USA,GWGE4F,92BDD171
+SX Superstar (Europe)|GS3P51
+SX Superstar (Europe) (En,Fr,De,Es)|DL-DOL-GS3P-EUR,620F8C2D
+SX Superstar (USA)|DL-DOL-GS3E-USA,GS3E51,BE6371CB
+Tak & Le Pouvoir de Juju (France)|DL-DOL-GJUF-FRA,459E843B
+Tak 2: The Staff of Dreams (Europe)|G2FD78,G2FF78,G2FP78
+Tak 2: The Staff of Dreams (USA)|G2FE78
+Tak and the Power of Juju (Europe)|DL-DOL-GJUP-UKV,GJUD78,GJUF78,GJUP78,B36E831E
+Tak and the Power of Juju (Korea)|DL-DOL-GJUE-KOR,4858F34A
+Tak and the Power of Juju (USA)|DL-DOL-GJUE-USA,GJUE78,20753D97
+Tak und die Macht des Juju (Germany)|DL-DOL-GJUD-NOE,B94B1D88
+Tak: The Great Juju Challenge (Europe)|GJWP78
+Tak: The Great Juju Challenge (USA)|GJWE78
+Tales of Symphonia (Europe)|GQSDAF,GQSFAF,GQSIAF,GQSPAF,GQSSAF
+Tales of Symphonia (Europe) (Disc 1)|DL-DOL-GQSP-0-UKV,DL-DOL-GQSP-0-UKV-0,6BA54B37
+Tales of Symphonia (Europe) (Disc 2)|DL-DOL-GQSP-1-UKV,DL-DOL-GQSP-1-UKV-1,7690FDDA
+Tales of Symphonia (France) (Disc 1)|DL-DOL-GQSF-0-FRA,DL-DOL-GQSF-0-FRA-0,99EC2579
+Tales of Symphonia (France) (Disc 2)|DL-DOL-GQSF-1-FRA,DL-DOL-GQSF-1-FRA-1,609D66BC
+Tales of Symphonia (Germany) (Disc 1)|DL-DOL-GQSD-0-NOE,DL-DOL-GQSD-0-NOE-0,59B0E2D2
+Tales of Symphonia (Germany) (Disc 2)|DL-DOL-GQSD-1-NOE,DL-DOL-GQSD-1-NOE-1,CD5A94F3
+Tales of Symphonia (Italy) (Disc 1)|DL-DOL-GQSI-0-ITA,DL-DOL-GQSI-0-ITA-0,5FAF5AEE
+Tales of Symphonia (Italy) (Disc 2)|DL-DOL-GQSI-1-ITA,DL-DOL-GQSI-1-ITA-1,1D870A39
+Tales of Symphonia (Japan)|GTOJAF
+Tales of Symphonia (Japan) (Disc 1)|DL-DOL-GTOJ-0-JPN,DL-DOL-GTOJ-0-JPN-0,0943D08B
+Tales of Symphonia (Japan) (Disc 2)|DL-DOL-GTOJ-1-JPN,DL-DOL-GTOJ-1-JPN-1,072D9D7C
+Tales of Symphonia (Spain) (Disc 1)|DL-DOL-GQSS-0-ESP,DL-DOL-GQSS-0-ESP-0,B0817701
+Tales of Symphonia (Spain) (Disc 2)|DL-DOL-GQSS-1-ESP,DL-DOL-GQSS-1-ESP-1,43EF73B4
+Tales of Symphonia (USA)|GQSEAF
+Tales of Symphonia (USA) (Disc 1)|DL-DOL-GQSE-0-USA,DL-DOL-GQSE-0-USA-0,7FE3B9F7
+Tales of Symphonia (USA) (Disc 2)|DL-DOL-GQSE-1-USA,DL-DOL-GQSE-1-USA-1,A65645EB
+Tarzan Freeride (Europe)|GTZP41
+Tarzan Untamed (USA)|GTZE41
+Taxi 3 - Le Jeu (France)|DL-DOL-GXQF-FRA,3A1A8D90
+Taxi 3: Le Jeu (Europe)|GXQF41
+Taz - Wanted (Europe) (En,Fr,De,Es,It)|DL-DOL-GTWP-EUR,DL-DOL-GTWP-EUR-01,C160EF87
+Taz - Wanted (USA) (En,Fr,De,Es,It)|DL-DOL-GTWE-USA,A6C9C6A1
+Taz Wanted (Europe)|GTWP70
+Taz Wanted (USA)|GTWE70
+Teen Titans (Europe)|G6TP78
+Teen Titans (France) (En,Fr)|DL-DOL-G6TP-FRA,B9DD64CC
+Teen Titans (USA)|G6TE5G
+Teen Titans (USA) (En,Fr)|DL-DOL-G6TE-USA,5A179DC5
+Teenage Mutant Ninja Turtles (Europe)|GTFPA4
+Teenage Mutant Ninja Turtles (Europe) (En,Fr,De,Es,It)|DL-DOL-GTFP-EUR,B488A2DF
+Teenage Mutant Ninja Turtles (USA)|DL-DOL-GTFE-USA,GTFEA4,C87E442A
+Teenage Mutant Ninja Turtles 2 - Battle Nexus (Europe) (En,Fr,De,Es,It) (Disc 1)|DL-DOL-GNIP-0-EUR,DL-DOL-GNIP-0-EUR-0,ADE8C8F2
+Teenage Mutant Ninja Turtles 2 - Battle Nexus (Europe) (En,Fr,De,Es,It) (Disc 2)|DL-DOL-GNIP-1-EUR,DL-DOL-GNIP-1-EUR-1,A24AB7AC
+Teenage Mutant Ninja Turtles 2 - Battle Nexus (USA) (Disc 1)|DL-DOL-GNIE-0-USA,DL-DOL-GNIE-0-USA-0,8E1CD4F7
+Teenage Mutant Ninja Turtles 2 - Battle Nexus (USA) (Disc 2)|DL-DOL-GNIE-1-USA,DL-DOL-GNIE-1-USA-1,93A6C844
+Teenage Mutant Ninja Turtles 2: Battle Nexus (Europe)|GNIPA4
+Teenage Mutant Ninja Turtles 2: Battle Nexus (USA)|GNIEA4
+Teenage Mutant Ninja Turtles 3 - Mutant Nightmare (USA) (Disc 1)|DL-DOL-G3QE-0-USA,DL-DOL-G3QE-0-USA-0,CE63A657
+Teenage Mutant Ninja Turtles 3 - Mutant Nightmare (USA) (Disc 2)|DL-DOL-G3QE-1-USA,DL-DOL-G3QE-1-USA-1,F9948B84
+Teenage Mutant Ninja Turtles 3: Mutant Nightmare (USA)|G3QEA4
+Tengai Makyou 2: Manji Maru (Japan)|GT2J18
+Tengai Makyou II - Manji Maru (Japan)|DL-DOL-GT2J-JPN,D9B37F9B
+Terminator 3 - The Redemption (Europe) (En,Fr,De,Es,It)|DL-DOL-GT6P-EUR,888BBA20
+Terminator 3 - The Redemption (Japan)|DL-DOL-GT6J-JPN,CEBB20C1
+Terminator 3 - The Redemption (USA)|DL-DOL-GT6E-USA,20C05D5E
+Terminator 3: The Redemption (Europe)|GT6P70
+Terminator 3: The Redemption (Japan)|GT6J70
+Terminator 3: The Redemption (USA)|GT6E70
+Tetris Worlds (Europe)|GTRP78
+Tetris Worlds (Europe) (En,Fr,De)|DL-DOL-GTRP-EUR,41D8BFFB
+Tetris Worlds (Japan)|DL-DOL-GTRJ-JPN,GTRJ8N,EEA0418F
+Tetris Worlds (USA)|GTRE78
+Tetris Worlds (USA) (Rev 1)|DL-DOL-GTRE-USA,2DB716F1
+The Ant Bully (USA)|GAXE5D
+The Baseball 2003 - Battle Ball Park Sengen Perfect Play Pro Yakyuu (Japan)|GBPJCM
+The Chronicles of Narnia: The Lion Witch and the Wardrobe (Europe)|GLVD4Q,GLVF4Q
+The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (Europe)|GLVP4Q
+The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (USA)|GLVE4Q
+The Fairly OddParents - Shadow Showdown (USA)|GFOE78
+The Fairly OddParents: Breakin' Da Rules (USA)|GFWE78
+The Grim Adventures of Billy and Mandy (USA)|GGNE5D
+The Haunted Mansion (USA)|GHYE6S
+The Hobbit (Europe)|GHBP7D
+The Hobbit (USA)|GHBE7D
+The Incredible Hulk Ultimate Destruction (Europe)|GHUF7D,GHUP7D
+The Incredible Hulk: Ultimate Destruction (USA)|GHUE7D
+The Incredibles (Europe)|GICD78,GICF78,GICH78,GICP78
+The Incredibles (USA)|GICE78
+The Incredibles: Rise of the Underminer (Europe)|GIQX78,GIQY78
+The Incredibles: Rise of the Underminer (Japan)|GIQJ8P
+The Incredibles: Rise of the Underminer (USA)|GIQE78
+The Italian Job (Europe)|GIBP4F
+The Italian Job (USA)|GIBE4F
+The Legend of Spyro: A New Beginning (Europe)|G6SP7D
+The Legend of Spyro: A New Beginning (USA)|G6SE7D
+The Legend of Zelda: Collector's Edition (Europe)|PZLP01
+The Legend of Zelda: Collector's Edition (Japan)|PZLJ01
+The Legend of Zelda: Collector's Edition (USA)|PZLE01
+The Legend of Zelda: Four Swords + (Japan)|G4SJ01
+The Legend of Zelda: Four Swords Adventures (Europe)|G4SP01
+The Legend of Zelda: Four Swords Adventures (USA)|G4SE01
+The Legend of Zelda: Ocarina of Time (Bonus Disc) (Europe)|D43U01
+The Legend of Zelda: Ocarina of Time / Master Quest|D43W01
+The Legend of Zelda: Ocarina of Time / Master Quest (Europe)|D43P01
+The Legend of Zelda: Ocarina of Time / Master Quest (USA)|D43E01
+The Legend of Zelda: The Wind Waker (Europe)|GZLP01
+The Legend of Zelda: The Wind Waker (USA)|GZLE01
+The Legend of Zelda: Twilight Princess (Europe)|GZ2P01
+The Legend of Zelda: Twilight Princess (USA)|GZ2E01
+The Lord of the Rings: The Return of the King (Europe)|GKLD69,GKLF69,GKLI69,GKLP69,GKLS69
+The Lord of the Rings: The Return of the King (Japan)|GKLJ13
+The Lord of the Rings: The Return of the King (USA)|GKLE69
+The Lord of the Rings: The Third Age (Europe)|G3AD69,G3AF69,G3AP69,G3AS69
+The Lord of the Rings: The Third Age (USA)|G3AE69
+The Lord of the Rings: The Two Towers (Europe)|GLOD69,GLOF69,GLOI69,GLOP69,GLOS69
+The Lord of the Rings: The Two Towers (USA)|GLOE69
+The Polar Express (Europe)|GP3P78
+The Polar Express (USA)|GP3E78
+The Powerpuff Girls: Relish Rampage (Europe)|GPQP6L
+The Powerpuff Girls: Relish Rampage (USA)|GPQE6L
+The Scorpion King: Rise of the Akkadian (Europe)|GSKP7D
+The Scorpion King: Rise of the Akkadian (USA)|GSKE7D
+The Simpsons: Hit & Run (Europe)|GHQP7D
+The Simpsons: Hit & Run (USA)|GHQE7D
+The Simpsons: Road Rage (Europe)|GSPP69
+The Simpsons: Road Rage (USA)|GSPE69
+The Sims (Europe)|GCIP69
+The Sims (Japan)|G4PJ13
+The Sims (USA)|GCIE69
+The Sims 2 (Europe)|G4ZP69
+The Sims 2 (USA)|G4ZE69
+The Sims 2: Pets (Europe)|G4OP69
+The Sims 2: Pets (USA)|G4OE69
+The Sims Bustin' Out (USA)|G4ME69
+The Sims: Bustin' Out (Europe)|G4MP69
+The Sum of All Fears (Europe)|G3MP41
+The Tower of Druaga (Japan)|PKBJ01
+The Urbz: Sims in the City (Europe)|GUBP69
+The Urbz: Sims In The City (Japan)|GUBJ13
+The Urbz: Sims in the City (USA)|GUBE69
+Tierisch verrueckte Bauernhof, Der (Germany)|DL-DOL-GYAD-NOE,DC7CD950
+Tiger Woods PGA Tour 06 (Europe)|G6WP69
+Tiger Woods PGA Tour 06 (Europe) (En,Fr,De)|DL-DOL-G6WP-EUR,FF30727A
+Tiger Woods PGA Tour 06 (USA)|DL-DOL-G6WE-USA,G6WE69,9FC02C26
+Tiger Woods PGA Tour 2003 (Europe)|DL-DOL-GTIP-EUR,DL-DOL-GTIP-UKV,GTIP69,A98ECD99
+Tiger Woods PGA Tour 2003 (USA)|DL-DOL-GTIE-USA,GTIE69,9EFC5F20
+Tiger Woods PGA Tour 2004 (Europe)|GW4P69
+Tiger Woods PGA Tour 2004 (Europe) (Disc 1)|DL-DOL-GW4P-0-EUR,DL-DOL-GW4P-0-EUR-0,28BB37DD
+Tiger Woods PGA Tour 2004 (Europe) (Disc 1) (Rev 1)|DL-DOL-GW4P-0-UKV,DL-DOL-GW4P-0-UKV-0,5C2D88E4
+Tiger Woods PGA Tour 2004 (Europe) (Disc 2)|DL-DOL-GW4P-1-EUR,DL-DOL-GW4P-1-EUR-1,669A1B9B
+Tiger Woods PGA Tour 2004 (Europe) (Disc 2) (Rev 1)|DL-DOL-GW4P-1-UKV,DL-DOL-GW4P-1-UKV-1,0DE3148C
+Tiger Woods PGA Tour 2004 (USA)|GW4E69
+Tiger Woods PGA Tour 2004 (USA) (Disc 1)|DL-DOL-GW4E-0-USA,DL-DOL-GW4E-0-USA-0,8AE50A20
+Tiger Woods PGA Tour 2004 (USA) (Disc 2)|DL-DOL-GW4E-1-USA,DL-DOL-GW4E-1-USA-1,755874BA
+Tiger Woods PGA Tour 2005 (Europe)|G5TP69
+Tiger Woods PGA Tour 2005 (Europe) (En,Fr,De) (Disc 1)|DL-DOL-G5TP-0-EUR,DL-DOL-G5TP-0-EUR-0,8E95B0C1
+Tiger Woods PGA Tour 2005 (Europe) (En,Fr,De) (Disc 2)|DL-DOL-G5TP-1-EUR,DL-DOL-G5TP-1-EUR-1,29DC1D0C
+Tiger Woods PGA Tour 2005 (USA)|G5TE69
+Tiger Woods PGA Tour 2005 (USA) (Disc 1)|DL-DOL-G5TE-0-USA,DL-DOL-G5TE-0-USA-0,FB45905A
+Tiger Woods PGA Tour 2005 (USA) (Disc 2)|DL-DOL-G5TE-1-USA,DL-DOL-G5TE-1-USA-1,EB2E3A1F
+TimeSplitters - Future Perfect (Europe)|DL-DOL-G3FP-UKV,883BBD40
+TimeSplitters - Future Perfect (France)|DL-DOL-G3FF-FRA,946825E7
+TimeSplitters - Future Perfect (Germany)|DL-DOL-G3FD-NOE,5BEBD4F6
+TimeSplitters - Future Perfect (USA)|DL-DOL-G3FE-USA,09E3D0EE
+TimeSplitters - Futuro Perfecto (Spain)|DL-DOL-G3FS-ESP,83EB1E86
+TimeSplitters 2 (Europe)|GTSP4F
+TimeSplitters 2 (Europe) (En,Fr,De,Es,It)|DL-DOL-GTSP-EUR,E42E08E8
+TimeSplitters 2 (Korea)|DL-DOL-GTSE-KOR,78F045E7
+TimeSplitters 2 (USA)|DL-DOL-GTSE-USA,GTSE4F,F4081F05
+TimeSplitters: Future Perfect (Europe)|G3FD69,G3FF69,G3FP69,G3FS69
+TimeSplitters: Future Perfect (USA)|G3FE69
+TMNT (Europe)|GYRP41
+TMNT (Europe) (En,Fr,De,Es,It)|DL-DOL-GYRP-EUR,1731F531
+TMNT (USA)|GYRE41
+TMNT (USA) (En,Fr,Es)|DL-DOL-GYRE-USA,9F10EDBC
+TMNT - Mutant Melee (USA)|DL-DOL-GE5E-USA,2EB43A22
+TMNT: Mutant Melee (USA)|GE5EA4
+Tom & Jerry in War of the Whiskers (USA)|GTJE5L
+Tom and Jerry in War of the Whiskers (USA)|DL-DOL-GTJE-USA,6435E657
+Tom Clancy's Ghost Recon (Europe)|GGRD41,GGRP41
+Tom Clancy's Ghost Recon (Europe) (En,Fr,Es,It)|DL-DOL-GGRP-EUR,40C8B0A6
+Tom Clancy's Ghost Recon (Germany)|DL-DOL-GGRD-NOE,DL-DOL-GGRD-NOE-01,477CBF69
+Tom Clancy's Ghost Recon (USA)|DL-DOL-GGRE-USA,GGRE41,2A5CFB16
+Tom Clancy's Ghost Recon 2 (Europe)|GGYP41
+Tom Clancy's Ghost Recon 2 (Europe) (En,Fr,De,Es,It)|DL-DOL-GGYP-EUR,E719BBF8
+Tom Clancy's Ghost Recon 2 (USA)|GGYE41
+Tom Clancy's Ghost Recon 2 (USA) (En,Fr,Es)|DL-DOL-GGYE-USA,EB315761
+Tom Clancy's Rainbow Six - Lockdown (Europe) (En,Fr,De,Es,It)|DL-DOL-GLQP-EUR,47DF5B17
+Tom Clancy's Rainbow Six - Lockdown (USA)|DL-DOL-GLQE-USA,5609A8E7
+Tom Clancy's Rainbow Six 3 (Europe)|G63P41
+Tom Clancy's Rainbow Six 3 (Europe) (En,Fr,De,Es,It)|DL-DOL-G63P-EUR,7280EA66
+Tom Clancy's Rainbow Six 3 (USA)|DL-DOL-G63E-USA,G63E41,AAFA9DA8
+Tom Clancy's Rainbow Six: Lockdown (Europe)|GLQP41
+Tom Clancy's Rainbow Six: Lockdown (USA)|GLQE41
+Tom Clancy's Splinter Cell (Demo) (Europe)|DCEP41
+Tom Clancy's Splinter Cell (Europe)|GCEP41
+Tom Clancy's Splinter Cell (Europe) (En,Fr,De,Es,It)|DL-DOL-GCEP-EUR,F21A73A8
+Tom Clancy's Splinter Cell (Europe) (En,Fr,De,Es,It) (Demo)|DL-DOL-DCEP-EUR,CE53A492
+Tom Clancy's Splinter Cell (USA)|GCEE41
+Tom Clancy's Splinter Cell (USA) (Rev 1)|DL-DOL-GCEE-USA,F3A60605
+Tom Clancy's Splinter Cell - Chaos Theory (Europe) (En,Fr,De,Es,It) (Disc 1)|DL-DOL-GCJP-0-EUR,DL-DOL-GCJP-0-EUR-0,A8498DDC
+Tom Clancy's Splinter Cell - Chaos Theory (Europe) (En,Fr,De,Es,It) (Disc 2)|DL-DOL-GCJP-1-EUR,DL-DOL-GCJP-1-EUR-1,853B9425
+Tom Clancy's Splinter Cell - Chaos Theory (USA) (En,Fr,Es) (Disc 1)|DL-DOL-GCJE-0-USA,DL-DOL-GCJE-0-USA-0,AB312170
+Tom Clancy's Splinter Cell - Chaos Theory (USA) (En,Fr,Es) (Disc 2)|DL-DOL-GCJE-1-USA,DL-DOL-GCJE-1-USA-1,F4B4A0F2
+Tom Clancy's Splinter Cell - Double Agent (Europe) (En,Fr,De,Es,It) (Disc 1)|DL-DOL-GWYX-0-EUR,DL-DOL-GWYX-0-EUR-0,662A25C4
+Tom Clancy's Splinter Cell - Double Agent (Europe) (En,Fr,De,Es,It) (Disc 2)|DL-DOL-GWYX-1-EUR,DL-DOL-GWYX-1-EUR-1,0BB49D94
+Tom Clancy's Splinter Cell - Double Agent (USA) (En,Fr,Es) (Disc 1)|DL-DOL-GWYE-0-USA,DL-DOL-GWYE-0-USA-0,1A31BA3D
+Tom Clancy's Splinter Cell - Double Agent (USA) (En,Fr,Es) (Disc 2)|DL-DOL-GWYE-1-USA,DL-DOL-GWYE-1-USA-1,77CE66B9
+Tom Clancy's Splinter Cell - Pandora Tomorrow (Europe)|DL-DOL-GT7P-UKV,355D85BD
+Tom Clancy's Splinter Cell - Pandora Tomorrow (Europe) (Fr,De,Es,It)|DL-DOL-GT7X-EUR,385AA575
+Tom Clancy's Splinter Cell - Pandora Tomorrow (USA) (Rev 1)|DL-DOL-GT7E-USA,C6D5FE92
+Tom Clancy's Splinter Cell: Chaos Theory (Europe)|GCJP41
+Tom Clancy's Splinter Cell: Chaos Theory (USA)|GCJE41
+Tom Clancy's Splinter Cell: Double Agent (Europe)|GWYX41
+Tom Clancy's Splinter Cell: Double Agent (USA)|GWYE41
+Tom Clancy's Splinter Cell: Pandora Tomorrow (Europe)|GT7P41,GT7X41
+Tom Clancy's Splinter Cell: Pandora Tomorrow (USA)|GT7E41
+Tom Clancy's The Sum of All Fears (USA)|G3ME41
+Tonka - Rescue Patrol (USA)|DL-DOL-GTQE-USA,87CD0EE9
+Tonka: Rescue Patrol (USA)|GTQE6S
+Tony Hawk's American Wasteland (Europe)|GH9P52
+Tony Hawk's American Wasteland (Europe) (En,Fr,De,Es,It)|DL-DOL-GH9P-EUR,3EC7D3C9
+Tony Hawk's American Wasteland (USA)|DL-DOL-GWJE-USA,GWJE52,6CA729F6
+Tony Hawk's Pro Skater 3 (Europe)|DL-DOL-GT3P-EUR,GT3D52,GT3F52,GT3P52,AC6B9437
+Tony Hawk's Pro Skater 3 (France)|DL-DOL-GT3F-FRA,A136CBBB
+Tony Hawk's Pro Skater 3 (Germany)|DL-DOL-GT3D-NOE,F33F9B32
+Tony Hawk's Pro Skater 3 (Japan)|DL-DOL-GT3J-JPN,GT3J52,26EEEEB7
+Tony Hawk's Pro Skater 3 (USA)|DL-DOL-GT3E-USA,GT3E52,38E54E39
+Tony Hawk's Pro Skater 4 (Europe)|DL-DOL-GT4P-UKV,GT4D52,GT4F52,GT4P52,B101A4A0
+Tony Hawk's Pro Skater 4 (France)|DL-DOL-GT4F-FRA,1265BF17
+Tony Hawk's Pro Skater 4 (Germany)|DL-DOL-GT4D-NOE,5AD4598D
+Tony Hawk's Pro Skater 4 (USA)|DL-DOL-GT4E-USA,GT4E52,AA90DAFB
+Tony Hawk's Underground (Europe)|GTDP52
+Tony Hawk's Underground (Europe) (En,Fr,De)|DL-DOL-GTDP-EUR,BDF95DA4
+Tony Hawk's Underground (USA)|DL-DOL-GTDE-USA,GTDE52,C2C4DBD1
+Tony Hawk's Underground 2 (Europe)|G2TP52
+Tony Hawk's Underground 2 (Europe) (En,Fr,De)|DL-DOL-G2TP-EUR,34A3FE67
+Tony Hawk's Underground 2 (USA)|DL-DOL-G2TE-USA,G2TE52,CCA24AD9
+Top Angler - Real Bass Fishing (Europe)|DL-DOL-GTAP-UKV,32C0E4E8
+Top Angler - Real Bass Fishing (USA)|DL-DOL-GTAE-USA,988ED4F2
+Top Angler: Real Bass Fishing (Europe)|GTAP5S
+Top Angler: Real Bass Fishing (USA)|GTAE5S
+Top Gun - Ace of the Sky (Japan)|DL-DOL-GTGJ-JPN,GTGJ1K,9E57ECD2
+Top Gun - Combat Zones (Europe) (En,Fr,De,Es,It,Nl)|DL-DOL-GTGP-EUR,677421AD
+Top Gun - Combat Zones (USA)|DL-DOL-GTGE-USA,FF8CCD79
+Top Gun: Combat Zones (Europe)|GTGP60
+Top Gun: Combat Zones (USA)|GTGE60
+Totsugeki!! Famicom Wars (Japan)|DL-DOL-G8WJ-JPN,G8WJ01,ED987629
+Tower of Druaga, The (Japan)|DL-DOL-PKBJ-JPN,97F48212
+TransWorld Surf - Next Wave (USA)|DL-DOL-GTVE-USA,3CB7DDE8
+Transworld Surf: Next Wave (USA)|GTVE70
+Trigger Man (USA)|DL-DOL-GG2E-USA,GG2E4Z,A3F6D1D0
+True Crime - New York City (Europe)|DL-DOL-G2CP-UKV,0307CCB5
+True Crime - New York City (Europe) (Fr,Es,It)|DL-DOL-G2CX-EUR,D90E962A
+True Crime - New York City (Germany)|DL-DOL-G2CD-NOE,09E363D6
+True Crime - New York City (USA)|DL-DOL-G2CE-USA,BB036F8C
+True Crime - Streets of LA (Europe) (En,Fr,De)|DL-DOL-GTLX-EUR,AFCFE335
+True Crime - Streets of LA (UK)|DL-DOL-GTLP-UKV,0EFE4060
+True Crime - Streets of LA (USA)|DL-DOL-GTLE-USA,DL-DOL-GTLE-USA-01,008C8B49
+True Crime: New York City (Europe)|G2CD52,G2CP52,G2CX52
+True Crime: New York City (USA)|G2CE52
+True Crime: Streets of LA (Europe)|GTLP52,GTLX52
+True Crime: Streets of LA (USA)|GTLE52
+Tsukande! Mawashite! Dossun Puzzle EggMania (Japan)|GEMJ28
+Tube Slider - The Championship of Future Formula (USA)|DL-DOL-GTUE-USA,GTUE8G,0D764212
+Turok - Evolution (Europe) (En,Fr,Es,It)|DL-DOL-GTKP-EUR,BD21B185
+Turok - Evolution (Germany)|DL-DOL-GTKD-NOE,F079D911
+Turok - Evolution (USA)|DL-DOL-GTKE-USA,3B09F9ED
+Turok Evolution (Europe)|GTKD51,GTKP51
+Turok Evolution (USA)|GTKE51
+Ty the Tasmanian Tiger (Europe)|GTYP69
+TY the Tasmanian Tiger (Europe) (En,Fr,De,Es,It)|DL-DOL-GTYP-EUR,B30A2BAD
+Ty the Tasmanian Tiger (USA)|GTYE69
+TY the Tasmanian Tiger (USA)|DL-DOL-GTYE-USA,F4D308CC
+TY the Tasmanian Tiger - Night of the Quinkan (USA)|DL-DOL-GIZE-USA,0580F689
+TY the Tasmanian Tiger 2 - Bush Rescue (Europe) (En,Fr,De)|DL-DOL-GYTP-EUR,DL-DOL-GYTP-NOE,28F8097D
+TY the Tasmanian Tiger 2 - Bush Rescue (USA)|DL-DOL-GYTE-USA,228C96BE
+Ty the Tasmanian Tiger 2: Bush Rescue (Europe)|GYTP69
+Ty the Tasmanian Tiger 2: Bush Rescue (USA)|GYTE69
+Ty the Tasmanian Tiger 3: Night of the Quinkan (USA)|GIZE52
+UEFA Champions League 2004-2005 (Europe)|DL-DOL-GUCP-UKV,GUCD69,GUCF69,GUCP69,73C4BAF2
+UEFA Champions League 2004-2005 (France)|DL-DOL-GUCF-FRA,3A1D0536
+UEFA Champions League 2004-2005 (Germany)|DL-DOL-GUCD-NOE,06DDB584
+UFC - Throwdown (Europe)|DL-DOL-GUFP-EUR,BB3FEE57
+UFC - Throwdown (USA)|DL-DOL-GUFE-USA,774AE996
+UFC - Ultimate Fighting Championship 2 - Tapout - Final Spec (Japan)|DL-DOL-GUFJ-JPN,1E98A9D1
+UFC2 Tapout Final Spec (Japan)|GUFJ08
+UFC: Throwdown (Europe)|GUFP4Z
+Ultimate Fighting Championship Throwdown (USA)|GUFE4Z
+Ultimate Muscle - Legends vs. New Generation (USA)|DL-DOL-GKNE-USA,2F93164C
+Ultimate Muscle: Legends vs. New Generation (USA)|GKNEB2
+Ultimate Spider-Man (Europe)|DL-DOL-GUTP-EUR,DL-DOL-GUTP-UKV,GUTD52,GUTF52,GUTI52,GUTP52,GUTS52,8438BFAE
+Ultimate Spider-Man (France)|DL-DOL-GUTF-FRA,C01D176E
+Ultimate Spider-Man (Germany)|DL-DOL-GUTD-NOE,30070485
+Ultimate Spider-Man (Italy)|DL-DOL-GUTI-ITA,C57D1850
+Ultimate Spider-Man (Japan)|DL-DOL-GUTJ-JPN,GUTJC0,36393D7C
+Ultimate Spider-Man (Spain)|DL-DOL-GUTS-ESP,35E22FE7
+Ultimate Spider-Man (USA)|DL-DOL-GUTE-USA,GUTE52,1858118D
+Una Serie de Catastroficas Desdichas de Lemony Snicket (Spain)|DL-DOL-GLCS-ESP,03487E7A
+Universal Studios Japan Adventure (Japan)|DL-DOL-GUSJ-JPN,GUSJ28,9C1BC747
+Universal Studios Theme Park Adventure (Europe)|GUSP7F
+Universal Studios Theme Park Adventure (Europe) (En,Fr,De,Es)|DL-DOL-GUSP-EUR,8A739C2B
+Universal Studios Theme Park Adventure (USA)|DL-DOL-GUSE-USA,GUSE7F,6CDF5761
+Urban Freestyle Soccer (Europe)|GUVP51
+Urban Freestyle Soccer (Europe) (En,Fr,De,Es,It)|DL-DOL-GUVP-EUR,01CF3E39
+Urbz, The - Sims in the City (Europe) (En,Fr,De,Es,Nl)|DL-DOL-GUBP-UKV,8B2031CD
+Urbz, The - Sims in the City (Japan)|DL-DOL-GUBJ-JPN,B19EF16D
+Urbz, The - Sims in the City (USA)|DL-DOL-GUBE-USA,CF228612
+V-Rally 3 (Europe)|GV3P70
+V-Rally 3 (Europe) (En,Fr,De,Es,It)|DL-DOL-GV3P-UKV,239E56CF
+V-Rally 3 (Japan)|GV3J70
+V-Rally 3 (Japan) (En,Ja,Fr,De,Es,It)|DL-DOL-GV3J-JPN,C7182992
+Vexx (Europe)|GJXP51
+Vexx (Europe) (En,Fr,De,Es,It)|DL-DOL-GJXP-EUR,140F8ABB
+Vexx (USA)|DL-DOL-GJXE-USA,GJXE51,66C7457B
+Viewtiful Joe (Europe)|GVJP08
+Viewtiful Joe (Europe) (En,Fr,De,Es,It)|DL-DOL-GVJP-EUR,DL-DOL-GVJP-NOE,205A62CF
+Viewtiful Joe (Europe) (Promo)|DL-DOL-DVJP-EUR,AFF83635
+Viewtiful Joe (Japan)|DL-DOL-GVJJ-JPN,GVJJ08,3C5B5171
+Viewtiful Joe (Promotional demo) (Europe)|DVJP08
+Viewtiful Joe (USA)|DL-DOL-GVJE-USA,GVJE08,121A9A8E
+Viewtiful Joe - Battle Carnival (Japan)|DL-DOL-GVCJ-JPN,83F0950C
+Viewtiful Joe - Red Hot Rumble (Europe) (En,Fr,De,Es,It)|DL-DOL-GVCP-EUR,3A26B188
+Viewtiful Joe - Red Hot Rumble (USA)|DL-DOL-GVCE-USA,68AF0A7D
+Viewtiful Joe 2 (Europe)|G2VP08
+Viewtiful Joe 2 (Europe) (En,Fr,De,Es,It)|DL-DOL-G2VP-EUR,937045A1
+Viewtiful Joe 2 (USA)|DL-DOL-G2VE-USA,G2VE08,F07AC0D5
+Viewtiful Joe 2 - Black Film no Nazo (Japan)|DL-DOL-G2VJ-JPN,3B2E6215
+Viewtiful Joe 2: Blackfilm no Nazo (Japan)|G2VJ08
+Viewtiful Joe Revival (Japan)|DL-DOL-GVFJ-JPN,GVFJ08,6FF8A1A6
+Viewtiful Joe: Battle Carnival (Japan)|GVCJ08
+Viewtiful Joe: Red Hot Rumble (Europe)|GVCP08
+Viewtiful Joe: Red Hot Rumble (USA)|GVCE08
+Virtua Fighter Cyber Generation (Japan)|G8FJ8P
+Virtua Fighter Cyber Generation - Judgment Six no Yabou (Japan)|DL-DOL-G8FJ-JPN,755DDECF
+Virtua Quest (USA)|DL-DOL-G8FE-USA,G8FE8P,95C68988
+Virtua Striker 2002 (USA)|DL-DOL-GVSE-USA,GVSE8P,C5E3DE37
+Virtua Striker 3 Ver. 2002 (Europe)|GVSP8P
+Virtua Striker 3 Ver. 2002 (Europe) (En,Fr,De,Es,It)|DL-DOL-GVSP-EUR,8F84DED4
+Virtua Striker 3 Ver. 2002 (Japan)|DL-DOL-GVSJ-JPN,B0293FED
+VIRTUA STRIKER 3 ver.2002 (Japan)|GVSJ8P
+Virtua Striker 4|GVS45E
+Wai Wai Golf (Japan)|DL-DOL-GWGJ-JPN,GWGJ4F,A7B76963
+Wallace & Gromit in Project Zoo (Europe)|GWLX6L
+Wallace & Gromit in Project Zoo (Europe) (En,Fr,De,Es,It)|DL-DOL-GWLX-EUR,9071B965
+Wallace & Gromit in Project Zoo (UK)|DL-DOL-GWLP-UKV,C58576DD
+Wallace & Gromit in Project Zoo (USA)|DL-DOL-GWLE-USA,GWLE6L,A5369975
+Wallace & Gromit: Project Zoo (Europe)|GWLP6L
+Walt Disney Pictures Presents Meet the Robinsons (USA)|DL-DOL-GQTE-USA,F9986B70
+Wario World (Europe)|GWWP01
+Wario World (Europe) (En,Fr,De,Es,It)|DL-DOL-GWWP-EUR,B3BC4AEE
+Wario World (Japan)|DL-DOL-GWWJ-JPN,GWWJ01,ABF6CFAD
+Wario World (Korea)|DL-DOL-GWWE-KOR,E66D1C48
+Wario World (USA)|DL-DOL-GWWE-USA,GWWE01,6A9546AA
+WarioWare, Inc. - Mega Party Game$! (Europe) (En,Fr,De,Es,It)|DL-DOL-GZWP-EUR,E89580BE
+WarioWare, Inc. - Mega Party Game$! (USA)|DL-DOL-GZWE-USA,673E9CE1
+WarioWare, Inc.: Mega Party Game$! (Europe)|GZWP01
+WarioWare, Inc.: Mega Party Game$! (USA)|GZWE01
+Warrior Blade - Rastan vs. Barbarian (Japan)|DL-DOL-GBNJ-JPN,E7FDF42F
+Warrior Blade: Rastan vs. Barbarian (Japan)|GBNJC0
+Wave Race - Blue Storm (Europe, Australia)|DL-DOL-GWRP-EUR,A78BB8F3
+Wave Race - Blue Storm (Japan)|DL-DOL-GWRJ-JPN,FD72A6F0
+Wave Race - Blue Storm (USA)|DL-DOL-GWRE-USA,D2EE9CCD
+Wave Race: Blue Storm (Europe)|GWRP01
+Wave Race: Blue Storm (Japan)|GWRJ01
+Wave Race: Blue Storm (USA)|GWRE01
+Whirl Tour (Europe)|GWUP7D
+Whirl Tour (Europe) (En,Fr,De,Es,It)|DL-DOL-GWUP-EUR,F608B1DF
+Whirl Tour (USA)|DL-DOL-GWUE-USA,GWUE7D,2B4C7D32
+Winnie The Pooh Rumbly Tumbly Adventures (USA)|GWHE41
+Winnie the Pooh's Rumbly Tumbly Adventure (Europe)|GWHP41
+Winning Eleven 6 Final Evolution (Japan)|GW6JEM
+World Racing (Europe)|GWDP6S
+World Racing (Europe) (En,Fr,De,Es,It)|DL-DOL-GWDP-EUR,BA953FBE
+World Series of Poker (USA)|GW8E52
+World Series of Poker (USA) (Rev 1)|DL-DOL-GW8E-USA,94510FFE
+World Soccer Winning Eleven 6 - Final Evolution (Japan)|DL-DOL-GW6J-JPN,07F76BCC
+Worms 3D (Europe)|GWMP8P
+Worms 3D (Europe) (En,Fr,De,Es,It)|DL-DOL-GWMP-EUR,AB590663
+Worms 3D (USA)|GWME51
+Worms 3D (USA) (En,Fr)|DL-DOL-GWME-USA,C6E188B4
+Worms Blast (Europe)|GWBP41
+Worms Blast (Europe) (En,Fr,De,Es,It)|DL-DOL-GWBP-EUR,85D42F70
+Worms Blast (USA)|GWBE41
+Worms Blast (USA) (En,Fr,Es)|DL-DOL-GWBE-USA,8CD70182
+Wreckless - The Yakuza Missions (Europe) (En,Fr,De)|DL-DOL-GWQP-EUR,547D483F
+Wreckless - The Yakuza Missions (USA)|DL-DOL-GWQE-USA,31501D9A
+Wreckless: The Yakuza Missions (Europe)|GWQP52
+Wreckless: The Yakuza Missions (USA)|GWQE52
+WTA Tour Tennis (Japan)|GWTJA4
+WTA Tour Tennis (USA)|DL-DOL-GWTE-USA,GWTEA4,2869AA07
+WTA Tour Tennis Pro Evolution (Japan)|DL-DOL-GWTJ-JPN,12F33C3F
+WWE Crush Hour (Europe)|DL-DOL-GCHP-EUR,DL-DOL-GCHP-UKV,GCHP78,45BA3B10
+WWE Crush Hour (USA)|DL-DOL-GCHE-USA,GCHE78,0F41D7A7
+WWE Day of Reckoning (Europe)|DL-DOL-GWPP-EUR,GWPP78,54BE3DA6
+WWE Day of Reckoning (Europe) (Rev 1)|DL-DOL-GWPP-NOE,F1960A2B
+WWE Day of Reckoning (Japan)|DL-DOL-GWPJ-JPN,GWPJG2,DBD7EF56
+WWE Day of Reckoning (USA)|GWPE78
+WWE Day of Reckoning (USA) (Rev 1)|DL-DOL-GWPE-USA,6DBA0CA7
+WWE Day of Reckoning 2 (Europe)|DL-DOL-GW2P-EUR,GW2P78,069A9097
+WWE Day of Reckoning 2 (USA)|DL-DOL-GW2E-USA,GW2E78,BB092C3A
+WWE Wrestlemania X8 (Europe)|GW3P78
+WWE WrestleMania X8 (Europe)|DL-DOL-GW3P-EUR,1F1F9BC4
+WWE WrestleMania X8 (Japan)|DL-DOL-GW3J-JPN,GW3JG2,879A0D04
+WWE WrestleMania X8 (USA)|DL-DOL-GW3E-USA,GW3E78,A37B1923
+WWE WrestleMania XIX (Europe)|GW9P78
+WWE WrestleMania XIX (Europe, Australia)|DL-DOL-GW9P-EUR,DL-DOL-GW9P-UKV,B5E83A66
+WWE WrestleMania XIX (Japan)|DL-DOL-GW9J-JPN,GW9JG2,46F53AFB
+WWE WrestleMania XIX (Korea)|DL-DOL-GW9E-KOR,A95C10E2
+WWE WrestleMania XIX (USA)|DL-DOL-GW9E-USA,GW9E78,635116C6
+X-Men - Next Dimension (Europe)|DL-DOL-GXMP-EUR,C6B5CB92
+X-Men - Next Dimension (USA)|DL-DOL-GXME-USA,CCE0CFF0
+X-Men - The Official Game (Europe) (En,Fr)|DL-DOL-G3XP-EUR,DB9E8EFF
+X-Men - The Official Game (USA)|DL-DOL-G3XE-USA,5BE81AAD
+X-Men 2 - Wolverine's Revenge (Europe)|DL-DOL-GWVP-UKV,AAB221F8
+X-Men 2 - Wolverine's Revenge (Europe) (Fr,De,Es)|DL-DOL-GWVX-EUR,CB63C6BC
+X-Men 2: Wolverine's Revenge (Europe)|GWVP52,GWVX52
+X-Men Legends (Europe)|DL-DOL-GXLP-UKV,GXLP52,GXLX52,B2C2EAD5
+X-Men Legends (Europe) (En,Fr,De)|DL-DOL-GXLX-EUR,6BD8D896
+X-Men Legends (USA)|DL-DOL-GXLE-USA,GXLE52,6C580E51
+X-Men Legends II - El Ascenso de Apocalipsis (Spain)|DL-DOL-GX2S-ESP,2DCC4180
+X-Men Legends II - Rise of Apocalypse (Europe) (En,Fr,It)|DL-DOL-GX2P-EUR,052E0391
+X-Men Legends II - Rise of Apocalypse (Germany)|DL-DOL-GX2D-NOE,0974EE6D
+X-Men Legends II - Rise of Apocalypse (USA)|DL-DOL-GX2E-USA,00734C55
+X-Men Legends II: Rise of Apocalypse (Europe)|GX2D52,GX2P52,GX2S52
+X-Men Legends II: Rise of Apocalypse (USA)|GX2E52
+X-Men: Next Dimension (Europe)|GXMP52
+X-Men: Next Dimension (USA)|GXME52
+X-Men: The Official Game (Europe)|G3XP52
+X-Men: The Official Game (USA)|G3XE52
+X2 - Wolverine's Revenge (USA)|DL-DOL-GWVE-USA,B70BE5FD
+X2: Wolverine's Revenge (USA)|GWVE52
+XGIII - Extreme G Racing (Europe) (En,Fr,De,Es)|DL-DOL-G3EP-EUR,9D77760D
+XGIII - Extreme G Racing (Japan)|DL-DOL-G3EJ-JPN,13A3CE89
+XGIII - Extreme G Racing (USA)|DL-DOL-G3EE-USA,9CFCAC40
+XGIII: Extreme G Racing (Europe)|G3EP51
+XGIII: Extreme G Racing (Japan)|G3EJB0
+XGIII: Extreme G Racing (USA)|G3EE51
+XGRA - Extreme G Racing Association (Europe) (En,Fr,De,Es,It)|DL-DOL-GXAP-EUR,AE048852
+XGRA - Extreme G Racing Association (USA)|DL-DOL-GXAE-USA,4228038D
+XGRA Extreme G Racing Association (Europe)|GXAP51
+XGRA Extreme G Racing Association (USA)|GXAE51
+XIII (Europe)|DL-DOL-GX3P-UKV,GX3P41,GX3X41,8FE48666
+XIII (Europe) (Fr,De,Es,It)|DL-DOL-GX3X-EUR,55BFDBE1
+XIII (USA)|GX3E41
+XIII (USA) (En,Fr,Es)|DL-DOL-GX3E-USA,22502290
+Yu-Gi-Oh! Falsebound Kingdom - Kyokou ni Tozasareta Oukoku (Japan)|DL-DOL-GYFJ-JPN,A6927C83
+Yu-Gi-Oh! Falsebound Kingdom - Kyokou ni Tozasareta Oukoku (Japan) (Taikenban)|DL-DOL-DYFJ-DIS,3D2EE92C
+Yu-Gi-Oh! The Falsebound Kingdom (Europe)|GYFPA4
+Yu-Gi-Oh! The Falsebound Kingdom (Europe) (En,Fr,De,Es,It)|DL-DOL-GYFP-UKV,1E42F6A9
+Yu-Gi-Oh! The Falsebound Kingdom (Japan)|GYFJA4
+Yu-Gi-Oh! The Falsebound Kingdom (USA)|DL-DOL-GYFE-USA,GYFEA4,8F1E8DCA
+Zapper (Europe) (En,Fr,De,Es,It,Nl) (Rev 1)|DL-DOL-GZPP-EUR,00E9B608
+Zapper (USA)|DL-DOL-GZPE-USA,0E322B3B
+Zapper - One Wicked Cricket! (USA)|GZPE70
+Zapper: One Wicked Cricket! (Europe)|GZPP70
+Zatch Bell! Mamodo Battles (USA)|DL-DOL-GYKE-USA,GYKEB2,C98837D7
+Zatch Bell! Mamodo Fury (USA)|DL-DOL-GABE-USA,GABEAF,55DEAB54
+Zelda Collection (Japan)|DL-DOL-PZLJ-JPN,B15B4DC2
+Zelda no Densetsu - 4-tsu no Tsurugi+ (Japan)|DL-DOL-G4SJ-JPN,F16E9EC7
+Zelda no Densetsu - Kaze no Takuto (Japan)|DL-DOL-GZLJ-JPN,C58B4E93
+Zelda no Densetsu - Toki no Ocarina GC (Japan)|DL-DOL-D43J-DIS,C878307D
+Zelda no Densetsu - Twilight Princess (Japan)|DL-DOL-GZ2J-JPN,38415AA3
+Zelda no Densetsu: Kaze no Takuto (Japan)|GZLJ01
+Zelda no Densetsu: Toki no Ocarina GC / Ura Zelda (Japan)|D43J01
+Zelda no Densetsu: Twilight Princess (Japan)|GZ2J01
+Zoids - Battle Legends (USA)|DL-DOL-GZSE-USA,0F6EC75E
+Zoids - Full Metal Crash (Japan)|DL-DOL-GZHJ-JPN,86F1BB88
+Zoids Battle Legends (USA)|GZSE70
+Zoids Full Metal Crash (Japan)|GZHJDA
+Zoids vs. (Japan)|GZOJDA
+Zoids vs. (Japan) (Rev 1)|DL-DOL-GZOJ-JPN,0E0403C3
+Zoids VS. II (Japan)|GZSJDA
+Zoids vs. II (Japan) (Rev 1)|DL-DOL-GZSJ-JPN,43E51DC5
+Zoids vs. III (Japan)|GZVJDA
+Zoids vs. III (Japan) (Rev 2)|DL-DOL-GZVJ-JPN,4843C872
+Zoocube (Europe)|GZCP51
+ZooCube (Europe) (En,Fr,De,Es,It)|DL-DOL-GZCP-EUR,755595B3
+ZooCube (Japan)|DL-DOL-GZCJ-JPN,GZCJB0,7B8A9CCA
+ZooCube (USA)|DL-DOL-GZCE-USA,GZCE51,DC26206C

@@ -1,0 +1,112 @@
+a52
+5200 Menu (USA) (Proto)|0DE2DB48
+A.E. (USA) (Proto)|35484751
+Activision Decathlon, The (USA)|F43E7CD0,FC-008
+Asteroids (USA) (Proto)|38480891
+Astro Chase (USA)|9560,4019ECEC
+Astrogrover (USA) (Proto)|18417ADA
+Atari PAM - Pete's Test (USA)|28278CD6
+Atari PAM Diagnostics (USA) (v2.0)|E8B130C4
+Atari PAM Diagnostics (USA) (v2.3)|CE07D9AD
+Atari PAM System Test (USA) (v1.02)|7EA86E87
+Ballblazer (USA)|DEF2A207,CX5255
+Barroom Baseball (USA) (Proto)|21D19C8F
+Battlezone (USA) (Proto)|B3B8E314
+Battlezone (USA) (Proto) (Alt)|7D32A6CA
+Beamrider (USA)|9BAE58DC,FZ-009
+Behind Jaggi Lines! (USA) (Proto)|9DD7776A
+BerZerk (USA)|BE3CD348,CX5221
+Black Belt (USA) (Proto)|ED47B0D8
+Blaster (USA) (Proto)|C8F9C094
+Blue Print (USA)|0624E6E7,4L 2714
+Boogie (USA) (Demo)|3BD5FDD6
+Bounty Bob Strikes Back! (USA)|7873C6DD
+Buck Rogers - Planet of Zoom (USA)|04807705,005-02
+Carol Shaw's River Raid (USA)|09FC7648,FZ-002
+Castle Blast (USA) (Unl)|7C988054
+Castle Crisis (USA) (Unl)|D50E4061
+Centipede (USA)|536A70FE,CX5215
+Choplifter! (USA)|9AD53BBC,CX5253
+Congo Bongo (USA)|F1F42BBD,006-02
+Countermeasure (USA)|FD541C80,CX5210
+David Crane's Pitfall II - Lost Caverns (USA)|4B910461,FZ-004
+Defender (USA)|BD52623B,CX5218
+Dig Dug (USA)|6A687F9C,CX5211
+Dreadnaught Factor, The (USA)|460DEF2D,FZ-005
+Final Legacy (USA) (Proto)|D3BD3221
+Frisky Tom (USA) (Proto)|04B299A4
+Frogger (USA)|9530,AE7E3444
+Frogger II - Threeedeep! (USA)|9090,0AF19345
+Galaxian (USA)|3EF4A23F,CX5206
+Gorf (USA)|E955DB74,4L 2711
+Gremlins (USA)|063EC2C4,CX5257
+Gyruss (USA)|9080,CFD4A7F9
+H.E.R.O. (USA)|18A73AF3,FZ-007
+James Bond 007 (USA)|9100,D9AE4518
+Joust (USA)|BFD30C01,CX5240
+Jr. Pac-Man (USA) (Proto)|59983C40
+Jungle Hunt (USA)|2C676662,CX5222
+K-Razy Shoot-Out (USA)|EE702214,4L 2712
+Kaboom! (USA)|420F5D0B,FZ-001
+Kangaroo (USA)|ECFA624F,CX5229
+Keystone Kapers (USA)|8FE3BB2C,FZ-006
+Koffi - Yellow Kopter (USA) (Unl)|917BE656
+Last Starfighter, The (USA) (Proto)|83517703
+Looney Tunes Hotel (USA) (Proto)|84DF4925
+Mario Bros. (USA)|873742F1,CX5247
+Meebzork (USA) (Proto)|9FB13411
+MegaMania (USA)|240A1E1A,FZ-003
+Meteorites (USA)|AB8E035B
+Microgammon SB (USA) (Proto)|931A454A
+Millipede (USA) (Proto)|969CFE1A
+Miner 2049er Starring Bounty Bob (USA)|BF1912,7DF1ADFB
+Miniature Golf (USA) (Proto)|C597C087
+Missile Command (USA)|44D3FF6F,CX5202
+Montezuma's Revenge - Featuring Panama Joe (USA)|9460,2A640143
+Moon Patrol (USA)|D0B2F285,CX5241
+Mountain King (USA)|0F24243C,4L 2716
+Mr. Do!'s Castle (USA)|9420,AA55F9BE
+Ms. Pac-Man (USA)|752F5EFD,CX5243
+Pac-Man (USA)|8873EF51,CX5208
+Pengo (USA)|E4F8BA8C,CX5236
+Pitfall! (USA)|B2887833,FZ-004
+Pole Position (USA)|ABC2D1E4,CX5217
+Pole Position (USA) (Proto)|15B7B5EF
+Popeye (USA)|9510,A18A9A40
+Q-bert (USA)|9500,3FE4A401
+QIX (USA)|AEA6D2C2,CX5212
+Quest for Quintana Roo (USA)|1603,B5F3402B
+RealSports Baseball (USA)|44166592,CX5209
+RealSports Basketball (USA)|DD217276,CX5219
+RealSports Basketball (USA) (82-11-05) (Proto)|0F996184
+RealSports Basketball (USA) (83-10-31) (Proto)|C90196FA
+RealSports Football (USA)|4336C2CC,CX5207
+RealSports Soccer (USA)|ECBD1853,CX5213
+RealSports Tennis (USA)|10F33C90,CX5214
+Rescue on Fractalus! (USA)|762C591B,CX5254
+Road Runner (USA) (Proto)|A97606AB
+Robotron 2084 (USA)|4252ABD9,CX5225
+Space Dungeon (USA)|B68D61E8,CX5232
+Space Invaders (USA)|DE5C354A,CX5204
+Space Shuttle - A Journey Into Space (USA)|387365DC,FZ-012
+Spitfire (USA) (Proto)|3C311303
+Sport Goofy (USA) (Proto)|73B5B6FB
+Star Raiders (USA)|7D819A9F,CX5205
+Star Trek - Strategic Operations Simulator (USA)|69F23548,004-02
+Star Wars - Return of the Jedi - Death Star Battle (USA)|9060,0675F0A5
+Star Wars - The Arcade Game (USA)|9040,75F566DF
+Stargate (USA) (Proto)|1D1CEE27
+Super Breakout (USA)|A0642110,CX5203
+Super Cobra (USA)|9550,97DEBCD2
+Super Pac-Man (USA) (Proto)|0A4DDB1E
+Super Pacman (USA) (Proto) (Alt)|FD8F0CD4
+Tempest (USA) (Proto)|1187342F
+Track and Field (USA) (Proto)|0BA22ECE
+Vanguard (USA)|CAAEA0A4,CX5216
+Wizard of Wor (USA)|D6F7DDFD,4L 2713
+Xari Arena (USA) (Proto)|B8FAAEC3
+Xevious (USA) (Proto)|382634DC
+Yellow Submarine (USA) (Demo)|F47BC091
+Zaxxon (USA)|741746D1,008-02
+Zenji (USA)|DA228530,FZ-010
+Zone Ranger (USA)|2959D827,FC-101

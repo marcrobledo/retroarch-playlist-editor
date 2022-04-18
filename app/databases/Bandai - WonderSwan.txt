@@ -1,0 +1,126 @@
+ws
+Anchorz Field (Japan)|425EB893,SWJ-SUM004
+Armored Unit (Japan)|04366D92
+Bakusou Dekotora Densetsu for WonderSwan (Japan)|392DD813,SWJ-KGT003
+beat mania for WonderSwan (Japan)|324622C9,SWJ-KNM001
+Buffers Evolution (Japan)|B25A0635,SWJ-BAN01B
+Cardcaptor Sakura - Sakura to Fushigi na Clow Card (Japan)|7F3A14C0,SWJ-BAN01A
+Chaos Gear - Michibikareshi Mono (Japan)|27B3CC18,SWJ-BAN00B
+Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 1)|A607A350
+Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 2)|CCAA4853,SWJ-BAN002
+Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 3)|AA53971D
+Chou Aniki - Otoko no Tamafuda (Japan) (Rev 4)|7FFF2520,SWJ-BAN023
+Chou Denki Card Battle - Youfu Makai (Japan) (Rev 3)|56E2C069,SWJ-KBS002
+Clock Tower for WonderSwan (Japan) (Rev 1)|4E8909D1
+Crazy Climber (Japan)|0CB57376
+D's Garage 21 Koubo Game - Tane o Maku Tori (Japan)|B1CAEC06,SWJ-BAN01E
+Densha de Go! (Japan) (Rev 1)|B62E5DD0,SWJ-TAT001
+Densha de Go! 2 (Japan)|AF9D8F42,SWJ-CFT001
+Digimon - Ver. WonderSwan (Hong Kong) (En)|94EA6FFC
+Digimon Adventure - Anode Tamer (Japan)|FC6946F0
+Digimon Adventure - Anode Tamer (Japan) (Rev 1)|6E9DD148,SWJ-BAN01C
+Digimon Adventure - Cathode Tamer (Japan)|42AD238B,SWJ-BAN01D
+Digimon Adventure 02 - Tag Tamers (Japan)|56CE1BC5
+Digimon Adventure 02 - Tag Tamers (Japan) (Rev 1)|6EDEDAF8,SWJ-BAN032
+Digital Monster - Ver. WonderSwan (Japan) (Rev 1)|AB59DE2E,SWJ-BAN005
+Digital Partner (Japan)|B5E675AE,SWJ-BAN02C
+Dokodemo Hamster (Japan)|89E7D950,SWJ-BEC003
+Engacho! for WonderSwan (Japan)|4E467626,SWJ-NAP001
+Fever - Sankyo Koushiki Pachinko Simulation for WonderSwan (Japan)|8922DD0B,SWJ-BEC002
+Final Lap 2000 (Japan)|CE2F1A1D,SWJ-BAN026
+Fire Pro Wrestling for WonderSwan (Japan) (Rev 5)|F246A68E,SWJ-KGT007
+Fishing Freaks - Bass Rise for WonderSwan (Japan)|A1FB16FC,SWJ-BEC004
+From TV Animation One Piece - Mezase Kaizoku Ou! (Japan)|F2E362B8,SWJ-BAN02B
+Ganso Jajamaru-kun (Japan)|A193458C,SWJ-JLC001
+Glocal Hexcite (Japan)|4AED3911
+Gomoku Narabe & Reversi - Touryuumon (Japan)|A9F11523
+Goraku Ou Tango! (Japan) (Rev 2)|00137E86,SWJ-PAW001
+GunPey (Japan)|A1656BBB,SWJ-BAN001
+Hanafuda Shiyouyo (Japan)|4B22270D
+Harobots (Japan)|AA525C04,SWJ-SRV001
+Harobots (Japan) (Rev 1)|F75CE82C
+Hunter X Hunter - Ishi o Tsugu Mono (Japan) (Rev 1)|BD6FC68A
+Hunter X Hunter - Ishi o Tsugu Mono (Japan) (Rev 2)|70AA800E,SWJ-BAN02A
+Kakutou Ryouri Densetsu Bistro Recipe - Wonder Battle Hen (Japan)|4D103236,SWJ-BPR002
+Kaze no Klonoa - Moonlight Museum (Japan)|D4E0CB07,80C6EF12,SWJ-BAN008
+Keiba Yosou Shien Soft - Yosou Shinkaron (Japan)|517F962E
+Kiss Yori... - Seaside Serenade (Japan) (Rev 2)|3B4C60C6,SWJ-KDX001
+Kosodate Quiz - Dokodemo My Angel (Japan)|4C48624C,SWJ-BAN007
+Kyousouba Ikusei Simulation - Keiba (Japan) (Rev 1)|ECFBCB1D,SWJ-BEC001
+Langrisser Millennium WS - The Last Century (Japan) (Rev 1)|9E0854E2,SWJ-BAN024
+Last Stand (Japan)|CCCAF8A1,SWJ-BAN009
+Lode Runner for WonderSwan (Japan)|21279E82
+Macross - True Love Song (Japan)|62D419CD,SWJ-LAY001
+Magical Drop for WonderSwan (Japan)|637ADA93,SWJ-DTE002
+Mahjong Touryuumon (Japan) (Rev 1)|C2ED122E
+Mahjong Touryuumon (Japan) (Rev 3)|E7E7FD4C,SWJ-SUM001
+Makaimura for WonderSwan (Japan)|00B31FBB,SWJ-BAN011
+Medarot Perfect Edition - Kabuto Version (Japan)|12FB8B28,SWJ-MGA001
+Medarot Perfect Edition - Kuwagata Version (Japan)|2B40745D,SWJ-MGA002
+Meitantei Conan - Majutsushi no Chousenjou! (Japan)|92FBF7FB,SWJ-BAN012
+Meitantei Conan - Nishi no Meitantei Saidai no Kiki! (Japan)|E226863B,SWJ-BAN027
+Metakomi Theraphy - Nee Kiite! (Japan)|A3EAD689,SWJ-KGT006
+Mingle Magnet (Japan) (En,Ja) (Rev 1)|9BAAC7BB,SWJ-HAL002
+Mobile Suit Gundam MSVS (Japan)|53B9FEF8,SWJ-BAN015
+MobileWonderGate (Japan) (Rev 1)|80DE367D
+Moero!! Pro Yakyuu Rookies (Japan)|EB995E86,SWJ-JLC002
+Morita Shougi for WonderSwan (Japan)|D675C265
+Nazo Ou Pocket (Japan)|4ED8820C,SWJ-BVL001
+Neon Genesis Evangelion - Shito Ikusei (Japan)|BF8D9212,SWJ-BAN00E
+Nice On (Japan) (Rev 1)|B5DBCF12,SWJ-SUM002
+Nihon Pro Mahjong Renmei Kounin - Tetsuman (Japan) (Rev 2)|44B3E67C,SWJ-KGT001
+Nobunaga no Yabou for WonderSwan (Japan)|04531734
+Ou-chan no Oekaki Logic (Japan)|631BD97A,SWJ-SUN004
+Pocket Fighter (Japan)|35361250,SWJ-BAN00A
+Pro Mahjong Kiwame for WonderSwan (Japan) (Rev 1)|90F7E6D6,SWJ-ATN001
+Puyo Puyo Tsuu (Japan)|5A41A7BA,SWJ-BAN004
+Puzzle Bobble (Japan)|F504CD84
+Rainbow Islands - Putty's Party (Japan)|8F8608AD,SWJ-MGH003
+Ring Infinity (Japan)|14ADBD4B,SWJ-KDK001
+Robot Works (Hong Kong) (En,Ja) (Rev 1)|BE6BE690
+Robot Works (Japan)|6ADF0E32
+Rockman & Forte - Mirai Kara no Chousensha (Japan)|CD206A9E,SWJ-BAN013
+Sangokushi for WonderSwan (Japan)|E385EE88,SWJ-KEX002
+Sangokushi II for WonderSwan (Japan)|440B2630
+SD Gundam - Emotional Jam (Japan) (Rev 2)|ADFC3048
+SD Gundam - Emotional Jam (Japan) (Rev 3)|AE83F873,SWJ-BAN006
+SD Gundam G Generation - Gather Beat (Japan)|E4EB3AB1,SWJ-BAN030
+SD Gundam Gashapon Senki - Episode 1 (Japan)|21EB4C59,SWJ-BAN020
+SD Gundam Gashapon Senki - Episode 1 (Japan) (Alt)|2EC1E9C8
+Senkaiden - TV Animation Senkaiden Houshin Engi Yori (Japan)|07A3DD46,SWJ-BAN022
+Sennou Millennium (Japan)|301436AC,SWJ-BAN025
+Shanghai Pocket (Japan)|1C489351,SWJ-SUN001
+Shin Nihon Pro Wrestling - Toukon Retsuden (Japan) (Rev 1)|5B76F901,SWJ-TMY001
+Shougi Touryuumon (Japan)|3AD194EB
+Side Pocket for WonderSwan (Japan)|8655269E,SWJ-DTE001
+Slither Link (Japan)|352A570D
+Soccer Yarou! - Challenge the World (Japan)|1263DA65
+Sotsugyou for WonderSwan (Japan) (Rev 1)|F016DFE1,SWJ-BVL002
+Space Invaders (Japan)|8D83014F,SWJ-SUN002
+Super Robot Taisen Compact (Japan)|8A8C5AA8
+Super Robot Taisen Compact (Japan) (Rev 1)|7572E478
+Super Robot Taisen Compact (Japan) (Rev 2)|7021D54F,SWJ-BPR001
+Super Robot Taisen Compact 2 - Dai-1-bu - Chijou Gekidou Hen (Japan)|782877BC,SWJ-BPR003
+Super Robot Taisen Compact 2 - Dai-2-bu - Uchuu Gekishin Hen (Japan) (Rev 4)|ECBB46DE,SWJ-BPR006
+Super Robot Taisen Compact 2 - Dai-3-bu - Ginga Kessen Hen (Japan) (Rev 2)|0B0F8981,SWJ-BPR007
+Taikyoku Igo - Heisei Kiin (Japan)|50B7A742
+Tanjou Debut for WonderSwan (Japan) (Rev 1)|8B74F59A,SWJ-BVL003
+Tare Panda no GunPey (Japan)|A5643AA3,SWJ-BAN01F
+Tekken Card Challenge (Japan)|E7C608E5,SWJ-BAN00D
+Tenori-on (Japan) (En)|6FE79BB1
+Terrors (Japan)|EF5B6B82,SWJ-BAN014
+Tetsujin 28 Gou (Japan)|6F304DCA,SWJ-MGH001
+Time Bokan Series - Bokan Densetsu - Buta mo Odaterya Doronboo (Japan)|7DA6ACB9,SWJ-BPR005
+Tokyo Majin Gakuen - Fuju Houroku (Japan)|91117D1B,SWJ-AAE001
+Trump Collection - Bottom-Up Teki Trump Seikatsu (Japan) (Rev 1)|C283EC5F
+Trump Collection 2 - Bottom-Up Teki Sekaiisshuu no Tabi (Japan) (Rev 1)|64AAF392
+Turntablist - DJ Battle (Japan)|0D5171F0,SWJ-BAN017
+Umizuri ni Ikou! (Japan)|86B56511,SWJ-CCJ001
+Uzumaki - Denshi Kaiki Hen (Japan) (Rev 4)|812020EF,SWJ-OMM001
+Uzumaki - Noroi Simulation (Japan)|CA3F0B00,SWJ-OMM002
+Vaitz Blade (Japan) (Rev 1)|8FC9E145,SWJ-BAN00C
+Wasabi Produce - Street Dancer (Japan)|1860B655,SWJ-BAN028
+Wonder Stadium '99 (Japan)|E252919D,SWJ-BAN019
+Wonder Stadium (Japan)|23BC0309,SWJ-BAN003
+WonderSwan Handy Sonar (Japan) (Rev 1)|2AB9852D,SWJ-BAN00F
+WonderSwan Handy Sonar (Japan) (Rev 2)|D4188811

@@ -1,0 +1,473 @@
+fds,qd,raw,bin
+19 - Neunzehn (Japan) [b]|E6E06610
+Adian no Tsue (Japan)|EF19DE06,ADA,6C5877A4,DCC7A8D6
+Adian no Tsue (Japan) (Beta)|53DD4C5D
+Adian no Tsue (Japan) (Beta) (1986-10-29)|E342932F
+Ai Senshi Nicol (Japan)|ECF6AA15,3FBDBE79,913E721C,AIN
+Air Fortress (Japan) (Proto)|F9B70C50
+Air Fortress (Japan) (Proto) (1986-10-20)|4928D322,RAMD
+Aki to Tsukasa no Fushigi no Kabe (Japan) (Unl)|672B7F6C,D7B4A01E
+Akumajou Dracula (Japan)|D7793E58,90E99457,AKM
+Akumajou Dracula (Japan) (Rev 1)|C15A04DE,9661E6A4,AKM
+Akumajou Dracula (Japan) (Rev 1) [b]|20763966
+Akumajou Dracula (Japan) (Rev 2) (Disk Writer)|A489FA5E,7448FB40,F13BAEC1,AKM
+Akumajou Dracula (Japan) (Rev 2) (Wii and Wii U Virtual Console)|6D9077A8,FC72B953,AKM
+Akumajou Dracula (Japan) [b]|E0019C34
+Akuu Senki Raijin (Japan) (Beta) (1987-06-10)|CE97DDD2
+Akuu Senki Raijin (Japan) (Disk Writer)|DCDF799C,E188393F,5117E64D,RJN
+Aliens - Alien 2 (Japan) (Proto) (1986-12-15)|2B779EE3
+Aliens - Alien 2 (Japan) (Proto) [b]|9BE84191
+All Night Nippon Super Mario Bros. (Japan) (Promo)|CA2DD5C5,43E7FE95,NSM
+All Night Nippon Super Mario Brothers (Japan) (Promotion Card)|B4D032CA
+Apple Town Monogatari - Little Computer People (Japan)|2DF36E9B,1967673E,BF89DD4A,APT
+Armana no Kiseki (Japan)|FCC52C64,EC6D5DE3,0BAD64A5,ARM
+Aspic - Majaou no Noroi (Japan)|897CACDD,1999ADDB,B0B72463,ASP
+Backgammon (Japan)|02334CF4,4D62DE66,0EDACE05,BAG
+Bakutoushi Patton-kun (Japan)|7EDE359E,617942A4,BDB5104D,PAT
+Balloon Fight (Japan) (En) (Proto)|DD7551A2,BFD,2724BA9A
+Baseball (Japan)|0490FC73,D48AEA0C,23BD2653,BAS
+Big Challenge! Dogfight Spirit (Japan)|B08DA123,4E92B68E,FCDB9FC9,DFS
+Big Challenge! Go! Go! Bowling (Japan)|CBF5D71D,11519F4A,A1CE4038,GGB
+Big Challenge! Gun Fighter (Japan)|FFB3F709,691CB0C1,D9836FB3,GNF
+Big Challenge! Juudou Senshuken (Japan)|A9CB454A,A65712A7,16C8CDD5,CJS
+Bio Miracle Bokutte Upa (Japan)|538936D3,75E44B0D,C57B947F,BOK
+Bio Miracle Bokutte Upa (Japan) (3DS Virtual Console)|3E03DED0,E6801342,BOK
+Bio Miracle Bokutte Upa (Japan) (Wii and Wii U Virtual Console)|F30E596B,494CC75E,BOK
+Bishoujo Alien Battle (Japan) (Alt 1) (Unl)|0D0BAC2C
+Bishoujo Alien Battle (Japan) (Unl)|E89FED10,58003262
+Bishoujo Control (Japan) (Unl)|058330FE,B51CEF8C,WILD
+Bishoujo Hanafuda Club Vol.1 - Oichokabu Hen (Japan) (Unl)|798BEA42,C9143530
+Bishoujo Hanafuda Club Vol.2 - Koikoi Bakappana Hen (Japan) (Unl)|478F36D6,DAFE443C
+Bishoujo Kachinuki Renju - Gomoku Narabe (Japan) (Unl)|FF06EB11,4F993463
+Bishoujo Mahjong Club (Japan) (Unl)|DEAEF7E0,1D5E3EC4
+Bishoujo Sexy Derby (Japan) (Unl)|BEB6DD2A,D92C4FFE
+Bishoujo Sexy Puzzle (Japan) (Unl)|6B0F343E,4FEB052A
+Bishoujo Sexy Slot (Japan) (Unl)|BC15B7F1,DB8F2525
+Bishoujo Shashinkan - Moving School (Japan) (Unl)|8E0BBA37,3E946545,SYA2
+Bishoujo Shashinkan - Studio Cut (Japan) (Unl)|D761A49C,67FE7BEE,SYA1
+Bodycon Quest I - Abakareshi Musume Tachi (Japan) (Disk 1) (Unl)|DEC6333D
+Bodycon Quest I - Abakareshi Musume Tachi (Japan) (Disk 2) (Unl)|6D1F3544
+Bodyconquest I - Abakareshi Musumetachi (Japan) (Disk 1) (Unl)|6E59EC4F
+Bodyconquest I - Abakareshi Musumetachi (Japan) (Disk 2) (Unl)|DD80EA36
+Bomber Man (Japan) (Disk Writer)|4F7BEE06
+Bomberman (Japan) (Disk Writer)|1A414B20,B84C2259,BMD
+Breeder (Japan)|89D8487F,F8FC6D6E,BRE
+Breeder (Japan) [b]|6EC4C43E
+Bubble Bobble (Japan)|D650F246,8C8D153E,BUB
+Bubble Bobble (Japan) (3DS Virtual Console)|7E4D20B4,E48F3EA6,BUB
+Bubble Bobble (Japan) (Wii and Wii U Virtual Console)|ECC08DB7,1CFC87EC,BUB
+Bubble Bobble (Japan) [b]|3C12CA4C
+BurgerTime (Japan) (Disk Writer)|E543A48B,44E41ABA,B3D3D6E5,BGT
+Casino de Pink (Japan) (Unl) [b]|637C2230
+Chitei Tairiku Ordola (Japan)|A8BA14E2,9671CE0C,1A529016,ORD
+Cleopatra no Mahou (Japan)|3B864E05,FDEAA3D8,CLO
+Cleopatra no Mahou (Japan) [b]|AAA51D84
+Clu Clu Land (Japan) (Disk Writer)|72D0BDE6
+Clu Clu Land (Japan) (En) (Disk Writer)|26229052,85E771B9,CLD
+Clu Clu Land (Japan) (En) (GameCube, Virtual Console)|1FFC2364,406EDD8D,CLD
+Cocona World (Japan)|A0BDDD34,C198AB00,0B429E6C,CCN
+Comic Sakka Series Touma Senki #1 - Mashoujo Gakuen Evil (Japan) (Unl)|6F298C83,DFB653F1
+Comic Sakka Series Touma Senki #2 - Mermaid no Gyakushuu (Japan) (Unl)|6532906E,D5AD4F1C
+Comic Sakka Series Touma Senki #3 - Ryuujin Sensei Kikiippatsu (Japan) (Unl)|6880B1F3,D81F6E81
+Comic Sakka Series Touma Senki #4 - Tenkuu Ryuumaou Fukkatsu (Japan) (Unl)|EDDB3816,5D44E764
+Comic Sakka Series Touma Senki #5 - Youjuu Rudo no Chousen (Japan) (Unl)|A3BD4E0B,13229179
+Dandy - Zeuon no Fukkatsu (Japan)|A115DAF9,F027228E,DAN
+Dandy - Zeuon no Fukkatsu (Japan) [b]|A2BFCBCC
+Date de Blackjack (Japan) (Unl)|AD361F32,3DC929B8
+Dead Zone (Japan)|B24739C5,6EF8ED26,DE673254,DZN
+Dead Zone (Japan) (Beta)|2B0E2F8A
+Dead Zone (Japan) (Beta) (1986-10-06)|9B91F0F8
+Dig Dug (Japan) (Disk Writer)|15ED6D18,45D45F7F,EB126143,DIG
+Dig Dug II (Japan) (Disk Writer)|C6E5C00F,DD2,283D67AB,1B2B1342
+Dirty Pair - Project Eden (Japan)|F40C30F6,5F0A149B,0BBA3177,DPR
+Dirty Pair - Project Eden (Japan) (Rev 1) (Disk Writer)|4686AA5B,700627B9,C099F8CB,DPR
+Disk Hacker - Version 1.0 (Japan) (Unl)|853A611F,720DAD40
+Disk Hacker - Version 1.2 (Japan) (Unl)|35039547,C2345918
+Disk Hacker - Version 1.3 (Japan) (Unl)|9C3790D3,6B005C8C
+Disk Hacker II - Copy Plus 3 (Japan) (Unl)|0DD82733,FAEFEB6C
+Disk Keeper (Japan) (Unl)|9F87B85B,68B07404
+Donkey Kong (Japan) (Disk Writer)|B81DCBA3,1DDB8EF7,6C0740E9,DKD
+Donkey Kong Jr. (Japan) (Disk Writer)|56B660F1,90E16269,3046966A,JRD
+Doremikko (Japan)|019D237F,BEE7A47B,0E787B09,DRE
+Dot E Creator Contest (Japan)|46B16B01
+Dr. Chaos - Jigoku no Tobira (Japan)|FEDBBC47,7954BD8F,0DECF852,DRC
+Dracula II - Noroi no Fuuin (Japan)|954B4107,3A0BB17B,2D1EC77C,DRK
+Dracula II - Noroi no Fuuin (Japan) (Virtual Console)|4678045D,F451269F,DRK
+Druid - Kyoufu no Tobira (Japan)|AA32272D,69139E45,B5D4E955,DRD
+Druid - Kyoufu no Tobira (Japan) (Beta) (1987-12-24)|47FF9438,DRD
+Egger Land (Japan)|569B82A4,84F75912,34688660,EGL
+Egger Land (Japan) (Rev 1) (Possible Proto)|4668711F,CF2A8BF8,EGL
+Egger Land - Souzou e no Tabidachi (Japan) (Beta) (1987-11-11)|5C50B9FC
+Egger Land - Souzou e no Tabidachi (Japan) (Beta) (1987-11-11) (Side A)|2F37F7B4
+Egger Land - Souzou e no Tabidachi (Japan) (Beta) (1987-11-11) (Side B)|DD04F284
+Egger Land - Souzou e no Tabidachi (Japan) (Disk Writer)|19856665,94DE6CCB,2441B3B9,EGS
+Electrician (Japan)|A23FC13A,9C37E289,2CA83DFB,ELC
+Emi-chan no Moero Yakyuuken! (Japan) (Unl)|13B688B4,A32957C6
+Esper Dream (Japan)|3367B923,E33C8305,ESP
+Esper Dream (Japan) (Rev 1) (3DS Virtual Console)|23A02531,EDAF1A42,ESP
+Esper Dream (Japan) (Rev 1) (Disk Writer)|ABAA904B,7AECF9D8,ESP
+Esper Dream (Japan) (Rev 1) (Wii and Wii U Virtual Console)|BFC505E0,B954C11A,ESP
+Esper Dream (Japan) (Rev 1) [b]|FB23B6A2
+Esper Dream (Japan) [b]|C25C3DB0
+Exciting Baseball (Japan)|892F6D7B,F63C93BD,8CDD5E3D,EBS
+Exciting Basket (Japan)|A76E0F29,96B5DCAE,769E6217,EKB
+Exciting Billiard (Japan)|7F3D1F42,D6E57884,477C86B1,EKS
+Exciting Soccer - Konami Cup (Japan)|21690B6E,D6C838FE,43CCD4BA,ESC
+Fairy Pinball - Yousei Tachi no Pinball (Japan) (Alt 1) (Unl)|3DC9C826
+Fairy Pinball - Yousei Tachi no Pinball (Japan) (Unl)|1CE10F77,AC7ED005
+Fairy Pinball - Yousei Tachi no Pinball (Japan) (Unl) (Alt)|8D561754
+Fairytale (Japan)|9857AECC,A92BC067,FYT
+Fairytale (Japan) [b]|73CA4E71
+Falsion (Japan)|C1AC33FF,5442C889,398BC9DC,FAL
+Famicom Grand Prix - F1 Race (Japan)|A188DBC8,0CE9573B,7040BF35,FRGE
+Famicom Grand Prix - F1 Race (Japan) (DV 1) (Disk Writer)|B8A0D1C7,81FADA11,FRGE
+Famicom Grand Prix II - 3D Hot Rally (Japan) (DV 5)|1F435C72,A0F93B27,7C578EBE,TDRE
+Famicom Grand Prix II - 3D Hot Rally (Japan) (DV 7)|59A1B57C,A6A25143,29EDED6B,TDRE
+Famicom Grand Prix II - 3D Hot Rally (Japan) (DV 8) (Disk Writer)|4B60C215,0B2C84E9,012267D8,TDRE
+Famicom Mukashibanashi - Shin Onigashima - Kouhen (Japan)|51205A67,29DE8C55,6263EFEC,ON2
+Famicom Mukashibanashi - Shin Onigashima - Kouhen (Japan) (Virtual Console)|EE330FFF,7AF926AB,ON2
+Famicom Mukashibanashi - Shin Onigashima - Zenpen (Japan) (DV 1)|4207954B,72AD3E23,ON1
+Famicom Mukashibanashi - Shin Onigashima - Zenpen (Japan) (DV 1) [b]|11224AAC
+Famicom Mukashibanashi - Shin Onigashima - Zenpen (Japan) (DV 2) [b]|665848F9
+Famicom Mukashibanashi - Shin Onigashima - Zenpen (Japan) (DV 2, 3) (Disk Writer)|2E39D1D2,5BD86B7B,ON1
+Famicom Mukashibanashi - Shin Onigashima - Zenpen (Japan) (DV 3) (3DS Virtual Console)|772C2762,4233BDF3,ON1
+Famicom Mukashibanashi - Shin Onigashima - Zenpen (Japan) (DV 3) (Wii and Wii U Virtual Console)|87BF449B,5742BD49,ON1
+Famicom Mukashibanashi - Yuuyuuki - Kouhen (Japan)|5284636F,9CFD349B,2A278590,UU2
+Famicom Mukashibanashi - Yuuyuuki - Zenpen (Japan)|49B8D704,CB8CF11C,B4EE0863,UU1
+Famicom Tantei Club - Kieta Koukeisha - Kouhen (Japan)|88D716A7,37DE7BD4,D6AB3CB0,TC2
+Famicom Tantei Club - Kieta Koukeisha - Kouhen (Japan) (3DS Virtual Console)|171E5C04,61360DA0,TC2
+Famicom Tantei Club - Kieta Koukeisha - Zenpen (Japan)|EC4C0E91
+Famicom Tantei Club - Kieta Koukeisha - Zenpen (Japan) (DV 1, 3)|CD63D4ED,1BF5F454,TC1
+Famicom Tantei Club - Kieta Koukeisha - Zenpen (Japan) (DV 3) (3DS Virtual Console)|CF63FE64,4D092907,TC1
+Famicom Tantei Club - Kieta Koukeisha - Zenpen (Japan) (DV 3) (Wii and Wii U Virtual Console)|8819E5BF,6DBF2FFC,TC1
+Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Kouhen (Japan)|5FC019CA
+Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Kouhen (Japan) (DV 3, 4)|AE51EE83,EF5FC6B8,TC4
+Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Kouhen (Japan) (DV 4) (3DS Virtual Console)|3198A420,91BC6638,TC4
+Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Zenpen (Japan)|C20B90BB,FE908A02,4E0F5570,TC3
+Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Zenpen (Japan) (3DS Virtual Console)|5B3FB56D,26E56B6B,TC3
+Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Zenpen (Japan) (Wii Virtual Console)|CE25417B,0C697954,TC3
+Family Composer (Japan)|90F4D3ED
+Family Composer (Japan) (Disk Writer)|9F116909,01E451B9,FCO
+Family Composer (Japan) (Rev 1) (Possible Proto)|88A3AA02,FDDBC00D,FCO
+Famimaga Disk Vol. 1 - Hong Kong (Japan)|A9683A19,31C155D8,C6F69987,HKD
+Famimaga Disk Vol. 2 - Panic Space (Japan) (Disk Writer)|76ABC70F,A2EBBB2F,1274645D,PSD
+Famimaga Disk Vol. 3 - All 1 (Japan) (Disk Writer)|43C73DFC,645B4C48,936C8017,ALD
+Famimaga Disk Vol. 4 - Clox (Japan) (Disk Writer)|07FE31F3,135831C4,E46FFD9B,CKD
+Famimaga Disk Vol. 5 - Puyo Puyo (Japan) (Disk Writer)|842468A7,58D3A655,E84C7927,PYO
+Famimaga Disk Vol. 6 - Janken Disk Jou (Japan) (Disk Writer)|EE9B2698,958201D8,251DDEAA,JKD
+Final Command - Akai Yousai (Japan)|F3F9FC2C,B89D5131,08028E43,AKA
+Fire Bam (Japan)|F7AA2492,744CD2F8,9E5C5EDE,FBM
+Fire Rock (Japan)|E7D89D55,33B5B551,E44C7313,FRC
+FMC Disk Card Checker Ver 1.3 (Japan) (Rev 2) (Developer Card)|57CB559E,5DB93082,CHK
+Fruits Mahjong 1 - Disk 1 - Mahjong Game Hontai (Japan) (Unl)|C2B1151F,722ECA6D
+Fruits Mahjong 1 - Disk 2 - Dai H Taikai (Japan) (Unl)|F4300462
+Fruits Mahjong 2 - Disk 1 - Tokimeki Gals (Japan) (Unl)|60FA00BD,D065DFCF
+Fruits Mahjong 2 - Disk 2 - Yonin to Dai H Taikai (Japan) (Unl)|5F6E6F55,EFF1B027
+Fruits Mahjong 3 - Disk 1 - Yonin no Tenshi Tachi (Japan) (Unl)|AF91E3CE,1F0E3CBC
+Fruits Mahjong 3 - Disk 2 - Tottemo H na Gogo (Japan) (Unl)|CD1AE19E,7D853EEC
+Fruits Mahjong 4 - Disk 1 - Bishoujo Connection (Japan) (Unl)|454157C3,F5DE88B1
+Fruits Mahjong 4 - Disk 2 - Daitan H na Hirusagari (Japan) (Unl)|FADD990F,4A42467D
+Fuuun Shourin Ken (Japan)|11511865,620E0D98,B5B75934,FSH
+Fuuun Shourin Ken - Ankoku no Maou (Japan)|8DA5759B,3C5F6468,B3EC4B64,SAM
+Galaga (Japan) (Disk Writer)|8282351B,AB413401,A9BA7801,GAG
+Galaxian (Japan) (Disk Writer)|E60BE171,BA4B6FA8,429169F5,GXN
+Gall Force - Eternal Story (Japan)|C97CBB5E,2CF62AA9,51EF74FB,GAL
+Game no Tatsujin - Money Wars (Japan) (Unl)|DA1E66C9,6A81B9BB
+German Tanteidan MarinGumi - Maruhi Jigomar Sousa File (Japan)|03B59DDE,B1FDA4EC,01627B9E,MAR
+Ginga Denshou - Galaxy Odyssey (Japan)|8694B8A0,D38240DA,631D9FA8,GIN
+Ginga Denshou - Galaxy Odyssey (Japan) (Rev 1) (Possible Proto)|819FDD82,960D68B0,GIN
+Gokuraku Yuugi - Game Tengoku (Japan)|53C62EE4,42FC78AE,9AE119DE,GTG
+Golf (Japan)|B66BB553,9AB768F5,4667EAFA,GLF
+Golf (Japan) (Rev 1)|D61CBAF2,5E72D5DE,A9451981,GLF
+Golf (Japan) (Rev 2) (Possible Proto)|68B4764E,04BBD0FC,GLF
+Golf - Japan Course (Japan)|B39050CF,F49129F6,GFJE
+Golf - Japan Course (Japan) (DV 0)|440EF684
+Golf - Japan Course (Japan) (DV 2)|E4DCDF83,FD5B83A1,DBACFAAA,GFJE
+Golf - Japan Course (Japan) (Prize Card)|0AF11B6B,7122AD80,C1BD72F2,GSJE
+Golf - Special Course (Japan) (Prize Card)|9E457C0A,E212776D,528DA81F,GSUE
+Golf - US Course (Japan)|0B60E2C3,BDEAC502,GFUE
+Golf - US Course (Japan) (DV 0)|0D751A70
+Golf - US Course (Japan) (DV 1)|B0938DF5,B1879EFD,GFUE
+Golf - US Course (Japan) (DV 1) [b]|90F3831E
+Golf - US Course (Japan) (DV 2) (Disk Writer)|72915EA7,BE6A0596,0EF5DAE4,GFUE
+Golf, The - Bishoujo Classic (Japan) (Unl)|D71E1B61,6781C413
+Gomoku Narabe (Japan) (Proto)|62F7ED59,D080F23A,GOD
+Goonies (Japan) (Disk Writer)|5590A570,5BA05C82,81B760A2,GNS
+Graphic Editor Hokusai - Ver 1.2 (Japan) (Unl)|1D234703,EA148B5C,OUJI
+Green Beret (Japan)|5B6985C1,D0916BB6,E7F0577B,GRN
+Gun.Smoke (Japan)|AC0A615A,C6D3968A,BE761B95,GUN
+Gyruss (Japan)|023BA98F,BFC78F7D,4552202C,GRS
+Gyruss (Japan) (Beta) (1988-10-03)|73B64FFE,GRS
+Halley Wars (Japan)|17D12900,4DE34546,583B11CA,HAL
+Hao-kun no Fushigi na Tabi (Japan)|00CAD0AC,FD6BF87C,085F5F88,HFT
+Hayama Reiko no Date de Blackjack (Japan) (Unl)|59877F68,E918A01A
+Hikari Shinwa - Palthena no Kagami (Japan)|79A9EDA3,76217563,PTM
+Hikari Shinwa - Palthena no Kagami (Japan) (Rev 1)|78A6A4FF,E7E6E77A,0C177561,PTM
+Hikari Shinwa - Palthena no Kagami (Japan) (Rev 1) (Virtual Console)|C3199237,B88D9BC2,PTM
+Hikari Shinwa - Palthena no Kagami (Japan) [b]|C6BEAA11
+Hikaru Genji - Roller Panic (Japan)|15BDA2BB,58CF45F3,B8D8218A,GEN
+I Am a Teacher - Super Mario no Sweater (Japan)|48B14617,BB51C5D0,ISM
+I Am a Teacher - Super Mario no Sweater (Japan) [b]|7EE15943
+I Am a Teacher - Teami no Kiso (Japan)|111B46F4,C54D80BF,75D25FCD,ITK
+Ice Climber (Japan) (Disk Writer)|897A6128,036A80DD,A06045E9,ICD
+Ice Hockey (Japan)|FA0D31F7,189FA707,7BB390DE,ICE
+Idol Hotline - Nakayama Miho no Tokimeki High School (Japan) (DV 10)|D53903CE,9C9616B8,83CD894A,THSE
+Idol Hotline - Nakayama Miho no Tokimeki High School (Japan) (DV 11) (Disk Writer)|254FFE3B,525C5BB1,THSE
+Idol Hotline - Nakayama Miho no Tokimeki High School (Japan) (DV 13) (Disk Writer)|F106AF85,ED26AB9F,THSE
+Idol Hotline - Nakayama Miho no Tokimeki High School (Japan) (DV 4)|316D7E72,10266CDD,THSE
+Idol Hotline - Nakayama Miho no Tokimeki High School (Japan) (DV 4) [b]|4E3D7634
+Idol Hotline - Nakayama Miho no Tokimeki High School (Japan) (DV 6)|29F5B93E,ABDDEC53,THSE
+Idol Hotline - Nakayama Miho no Tokimeki High School (Japan) (DV 6) [b]|BB1BEB33
+Igo - Kyuu Roban Taikyoku (Japan)|2F664113,2E1E75AE,F03BE78A,IGO
+Ishidou (Japan) (Disk Writer)|F1416035,0C54A19E,BCCB7EEC,ISD
+Jikai Shounen Met Mag (Japan)|9DC78978,A25A1001,C8CE0200,MTM
+Jingorou (Japan) (Unl)|72A0BD81,859771DE,OUJI
+Kaettekita Mario Bros. (Japan) (Disk Writer)|E3109EC1,4D5BFD77,KMAR
+Kaettekita Mario Brothers (Japan) (Disk Writer)|12358DED
+Kalin no Tsurugi (Japan)|FB02AFDA,30A753BE,76A5DF2B,KRN
+Kamen Rider Black - Taiketsu Shadow Moon (Japan)|0B6EE8CA,566C6DDF,0DB848EA,BLA
+Karate Champ (Japan)|21D1E522,DFD06601,F868A8CB,KAR
+Kattobi! Douji (Japan)|0522C0C6,8A54CE0B,3ACB1179,KTD
+Kick and Run (Japan)|9BE4D9F9,E3D0DCFC,A37D4C85,KIC
+Kick Challenger - Air Foot - Yasai no Kuni no Ashi Senshi (Japan)|C0EEF971,C83EF278,78A12D0A,AFT
+Kieta Princess (Japan)|C73D8947,D04A8398,60D55CEA,KIE
+Kiki Kaikai - Dotou Hen (Japan)|3FB1BB37,35838A29,KIK
+Kiki Kaikai - Dotou Hen (Japan) (Rev 1) (Disk Writer)|276C66C4,007AA4FD,KIK
+Kikikai-kai - Dotou Hen (Japan)|851C555B
+Kikikai-kai - Dotou Hen (Japan) (Rev 1) (Disk Writer)|B0E57B8F
+Kind Gal's (Japan) (Disk 1) (Unl)|66686B06,66E141F3,K2-0
+Kind Gal's (Japan) (Disk 2) (Unl)|65C5AAEC,D55A759E,K2-1
+Kinnikuman - Kinnikusei Oui Soudatsusen (Japan)|2E25F31B,03D8CDB1,5149B663,KNM
+Kinnikuman - Kinnikusei Oui Soudatsusen (Japan) (Rev 1) (Disk Writer)|2C1C6962,39E05966,897F8614,KNM
+Knight Lore - Majou no Ookami Otoko (Japan)|27C4E12B,C07A8B04,70E55476,KLM
+Knight Move (Japan)|4436996A,FD6EF8D7,59D886C8,KMV
+Knight Move (Japan) (Rev 1) (Disk Writer)|FC08E654,6D365E2F,9A019270,KMV
+Kobayashi Hitomi no Hold Up (Japan) (Unl)|8A286B73,BB3E04A2
+Kobayashi Hitomi Shocking Tennis (Japan) (Unl)|A8E11D3E,187EC24C
+Konamic Ice Hockey (Japan)|701A5C49,4E6ACD2D,FEF5125F,HOC
+Konamic Tennis (Japan)|DB44B090,EDBAEE55,TNI
+Konamic Tennis (Japan) (Beta) (1986-10-22)|694F064C
+Konamic Tennis (Japan) [b]|5D253127
+Koneko Monogatari - The Adventures of Chatran (Japan)|C4590E50,E3387BF0,53A7A482,KOM
+Koneko Monogatari - The Adventures of Chatran (Japan) (Sample)|84A7A639
+Koneko Monogatari - The Adventures of Chatran (Japan) (Sample) (1986-07-03)|3438794B
+Kosodate Gokko (Japan) (Unl)|2AEF8CC2,DDD8409D,KGK
+Link no Bouken - The Legend of Zelda 2 (Japan)|9ED8D40F,0C3EBC28,9D0257B2,LNK
+Link no Bouken - The Legend of Zelda 2 (Japan) (Rev 1)|20BD1155,3024CAD5,A118214F,LNK
+Link no Bouken - The Legend of Zelda 2 (Japan) (Rev 1) (Collector's Edition)|DF122ED1,D9D60599,LNK
+Link no Bouken - The Legend of Zelda 2 (Japan) (Rev 1) (Wii and Wii U Virtual Console)|08E60207,5F1D39CB,LNK
+Lipstick #1 - Lolita Hen (Japan) (Unl)|25F0A30F,80464B1E
+Lipstick #2 - Joshi Gakusei Hen (Japan) (Unl)|784EE9C5,C8D136B7
+Lipstick #3 - OL Hen (Japan) (Unl)|416315EC,0FB80911
+Lipstick #4 - Hakui no Tenshi Hen (Japan) (Unl)|3C636CE0,C201E3BC
+Lipstick #5 - Stewardess Hen (Japan) (Unl)|30472B1E,CE25A442
+Lutter (Japan) (Disk Writer)|8505AB8F,89EF45DD,LTD
+Lutter (Japan) (Disk Writer) [b]|54335232
+Madou Senki - Deep Dungeon (Japan)|05680F57,56F522D8,DPD
+Madou Senki - Deep Dungeon (Japan) (Rev 1)|00F6FAC1,F70173FB,479EAC89,DPD
+Madou Senki - Deep Dungeon (Japan) [b]|5D0FCEA2
+Maerchen Veil (Japan)|64BFD466,973CF165,618D10A2,MVL
+Magma Project - Hacker (Japan)|2F4311FA,1CEE986E,59D51115,MPH
+Mahjong (Japan)|9888CEE0,6DBD81E0,9A8A4DBF,MJA
+Mahjong Goraku - Bishoujo Meijinsen (Japan) (Unl)|A9318FAF,19AE50DD
+Mahjong Kazoku (Japan)|649FA3CE,0160BB59,8DDC6D71,MJK
+Matou no Houkai - The Hero of Babel (Japan)|96536846,AC0615F9,0596B36A,MAT
+Meikyuu Jiin Dababa (Japan)|FE9E4B33,8B54D368,A5B90C5C,MIK
+Metroid (Japan) (Rev 1)|8F4F91F4,9C8045DF,2C1F9AAD,MET
+Metroid (Japan) (Rev 2)|C8EFB694,AA49947D,1AD64B0F,MET
+Metroid (Japan) (Rev 3)|35EB99DE,5E4F013D,MET
+Metroid (Japan) (Rev 3) (3DS Virtual Console)|D9D14F90,F45A0636,MET
+Metroid (Japan) (Rev 3) (Wii and Wii U Virtual Console)|24E3393F,6AA1E4A2,MET
+Metroid (Japan) (Rev 3) [b]|5C352B66
+Michael English Daibouken (Japan)|B70AB589,D446FD96,5534D11E,MEA
+Michael English Daibouken (Japan) (Sample)|54982728
+Michael English Daibouken (Japan) (Sample) (1987-03-25)|E1BF6B02
+Moero TwinBee - Cinnamon Hakase wo Sukue! (Japan)|62421007,05AFBD03,A3BF8D53,TIN
+Moero TwinBee - Cinnamon Hakase wo Sukue! (Japan) (Rev 1)|1AD84EF3,0D684AA7,BDF795D5,TIN
+Money Game, The (Japan) (Proto)|A65A4577,6F81A8DA,TMG
+Monitor Puzzle Kineko, The - Kinetic Connection (Japan)|8DA41A0D,A8516D48,KIN
+Monitor Puzzle Kineko, The - Kinetic Connection (Japan) (Rev 1) (Possible Proto)|542F5CB8,C51FAFB7,KIN
+Monitor Puzzle Kineko, The - Kinetic Connection II (Japan) (Disk Writer)|2C4CB5C8,DCED2708,KI2
+Monitor Puzzle Kinetic Connection, The - Kineco (Japan)|86969E67
+Monitor Puzzle Kinetic Connection, The - Kineco II (Japan) (Disk Writer) [b]|746F76B0
+Monty on the Run - Monty no Doki Doki Dai Dassou (Japan)|DF9ED394,211CC78C,BB7AB325,MDD
+Moonball Magic (Japan) (Disk Writer)|B242A6D2,AAD5BEE4,99A87DF8,MBM
+Namida no Soukoban Special (Japan)|81B128F6,001,BCC4CDA4,0C5B12D6
+Nankin no Adventure (Japan) (Disk Writer)|C09E7044,12892375,NAD
+Nankin no Adventure (Japan) [b]|A216FC07
+Nazo no Kabe - Block Kuzushi (Japan)|0C2F6600,09292F11,NZN
+Nazo no Kabe - Block Kuzushi (Japan) [b]|B9B6F063
+Nazo no Murasamejou (Japan)|34CDE818,2ACDE825,9A523757,NMJ
+Nazo no Murasamejou (Japan) (GameCube)|4ED64794,DE74418B,NMJ
+Nazo no Murasamejou (Japan) (Wii and Wii U Virtual Console)|DE8BB3AF,6D054479,NMJ
+Nazo no Murasamejou (World) (Ja) (3DS Virtual Console)|D03CD1FC,1DF004F6,NMJ
+Nazoler Land - Dai 2 Gou (Japan)|A9417390
+Nazoler Land - Dai 3 Gou (Japan)|58A6CA70
+Nazoler Land - Dainigou (Japan)|6E930310,19DEACE2,NZB
+Nazoler Land - Daisangou (Japan)|5ABF0819,872CD3CF,NZC
+Nazoler Land - Soukan Gou (Japan)|C8314AD9
+Nazoler Land - Soukangou (Japan)|CB9FDB94,B42FD111,NZL
+Nazoler Land Special!! - Quiz Ou wo Sagase (Japan)|1F88FD16,F449FC6C,NSP
+Nazoler Land Special!! - Quiz Ou wo Sagase (Japan) [b]|44D6231E
+Neunzehn - 19 (Japan)|ED49AD19,47B3BABD,NEU
+Nomura no Famicom Trade (Japan) (Proto) (FTAJ)|1018AB8B,9E8CE7A8,FTAJ
+Nomura no Famicom Trade (Japan) (Proto) (FTBJ)|E053A606,A8033D2F,FTBJ
+Nomura no Famicom Trade (Japan) (Proto) (FTEJ)|27297FD9,4D10B4F8,FTEJ
+Omoikkiri Tanteidan HaadoGumi - Matenrou no Chousenjou (Japan)|B120B12F,CBCA97F5,D5DF5CBE,HRD
+Othello (Japan) (DV 2)|A0D5B1A7,39709BF6,5B39D23E,OTH
+Othello (Japan) (DV 3, 5) (Disk Writer)|3D3352AB,7E901E0B,OTH
+Othello (Japan) (DV 5) (Disk Writer)|E30D27A8
+Otocky (Japan)|8D5E59C1,673B4713,D7A49861,OTO
+Otocky (Japan) (Beta) (1986-04-15)|0CF97F84
+Pac-Man (Japan) (Disk Writer)|314A7352,CDF3CA4B,3E946D4D,PAC
+Pachicom (Japan) (Disk Writer)|7A97204D,B1686472,65E47753,PCD
+Pachinko Grand Prix (Japan)|3E04014B,1C185588,PGP
+Pachinko Grand Prix (Japan) [b]|1A40D6AD
+Patlabor - The Mobile Police - Dai 2 Shoutai Shutsudou Seyo! (Japan) [b]|B5639859
+Patlabor - The Mobile Police - Daini Shoutai Shutsudou seyo! (Japan) (Disk Writer)|FAD93C6F,EF1B1895,PTL
+Pinball (Japan) (Disk Writer)|8AFE72FD,18E50AD4,5218D0A8,PND
+Pro Golfer Saru - Kage no Tournament (Japan)|2BCB17EA,76966A72,8261910E,PGS
+Pro Wres (Japan)|21F94699
+Pro Wres (Japan) (En)|FA073482,D6CE8AC6,PRO
+Professional Mahjong Gokuu (Japan)|5C7A14A7,8839A245,38A67D37,GKU
+Pulsar no Hikari - Space Wars Simulation (Japan)|57327ACF,B8AB9239,08344D4B,PSR
+Putt Putt Golf (Japan)|935C2A26,98195A6A,0AC52AE0,PPG
+Puzzle Boys (Japan) (Disk Writer)|3FF87852,78F31548,096DFFE6,PUZ
+Quick Hunter (Japan) (Unl)|C6BAA8E6,318D64B9
+Quick Hunter - Parameter Disk Vol.1 (Japan) (Unl)|20CC5678,D7FB9A27
+Radical Bomber!! Jirai-kun (Japan)|2B41056B
+Radical Bomber!! Jirai-kun (Japan) (Disk Writer)|65709D3A,9BDEDA19,GRK
+Reflect World (Japan)|328D2518,816E45D0,RWD
+Reflect World (Japan) [b]|2C24CD2D
+Relics - Ankoku Yousai (Japan)|DAE93DAB,5DE87797,RLC
+Relics - Ankoku Yousai (Japan) [b]|FB0AE491
+Replicart (Japan)|CD3B5B01,C374C9ED,C3CBC847,REP
+Risa no Yousei Densetsu (Japan)|D12CD9D7,D7943621,E3B229CE,YOU
+Roger Rabbit (Japan)|E1B36472,A7783DC0,B43F9B16,RRR
+Sailor Fuku Bishoujo Zukan Vol. 1 (Japan) (Unl)|A6B85A58,1627852A
+Sailor Fuku Bishoujo Zukan Vol. 2 (Japan) (Unl)|5FF683AF,EF695CDD
+Sailor Fuku Bishoujo Zukan Vol. 3 (Japan) (Unl)|DA347669,6AABA91B
+Sailor Fuku Bishoujo Zukan Vol. 4 (Japan) (Unl)|A887BC15,18186367
+Sailor Fuku Bishoujo Zukan Vol. 5 (Japan) (Unl)|C09721A9,7008FEDB
+Sailor Fuku Bishoujo Zukan Vol. 6 (Japan) (Unl)|69B6AFED,D929709F
+Samurai Sword (Japan)|8BE4A0BC,DA2D8561,6AB25A13,SMU
+Santa Claus no Takarabako (Japan)|38D2E00F,D4C4F1B5,645B2EC7,SAN
+SD Gundam World - Gachapon Senshi - Scramble Wars (Japan)|05E0A4BE,D5F14605,SGW
+SD Gundam World - Gachapon Senshi - Scramble Wars (Japan) (Disk Writer)|7CE54D7D,189F7A6B,2DB7A34D,SG1
+SD Gundam World - Gachapon Senshi - Scramble Wars (Japan) (Rev 1)|1F00A42A,43F70704,SGW
+SD Gundam World - Gachapon Senshi - Scramble Wars (Japan) (Rev 1) (3DS Virtual Console)|36B8B7C1,F24355AF,SGW
+SD Gundam World - Gachapon Senshi - Scramble Wars (Japan) (Rev 1) (Wii Virtual Console)|A6161EE3,286FBAEB,SGW
+SD Gundam World - Gachapon Senshi - Scramble Wars (Japan) (Rev 1) [b]|3CB0A49C
+SD Gundam World - Gachapon Senshi - Scramble Wars (Japan) [b]|BB610AFD
+SD Gundam World - Gachapon Senshi - Scramble Wars - Map Collection (Japan) (Disk Writer)|8ED134A0,98F12376,286EFC04,SG2
+Section-Z (Japan)|927FE8F7,0BCB926F,SCZ
+Section-Z (Japan) [b]|392488E2
+Seiken Psychocalibur - Majuu no Mori Densetsu (Japan)|C7191DA8,5CAC8BA1,1E3AB668,MAJ
+Sexy Invaders (Japan) (Unl)|F1A196A8,413E49DA
+Sexy Yakyuuken Adventure II - Gal's Dungeon Part II (Japan) (Unl)|FAA53B67,4A3AE415
+Shanghai (Japan) (Proto)|46DA5F4E
+Shanghai (Japan) (Proto) (1986-10-16)|B1ED9311,DZN
+Shanghai II (Japan) (Proto) (Dragon Layout)|4EAAEA69,B99D2636,ILE
+Shanghai II (Japan) (Proto) (Scorpion Layout)|4E10423E,B9278E61,ILE
+Silviana - Ai Ippai no Little Angel (Japan)|9869F553,09F95CB9,SIL
+Silviana - Ai Ippai no Little Angel (Japan) [b]|4D721D90
+Smash Ping Pong (Japan)|48096702,B235B657,DD37DD3A,PPN
+Soccer (Japan)|325F38E3,94BCA55C,638B6903,SCC
+Solomon no Kagi (Japan) (Disk Writer)|D24A0AF1,9C2E3999,A91E485F,SKD
+Souseiki Fammy - ROM-QD for 256K+64K (Japan) (Unl)|837A5D11,33E58263
+Suishou no Dragon (Japan)|ABD73438,DBC95FF9,6B56808B,SSD
+Sunsoft Dev Disk Lot - 'D167B23' no. 1 (Japan)|8AD85107
+Sunsoft Dev Disk Lot - 'D167B23' no. 2 (Japan)|2815D134
+Sunsoft Dev Disk Lot - 'D167B23' no. 3 (Japan)|7054AF28
+Sunsoft Dev Disk Lot - 'D167B23' no. 4 (Japan)|4A650886
+Sunsoft Dev Disk Lot - 'D167B23' no. 5 (Japan)|7590F76C
+Sunsoft Dev Disk Lot - 'D167B23' no. 6 (Japan)|547DE15E
+Sunsoft Dev Disk Lot - 'E180L05' no. 1 (Japan)|9810A7D0
+Sunsoft Dev Disk Lot - 'E180L05' no. 2 and no. 3 (Japan)|238D88E4
+Sunsoft Dev Disk Lot - 'E180L05' no. 4 (Japan)|7828517A
+Sunsoft Dev Disk Lot - 'F087D22' (Japan)|A4FE33BF
+Sunsoft Dev Disk Lot - 'F266F13' (Japan)|91BFF1E3
+Sunsoft Dev Disk Lot - 'G188D21N' no. 1 (Japan)|2F0D5D42
+Sunsoft Dev Disk Lot - 'G188D21N' no. 2 (Japan)|4FF0793D
+Sunsoft Dev Disk Lot - 'G188D21N' no. 3 (Japan)|3FEA310E
+Sunsoft Dev Disk Lot - 'J226I22' no. 1 (Japan)|45D4A8A7
+Sunsoft Dev Disk Lot - 'J226I22' no. 3 (Japan)|2DFFCF5E
+Sunsoft Dev Disk Lot - 'K057G06' (Japan)|0858AA6B
+Super Boy Allan (Japan)|BA3A5EFE,72F6194B,FDC53496,ALN
+Super Lode Runner (Japan)|71FA4B00,C5A7E32C,56F099F0,SLR
+Super Lode Runner II (Japan) (Disk Writer)|EEF4D7B4,042C902B,72A6BDD3,SL2
+Super Mario Bros. (Japan)|39F4FA48,E0890CF2,SMA
+Super Mario Bros. 2 (Japan) (En)|D3A162B3,F04CD4CD,SMB
+Super Mario Bros. 2 (Japan) (En) (DV 2)|B243E077,5C419EE8,SMB
+Super Mario Bros. 2 (Japan) (En) (Game & Watch - Super Mario Bros.)|88675F5C,42B63CA5,SMB
+Super Mario Bros. 2 (World) (GameCube, Wii and Wii U Virtual Console)|378CB78C,5D08DD11,SMB
+Super Mario Brothers (Japan)|17BEC0AD
+Super Mario Brothers 2 (Japan) (DV 0)|077B1892
+Super Mario Brothers 2 (Japan) (DV 2)|AB7652B7
+Tama & Friends - 3 Choume Daibouken (Japan)|8751A949
+Tama & Friends - Sanchoume Daibouken (Japan)|B52E2BCB,37CE763B,UTM
+Tanigawa Kouji no Shougi Shinan II - Meijin e no Michi (Japan)|2B4E07BD,DC32B73E,6CAD684C,SHO
+Tanigawa Kouji no Shougi Shinan II - Meijin e no Michi (Japan) (Beta) (1987-11-13)|FC14D862
+Tanigawa Kouji no Shougi Shinan II - Meijin e no Michi - Shinban Tsumeshougi - Tsugi no Itte (Japan) (Disk Writer)|0E31B057,94ED2D89,63DAE1D6,SHO
+Tantei Jinguuji Saburou - Kiken na Futari - Kouhen (Japan)|FC0C6C97,FB9E5E31,0BC6A036,KF1
+Tantei Jinguuji Saburou - Kiken na Futari - Kouhen (Japan) (Virtual Console)|B2BE8D12,C139F698,KF1
+Tantei Jinguuji Saburou - Kiken na Futari - Zenpen (Japan)|B0198534,05376233,KF1
+Tantei Jinguuji Saburou - Kiken na Futari - Zenpen (Japan) (Virtual Console)|2EF31F4D,9AC78F51,KF1
+Tantei Jinguuji Saburou - Kiken na Futari - Zenpen (Japan) [b]|05E6EBBC
+Tantei Jinguuji Saburou - Shinjuku Chuuou Kouen Satsujin Jiken (Japan)|058E49D6,5855AE09,B6B9F499,JUK
+Tantei Jinguuji Saburou - Shinjuku Chuuou Kouen Satsujin Jiken (Japan) (Rev 1) (Disk Writer)|7A1250ED,6EA9AF07,JUK
+Tantei Jinguuji Saburou - Shinjuku Chuuou Kouen Satsujin Jiken (Japan) (Rev 1) (Disk Writer) [b]|1B51CF59
+Tantei Jinguuji Saburou - Shinjuku Chuuou Kouen Satsujin Jiken (Japan) (Rev 1) (Virtual Console)|F561518F,C4BE81E1,JUK
+Tarot Uranai (Japan)|C66826B8,8DB1881A,0823F4D9,TAR
+Tennis (Japan)|2F41468B,136C64ED,E45BA8B2,TEN
+Tenshi Tachi no Houkago (Japan) (Disk 1) (Unl)|B01D0617
+Tenshi Tachi no Houkago (Japan) (Disk 2) (Unl)|ADD81BFD
+Tenshitachi no Houkago (Japan) (Disk 1) (Unl)|0082D965
+Tenshitachi no Houkago (Japan) (Disk 2) (Unl)|1D47C48F
+Time Twist - Rekishi no Katasumi de... - Kouhen (Japan)|A7AAE933,A7D51BFA,ABBEA70D,TT2
+Time Twist - Rekishi no Katasumi de... - Zenpen (Japan)|8AB18A51,63F06A01,TT1
+Time Twist - Rekishi no Katasumi de... - Zenpen (Japan) [b]|0E5EE508
+Titanic Mystery - Ao no Senritsu (Japan)|67758D91,FB36075C,4F9F2E35,TIT
+Tobidase Daisakusen (Japan)|B3408798,CAA25A7F,95546107,TDS
+Tonkachi Editor (Japan) (Unl)|BEA8B9A2,499F75FD,TE
+Tooyama no Kinsan Space Chou - Mr. Gold (Japan)|8F9A2C41,8EE50DAE,BC7AB2C0,MRG
+Topple Zip (Japan)|2299E8B8,84591D73,TPZ
+Topple Zip (Japan) [b]|7BF73C75
+Transformers - The Headmasters (Japan)|AE40AD26,A6D5E984,TFH
+Transformers - The Headmasters (Japan) [b]|8BD904CD
+TwinBee (Japan) (Disk Writer)|98CFB5D5,4A5480E1,A64C2FC9,TWN
+Ultraman - Kaijuu Teikoku no Gyakushuu (Japan)|7C3EA6D0,CC64BA9B,ULM
+Ultraman - Kaijuu Teikoku no Gyakushuu (Japan) (Disk Writer)|BB42BD8D,9A2F16CF,2AB0C9BD,UL1
+Ultraman 2 - Shutsugeki Katoku Tai (Japan)|4010E726
+Ultraman 2 - Shutsugeki Katokutai (Japan)|10C78BB0,8F7F0352,UL2
+Ultraman Club - Chikyuu Dakkan Sakusen (Japan)|8EBD9741,1DCE5CA9,AD5183DB,ULC
+Ultraman Club - Chikyuu Dakkan Sakusen (Japan) (Rev 1)|A97E76AA,74C0CD54,4D8AD1F3,ULC
+Volleyball (Japan)|596BB072,0533C149,F2040D16,VBW
+Vs. Excitebike (Japan)|B8A7C0A9
+Vs. Excitebike (Japan) (En)|4E696A3E,EBD,FEBE1841
+Vs. Excitebike (Japan, USA) (En) (Virtual Console)|AA7D77B3,EBD,A1A824BF
+Wakusei Aton Gaiden (Japan) (National Tax Agency Demo)|06D110BE,74F0C830,94A825FA,WAG
+Wardner no Mori (Japan)|8369C18C,26C78381,B5A04F7E,WAD
+Winter Games (Japan)|AFFCF0B3,4BF6E7BC,DA2A3EA4,WIN
+Wrecking Crew (Japan) (Disk Writer)|42C0C9A9,68B88428,F341F135,WRD
+Xevious (Japan) (Disk Writer)|4DC9445A,50B8E0A1,AEA754D8,XEV
+Yakyuuken Part II - Gal's Dungeon (Japan) (Unl)|616B9385,06F10151
+Youkai Yashiki (Japan)|546E6954,335EFCC9,A888C6DF,YOK
+Yume Koujou Doki Doki Panic (Japan) (DV 1)|C8ED8177,4D44FC43,FDDB2331,DRM
+Yume Koujou Doki Doki Panic (Japan) (DV 2)|08DE3FED,4096F677,B36DFCD2,DRM
+Yuu Maze (Japan)|645BB6C9,7DB80E2B,DE297106,UMZ
+Yuushi no Monshou - Deep Dungeon (Japan)|060260D2,BFCC8051,YSM
+Yuushi no Monshou - Deep Dungeon (Japan) (Rev 1) (Disk Writer)|0644CEBE,4C5E542B,YSM
+Yuushi no Monshou - Deep Dungeon (Japan) (Rev 1) (Disk Writer) [b]|FCC18B59
+Yuushi no Monshou - Deep Dungeon (Japan) [b]|8EE2FE70
+Zanac (Japan)|B141E325,2D90879B,DAA74BC4,ZAN
+Zatsugaku Olympic Quiz - Watanabe Wataru Hen (Japan) (Unl)|A646F79E,16D928EC,PHOE
+Zatsugaku Olympic Quiz Part II (Japan) (Unl)|D69A4D87,660592F5,PHOE
+Zelda no Densetsu - The Hyrule Fantasy (Japan)|C67710FD,AFBD13C3,1F22CCB1,ZEL
+Zelda no Densetsu - The Hyrule Fantasy (Japan) (Beta)|9FBDFCE3
+Zelda no Densetsu - The Hyrule Fantasy (Japan) (Beta) (1985-12-28)|2F222391
+Zelda no Densetsu - The Hyrule Fantasy (Japan) (Collector's Edition)|B9367EFF,B64B1456,ZEL
+Zelda no Densetsu - The Hyrule Fantasy (Japan) (GameCube)|7507B8A0,3F9E421C,ZEL
+Zelda no Densetsu - The Hyrule Fantasy (Japan) (Nintendo Classic Mini Family Computer)|FB264764
+Zelda no Densetsu - The Hyrule Fantasy (Japan) (Rev 1)|6BD3385C,3FBDDDCD,8F2202BF,ZEL
+Zelda no Densetsu - The Hyrule Fantasy (Japan) (Virtual Console)|2E1D63D6,0FB00A60,ZEL
