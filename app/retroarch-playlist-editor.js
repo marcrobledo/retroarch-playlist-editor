@@ -1,4 +1,4 @@
-/* Retroarch Playlist Editor v20220418 - Marc Robledo 2016-2022 - http://www.marcrobledo.com/license */
+/* Retroarch Playlist Editor v20220612 - Marc Robledo 2016-2022 - http://www.marcrobledo.com/license */
 /* shortcuts */
 function show(e){el(e).style.display='block'}
 function hide(e){el(e).style.display='none'}
@@ -254,7 +254,7 @@ Playlist.prototype.export=function(legacyMode){
 			if(typeof this[ADDITIONAL_JSON_PROPERTIES_ORDER[i]]!='undefined'){
 				var val=this[ADDITIONAL_JSON_PROPERTIES_ORDER[i]];
 				if(typeof val==='string')
-					val='"'+val+'"';
+					val='"'+val.replace(/\\/g, '\\\\')+'"';
 				text+='	"'+ADDITIONAL_JSON_PROPERTIES_ORDER[i]+'": '+val+',\n';
 			}
 		}
