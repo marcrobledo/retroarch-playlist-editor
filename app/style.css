@@ -335,8 +335,8 @@ tbody>*.row-focused{box-shadow: #ab6100 0 0 0 1px inset}
 tr.row-over{
 	background-color:#f3f3f3 !important;
 }
-tr.row-over-top{box-shadow: inset 0 2px 0px orange}
-tr.row-over-bottom{box-shadow: inset 0 -2px 0px orange}
+tr.row-over-top td{box-shadow: inset 0 2px 0 orange}
+tr.row-over-bottom td{box-shadow: inset 0 -2px 0 orange}
 
 body.moving-rows{cursor:grabbing}
 tbody.moving-rows .row-selected{background-color:#e1b889}
